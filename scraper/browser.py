@@ -45,6 +45,8 @@ async def scroll_and_extract(page, target: int = 0, stop_check=None) -> list[dic
     await page.set_viewport_size({"width": 1280, "height": 900})
     all_cards: list[dict] = []
     last_pos = 0
+    stalls = 0
+    MAX_STALLS = 5  # safety exit: stop after 5 consecutive passes with no new cards
 
     while True:
         if target > 0 and len(all_cards) >= target:
@@ -78,9 +80,15 @@ async def scroll_and_extract(page, target: int = 0, stop_check=None) -> list[dic
 
         if new_cards:
             all_cards.extend(new_cards)
+            stalls = 0
             print(f"  {len(all_cards)}/{target or '?'} extracted")
 
             if stop_check and stop_check(all_cards):
+                break
+        else:
+            stalls += 1
+            if stalls >= MAX_STALLS:
+                print(f"  no new cards for {MAX_STALLS} passes → done ({len(all_cards)} extracted)")
                 break
 
     return all_cards
