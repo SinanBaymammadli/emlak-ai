@@ -16170,6 +16170,39 @@
     ]
   },
   {
+    "id": "6408474",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F31%2F16%2F46%2F30%2Fe10f6ded-acd7-4737-8ff1-66e31252c89c%2F67995_9DEivHVbQ6TRUUsxzRs2dQ.jpg",
+    "price": 200,
+    "location": "Nəsimi r.",
+    "rooms": "3 otaqlı",
+    "area_m2": "60 m²",
+    "floor": "4/7 mərtəbə",
+    "is_agency": false,
+    "lat": 40.3929783313626,
+    "lng": 49.84138944620562,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 4,
+    "updated_at_site": "2026-10-01T01:11:37+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 3 otaqlı köhnə tikili 60 m²",
+    "description": "TƏCİLİ, 1 OTAQ YOLDAŞI AXTARILIR(OĞLAN)\n\nTəcili olaraq otaq yoldaşı axtarılır. Bir nəfər. Arzuolunan variant rusdilli şəxslərdir(çox da vacib deyil). Mənzil şəhərin mərkəzində yerləşir, 28 may, Gənclik metrosuna piyada 10–15 dəqiqəlik məsafədədir. Yaxınlıqda təhsil alan tələbələr üçün əla variantdır. Ciddi olmayan şəxslərdən xahiş olunur, narahat etməsinlər.\n\nBir nəfər üçün qiymət 200₼. Kommunal ödənişlər ayrıca ödənilir.\n",
+    "building_type": "Köhnə tikili",
+    "location_id": "190",
+    "location_name": "Nəsimi",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6408474",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 200,
+        "date": "2026-09-30T21:53:00.508235+00:00"
+      }
+    ]
+  },
+  {
     "id": "6422609",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F01%2F01%2F54%2F02%2F75bc06a3-3c8d-439a-a3d1-ecb66e6091a8%2F63793_u8S3k-Eq5AQcJOxxzTD6dg.jpg",
     "price": 750,
