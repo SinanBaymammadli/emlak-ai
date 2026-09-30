@@ -284,10 +284,12 @@ if __name__ == "__main__":
     import sys
 
     def _cfg_key(c: dict) -> str:
+        import urllib.parse
         base = f"{c['category']}_{c['deal_type']}"
         room = c.get("room")
         if room:
-            return f"{base}_{room.replace('+', 'plus')}room"
+            safe = urllib.parse.unquote(room).replace("+", "plus")
+            return f"{base}_{safe}room"
         return base
 
     if len(sys.argv) > 1:
