@@ -390,6 +390,18 @@ document.getElementById('agency-filter').addEventListener('change', applyFilters
 
 // ── URL search param sync ─────────────────────────────────────────────────────
 
+function updateNavLinks() {
+  const shared = new URLSearchParams();
+  if (selCat  !== 'all') shared.set('cat',  selCat);
+  if (selType !== 'all') shared.set('type', selType);
+  if (selLocs.size)      shared.set('locs', [...selLocs].join('|'));
+  const str = shared.toString();
+  document.querySelectorAll('.nav-link').forEach(a => {
+    const base = a.getAttribute('href').split('?')[0];
+    a.href = str ? `${base}?${str}` : base;
+  });
+}
+
 function pushState() {
   const p = new URLSearchParams();
   if (selCat  !== 'all')  p.set('cat',    selCat);
@@ -445,10 +457,10 @@ function restoreFromUrl() {
 
 // Patch loadAll and applyFilters to also push state
 const _origLoadAll = loadAll;
-loadAll = async function() { await _origLoadAll(); pushState(); };
+loadAll = async function() { await _origLoadAll(); pushState(); updateNavLinks(); };
 
 const _origApply = applyFilters;
-applyFilters = function() { _origApply(); pushState(); };
+applyFilters = function() { _origApply(); pushState(); updateNavLinks(); };
 
 // ── Boot ──────────────────────────────────────────────────────────────────────
 restoreFromUrl();

@@ -380,6 +380,18 @@ function renderCharts(list) {
 
 // ── URL search param sync ─────────────────────────────────────────────────────
 
+function updateNavLinks() {
+  const shared = new URLSearchParams();
+  if (selCat  !== 'all') shared.set('cat',  selCat);
+  if (selType !== 'all') shared.set('type', selType);
+  if (selLocs.size)      shared.set('locs', [...selLocs].join('|'));
+  const str = shared.toString();
+  document.querySelectorAll('.nav-link').forEach(a => {
+    const base = a.getAttribute('href').split('?')[0];
+    a.href = str ? `${base}?${str}` : base;
+  });
+}
+
 function pushState() {
   const p = new URLSearchParams();
   if (selCat  !== 'all')  p.set('cat',    selCat);
@@ -414,6 +426,7 @@ function restoreFromUrl() {
 const _origRender = render;
 render = function() {
   _origRender();
+  updateNavLinks();
   // Restore input values from URL after DOM is rebuilt
   const p = window._urlParams;
   if (!p) { pushState(); return; }

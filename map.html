@@ -403,6 +403,17 @@ document.getElementById('btn-choropleth').addEventListener('click', () => {
 
 // ── URL search param sync ─────────────────────────────────────────────────────
 
+function updateNavLinks() {
+  const shared = new URLSearchParams();
+  if (selCat  !== 'all') shared.set('cat',  selCat);
+  if (selType !== 'all') shared.set('type', selType);
+  const str = shared.toString();
+  document.querySelectorAll('.nav-link').forEach(a => {
+    const base = a.getAttribute('href').split('?')[0];
+    a.href = str ? `${base}?${str}` : base;
+  });
+}
+
 function pushState() {
   const p = new URLSearchParams();
   if (selCat  !== 'all')     p.set('cat',  selCat);
@@ -425,7 +436,7 @@ function restoreFromUrl() {
 
 // Patch render to also push state
 const _origRender = render;
-render = function() { _origRender(); pushState(); };
+render = function() { _origRender(); pushState(); updateNavLinks(); };
 
 restoreFromUrl();
 loadAll();
