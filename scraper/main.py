@@ -24,7 +24,7 @@ from scraper.browser import (
     open_browser,
     scroll_and_extract,
 )
-from scraper.categories import CATEGORIES
+from scraper.categories import CATEGORIES, MERGE_TARGETS
 from scraper.parser import PARSERS
 
 load_dotenv()
@@ -58,18 +58,24 @@ def _now() -> str:
     return datetime.now(timezone.utc).isoformat()
 
 
-def load_existing(category: str, deal_type: str) -> dict[str, dict]:
-    path = DATA_DIR / f"{category}_{deal_type}.json"
+def _file_stem(category: str, deal_type: str, room: str | None = None) -> str:
+    if room:
+        safe = room.replace("+", "plus")
+        return f"{category}_{deal_type}_{safe}room"
+    return f"{category}_{deal_type}"
+
+
+def load_existing(category: str, deal_type: str, room: str | None = None) -> dict[str, dict]:
+    path = DATA_DIR / f"{_file_stem(category, deal_type, room)}.json"
     if not path.exists():
         return {}
     listings = json.loads(path.read_text(encoding="utf-8"))
     return {l["id"]: l for l in listings}
 
 
-def save_listings(category: str, deal_type: str, listings: dict[str, dict]) -> None:
+def save_listings(category: str, deal_type: str, listings: dict[str, dict], room: str | None = None) -> None:
     DATA_DIR.mkdir(exist_ok=True)
-    path = DATA_DIR / f"{category}_{deal_type}.json"
-    # Active listings first (deleted_at is None), then deleted; both sorted newest first
+    path = DATA_DIR / f"{_file_stem(category, deal_type, room)}.json"
     sorted_listings = sorted(
         listings.values(),
         key=lambda l: (l["deleted_at"] is not None, l.get("last_seen_at", "")),
@@ -80,6 +86,26 @@ def save_listings(category: str, deal_type: str, listings: dict[str, dict]) -> N
     output = json.dumps(sorted_listings, ensure_ascii=False, indent=2)
     output = output.replace("\u2028", "\\u2028").replace("\u2029", "\\u2029")
     path.write_text(output, encoding="utf-8")
+
+
+def merge_room_files(category: str, deal_type: str) -> None:
+    """Merge all room sub-files into the combined category file, deduped by listing ID."""
+    from scraper.categories import _ROOMS
+    merged: dict[str, dict] = {}
+    for room in _ROOMS:
+        path = DATA_DIR / f"{_file_stem(category, deal_type, room)}.json"
+        if not path.exists():
+            continue
+        for listing in json.loads(path.read_text(encoding="utf-8")):
+            lid = listing["id"]
+            # Keep the most recently seen version if duplicate
+            if lid not in merged or listing.get("last_seen_at", "") > merged[lid].get("last_seen_at", ""):
+                merged[lid] = listing
+
+    if merged:
+        save_listings(category, deal_type, merged)
+        active = sum(1 for l in merged.values() if not l.get("deleted_at"))
+        print(f"  merged {len(merged)} listings ({active} active) → {category}_{deal_type}.json")
 
 
 def upsert(
@@ -142,9 +168,11 @@ async def scrape_category(page, cfg: dict) -> None:
     deal_type = cfg["deal_type"]
     url = cfg["url"]
 
-    print(f"\n→ {category} / {deal_type}")
+    room = cfg.get("room")
+    label = f"{category}/{deal_type}" + (f"/{room}otaq" if room else "")
+    print(f"\n→ {label}")
 
-    existing = load_existing(category, deal_type)
+    existing = load_existing(category, deal_type, room)
 
     total = await load_category_page(page, url)
     print(f"  total on site: {total}")
@@ -192,7 +220,7 @@ async def scrape_category(page, cfg: dict) -> None:
         counts[result] += 1
 
     deleted = mark_deleted(existing, seen_ids)
-    save_listings(category, deal_type, existing)
+    save_listings(category, deal_type, existing, room)
 
     print(
         f"  new={counts['new']} updated={counts['updated']} "
@@ -242,6 +270,11 @@ async def main(categories: list | None = None) -> None:
     if errors:
         lines.append("\n⚠️ Errors:")
         lines.extend(f"  • {e}" for e in errors)
+
+    # Merge room sub-files into combined category files
+    print("\nMerging room sub-files…")
+    for category, deal_type in MERGE_TARGETS:
+        merge_room_files(category, deal_type)
 
     telegram_notify("\n".join(lines))
     print("\nDone.")
