@@ -226,6 +226,7 @@ header h1 span { color: #4ade80; }
 .card-unit-price { font-size: .72rem; color: #6366f1; font-weight: 600; }
 
 .card-location { font-size: .75rem; color: #4b5563; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.card-date { font-size: .68rem; color: #9ca3af; }
 .card-details { font-size: .73rem; color: #6b7280; }
 
 .card-badges { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 1px; }

@@ -36,6 +36,18 @@ function fmt(n) {
   return Math.round(n).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ' ');
 }
 
+function fmtDate(iso) {
+  if (!iso) return '';
+  const d = new Date(iso);
+  const now = new Date();
+  const diffMs = now - d;
+  const diffDays = Math.floor(diffMs / 86400000);
+  if (diffDays === 0) return 'Bugün';
+  if (diffDays === 1) return 'Dünən';
+  if (diffDays < 7)  return `${diffDays} gün əvvəl`;
+  return d.toLocaleDateString('az-AZ', { day: 'numeric', month: 'short', year: 'numeric' });
+}
+
 function formatPrice(price, dealType) {
   if (!price && price !== 0) return '—';
   return dealType === 'rental' ? `${fmt(price)} ₼/ay` : `${fmt(price)} ₼`;
@@ -239,6 +251,7 @@ function cardHTML(l) {
     ${unitPrice}
     ${l.location ? `<div class="card-location">${esc(l.location)}</div>` : ''}
     ${details    ? `<div class="card-details">${esc(details)}</div>` : ''}
+    ${l.updated_at_site ? `<div class="card-date">${fmtDate(l.updated_at_site)}</div>` : ''}
     ${badges     ? `<div class="card-badges">${badges}</div>` : ''}
   </div>
   <div class="card-footer">
