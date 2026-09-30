@@ -2409,39 +2409,6 @@
     ]
   },
   {
-    "id": "6495253",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F26%2F23%2F35%2F27%2F158fba5e-2f74-4313-bcd2-8982b8be4134%2F59362_Ky1Y-_wKVmnxyveRHqvu2g.jpg",
-    "price": 235000,
-    "location": "Badamdar q.",
-    "rooms": "5 otaqlı",
-    "area_m2": "120 m²",
-    "floor": "5/5 mərtəbə",
-    "is_agency": true,
-    "lat": 40.33939517989058,
-    "lng": 49.8018257932515,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": 5,
-    "updated_at_site": "2026-09-26T23:42:21+04:00",
-    "is_featured": false,
-    "title": "Satılır 5 otaqlı köhnə tikili 120 m²",
-    "description": "🔥Şəxsi yaşayış və alıb kirayə vermək üçün əla təklifdir. Qismən əşyalı satılır. Orta blokdur. Eksperimental (daş) layihədir.   Qanuni 5 otaqdır. Dam örtüyü tam təhlükəsizdir. 🔥\r\n🧨 Mənzilə aid videoçəkiliş var, maraqlanan real müştərilərə göndərə bilərik. 🧨\r\n🏡Adres: Mənzil Səbail rayonu, Badamdar qəs., DTX Hospitalın yaxınlığında yerləşir. \r\n🏡Növ : köhnə tikili, daş eksperimental binadır. \r\n🏡Mərtəbə : 5/5\r\n🏡Otaq sayı: qanuni 5 otaqdır, genişlik yaratmaq üçün 4 otağa çevrilib. \r\n🏡Sahə: 120 kv.m.\r\n🏡Təmir: əladır.\r\n🏡Sənəd: kupça, əldədir.\r\n🏡Qiymət: 235 000 azn\r\n🏡Mənzilin təmiri və şəraiti əladır. İstilik sistemi mərkəzidir. Geniş sahəsi var. Hazır gir-yaşa vəziyyətdədir. \r\n🏡 Sərfəli təklifdir. Əldə etməyə tələsin.\r\n🧨Ətraflı məlumat üçün buyurun, zəng edin!",
-    "building_type": "Köhnə tikili",
-    "location_id": "46",
-    "location_name": "Badamdar",
-    "category": "apartment",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6495253",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 235000,
-        "date": "2026-09-30T18:40:29.402019+00:00"
-      }
-    ]
-  },
-  {
     "id": "6495275",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F27%2F00%2F04%2F29%2F835c558e-f509-4f15-8790-6f28a76da268%2F71653_daa6VsieruiEKopJ2fdk6Q.jpg",
     "price": 210000,
@@ -8444,6 +8411,43 @@
       {
         "price": 250000,
         "date": "2026-09-30T21:04:56.943532+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6495253",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F26%2F23%2F35%2F27%2F158fba5e-2f74-4313-bcd2-8982b8be4134%2F59362_Ky1Y-_wKVmnxyveRHqvu2g.jpg",
+    "price": 229900,
+    "location": "Badamdar q.",
+    "rooms": "5 otaqlı",
+    "area_m2": "120 m²",
+    "floor": "5/5 mərtəbə",
+    "is_agency": true,
+    "lat": 40.33939517989058,
+    "lng": 49.8018257932515,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": 5,
+    "updated_at_site": "2026-10-01T01:10:13+04:00",
+    "is_featured": false,
+    "title": "Satılır 5 otaqlı köhnə tikili 120 m²",
+    "description": "🔥Şəxsi yaşayış və alıb kirayə vermək üçün əla təklifdir. Qismən əşyalı satılır. Orta blokdur. Eksperimental (daş) layihədir.   Qanuni 5 otaqdır. Dam örtüyü tam təhlükəsizdir. 🔥\r\n🧨 Mənzilə aid videoçəkiliş var, maraqlanan real müştərilərə göndərə bilərik. 🧨\r\n🏡Adres: Mənzil Səbail rayonu, Badamdar qəs., DTX Hospitalın yaxınlığında yerləşir. \r\n🏡Növ : köhnə tikili, daş eksperimental binadır. \r\n🏡Mərtəbə : 5/5\r\n🏡Otaq sayı: qanuni 5 otaqdır, genişlik yaratmaq üçün 4 otağa çevrilib. \r\n🏡Sahə: 120 kv.m.\r\n🏡Təmir: əladır.\r\n🏡Sənəd: kupça, əldədir.\r\n🏡Qiymət: 235 000 azn\r\n🏡Mənzilin təmiri və şəraiti əladır. İstilik sistemi mərkəzidir. Geniş sahəsi var. Hazır gir-yaşa vəziyyətdədir. \r\n🏡 Sərfəli təklifdir. Əldə etməyə tələsin.\r\n🧨Ətraflı məlumat üçün buyurun, zəng edin!",
+    "building_type": "Köhnə tikili",
+    "location_id": "46",
+    "location_name": "Badamdar",
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6495253",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 235000,
+        "date": "2026-09-30T18:40:29.402019+00:00"
+      },
+      {
+        "price": 229900,
+        "date": "2026-09-30T21:50:09.917959+00:00"
       }
     ]
   },
