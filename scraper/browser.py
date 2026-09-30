@@ -34,16 +34,19 @@ async def load_category_page(page, url: str) -> int:
 
 
 async def scroll_load_all(page) -> int:
-    """Scroll viewport-by-viewport to trigger IntersectionObserver lazy loading."""
+    """Scroll viewport-by-viewport to trigger IntersectionObserver lazy loading.
+    Continues from the last position so we never scroll back to the top mid-scrape.
+    """
     await page.set_viewport_size({"width": 1280, "height": 900})
-    prev, stalls = 0, 0
+    prev, stalls, last_pos = 0, 0, 0
     while stalls < 3:
         scroll_height = await page.evaluate("() => document.body.scrollHeight")
-        pos = 0
+        pos = last_pos
         while pos < scroll_height:
             pos += 800
             await page.evaluate(f"window.scrollTo(0, {pos})")
             await page.wait_for_timeout(200)
+        last_pos = pos
         await page.wait_for_timeout(1_500)
         count = await page.evaluate(
             "() => document.querySelectorAll('.item-card').length"
