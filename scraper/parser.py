@@ -13,25 +13,39 @@ def _parse_price(raw: str) -> int | None:
 
 
 def parse_card_text(text: str) -> dict:
-    """Parse apartment/house card innerText. Returns price, location, rooms, area_m2."""
+    """Parse apartment/house card innerText. Returns price, location, rooms, area_m2, floor, is_agency."""
     lines = _clean_lines(text)
+
+    # Detect agency listing before stripping non-digit lines
+    is_agency = any("agentlik" in l.lower() for l in lines if not re.search(r"\d", l))
+
     while lines and not re.search(r"\d", lines[0]):
         lines.pop(0)
 
     price = _parse_price(lines[0]) if lines else None
     location = lines[1] if len(lines) > 1 else ""
-    rooms = area_m2 = ""
+    rooms = area_m2 = floor = ""
     for line in lines[2:]:
         if "otaqlı" in line and not rooms:
             rooms = line
         elif "m²" in line and not area_m2:
             area_m2 = line
-    return {"price": price, "location": location, "rooms": rooms, "area_m2": area_m2}
+        elif "mərtəbə" in line and not floor:
+            floor = line
+    return {
+        "price": price,
+        "location": location,
+        "rooms": rooms,
+        "area_m2": area_m2,
+        "floor": floor or None,
+        "is_agency": is_agency,
+    }
 
 
 def parse_land_card_text(text: str) -> dict:
-    """Parse land (torpaq) card innerText. Returns price, location, land_area_sot."""
+    """Parse land (torpaq) card innerText. Returns price, location, land_area_sot, is_agency."""
     lines = _clean_lines(text)
+    is_agency = any("agentlik" in l.lower() for l in lines if not re.search(r"\d", l))
     while lines and not re.search(r"\d", lines[0]):
         lines.pop(0)
 
@@ -45,22 +59,37 @@ def parse_land_card_text(text: str) -> dict:
             except ValueError:
                 pass
             break
-    return {"price": price, "location": location, "land_area_sot": land_area_sot}
+    return {
+        "price": price,
+        "location": location,
+        "land_area_sot": land_area_sot,
+        "floor": None,
+        "is_agency": is_agency,
+    }
 
 
 def parse_commercial_card_text(text: str) -> dict:
-    """Parse commercial/office card innerText. Returns price, location, area_m2."""
+    """Parse commercial/office card innerText. Returns price, location, area_m2, floor, is_agency."""
     lines = _clean_lines(text)
+    is_agency = any("agentlik" in l.lower() for l in lines if not re.search(r"\d", l))
     while lines and not re.search(r"\d", lines[0]):
         lines.pop(0)
 
     price = _parse_price(lines[0]) if lines else None
     location = lines[1] if len(lines) > 1 else ""
-    area_m2 = ""
+    area_m2 = floor = ""
     for line in lines[2:]:
         if "m²" in line and not area_m2:
             area_m2 = line
-    return {"price": price, "location": location, "area_m2": area_m2}
+        elif "mərtəbə" in line and not floor:
+            floor = line
+    return {
+        "price": price,
+        "location": location,
+        "area_m2": area_m2,
+        "floor": floor or None,
+        "is_agency": is_agency,
+    }
 
 
 PARSERS = {

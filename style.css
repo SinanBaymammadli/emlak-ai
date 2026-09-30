@@ -225,6 +225,8 @@ header h1 span { color: #4ade80; }
   padding: 1px 7px; border-radius: 999px;
 }
 .badge-repair  { background: #ede9fe; color: #7c3aed; }
+.badge-agency  { background: #fef3c7; color: #b45309; }
+.badge-owner   { background: #dcfce7; color: #15803d; }
 .badge-deleted { background: #f3f4f6; color: #9ca3af; }
 .badge-cat     { background: #e0f2fe; color: #0369a1; }
 

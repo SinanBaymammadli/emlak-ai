@@ -22,6 +22,7 @@ let sotMin   = null, sotMax   = null;
 let ppm2Min  = null, ppm2Max  = null;
 let roomsF   = '';
 let repairF  = '';
+let agencyF  = '';
 
 const cache = {};
 let allListings = [];
@@ -126,6 +127,7 @@ function applyFilters() {
   ppm2Min  = num('ppm2-min');  ppm2Max  = num('ppm2-max');
   roomsF   = document.getElementById('rooms-filter').value;
   repairF  = document.getElementById('repair-filter').value;
+  agencyF  = document.getElementById('agency-filter').value;
 
   let list = allListings;
 
@@ -149,8 +151,10 @@ function applyFilters() {
     }
   }
 
-  if (repairF === 'yes') list = list.filter(l => l.has_repair === true);
-  if (repairF === 'no')  list = list.filter(l => l.has_repair === false);
+  if (repairF  === 'yes')    list = list.filter(l => l.has_repair === true);
+  if (repairF  === 'no')     list = list.filter(l => l.has_repair === false);
+  if (agencyF  === 'agency') list = list.filter(l => l.is_agency === true);
+  if (agencyF  === 'owner')  list = list.filter(l => l.is_agency === false);
 
   list = [...list].sort((a, b) => {
     switch (sort) {
@@ -219,6 +223,7 @@ function cardHTML(l) {
 
   const badges = [
     l.has_repair ? `<span class="badge badge-repair">✓ Təmirli</span>` : '',
+    l.is_agency  ? `<span class="badge badge-agency">Agentlik</span>` : `<span class="badge badge-owner">Mülkiyyətçi</span>`,
     l.deleted_at ? `<span class="badge badge-deleted">Silinib</span>` : '',
     selCat === 'all' ? `<span class="badge badge-cat">${catLabel(l.category)}</span>` : '',
   ].filter(Boolean).join('');
@@ -381,6 +386,7 @@ document.getElementById('show-deleted').addEventListener('change', e => { showDe
 });
 document.getElementById('rooms-filter').addEventListener('change', applyFilters);
 document.getElementById('repair-filter').addEventListener('change', applyFilters);
+document.getElementById('agency-filter').addEventListener('change', applyFilters);
 
 // ── Boot ──────────────────────────────────────────────────────────────────────
 loadAll();
