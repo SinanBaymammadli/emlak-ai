@@ -236,6 +236,13 @@
     .badge-deleted { background: #f3f4f6; color: #9ca3af; }
     .badge-cat     { background: #e0f2fe; color: #0369a1; }
 
+    .card-footer { display: flex; gap: 8px; padding: 0 10px 8px; margin-top: auto; }
+    .card-footer a {
+      font-size: .7rem; color: #6b7280;
+      text-decoration: none; display: flex; align-items: center; gap: 3px;
+    }
+    .card-footer a:hover { color: #6366f1; }
+
     /* ── Pagination ── */
     .pagination {
       display: flex; align-items: center; justify-content: center;
@@ -612,6 +619,10 @@ function cardHTML(l) {
     ${details    ? `<div class="card-details">${esc(details)}</div>` : ''}
     ${badges     ? `<div class="card-badges">${badges}</div>` : ''}
   </div>
+  <div class="card-footer">
+    <a href="${esc(l.url)}" target="_blank" rel="noopener">🔗 bina.az</a>
+    ${l.lat && l.lng ? `<a href="https://www.google.com/maps?q=${l.lat},${l.lng}" target="_blank" rel="noopener">📍 Xəritə</a>` : ''}
+  </div>
 </div>`;
 }
 
@@ -667,9 +678,26 @@ document.getElementById('type-chips').addEventListener('click', e => {
 
 // ── Location multiselect ──────────────────────────────────────────────────────
 
+const ALL_LOCATIONS = [
+  '20 Yanvar m.','20-ci sahə q.','28 May m.','9-cu mikrorayon q.',
+  'Azadlıq Prospekti m.','Ağ şəhər q.','Badamdar q.','Bakıxanov q.',
+  'Bayıl q.','Bilgəh q.','Biləcəri q.','Binə q.','Binəqədi q.','Binəqədi r.',
+  'Buzovna q.','Dübəndi q.','Elmlər Akademiyası m.','Görədil q.','Gənclik m.',
+  'Hökməli q.','Hövsan q.','Həzi Aslanov m.','Həzi Aslanov q.','Koroğlu m.',
+  'Lökbatan q.','M.Ə.Rəsulzadə q.','Masazır q.','Mehdiabad q.','Memar Əcəmi m.',
+  'Məmmədli q.','Mərdəkan q.','Nardaran q.','Neftçilər m.','Nizami m.','Nizami r.',
+  'Novxanı q.','Nəriman Nərimanov m.','Nərimanov r.','Nəsimi r.','Qala q.',
+  'Qara Qarayev m.','Qaraçuxur q.','Qobu q.','Sahil q.','Saray q.',
+  'Sea Breeze q.','Türkan q.','Yasamal q.','Yasamal r.','Yeni Ramana q.',
+  'Yeni Yasamal q.','Zabrat q.','Zığ q.','İnşaatçılar m.','İçəri Şəhər m.',
+  'Şah İsmayıl Xətai m.','Şağan q.','Şüvəlan q.','Əhmədli m.','Ələt q.','Əmircan q.',
+];
+
 function buildLocationDropdown(searchVal = '') {
   const list = document.getElementById('ms-list');
-  const locs = [...new Set(allListings.map(l => l.location || '').filter(Boolean))].sort();
+  // Merge static list with any new locations found in loaded data
+  const fromData = allListings.map(l => l.location || '').filter(Boolean);
+  const locs = [...new Set([...ALL_LOCATIONS, ...fromData])].sort();
   const q = searchVal.toLowerCase();
   const visible = q ? locs.filter(l => l.toLowerCase().includes(q)) : locs;
 
