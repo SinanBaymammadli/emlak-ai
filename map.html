@@ -15,10 +15,17 @@
       border-bottom: 1px solid #e2e8f0;
       padding: 10px 20px;
       display: flex;
+      flex-direction: column;
+      gap: 6px;
+      flex-shrink: 0;
+      max-height: 40vh;
+      overflow-y: auto;
+    }
+    .map-controls-row {
+      display: flex;
       flex-wrap: wrap;
       gap: 8px;
       align-items: center;
-      flex-shrink: 0;
     }
     .map-stats { font-size: .78rem; color: #6b7280; white-space: nowrap; }
 
@@ -100,21 +107,28 @@
 </header>
 
 <div class="map-controls">
-  <div class="chips" id="cat-chips">
-    <button class="chip active" data-cat="all">Hamısı</button>
-    <button class="chip" data-cat="apartment">Mənzil</button>
-    <button class="chip" data-cat="house">Həyət evi</button>
-    <button class="chip" data-cat="land">Torpaq</button>
-    <button class="chip" data-cat="commercial">Kommersiya</button>
-    <button class="chip" data-cat="office">Ofis</button>
-    <button class="chip" data-cat="garage">Qaraj</button>
+  <div class="map-controls-row">
+    <div class="chips" id="cat-chips">
+      <button class="chip active" data-cat="all">Hamısı</button>
+      <button class="chip" data-cat="apartment">Mənzil</button>
+      <button class="chip" data-cat="house">Həyət evi</button>
+      <button class="chip" data-cat="land">Torpaq</button>
+      <button class="chip" data-cat="commercial">Kommersiya</button>
+      <button class="chip" data-cat="office">Ofis</button>
+      <button class="chip" data-cat="garage">Qaraj</button>
+    </div>
+    <div class="chips" id="type-chips">
+      <button class="chip active" data-type="all">Satış + Kirayə</button>
+      <button class="chip" data-type="sale">Satış</button>
+      <button class="chip" data-type="rental">Kirayə</button>
+    </div>
+    <span class="map-stats" id="map-stats">Yüklənir…</span>
+    <div class="view-toggle">
+      <button class="view-btn active" id="btn-markers">Markerlər</button>
+      <button class="view-btn" id="btn-choropleth">Qiymət xəritəsi</button>
+    </div>
   </div>
-  <div class="chips" id="type-chips">
-    <button class="chip active" data-type="all">Satış + Kirayə</button>
-    <button class="chip" data-type="sale">Satış</button>
-    <button class="chip" data-type="rental">Kirayə</button>
-  </div>
-  <div class="filters" style="margin:2px 0">
+  <div class="filters">
     <div class="ms-wrap" id="m-ms-wrap">
       <button class="ms-btn" id="m-ms-btn"><span id="m-ms-label">Bütün məkanlar</span><span class="ms-caret">▼</span></button>
       <div class="ms-dropdown" id="m-ms-dropdown">
@@ -129,11 +143,7 @@
     <div class="filter-group"><span class="filter-label">Otaq:</span><select id="m-rooms"><option value="">Hamısı</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5+</option></select></div>
     <div class="filter-group"><span class="filter-label">Təmir:</span><select id="m-repair"><option value="">Hamısı</option><option value="yes">Var</option><option value="no">Yox</option></select></div>
     <div class="filter-group"><span class="filter-label">Elan sahibi:</span><select id="m-agency"><option value="">Hamısı</option><option value="owner">Mülkiyyətçi</option><option value="agency">Agentlik</option></select></div>
-  </div>
-  <span class="map-stats" id="map-stats">Yüklənir…</span>
-  <div class="view-toggle">
-    <button class="view-btn active" id="btn-markers">Markerlər</button>
-    <button class="view-btn" id="btn-choropleth">Qiymət xəritəsi</button>
+    <div class="filter-group"><span class="filter-label">Çıxarış:</span><select id="m-kupca"><option value="">Hamısı</option><option value="yes">Var</option><option value="no">Yox</option></select></div>
   </div>
 </div>
 
@@ -330,6 +340,7 @@ function getFilteredListings() {
   mRooms  = document.getElementById('m-rooms')?.value  || '';
   mRepair = document.getElementById('m-repair')?.value || '';
   mAgency = document.getElementById('m-agency')?.value || '';
+  const mKupca = document.getElementById('m-kupca')?.value || '';
 
   return allListings.filter(l => {
     if (l.deleted_at) return false;
@@ -354,6 +365,8 @@ function getFilteredListings() {
     if (mRepair === 'no'  && l.has_repair !== false) return false;
     if (mAgency === 'agency' && l.is_agency !== true)  return false;
     if (mAgency === 'owner'  && l.is_agency !== false) return false;
+    if (mKupca  === 'yes'   && l.has_bill_of_sale !== true)  return false;
+    if (mKupca  === 'no'    && l.has_bill_of_sale !== false) return false;
     return true;
   });
 }
@@ -440,7 +453,7 @@ document.getElementById('type-chips').addEventListener('click', e => {
 // Range + select filters
 ['m-pmin','m-pmax','m-amin','m-amax','m-mmin','m-mmax'].forEach(id =>
   document.getElementById(id)?.addEventListener('input', render));
-['m-rooms','m-repair','m-agency'].forEach(id =>
+['m-rooms','m-repair',,'m-kupca'].forEach(id =>
   document.getElementById(id)?.addEventListener('change', render));
 
 // Location multiselect

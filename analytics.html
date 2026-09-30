@@ -125,6 +125,7 @@ function filtered() {
   roomsF   = document.getElementById('f-rooms')?.value  || '';
   repairF  = document.getElementById('f-repair')?.value || '';
   agencyF  = document.getElementById('f-agency')?.value || '';
+  const kupcaF  = document.getElementById('f-kupca')?.value  || '';
   showDel  = document.getElementById('f-del')?.checked  || false;
 
   let list = showDel ? allListings : allListings.filter(l => !l.deleted_at);
@@ -147,6 +148,8 @@ function filtered() {
   if (repairF === 'no')  list = list.filter(l => l.has_repair === false);
   if (agencyF === 'agency') list = list.filter(l => l.is_agency === true);
   if (agencyF === 'owner')  list = list.filter(l => l.is_agency === false);
+  if (kupcaF  === 'yes')    list = list.filter(l => l.has_bill_of_sale === true);
+  if (kupcaF  === 'no')     list = list.filter(l => l.has_bill_of_sale === false);
   return list;
 }
 
@@ -195,6 +198,7 @@ function buildHTML() {
       <div class="filter-group"><span class="filter-label">Otaq:</span><select id="f-rooms"><option value="">Hamısı</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5+</option></select></div>
       <div class="filter-group"><span class="filter-label">Təmir:</span><select id="f-repair"><option value="">Hamısı</option><option value="yes">Var</option><option value="no">Yox</option></select></div>
       <div class="filter-group"><span class="filter-label">Elan sahibi:</span><select id="f-agency"><option value="">Hamısı</option><option value="owner">Mülkiyyətçi</option><option value="agency">Agentlik</option></select></div>
+      <div class="filter-group"><span class="filter-label">Çıxarış:</span><select id="f-kupca"><option value="">Hamısı</option><option value="yes">Var</option><option value="no">Yox</option></select></div>
     </div>
     <div class="stat-tiles" id="stat-tiles">
       <div class="stat-tile"><div class="label">Aktiv elanlar</div><div class="value" id="s-total">—</div></div>

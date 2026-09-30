@@ -23,6 +23,7 @@ let ppm2Min  = null, ppm2Max  = null;
 let roomsF   = '';
 let repairF  = '';
 let agencyF  = '';
+let kupcaF   = '';
 
 const cache = {};
 let allListings = [];
@@ -139,6 +140,7 @@ function applyFilters() {
   roomsF   = document.getElementById('rooms-filter').value;
   repairF  = document.getElementById('repair-filter').value;
   agencyF  = document.getElementById('agency-filter').value;
+  kupcaF   = document.getElementById('kupca-filter').value;
 
   let list = allListings;
 
@@ -166,6 +168,8 @@ function applyFilters() {
   if (repairF  === 'no')     list = list.filter(l => l.has_repair === false);
   if (agencyF  === 'agency') list = list.filter(l => l.is_agency === true);
   if (agencyF  === 'owner')  list = list.filter(l => l.is_agency === false);
+  if (kupcaF   === 'yes')    list = list.filter(l => l.has_bill_of_sale === true);
+  if (kupcaF   === 'no')     list = list.filter(l => l.has_bill_of_sale === false);
 
   list = [...list].sort((a, b) => {
     switch (sort) {
@@ -404,6 +408,7 @@ document.getElementById('show-deleted').addEventListener('change', e => { showDe
 document.getElementById('rooms-filter').addEventListener('change', applyFilters);
 document.getElementById('repair-filter').addEventListener('change', applyFilters);
 document.getElementById('agency-filter').addEventListener('change', applyFilters);
+document.getElementById('kupca-filter').addEventListener('change', applyFilters);
 
 // ── URL search param sync ─────────────────────────────────────────────────────
 
@@ -436,6 +441,7 @@ function pushState() {
   if (roomsF)             p.set('rooms',  roomsF);
   if (repairF)            p.set('repair', repairF);
   if (agencyF)            p.set('agency', agencyF);
+  if (kupcaF)             p.set('kupca',  kupcaF);
   if (selLocs.size)       p.set('locs',   [...selLocs].join('|'));
   const str = p.toString();
   history.replaceState(null, '', str ? `?${str}` : location.pathname);
@@ -458,6 +464,7 @@ function restoreFromUrl() {
   if (p.has('rooms'))  document.getElementById('rooms-filter').value  = p.get('rooms');
   if (p.has('repair')) document.getElementById('repair-filter').value = p.get('repair');
   if (p.has('agency')) document.getElementById('agency-filter').value = p.get('agency');
+  if (p.has('kupca'))  document.getElementById('kupca-filter').value  = p.get('kupca');
   if (p.has('del'))    document.getElementById('show-deleted').checked = showDel;
   if (p.has('locs'))   p.get('locs').split('|').filter(Boolean).forEach(l => selLocs.add(l));
 
