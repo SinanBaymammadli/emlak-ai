@@ -58,10 +58,16 @@ def _now() -> str:
     return datetime.now(timezone.utc).isoformat()
 
 
+def _room_label(room: str) -> str:
+    """Extract just the leading digit from a room string: '5%2B' → '5', '3' → '3'."""
+    import re
+    m = re.match(r"(\d+)", room)
+    return m.group(1) if m else room
+
+
 def _file_stem(category: str, deal_type: str, room: str | None = None) -> str:
     if room:
-        safe = room.replace("+", "plus")
-        return f"{category}_{deal_type}_{safe}room"
+        return f"{category}_{deal_type}_{_room_label(room)}"
     return f"{category}_{deal_type}"
 
 
@@ -284,13 +290,9 @@ if __name__ == "__main__":
     import sys
 
     def _cfg_key(c: dict) -> str:
-        import urllib.parse
         base = f"{c['category']}_{c['deal_type']}"
         room = c.get("room")
-        if room:
-            safe = urllib.parse.unquote(room).replace("+", "plus")
-            return f"{base}_{safe}room"
-        return base
+        return f"{base}_{_room_label(room)}" if room else base
 
     if len(sys.argv) > 1:
         keys = set(sys.argv[1:])
