@@ -1,38 +1,5 @@
 [
   {
-    "id": "6211665",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F14%2F20%2F10%2F08%2F46b26786-04f3-459a-bd14-764313a83997%2F60936_ZdWDdNvTzJHSHXZajPBCvw.jpg",
-    "price": 330000,
-    "location": "Mərdəkan q.",
-    "land_area_sot": 14.0,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.51503105013312,
-    "lng": 50.14343457931517,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-23T20:52:46+04:00",
-    "is_featured": false,
-    "title": "Satılır torpaq 14 sot",
-    "description": "QAÇIRILMAZ FÜRSƏT!\r\nBU QİYMƏTƏ BU ƏRAZİDƏ TORPAQ YOXDUR!!!!\r\nBU ƏRAZİDƏ NADİR HALLARDA TORPAQ SATILIR!!!\r\n\r\nMərdəkanda, bağ massivində yerləşən möhtəşəm torpaq sahəsi satılır!\r\n\r\nTorpaq 14 sot sahəyə malikdir.\r\nKupçası var !\r\n\r\nYerləşmə yeri çox əlverişlidir, gediş gəlişli, əhalinin sıx olduğu yerdə yerləşir.\r\n\r\nİstəyə uyğun bir çox işlər görmək olar.\r\n\r\nBina, Villa, hər növ yaşayış obyekti üçün üçün əlverişlidir.\r\n\r\nƏlavə məlumat üçün əlaqə saxlayın.\r\n\r\nMaksimum dəyərləndirməyə çalışın!!!\r\n\r\nWP aktivdir.\r\n\r\nŞirkət haqqı 1%.",
-    "building_type": "Torpaq",
-    "location_id": "109",
-    "location_name": "Mərdəkan",
-    "area_m2": 14,
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6211665",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 330000,
-        "date": "2026-09-30T19:59:33.523537+00:00"
-      }
-    ]
-  },
-  {
     "id": "6452709",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F11%2F16%2F11%2F24%2F540d37ed-cdb5-4c97-bcb0-3f6163cd9fb3%2F63810_6IrDW90c5h1Wbb1Oj4NV9g.jpg",
     "price": 250000,
@@ -140807,6 +140774,39 @@
       {
         "price": 500000,
         "date": "2026-09-30T19:59:33.557274+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6211665",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F14%2F20%2F10%2F08%2F46b26786-04f3-459a-bd14-764313a83997%2F60936_ZdWDdNvTzJHSHXZajPBCvw.jpg",
+    "price": 330000,
+    "location": "Mərdəkan q.",
+    "land_area_sot": 14.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.51503105013312,
+    "lng": 50.14343457931517,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-09-23T20:52:46+04:00",
+    "is_featured": false,
+    "title": "Satılır torpaq 14 sot",
+    "description": "QAÇIRILMAZ FÜRSƏT!\r\nBU QİYMƏTƏ BU ƏRAZİDƏ TORPAQ YOXDUR!!!!\r\nBU ƏRAZİDƏ NADİR HALLARDA TORPAQ SATILIR!!!\r\n\r\nMərdəkanda, bağ massivində yerləşən möhtəşəm torpaq sahəsi satılır!\r\n\r\nTorpaq 14 sot sahəyə malikdir.\r\nKupçası var !\r\n\r\nYerləşmə yeri çox əlverişlidir, gediş gəlişli, əhalinin sıx olduğu yerdə yerləşir.\r\n\r\nİstəyə uyğun bir çox işlər görmək olar.\r\n\r\nBina, Villa, hər növ yaşayış obyekti üçün üçün əlverişlidir.\r\n\r\nƏlavə məlumat üçün əlaqə saxlayın.\r\n\r\nMaksimum dəyərləndirməyə çalışın!!!\r\n\r\nWP aktivdir.\r\n\r\nŞirkət haqqı 1%.",
+    "building_type": "Torpaq",
+    "location_id": "109",
+    "location_name": "Mərdəkan",
+    "area_m2": 14,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6211665",
+    "deleted_at": "2026-09-30T21:08:26.227600+00:00",
+    "price_history": [
+      {
+        "price": 330000,
+        "date": "2026-09-30T19:59:33.523537+00:00"
       }
     ]
   }
