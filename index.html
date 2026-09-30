@@ -265,6 +265,12 @@
       <input type="number" id="sot-max" placeholder="Max" min="0">
     </div>
     <div class="filter-group">
+      <span class="filter-label">₼/m²:</span>
+      <input type="number" id="ppm2-min" placeholder="Min" min="0">
+      <span class="sep">–</span>
+      <input type="number" id="ppm2-max" placeholder="Max" min="0">
+    </div>
+    <div class="filter-group">
       <span class="filter-label">Otaq:</span>
       <select id="rooms-filter">
         <option value="">Hamısı</option>
@@ -313,6 +319,7 @@ let page     = 1;
 let priceMin = null, priceMax = null;
 let areaMin  = null, areaMax  = null;
 let sotMin   = null, sotMax   = null;
+let ppm2Min  = null, ppm2Max  = null;
 let roomsF   = '';
 let repairF  = '';
 
@@ -405,6 +412,7 @@ function applyFilters() {
   priceMin = num('price-min'); priceMax = num('price-max');
   areaMin  = num('area-min');  areaMax  = num('area-max');
   sotMin   = num('sot-min');   sotMax   = num('sot-max');
+  ppm2Min  = num('ppm2-min');  ppm2Max  = num('ppm2-max');
   roomsF   = document.getElementById('rooms-filter').value;
   repairF  = document.getElementById('repair-filter').value;
 
@@ -423,8 +431,11 @@ function applyFilters() {
   if (areaMin != null) list = list.filter(l => { const a = areaVal(l); return a != null && a >= areaMin; });
   if (areaMax != null) list = list.filter(l => { const a = areaVal(l); return a != null && a <= areaMax; });
 
-  if (sotMin != null) list = list.filter(l => l.land_area_sot != null && l.land_area_sot >= sotMin);
-  if (sotMax != null) list = list.filter(l => l.land_area_sot != null && l.land_area_sot <= sotMax);
+  if (sotMin  != null) list = list.filter(l => l.land_area_sot != null && l.land_area_sot >= sotMin);
+  if (sotMax  != null) list = list.filter(l => l.land_area_sot != null && l.land_area_sot <= sotMax);
+
+  if (ppm2Min != null) list = list.filter(l => { const v = ppm2(l); return v != null && v >= ppm2Min; });
+  if (ppm2Max != null) list = list.filter(l => { const v = ppm2(l); return v != null && v <= ppm2Max; });
 
   if (roomsF) {
     if (roomsF === '5') {
@@ -578,7 +589,7 @@ document.getElementById('search').addEventListener('input', e => { search = e.ta
 document.getElementById('sort').addEventListener('change', e => { sort = e.target.value; applyFilters(); });
 document.getElementById('show-deleted').addEventListener('change', e => { showDel = e.target.checked; applyFilters(); });
 
-['price-min','price-max','area-min','area-max','sot-min','sot-max'].forEach(id => {
+['price-min','price-max','area-min','area-max','sot-min','sot-max','ppm2-min','ppm2-max'].forEach(id => {
   document.getElementById(id).addEventListener('input', applyFilters);
 });
 document.getElementById('rooms-filter').addEventListener('change', applyFilters);
