@@ -98,6 +98,71 @@
     }
     .sep { color: #d1d5db; font-size: .8rem; }
 
+    /* ── Location multiselect ── */
+    .ms-wrap { position: relative; }
+    .ms-btn {
+      padding: 5px 10px;
+      border: 1.5px solid #d1d5db; border-radius: 7px;
+      background: #fff; cursor: pointer;
+      font-size: .78rem; color: #1a1a2e;
+      display: flex; align-items: center; gap: 6px;
+      white-space: nowrap; min-width: 160px;
+    }
+    .ms-btn:hover { border-color: #6366f1; }
+    .ms-btn.has-selection { border-color: #6366f1; color: #6366f1; font-weight: 600; }
+    .ms-btn .ms-caret { margin-left: auto; color: #9ca3af; font-size: .65rem; }
+    .ms-dropdown {
+      display: none;
+      position: absolute;
+      top: calc(100% + 4px);
+      left: 0;
+      z-index: 200;
+      background: #fff;
+      border: 1.5px solid #d1d5db;
+      border-radius: 9px;
+      box-shadow: 0 8px 24px rgba(0,0,0,.12);
+      width: 260px;
+      max-height: 320px;
+      overflow: hidden;
+      display: none;
+      flex-direction: column;
+    }
+    .ms-dropdown.open { display: flex; }
+    .ms-search {
+      padding: 8px 10px;
+      border: none;
+      border-bottom: 1px solid #f0f2f5;
+      font-size: .78rem;
+      outline: none;
+      width: 100%;
+    }
+    .ms-actions {
+      display: flex; gap: 8px;
+      padding: 5px 10px;
+      border-bottom: 1px solid #f0f2f5;
+    }
+    .ms-actions button {
+      font-size: .7rem; color: #6366f1;
+      background: none; border: none;
+      cursor: pointer; padding: 0;
+      font-weight: 600;
+    }
+    .ms-actions button:hover { text-decoration: underline; }
+    .ms-list {
+      overflow-y: auto;
+      max-height: 240px;
+      padding: 4px 0;
+    }
+    .ms-item {
+      display: flex; align-items: center; gap: 8px;
+      padding: 5px 12px;
+      font-size: .78rem; cursor: pointer;
+      color: #374151;
+    }
+    .ms-item:hover { background: #f5f3ff; }
+    .ms-item input[type=checkbox] { accent-color: #6366f1; cursor: pointer; flex-shrink: 0; }
+    .ms-empty { padding: 12px; font-size: .78rem; color: #9ca3af; text-align: center; }
+
     /* ── Stats bar ── */
     .stats-bar {
       padding: 7px 24px;
@@ -227,9 +292,22 @@
     <button class="chip" data-type="rental">Kirayə</button>
   </div>
 
-  <!-- Row 1: search + sort -->
+  <!-- Row 1: location multiselect + sort -->
   <div class="filters">
-    <input type="text" id="search" placeholder="Məkan axtar…">
+    <div class="ms-wrap" id="ms-wrap">
+      <button class="ms-btn" id="ms-btn">
+        <span id="ms-label">Bütün məkanlar</span>
+        <span class="ms-caret">▼</span>
+      </button>
+      <div class="ms-dropdown" id="ms-dropdown">
+        <input class="ms-search" id="ms-search" placeholder="Axtar…" autocomplete="off">
+        <div class="ms-actions">
+          <button id="ms-all">Hamısını seç</button>
+          <button id="ms-none">Sıfırla</button>
+        </div>
+        <div class="ms-list" id="ms-list"></div>
+      </div>
+    </div>
     <select id="sort">
       <option value="newest">Ən yeni</option>
       <option value="price_asc">Qiymət ↑</option>
@@ -310,10 +388,10 @@ const CATS = Object.keys(FILES);
 const PAGE_SIZE = 50;
 
 // State
-let selCat   = 'all';
-let selType  = 'all';
-let search   = '';
-let sort     = 'newest';
+let selCat      = 'all';
+let selType     = 'all';
+let selLocs     = new Set(); // empty = all locations
+let sort        = 'newest';
 let showDel  = false;
 let page     = 1;
 let priceMin = null, priceMax = null;
@@ -400,6 +478,7 @@ async function loadAll() {
 
   allListings = (await Promise.all(pairs.map(([c,t]) => loadFile(c,t)))).flat();
   loading = false;
+  buildLocationDropdown();
   applyFilters();
 }
 
@@ -420,9 +499,8 @@ function applyFilters() {
 
   if (!showDel) list = list.filter(l => !l.deleted_at);
 
-  if (search.trim()) {
-    const q = search.toLowerCase();
-    list = list.filter(l => (l.location || '').toLowerCase().includes(q));
+  if (selLocs.size > 0) {
+    list = list.filter(l => selLocs.has(l.location || ''));
   }
 
   if (priceMin != null) list = list.filter(l => l.price != null && l.price >= priceMin);
@@ -574,6 +652,7 @@ document.getElementById('cat-chips').addEventListener('click', e => {
   document.querySelectorAll('#cat-chips .chip').forEach(c => c.classList.remove('active'));
   btn.classList.add('active');
   selCat = btn.dataset.cat;
+  selLocs.clear(); updateMsLabel();
   loadAll();
 });
 
@@ -582,10 +661,84 @@ document.getElementById('type-chips').addEventListener('click', e => {
   document.querySelectorAll('#type-chips .chip').forEach(c => c.classList.remove('active'));
   btn.classList.add('active');
   selType = btn.dataset.type;
+  selLocs.clear(); updateMsLabel();
   loadAll();
 });
 
-document.getElementById('search').addEventListener('input', e => { search = e.target.value; applyFilters(); });
+// ── Location multiselect ──────────────────────────────────────────────────────
+
+function buildLocationDropdown(searchVal = '') {
+  const list = document.getElementById('ms-list');
+  const locs = [...new Set(allListings.map(l => l.location || '').filter(Boolean))].sort();
+  const q = searchVal.toLowerCase();
+  const visible = q ? locs.filter(l => l.toLowerCase().includes(q)) : locs;
+
+  if (!visible.length) {
+    list.innerHTML = `<div class="ms-empty">Nəticə yoxdur</div>`;
+    return;
+  }
+  list.innerHTML = visible.map(loc => `
+    <label class="ms-item">
+      <input type="checkbox" value="${esc(loc)}" ${selLocs.has(loc) ? 'checked' : ''}>
+      <span>${esc(loc)}</span>
+    </label>`).join('');
+
+  list.querySelectorAll('input[type=checkbox]').forEach(cb => {
+    cb.addEventListener('change', () => {
+      if (cb.checked) selLocs.add(cb.value); else selLocs.delete(cb.value);
+      updateMsLabel();
+      applyFilters();
+    });
+  });
+}
+
+function updateMsLabel() {
+  const btn = document.getElementById('ms-btn');
+  const label = document.getElementById('ms-label');
+  if (selLocs.size === 0) {
+    label.textContent = 'Bütün məkanlar';
+    btn.classList.remove('has-selection');
+  } else {
+    label.textContent = `${selLocs.size} məkan seçildi`;
+    btn.classList.add('has-selection');
+  }
+}
+
+// Toggle dropdown
+document.getElementById('ms-btn').addEventListener('click', e => {
+  e.stopPropagation();
+  const dd = document.getElementById('ms-dropdown');
+  dd.classList.toggle('open');
+  if (dd.classList.contains('open')) document.getElementById('ms-search').focus();
+});
+
+// Close on outside click
+document.addEventListener('click', e => {
+  if (!document.getElementById('ms-wrap').contains(e.target)) {
+    document.getElementById('ms-dropdown').classList.remove('open');
+  }
+});
+
+// Search within dropdown
+document.getElementById('ms-search').addEventListener('input', e => {
+  buildLocationDropdown(e.target.value);
+});
+
+// Select all / clear
+document.getElementById('ms-all').addEventListener('click', () => {
+  const locs = [...new Set(allListings.map(l => l.location || '').filter(Boolean))];
+  locs.forEach(l => selLocs.add(l));
+  buildLocationDropdown(document.getElementById('ms-search').value);
+  updateMsLabel();
+  applyFilters();
+});
+document.getElementById('ms-none').addEventListener('click', () => {
+  selLocs.clear();
+  buildLocationDropdown(document.getElementById('ms-search').value);
+  updateMsLabel();
+  applyFilters();
+});
+
 document.getElementById('sort').addEventListener('change', e => { sort = e.target.value; applyFilters(); });
 document.getElementById('show-deleted').addEventListener('change', e => { showDel = e.target.checked; applyFilters(); });
 
