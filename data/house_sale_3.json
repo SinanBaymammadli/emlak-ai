@@ -22916,40 +22916,6 @@
     ]
   },
   {
-    "id": "6457397",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F13%2F15%2F50%2F01%2Fdd64229f-0488-4b83-a0e5-5a6683a3b843%2F63797_YlAlFgfm8oVLh4QMdFYmSQ.jpg",
-    "price": 132000,
-    "location": "İnşaatçılar m.",
-    "rooms": "3 otaqlı",
-    "area_m2": "110 m²",
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.38513772062307,
-    "lng": 49.79954285068455,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-30T13:51:07+04:00",
-    "is_featured": false,
-    "title": "Satılır 3 otaqlı həyət evi/bağ evi 110 m²",
-    "description": "Həyət evi satılır 1,1 sotda ÇIXARIŞ VAR❗️❗️❗️\nAsan xidmetin yaxinliginda\nƏşyalı\nTəmirli,isti doşəmə,kombi movcuddur\nHəyətə maşın girir, Ustu boşdu\nQiymətdə cuzi endrim olar",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "7",
-    "location_name": "İnşaatçılar",
-    "land_area_sot": 1.1,
-    "category": "house",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6457397",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 132000,
-        "date": "2026-09-30T19:51:29.667844+00:00"
-      }
-    ]
-  },
-  {
     "id": "6494958",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F26%2F19%2F36%2F36%2F65e0b018-c4f9-47b7-9239-7ed55d7dc32e%2F71656_YO6CSTA5D1iFpnljb56pMg.jpg",
     "price": 80000,
@@ -26686,6 +26652,44 @@
       {
         "price": 91000,
         "date": "2026-09-30T21:06:41.219505+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6457397",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F13%2F15%2F50%2F01%2Fdd64229f-0488-4b83-a0e5-5a6683a3b843%2F63797_YlAlFgfm8oVLh4QMdFYmSQ.jpg",
+    "price": 131800,
+    "location": "İnşaatçılar m.",
+    "rooms": "3 otaqlı",
+    "area_m2": "110 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38513772062307,
+    "lng": 49.79954285068455,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-01T00:23:25+04:00",
+    "is_featured": false,
+    "title": "Satılır 3 otaqlı həyət evi/bağ evi 110 m²",
+    "description": "Həyət evi satılır 1,1 sotda ÇIXARIŞ VAR❗️❗️❗️\nAsan xidmetin yaxinliginda\nƏşyalı\nTəmirli,isti doşəmə,kombi movcuddur\nHəyətə maşın girir, Ustu boşdu\nQiymətdə cuzi endrim olar",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "7",
+    "location_name": "İnşaatçılar",
+    "land_area_sot": 1.1,
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6457397",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 132000,
+        "date": "2026-09-30T19:51:29.667844+00:00"
+      },
+      {
+        "price": 131800,
+        "date": "2026-09-30T21:51:10.815416+00:00"
       }
     ]
   },
