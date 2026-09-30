@@ -203,7 +203,7 @@ async function loadAll() {
   Object.entries(FILES).forEach(([c, types]) => types.forEach(t => pairs.push([c, t])));
   const [listingsArr, geoJsonData] = await Promise.all([
     Promise.all(pairs.map(([c,t]) => loadFile(c,t))).then(r => r.flat()),
-    fetch('data/districts.geojson').then(r => r.ok ? r.json() : null).catch(() => null),
+    fetch('districts.geojson').then(r => r.ok ? r.json() : null).catch(() => null),
   ]);
   allListings = listingsArr;
   districtGeoJson = geoJsonData;
