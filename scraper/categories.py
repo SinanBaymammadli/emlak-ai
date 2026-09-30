@@ -1,100 +1,87 @@
-_BASE = "items_view=list&sorting=bumped_at+desc"
-_ROOMS = ["1", "2", "3", "4", "5%2B"]  # 5%2B = "5+" URL-encoded
+# Constants still used by merge_room_files in main.py
+_ROOMS = ["1", "2", "3", "4", "5%2B"]
 _BUILDING_TYPES = ["yeni-tikili", "kohne-tikili"]
-_KUPCA = [True, False]  # has_bill_of_sale
-_PRICE_SPLIT_ROOMS = {"3"}  # rooms that get an extra price-range split
-_PRICE_BANDS = [("lo", None, 300_000), ("hi", 300_001, None)]  # (label, min, max)
+_KUPCA = [True, False]
+_PRICE_BANDS = [("lo", None, 300_000), ("hi", 300_001, None)]
+_PRICE_SPLIT_ROOMS = {"3"}
 
+_BASE = "items_view=list&sorting=bumped_at+desc"
+_AS = "https://bina.az/baki/alqi-satqi/menziller"  # apartment sale base
+_AR = "https://bina.az/baki/kiraye/menziller"      # apartment rental base
 
-def _room_url(base_path: str, room: str, kupca: bool | None = None, price_band: tuple | None = None) -> str:
-    url = f"{base_path}?{_BASE}&room_ids%5B%5D={room}"
-    if kupca is not None:
-        url += f"&has_bill_of_sale={'true' if kupca else 'false'}"
-    if price_band:
-        _, pmin, pmax = price_band
-        if pmin is not None:
-            url += f"&price_from={pmin}"
-        if pmax is not None:
-            url += f"&price_to={pmax}"
-    return url
-
-
-def _plain_url(base_path: str) -> str:
-    return f"{base_path}?{_BASE}"
-
-
-# Apartments split by: building type (yeni/kohne) × bill-of-sale (kupca/nokupca) × room count
-# Houses split by room count only.
-# After scraping, main.py merges sub-files into the final category file.
 CATEGORIES = [
-    # ── Apartments (sale) — yeni/kohne × kupca/nokupca × 5 rooms ─────────────
-    # Rooms in _PRICE_SPLIT_ROOMS are further split by price band.
-    *[
-        {
-            "category": "apartment",
-            "deal_type": "sale",
-            "building": btype.replace("-tikili", ""),
-            "kupca": kupca,
-            "room": room,
-            "price_band": band[0] if room in _PRICE_SPLIT_ROOMS else None,
-            "url": _room_url(
-                f"https://bina.az/baki/alqi-satqi/menziller/{btype}",
-                room, kupca,
-                band if room in _PRICE_SPLIT_ROOMS else None,
-            ),
-        }
-        for btype in _BUILDING_TYPES
-        for kupca in _KUPCA
-        for room in _ROOMS
-        for band in (_PRICE_BANDS if room in _PRICE_SPLIT_ROOMS else [(None, None, None)])
-    ],
 
-    # ── Apartments (rental) — yeni/kohne × 5 rooms (no kupca/price split) ────
-    *[
-        {
-            "category": "apartment",
-            "deal_type": "rental",
-            "building": btype.replace("-tikili", ""),
-            "room": room,
-            "url": _room_url(f"https://bina.az/baki/kiraye/menziller/{btype}", room),
-        }
-        for btype in _BUILDING_TYPES
-        for room in _ROOMS
-    ],
+    # ── Apartment sale — yeni, kupca ──────────────────────────────────────────
+    {"category": "apartment", "deal_type": "sale", "building": "yeni", "kupca": True,  "room": "1",    "url": f"{_AS}/yeni-tikili?{_BASE}&room_ids%5B%5D=1&has_bill_of_sale=true"},
+    {"category": "apartment", "deal_type": "sale", "building": "yeni", "kupca": True,  "room": "2",    "url": f"{_AS}/yeni-tikili?{_BASE}&room_ids%5B%5D=2&has_bill_of_sale=true"},
+    {"category": "apartment", "deal_type": "sale", "building": "yeni", "kupca": True,  "room": "3",    "price_band": "lo", "url": f"{_AS}/yeni-tikili?{_BASE}&room_ids%5B%5D=3&has_bill_of_sale=true&price_to=300000"},
+    {"category": "apartment", "deal_type": "sale", "building": "yeni", "kupca": True,  "room": "3",    "price_band": "hi", "url": f"{_AS}/yeni-tikili?{_BASE}&room_ids%5B%5D=3&has_bill_of_sale=true&price_from=300001"},
+    {"category": "apartment", "deal_type": "sale", "building": "yeni", "kupca": True,  "room": "4",    "url": f"{_AS}/yeni-tikili?{_BASE}&room_ids%5B%5D=4&has_bill_of_sale=true"},
+    {"category": "apartment", "deal_type": "sale", "building": "yeni", "kupca": True,  "room": "5%2B", "url": f"{_AS}/yeni-tikili?{_BASE}&room_ids%5B%5D=5%2B&has_bill_of_sale=true"},
 
-    # ── Houses (sale) — one entry per room count ──────────────────────────────
-    *[
-        {
-            "category": "house",
-            "deal_type": "sale",
-            "room": room,
-            "url": _room_url("https://bina.az/baki/alqi-satqi/heyet-evleri", room),
-        }
-        for room in _ROOMS
-    ],
+    # ── Apartment sale — yeni, nokupca ────────────────────────────────────────
+    {"category": "apartment", "deal_type": "sale", "building": "yeni", "kupca": False, "room": "1",    "url": f"{_AS}/yeni-tikili?{_BASE}&room_ids%5B%5D=1&has_bill_of_sale=false"},
+    {"category": "apartment", "deal_type": "sale", "building": "yeni", "kupca": False, "room": "2",    "url": f"{_AS}/yeni-tikili?{_BASE}&room_ids%5B%5D=2&has_bill_of_sale=false"},
+    {"category": "apartment", "deal_type": "sale", "building": "yeni", "kupca": False, "room": "3",    "price_band": "lo", "url": f"{_AS}/yeni-tikili?{_BASE}&room_ids%5B%5D=3&has_bill_of_sale=false&price_to=300000"},
+    {"category": "apartment", "deal_type": "sale", "building": "yeni", "kupca": False, "room": "3",    "price_band": "hi", "url": f"{_AS}/yeni-tikili?{_BASE}&room_ids%5B%5D=3&has_bill_of_sale=false&price_from=300001"},
+    {"category": "apartment", "deal_type": "sale", "building": "yeni", "kupca": False, "room": "4",    "url": f"{_AS}/yeni-tikili?{_BASE}&room_ids%5B%5D=4&has_bill_of_sale=false"},
+    {"category": "apartment", "deal_type": "sale", "building": "yeni", "kupca": False, "room": "5%2B", "url": f"{_AS}/yeni-tikili?{_BASE}&room_ids%5B%5D=5%2B&has_bill_of_sale=false"},
 
-    # ── Houses (rental) — one entry per room count ────────────────────────────
-    *[
-        {
-            "category": "house",
-            "deal_type": "rental",
-            "room": room,
-            "url": _room_url("https://bina.az/baki/kiraye/heyet-evleri", room),
-        }
-        for room in _ROOMS
-    ],
+    # ── Apartment sale — kohne, kupca ─────────────────────────────────────────
+    {"category": "apartment", "deal_type": "sale", "building": "kohne", "kupca": True,  "room": "1",    "url": f"{_AS}/kohne-tikili?{_BASE}&room_ids%5B%5D=1&has_bill_of_sale=true"},
+    {"category": "apartment", "deal_type": "sale", "building": "kohne", "kupca": True,  "room": "2",    "url": f"{_AS}/kohne-tikili?{_BASE}&room_ids%5B%5D=2&has_bill_of_sale=true"},
+    {"category": "apartment", "deal_type": "sale", "building": "kohne", "kupca": True,  "room": "3",    "price_band": "lo", "url": f"{_AS}/kohne-tikili?{_BASE}&room_ids%5B%5D=3&has_bill_of_sale=true&price_to=300000"},
+    {"category": "apartment", "deal_type": "sale", "building": "kohne", "kupca": True,  "room": "3",    "price_band": "hi", "url": f"{_AS}/kohne-tikili?{_BASE}&room_ids%5B%5D=3&has_bill_of_sale=true&price_from=300001"},
+    {"category": "apartment", "deal_type": "sale", "building": "kohne", "kupca": True,  "room": "4",    "url": f"{_AS}/kohne-tikili?{_BASE}&room_ids%5B%5D=4&has_bill_of_sale=true"},
+    {"category": "apartment", "deal_type": "sale", "building": "kohne", "kupca": True,  "room": "5%2B", "url": f"{_AS}/kohne-tikili?{_BASE}&room_ids%5B%5D=5%2B&has_bill_of_sale=true"},
 
-    # ── Other categories (no room/building split) ─────────────────────────────
-    {"category": "land",       "deal_type": "sale",   "url": _plain_url("https://bina.az/baki/alqi-satqi/torpaq")},
-    {"category": "commercial", "deal_type": "sale",   "url": _plain_url("https://bina.az/baki/alqi-satqi/obyektler")},
-    {"category": "commercial", "deal_type": "rental", "url": _plain_url("https://bina.az/baki/kiraye/obyektler")},
-    {"category": "office",     "deal_type": "sale",   "url": _plain_url("https://bina.az/baki/alqi-satqi/ofisler")},
-    {"category": "office",     "deal_type": "rental", "url": _plain_url("https://bina.az/baki/kiraye/ofisler")},
-    {"category": "garage",     "deal_type": "sale",   "url": _plain_url("https://bina.az/baki/alqi-satqi/qarajlar")},
-    {"category": "garage",     "deal_type": "rental", "url": _plain_url("https://bina.az/baki/kiraye/qarajlar")},
+    # ── Apartment sale — kohne, nokupca ───────────────────────────────────────
+    {"category": "apartment", "deal_type": "sale", "building": "kohne", "kupca": False, "room": "1",    "url": f"{_AS}/kohne-tikili?{_BASE}&room_ids%5B%5D=1&has_bill_of_sale=false"},
+    {"category": "apartment", "deal_type": "sale", "building": "kohne", "kupca": False, "room": "2",    "url": f"{_AS}/kohne-tikili?{_BASE}&room_ids%5B%5D=2&has_bill_of_sale=false"},
+    {"category": "apartment", "deal_type": "sale", "building": "kohne", "kupca": False, "room": "3",    "price_band": "lo", "url": f"{_AS}/kohne-tikili?{_BASE}&room_ids%5B%5D=3&has_bill_of_sale=false&price_to=300000"},
+    {"category": "apartment", "deal_type": "sale", "building": "kohne", "kupca": False, "room": "3",    "price_band": "hi", "url": f"{_AS}/kohne-tikili?{_BASE}&room_ids%5B%5D=3&has_bill_of_sale=false&price_from=300001"},
+    {"category": "apartment", "deal_type": "sale", "building": "kohne", "kupca": False, "room": "4",    "url": f"{_AS}/kohne-tikili?{_BASE}&room_ids%5B%5D=4&has_bill_of_sale=false"},
+    {"category": "apartment", "deal_type": "sale", "building": "kohne", "kupca": False, "room": "5%2B", "url": f"{_AS}/kohne-tikili?{_BASE}&room_ids%5B%5D=5%2B&has_bill_of_sale=false"},
+
+    # ── Apartment rental — yeni ───────────────────────────────────────────────
+    {"category": "apartment", "deal_type": "rental", "building": "yeni",  "room": "1",    "url": f"{_AR}/yeni-tikili?{_BASE}&room_ids%5B%5D=1"},
+    {"category": "apartment", "deal_type": "rental", "building": "yeni",  "room": "2",    "url": f"{_AR}/yeni-tikili?{_BASE}&room_ids%5B%5D=2"},
+    {"category": "apartment", "deal_type": "rental", "building": "yeni",  "room": "3",    "url": f"{_AR}/yeni-tikili?{_BASE}&room_ids%5B%5D=3"},
+    {"category": "apartment", "deal_type": "rental", "building": "yeni",  "room": "4",    "url": f"{_AR}/yeni-tikili?{_BASE}&room_ids%5B%5D=4"},
+    {"category": "apartment", "deal_type": "rental", "building": "yeni",  "room": "5%2B", "url": f"{_AR}/yeni-tikili?{_BASE}&room_ids%5B%5D=5%2B"},
+
+    # ── Apartment rental — kohne ──────────────────────────────────────────────
+    {"category": "apartment", "deal_type": "rental", "building": "kohne", "room": "1",    "url": f"{_AR}/kohne-tikili?{_BASE}&room_ids%5B%5D=1"},
+    {"category": "apartment", "deal_type": "rental", "building": "kohne", "room": "2",    "url": f"{_AR}/kohne-tikili?{_BASE}&room_ids%5B%5D=2"},
+    {"category": "apartment", "deal_type": "rental", "building": "kohne", "room": "3",    "url": f"{_AR}/kohne-tikili?{_BASE}&room_ids%5B%5D=3"},
+    {"category": "apartment", "deal_type": "rental", "building": "kohne", "room": "4",    "url": f"{_AR}/kohne-tikili?{_BASE}&room_ids%5B%5D=4"},
+    {"category": "apartment", "deal_type": "rental", "building": "kohne", "room": "5%2B", "url": f"{_AR}/kohne-tikili?{_BASE}&room_ids%5B%5D=5%2B"},
+
+    # ── House sale — by room count ────────────────────────────────────────────
+    {"category": "house", "deal_type": "sale",   "room": "1",    "url": f"https://bina.az/baki/alqi-satqi/heyet-evleri?{_BASE}&room_ids%5B%5D=1"},
+    {"category": "house", "deal_type": "sale",   "room": "2",    "url": f"https://bina.az/baki/alqi-satqi/heyet-evleri?{_BASE}&room_ids%5B%5D=2"},
+    {"category": "house", "deal_type": "sale",   "room": "3",    "url": f"https://bina.az/baki/alqi-satqi/heyet-evleri?{_BASE}&room_ids%5B%5D=3"},
+    {"category": "house", "deal_type": "sale",   "room": "4",    "url": f"https://bina.az/baki/alqi-satqi/heyet-evleri?{_BASE}&room_ids%5B%5D=4"},
+    {"category": "house", "deal_type": "sale",   "room": "5%2B", "url": f"https://bina.az/baki/alqi-satqi/heyet-evleri?{_BASE}&room_ids%5B%5D=5%2B"},
+
+    # ── House rental — by room count ──────────────────────────────────────────
+    {"category": "house", "deal_type": "rental", "room": "1",    "url": f"https://bina.az/baki/kiraye/heyet-evleri?{_BASE}&room_ids%5B%5D=1"},
+    {"category": "house", "deal_type": "rental", "room": "2",    "url": f"https://bina.az/baki/kiraye/heyet-evleri?{_BASE}&room_ids%5B%5D=2"},
+    {"category": "house", "deal_type": "rental", "room": "3",    "url": f"https://bina.az/baki/kiraye/heyet-evleri?{_BASE}&room_ids%5B%5D=3"},
+    {"category": "house", "deal_type": "rental", "room": "4",    "url": f"https://bina.az/baki/kiraye/heyet-evleri?{_BASE}&room_ids%5B%5D=4"},
+    {"category": "house", "deal_type": "rental", "room": "5%2B", "url": f"https://bina.az/baki/kiraye/heyet-evleri?{_BASE}&room_ids%5B%5D=5%2B"},
+
+    # ── Other categories ──────────────────────────────────────────────────────
+    {"category": "land",       "deal_type": "sale",   "url": f"https://bina.az/baki/alqi-satqi/torpaq?{_BASE}"},
+    {"category": "commercial", "deal_type": "sale",   "url": f"https://bina.az/baki/alqi-satqi/obyektler?{_BASE}"},
+    {"category": "commercial", "deal_type": "rental", "url": f"https://bina.az/baki/kiraye/obyektler?{_BASE}"},
+    {"category": "office",     "deal_type": "sale",   "url": f"https://bina.az/baki/alqi-satqi/ofisler?{_BASE}"},
+    {"category": "office",     "deal_type": "rental", "url": f"https://bina.az/baki/kiraye/ofisler?{_BASE}"},
+    {"category": "garage",     "deal_type": "sale",   "url": f"https://bina.az/baki/alqi-satqi/qarajlar?{_BASE}"},
+    {"category": "garage",     "deal_type": "rental", "url": f"https://bina.az/baki/kiraye/qarajlar?{_BASE}"},
 ]
 
-# Categories that require a post-scrape merge of sub-files
+# Categories that require post-scrape merge of sub-files
 MERGE_TARGETS = {
     ("apartment", "sale"),
     ("apartment", "rental"),
