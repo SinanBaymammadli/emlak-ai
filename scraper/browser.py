@@ -102,36 +102,43 @@ async def extract_cards(page) -> list[dict]:
 
 
 async def fetch_item_graphql(page, item_id: str) -> dict:
-    """Fetch lat, lng, area, hasRepair from bina.az GraphQL using the browser session."""
+    """Fetch listing details from bina.az GraphQL. Returns {} on any error or timeout."""
     try:
         data = await page.evaluate(
             """async (id) => {
-            const r = await fetch('https://bina.az/graphql', {
-                method: 'POST',
-                headers: {'Content-Type': 'application/json'},
-                body: JSON.stringify({
-                    operationName: 'GetItem',
-                    variables: {id},
-                    query: `query GetItem($id: ID!) {
-                        item(id: $id) {
-                            id latitude longitude
-                            landArea { value }
-                            area { value }
-                            hasRepair
-                            hasBillOfSale
-                            hasMortgage
-                            floor
-                            updatedAt
-                            isFeatured
-                            title
-                            description
-                            category { id name slug }
-                            location { id name }
-                        }
-                    }`
-                })
-            });
-            return r.json();
+            const controller = new AbortController();
+            const timer = setTimeout(() => controller.abort(), 15000);
+            try {
+                const r = await fetch('https://bina.az/graphql', {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify({
+                        operationName: 'GetItem',
+                        variables: {id},
+                        query: `query GetItem($id: ID!) {
+                            item(id: $id) {
+                                id latitude longitude
+                                landArea { value }
+                                area { value }
+                                hasRepair
+                                hasBillOfSale
+                                hasMortgage
+                                floor
+                                updatedAt
+                                isFeatured
+                                title
+                                description
+                                category { id name slug }
+                                location { id name }
+                            }
+                        }`
+                    }),
+                    signal: controller.signal
+                });
+                return r.json();
+            } finally {
+                clearTimeout(timer);
+            }
         }""",
             item_id,
         )
