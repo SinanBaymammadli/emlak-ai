@@ -359,8 +359,8 @@ async def main(categories: list | None = None, skip_merge: bool = False) -> None
         print("\nMerging room sub-files…")
         for category, deal_type in MERGE_TARGETS:
             merge_room_files(category, deal_type)
+        telegram_notify("\n".join(lines))
 
-    telegram_notify("\n".join(lines))
     print("\nDone.")
 
 
@@ -368,10 +368,19 @@ if __name__ == "__main__":
     import sys
 
     if "--merge-only" in sys.argv:
-        # Just merge sub-files into combined category files, no scraping
         print("Merge-only mode")
         for category, deal_type in MERGE_TARGETS:
             merge_room_files(category, deal_type)
+        # Send Telegram summary after all CI jobs are merged
+        lines = ["✅ <b>emlak-ai scrape complete</b>"]
+        for f in sorted(DATA_DIR.glob("*.json")):
+            try:
+                listings = _json_loads(f.read_text(encoding="utf-8"))
+                active = sum(1 for l in listings if l.get("deleted_at") is None)
+                lines.append(f"  {f.stem}: {active:,} active")
+            except Exception:
+                pass
+        telegram_notify("\n".join(lines))
         sys.exit(0)
 
     def _cfg_key(c: dict) -> str:
