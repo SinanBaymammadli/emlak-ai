@@ -1,71 +1,5 @@
 [
   {
-    "id": "6402344",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F24%2F15%2F02%2F18%2F25503705-ab99-4788-acbc-692c1a7c2242%2F68103_HMaFjyKkKWgEFBouC160nQ.jpg",
-    "price": 305000,
-    "location": "Nərimanov r.",
-    "rooms": "2 otaqlı",
-    "area_m2": "105 m²",
-    "floor": "16/17 mərtəbə",
-    "is_agency": true,
-    "lat": 40.39405697753673,
-    "lng": 49.87371187884286,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 16,
-    "updated_at_site": "2026-09-23T21:33:37+04:00",
-    "is_featured": false,
-    "title": "Satılır 2 otaqlı yeni tikili 105 m²",
-    "description": "Nərimanov rayonu İsmayıl Hidayətzadə küçəsində yerləşən Fərəh MTK yaşayış binasında dəniz mənzərəli mənzil satılır. \r\n\r\nMənzilin təsviri:\r\n• Təmirli\r\n• 105 m²\r\n• 2 otaq studio \r\n• 1 eyvan\r\n• 16\\17\r\n• Yarım yelçəkən\r\n• Mətbəx mebeli var\r\n• Əşyalı\r\n\r\nBinanın üstünlükləri:\r\n• Ekoloji təmiz rayon\r\n• Yeraltı qaraj\r\n• Ticarət va xidmət obyektləri\r\n• 24 saat təhlükəsizlik xidməti\r\n• Kodlaşdırılmış giriş-çıxış\r\n• Kamera nəzarəti\r\n• Yanğın təhlükəsizlik sistemi\r\n• Müasir tələblərə uyğun lift\r\n• Daimi qaz,işıq və su\r\n• Qapalı həyət\r\n\r\n190062 ",
-    "building_type": "Yeni tikili",
-    "location_id": "10",
-    "location_name": "Nərimanov",
-    "category": "apartment",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6402344",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 305000,
-        "date": "2026-09-30T19:26:03.469832+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6315982",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F23%2F17%2F44%2F01%2F5febd416-afa8-483f-89b4-79b1e23ab0da%2F20625_uMKPWYVHie2gSy-D-zYvng.jpg",
-    "price": 236000,
-    "location": "Şah İsmayıl Xətai m.",
-    "rooms": "2 otaqlı",
-    "area_m2": "65.2 m²",
-    "floor": "5/17 mərtəbə",
-    "is_agency": true,
-    "lat": 40.38714421500983,
-    "lng": 49.87572179852295,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 5,
-    "updated_at_site": "2026-09-23T21:33:55+04:00",
-    "is_featured": false,
-    "title": "Satılır 2 otaqlı yeni tikili 65.2 m²",
-    "description": "Xətai rayonu Nəcəfqulu Rəfiyev White tower  yaşayış binasında mənzil satılır. \r\n\r\nMənzilin təsviri:\r\n• Təmirli \r\n• 65.2  m²\r\n• 5\\17\r\n• 2 otaq studio \r\n• 1 Eyvan\r\n• Mətbəx mebeli var \r\n\r\nBinanın üstünlükləri:\r\n• Ekoloji təmiz rayon\r\n• Yeraltı qaraj\r\n• Ticarət va xidmət obyektləri\r\n• Qapalı həyət\r\n• Kodlaşdırılmış giriş-çıxış\r\n• Kamera nəzarəti\r\n• Yanğın təhlükəsizlik sistemi\r\n• Müasir tələblərə uyğun geniş liftlər\r\n• Daimi qaz, işıq və su\r\n• Kabel Tv\r\n• Kombi sistemi\r\n\r\n170139",
-    "building_type": "Yeni tikili",
-    "location_id": "36",
-    "location_name": "Şah İsmayıl Xətai",
-    "category": "apartment",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6315982",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 236000,
-        "date": "2026-09-30T19:26:03.469822+00:00"
-      }
-    ]
-  },
-  {
     "id": "6363068",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F10%2F12%2F02%2F34%2Fb32ab1ed-ce68-4fb7-be0c-4c5787d2ce24%2F29209_h5ZKQy15YRSrmB-HRjH5-A.jpg",
     "price": 107000,
@@ -141174,6 +141108,72 @@
       {
         "price": 86500,
         "date": "2026-09-30T19:26:03.469854+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6402344",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F24%2F15%2F02%2F18%2F25503705-ab99-4788-acbc-692c1a7c2242%2F68103_HMaFjyKkKWgEFBouC160nQ.jpg",
+    "price": 305000,
+    "location": "Nərimanov r.",
+    "rooms": "2 otaqlı",
+    "area_m2": "105 m²",
+    "floor": "16/17 mərtəbə",
+    "is_agency": true,
+    "lat": 40.39405697753673,
+    "lng": 49.87371187884286,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 16,
+    "updated_at_site": "2026-09-23T21:33:37+04:00",
+    "is_featured": false,
+    "title": "Satılır 2 otaqlı yeni tikili 105 m²",
+    "description": "Nərimanov rayonu İsmayıl Hidayətzadə küçəsində yerləşən Fərəh MTK yaşayış binasında dəniz mənzərəli mənzil satılır. \r\n\r\nMənzilin təsviri:\r\n• Təmirli\r\n• 105 m²\r\n• 2 otaq studio \r\n• 1 eyvan\r\n• 16\\17\r\n• Yarım yelçəkən\r\n• Mətbəx mebeli var\r\n• Əşyalı\r\n\r\nBinanın üstünlükləri:\r\n• Ekoloji təmiz rayon\r\n• Yeraltı qaraj\r\n• Ticarət va xidmət obyektləri\r\n• 24 saat təhlükəsizlik xidməti\r\n• Kodlaşdırılmış giriş-çıxış\r\n• Kamera nəzarəti\r\n• Yanğın təhlükəsizlik sistemi\r\n• Müasir tələblərə uyğun lift\r\n• Daimi qaz,işıq və su\r\n• Qapalı həyət\r\n\r\n190062 ",
+    "building_type": "Yeni tikili",
+    "location_id": "10",
+    "location_name": "Nərimanov",
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6402344",
+    "deleted_at": "2026-09-30T21:50:59.988133+00:00",
+    "price_history": [
+      {
+        "price": 305000,
+        "date": "2026-09-30T19:26:03.469832+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6315982",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F23%2F17%2F44%2F01%2F5febd416-afa8-483f-89b4-79b1e23ab0da%2F20625_uMKPWYVHie2gSy-D-zYvng.jpg",
+    "price": 236000,
+    "location": "Şah İsmayıl Xətai m.",
+    "rooms": "2 otaqlı",
+    "area_m2": "65.2 m²",
+    "floor": "5/17 mərtəbə",
+    "is_agency": true,
+    "lat": 40.38714421500983,
+    "lng": 49.87572179852295,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 5,
+    "updated_at_site": "2026-09-23T21:33:55+04:00",
+    "is_featured": false,
+    "title": "Satılır 2 otaqlı yeni tikili 65.2 m²",
+    "description": "Xətai rayonu Nəcəfqulu Rəfiyev White tower  yaşayış binasında mənzil satılır. \r\n\r\nMənzilin təsviri:\r\n• Təmirli \r\n• 65.2  m²\r\n• 5\\17\r\n• 2 otaq studio \r\n• 1 Eyvan\r\n• Mətbəx mebeli var \r\n\r\nBinanın üstünlükləri:\r\n• Ekoloji təmiz rayon\r\n• Yeraltı qaraj\r\n• Ticarət va xidmət obyektləri\r\n• Qapalı həyət\r\n• Kodlaşdırılmış giriş-çıxış\r\n• Kamera nəzarəti\r\n• Yanğın təhlükəsizlik sistemi\r\n• Müasir tələblərə uyğun geniş liftlər\r\n• Daimi qaz, işıq və su\r\n• Kabel Tv\r\n• Kombi sistemi\r\n\r\n170139",
+    "building_type": "Yeni tikili",
+    "location_id": "36",
+    "location_name": "Şah İsmayıl Xətai",
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6315982",
+    "deleted_at": "2026-09-30T21:50:59.988133+00:00",
+    "price_history": [
+      {
+        "price": 236000,
+        "date": "2026-09-30T19:26:03.469822+00:00"
       }
     ]
   }
