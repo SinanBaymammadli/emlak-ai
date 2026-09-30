@@ -165,12 +165,13 @@ async def scrape_category(page, cfg: dict) -> None:
 
         parsed = parser(card["text"])
         is_new = item_id not in existing
+        rec = existing.get(item_id, {})
 
-        # Only call GraphQL for new listings — reuse stored coords for existing ones
-        if is_new:
+        # Call GraphQL for new listings, or existing ones missing fields added later
+        needs_gql = is_new or rec.get("description") is None or rec.get("building_type") is None
+        if needs_gql:
             gql = await fetch_item_graphql(page, item_id)
         else:
-            rec = existing[item_id]
             gql = {
                 "lat": rec.get("lat"),
                 "lng": rec.get("lng"),
