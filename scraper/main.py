@@ -117,14 +117,18 @@ def merge_room_files(category: str, deal_type: str) -> None:
 
     buildings: list[str | None] = [None]
     kupca_list: list[bool | None] = [None]
+    use_price_bands = False
+
     if category == "apartment":
         buildings = [b.replace("-tikili", "") for b in _BUILDING_TYPES]
-        kupca_list = _KUPCA
+        if deal_type == "sale":
+            kupca_list = _KUPCA
+            use_price_bands = True
 
     for building in buildings:
         for kupca in kupca_list:
             for room in _ROOMS:
-                bands: list[str | None] = [b[0] for b in _PRICE_BANDS] if room in _PRICE_SPLIT_ROOMS else [None]
+                bands: list[str | None] = [b[0] for b in _PRICE_BANDS] if (use_price_bands and room in _PRICE_SPLIT_ROOMS) else [None]
                 for price_band in bands:
                     path = DATA_DIR / f"{_file_stem(category, deal_type, room, building, kupca, price_band)}.json"
                     if not path.exists():

@@ -49,25 +49,17 @@ CATEGORIES = [
         for band in (_PRICE_BANDS if room in _PRICE_SPLIT_ROOMS else [(None, None, None)])
     ],
 
-    # ── Apartments (rental) — yeni/kohne × kupca/nokupca × 5 rooms ───────────
+    # ── Apartments (rental) — yeni/kohne × 5 rooms (no kupca/price split) ────
     *[
         {
             "category": "apartment",
             "deal_type": "rental",
             "building": btype.replace("-tikili", ""),
-            "kupca": kupca,
             "room": room,
-            "price_band": band[0] if room in _PRICE_SPLIT_ROOMS else None,
-            "url": _room_url(
-                f"https://bina.az/baki/kiraye/menziller/{btype}",
-                room, kupca,
-                band if room in _PRICE_SPLIT_ROOMS else None,
-            ),
+            "url": _room_url(f"https://bina.az/baki/kiraye/menziller/{btype}", room),
         }
         for btype in _BUILDING_TYPES
-        for kupca in _KUPCA
         for room in _ROOMS
-        for band in (_PRICE_BANDS if room in _PRICE_SPLIT_ROOMS else [(None, None, None)])
     ],
 
     # ── Houses (sale) — one entry per room count ──────────────────────────────
