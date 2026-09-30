@@ -1,39 +1,5 @@
 [
   {
-    "id": "6486487",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F23%2F21%2F21%2F02%2Fe14f44c4-1057-4220-9c98-4a9c9509b30a%2F55877_-EVqdmHhuOeTBHBWvDDx4g.jpg",
-    "price": 1600,
-    "location": "Biləcəri q.",
-    "rooms": "6 otaqlı",
-    "area_m2": "250 m²",
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.44115806900618,
-    "lng": 49.80470057042205,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-23T21:34:55+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 6 otaqlı həyət evi/bağ evi 250 m²",
-    "description": "Tam ideal remont Bilecerinin merkezi kucelerinden gozel mehlesinde yerlewen tam ewyali mebel italya istehsali su qaz iwiq 24/7 col qapi pultnan su filterleri kombi sistemi qisa ozune rahat gözel gir yawa ev isteyen buyursun.",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "17",
-    "location_name": "Biləcəri",
-    "land_area_sot": 7,
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6486487",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1600,
-        "date": "2026-09-30T19:54:41.951757+00:00"
-      }
-    ]
-  },
-  {
     "id": "5770501",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F12%2F28%2F19%2F09%2F25%2F710cae41-8b4c-48c0-a548-101459728c5a%2F80800_CbrgFnFuagBQ3I5kFObyYA.jpg",
     "price": 1500,
@@ -39538,6 +39504,40 @@
       {
         "price": 16000,
         "date": "2026-09-30T19:54:41.951767+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6486487",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F23%2F21%2F21%2F02%2Fe14f44c4-1057-4220-9c98-4a9c9509b30a%2F55877_-EVqdmHhuOeTBHBWvDDx4g.jpg",
+    "price": 1600,
+    "location": "Biləcəri q.",
+    "rooms": "6 otaqlı",
+    "area_m2": "250 m²",
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.44115806900618,
+    "lng": 49.80470057042205,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-09-23T21:34:55+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 6 otaqlı həyət evi/bağ evi 250 m²",
+    "description": "Tam ideal remont Bilecerinin merkezi kucelerinden gozel mehlesinde yerlewen tam ewyali mebel italya istehsali su qaz iwiq 24/7 col qapi pultnan su filterleri kombi sistemi qisa ozune rahat gözel gir yawa ev isteyen buyursun.",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "17",
+    "location_name": "Biləcəri",
+    "land_area_sot": 7,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6486487",
+    "deleted_at": "2026-09-30T21:51:25.437254+00:00",
+    "price_history": [
+      {
+        "price": 1600,
+        "date": "2026-09-30T19:54:41.951757+00:00"
       }
     ]
   }
