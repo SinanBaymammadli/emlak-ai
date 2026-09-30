@@ -5,20 +5,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Emlak AI — Bakı Əmlak Bazarı</title>
   <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9/dist/leaflet.css">
+  <script src="https://unpkg.com/leaflet@1.9/dist/leaflet.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
 </head>
 <body>
 
 <header>
   <h1>Emlak <span>AI</span></h1>
-  <nav class="header-nav">
-    <a href="index.html" class="nav-link active">Elanlar</a>
-    <a href="analytics.html" class="nav-link">Analitika</a>
-    <a href="map.html" class="nav-link">Xəritə</a>
-  </nav>
   <div id="global-stats">Yüklənir…</div>
 </header>
 
-<div class="controls">
+<!-- ── Shared filter bar ── -->
+<div class="controls" id="controls">
 
   <div class="chips" id="cat-chips">
     <button class="chip active" data-cat="all">Hamısı</button>
@@ -51,6 +50,26 @@
         <div class="ms-list" id="ms-list"></div>
       </div>
     </div>
+    <div class="filter-group"><span class="filter-label">Qiymət:</span><input type="number" id="price-min" placeholder="Min ₼" min="0"><span class="sep">–</span><input type="number" id="price-max" placeholder="Max ₼" min="0"></div>
+    <div class="filter-group"><span class="filter-label">Sahə (m²):</span><input type="number" id="area-min" placeholder="Min" min="0"><span class="sep">–</span><input type="number" id="area-max" placeholder="Max" min="0"></div>
+    <div class="filter-group"><span class="filter-label">₼/m²:</span><input type="number" id="ppm2-min" placeholder="Min" min="0"><span class="sep">–</span><input type="number" id="ppm2-max" placeholder="Max" min="0"></div>
+    <div class="filter-group"><span class="filter-label">Torpaq (sot):</span><input type="number" id="sot-min" placeholder="Min" min="0"><span class="sep">–</span><input type="number" id="sot-max" placeholder="Max" min="0"></div>
+    <div class="filter-group"><span class="filter-label">Otaq:</span>
+      <select id="rooms-filter"><option value="">Hamısı</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5+</option></select>
+    </div>
+    <div class="filter-group"><span class="filter-label">Təmir:</span>
+      <select id="repair-filter"><option value="">Hamısı</option><option value="yes">Var</option><option value="no">Yox</option></select>
+    </div>
+    <div class="filter-group"><span class="filter-label">Elan sahibi:</span>
+      <select id="agency-filter"><option value="">Hamısı</option><option value="owner">Mülkiyyətçi</option><option value="agency">Agentlik</option></select>
+    </div>
+    <div class="filter-group"><span class="filter-label">Çıxarış:</span>
+      <select id="kupca-filter"><option value="">Hamısı</option><option value="yes">Var</option><option value="no">Yox</option></select>
+    </div>
+  </div>
+
+  <!-- Listings-only row -->
+  <div class="filters" id="listings-filters-row">
     <select id="sort">
       <option value="newest">Ən yeni</option>
       <option value="price_asc">Qiymət ↑</option>
@@ -65,73 +84,56 @@
     <label><input type="checkbox" id="show-deleted"> Silinmişləri göstər</label>
   </div>
 
-  <div class="filters">
-    <div class="filter-group">
-      <span class="filter-label">Qiymət:</span>
-      <input type="number" id="price-min" placeholder="Min ₼" min="0">
-      <span class="sep">–</span>
-      <input type="number" id="price-max" placeholder="Max ₼" min="0">
-    </div>
-    <div class="filter-group">
-      <span class="filter-label">Sahə (m²):</span>
-      <input type="number" id="area-min" placeholder="Min" min="0">
-      <span class="sep">–</span>
-      <input type="number" id="area-max" placeholder="Max" min="0">
-    </div>
-    <div class="filter-group">
-      <span class="filter-label">Torpaq (sot):</span>
-      <input type="number" id="sot-min" placeholder="Min" min="0">
-      <span class="sep">–</span>
-      <input type="number" id="sot-max" placeholder="Max" min="0">
-    </div>
-    <div class="filter-group">
-      <span class="filter-label">₼/m²:</span>
-      <input type="number" id="ppm2-min" placeholder="Min" min="0">
-      <span class="sep">–</span>
-      <input type="number" id="ppm2-max" placeholder="Max" min="0">
-    </div>
-    <div class="filter-group">
-      <span class="filter-label">Otaq:</span>
-      <select id="rooms-filter">
-        <option value="">Hamısı</option>
-        <option value="1">1</option>
-        <option value="2">2</option>
-        <option value="3">3</option>
-        <option value="4">4</option>
-        <option value="5">5+</option>
-      </select>
-    </div>
-    <div class="filter-group">
-      <span class="filter-label">Təmir:</span>
-      <select id="repair-filter">
-        <option value="">Hamısı</option>
-        <option value="yes">Var</option>
-        <option value="no">Yox</option>
-      </select>
-    </div>
-    <div class="filter-group">
-      <span class="filter-label">Elan sahibi:</span>
-      <select id="agency-filter">
-        <option value="">Hamısı</option>
-        <option value="owner">Mülkiyyətçi</option>
-        <option value="agency">Agentlik</option>
-      </select>
-    </div>
-    <div class="filter-group">
-      <span class="filter-label">Çıxarış:</span>
-      <select id="kupca-filter">
-        <option value="">Hamısı</option>
-        <option value="yes">Var</option>
-        <option value="no">Yox</option>
-      </select>
-    </div>
-  </div>
-
 </div>
 
-<div class="stats-bar" id="stats-bar">Yüklənir…</div>
-<div class="grid" id="grid"></div>
-<div class="pagination" id="pagination" style="display:none"></div>
+<!-- ── Tab bar ── -->
+<div class="tab-bar">
+  <button class="tab active" data-tab="listings">Elanlar</button>
+  <button class="tab" data-tab="analytics">Analitika</button>
+  <button class="tab" data-tab="map">Xəritə</button>
+</div>
+
+<!-- ── Tab: Listings ── -->
+<div id="tab-listings" class="tab-content active">
+  <div class="stats-bar" id="stats-bar">Yüklənir…</div>
+  <div class="grid" id="grid"></div>
+  <div class="pagination" id="pagination" style="display:none"></div>
+</div>
+
+<!-- ── Tab: Analytics ── -->
+<div id="tab-analytics" class="tab-content" style="display:none">
+  <div class="page-content" id="analytics-content">
+    <div class="spinner"></div>
+  </div>
+</div>
+
+<!-- ── Tab: Map ── -->
+<div id="tab-map" class="tab-content map-tab-content" style="display:none">
+  <div class="map-tab-controls">
+    <span class="map-stats" id="map-stats">Yüklənir…</span>
+    <div class="view-toggle">
+      <button class="view-btn active" id="btn-markers">Markerlər</button>
+      <button class="view-btn" id="btn-choropleth">Qiymət xəritəsi</button>
+    </div>
+  </div>
+  <div id="map"></div>
+  <div class="map-legend" id="marker-legend">
+    <div class="legend-item"><div class="legend-dot" style="background:#6366f1"></div> Mənzil</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#4ade80"></div> Həyət evi</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#f59e0b"></div> Torpaq</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#ef4444"></div> Kommersiya</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#06b6d4"></div> Ofis</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#8b5cf6"></div> Qaraj</div>
+  </div>
+  <div class="choropleth-legend" id="choropleth-legend">
+    <div class="choropleth-legend-title">Orta ₼/m²</div>
+    <div class="choro-item"><div class="choro-swatch" style="background:#dcfce7"></div><span id="choro-l1">Aşağı</span></div>
+    <div class="choro-item"><div class="choro-swatch" style="background:#86efac"></div><span id="choro-l2"></span></div>
+    <div class="choro-item"><div class="choro-swatch" style="background:#fef08a"></div><span id="choro-l3">Orta</span></div>
+    <div class="choro-item"><div class="choro-swatch" style="background:#fdba74"></div><span id="choro-l4"></span></div>
+    <div class="choro-item"><div class="choro-swatch" style="background:#f87171"></div><span id="choro-l5">Yüksək</span></div>
+  </div>
+</div>
 
 <script src="script.js"></script>
 </body>
