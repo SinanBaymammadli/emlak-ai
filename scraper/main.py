@@ -65,7 +65,7 @@ def _room_label(room: str) -> str:
     return m.group(1) if m else room
 
 
-def _file_stem(category: str, deal_type: str, room: str | None = None, building: str | None = None, kupca: bool | None = None) -> str:
+def _file_stem(category: str, deal_type: str, room: str | None = None, building: str | None = None, kupca: bool | None = None, price_band: str | None = None) -> str:
     parts = [category, deal_type]
     if building:
         parts.append(building)
@@ -75,20 +75,22 @@ def _file_stem(category: str, deal_type: str, room: str | None = None, building:
         parts.append("nokupca")
     if room:
         parts.append(_room_label(room))
+    if price_band:
+        parts.append(price_band)
     return "_".join(parts)
 
 
-def load_existing(category: str, deal_type: str, room: str | None = None, building: str | None = None, kupca: bool | None = None) -> dict[str, dict]:
-    path = DATA_DIR / f"{_file_stem(category, deal_type, room, building, kupca)}.json"
+def load_existing(category: str, deal_type: str, room: str | None = None, building: str | None = None, kupca: bool | None = None, price_band: str | None = None) -> dict[str, dict]:
+    path = DATA_DIR / f"{_file_stem(category, deal_type, room, building, kupca, price_band)}.json"
     if not path.exists():
         return {}
     listings = json.loads(path.read_text(encoding="utf-8"))
     return {l["id"]: l for l in listings}
 
 
-def save_listings(category: str, deal_type: str, listings: dict[str, dict], room: str | None = None, building: str | None = None, kupca: bool | None = None) -> None:
+def save_listings(category: str, deal_type: str, listings: dict[str, dict], room: str | None = None, building: str | None = None, kupca: bool | None = None, price_band: str | None = None) -> None:
     DATA_DIR.mkdir(exist_ok=True)
-    path = DATA_DIR / f"{_file_stem(category, deal_type, room, building, kupca)}.json"
+    path = DATA_DIR / f"{_file_stem(category, deal_type, room, building, kupca, price_band)}.json"
     sorted_listings = sorted(
         listings.values(),
         key=lambda l: (l["deleted_at"] is not None, l.get("last_seen_at", "")),
@@ -103,7 +105,7 @@ def save_listings(category: str, deal_type: str, listings: dict[str, dict], room
 
 def merge_room_files(category: str, deal_type: str) -> None:
     """Merge all sub-files into the combined category file, deduped by listing ID."""
-    from scraper.categories import _ROOMS, _BUILDING_TYPES, _KUPCA
+    from scraper.categories import _ROOMS, _BUILDING_TYPES, _KUPCA, _PRICE_BANDS, _PRICE_SPLIT_ROOMS
     merged: dict[str, dict] = {}
 
     buildings: list[str | None] = [None]
@@ -115,13 +117,15 @@ def merge_room_files(category: str, deal_type: str) -> None:
     for building in buildings:
         for kupca in kupca_list:
             for room in _ROOMS:
-                path = DATA_DIR / f"{_file_stem(category, deal_type, room, building, kupca)}.json"
-                if not path.exists():
-                    continue
-                for listing in json.loads(path.read_text(encoding="utf-8")):
-                    lid = listing["id"]
-                    if lid not in merged or listing.get("last_seen_at", "") > merged[lid].get("last_seen_at", ""):
-                        merged[lid] = listing
+                bands: list[str | None] = [b[0] for b in _PRICE_BANDS] if room in _PRICE_SPLIT_ROOMS else [None]
+                for price_band in bands:
+                    path = DATA_DIR / f"{_file_stem(category, deal_type, room, building, kupca, price_band)}.json"
+                    if not path.exists():
+                        continue
+                    for listing in json.loads(path.read_text(encoding="utf-8")):
+                        lid = listing["id"]
+                        if lid not in merged or listing.get("last_seen_at", "") > merged[lid].get("last_seen_at", ""):
+                            merged[lid] = listing
 
     if merged:
         save_listings(category, deal_type, merged)
@@ -192,14 +196,16 @@ async def scrape_category(page, cfg: dict) -> None:
     room = cfg.get("room")
     building = cfg.get("building")
     kupca = cfg.get("kupca")
+    price_band = cfg.get("price_band")
     parts = [category, deal_type]
     if building: parts.append(building)
     if kupca is True: parts.append("kupca")
     elif kupca is False: parts.append("nokupca")
     if room: parts.append(f"{_room_label(room)}otaq")
+    if price_band: parts.append(price_band)
     print(f"\n→ {'/'.join(parts)}")
 
-    existing = load_existing(category, deal_type, room, building, kupca)
+    existing = load_existing(category, deal_type, room, building, kupca, price_band)
 
     total = await load_category_page(page, url)
     print(f"  total on site: {total}")
@@ -249,7 +255,7 @@ async def scrape_category(page, cfg: dict) -> None:
         counts[result] += 1
 
     deleted = mark_deleted(existing, seen_ids)
-    save_listings(category, deal_type, existing, room, building, kupca)
+    save_listings(category, deal_type, existing, room, building, kupca, price_band)
 
     print(
         f"  new={counts['new']} updated={counts['updated']} "
@@ -318,6 +324,7 @@ if __name__ == "__main__":
         if c.get("kupca") is True: parts.append("kupca")
         elif c.get("kupca") is False: parts.append("nokupca")
         if c.get("room"): parts.append(_room_label(c["room"]))
+        if c.get("price_band"): parts.append(c["price_band"])
         return "_".join(parts)
 
     if len(sys.argv) > 1:

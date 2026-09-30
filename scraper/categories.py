@@ -2,12 +2,20 @@ _BASE = "items_view=list&sorting=bumped_at+desc"
 _ROOMS = ["1", "2", "3", "4", "5%2B"]  # 5%2B = "5+" URL-encoded
 _BUILDING_TYPES = ["yeni-tikili", "kohne-tikili"]
 _KUPCA = [True, False]  # has_bill_of_sale
+_PRICE_SPLIT_ROOMS = {"3"}  # rooms that get an extra price-range split
+_PRICE_BANDS = [("lo", None, 300_000), ("hi", 300_001, None)]  # (label, min, max)
 
 
-def _room_url(base_path: str, room: str, kupca: bool | None = None) -> str:
+def _room_url(base_path: str, room: str, kupca: bool | None = None, price_band: tuple | None = None) -> str:
     url = f"{base_path}?{_BASE}&room_ids%5B%5D={room}"
     if kupca is not None:
         url += f"&has_bill_of_sale={'true' if kupca else 'false'}"
+    if price_band:
+        _, pmin, pmax = price_band
+        if pmin is not None:
+            url += f"&price_from={pmin}"
+        if pmax is not None:
+            url += f"&price_to={pmax}"
     return url
 
 
@@ -20,6 +28,7 @@ def _plain_url(base_path: str) -> str:
 # After scraping, main.py merges sub-files into the final category file.
 CATEGORIES = [
     # ── Apartments (sale) — yeni/kohne × kupca/nokupca × 5 rooms ─────────────
+    # Rooms in _PRICE_SPLIT_ROOMS are further split by price band.
     *[
         {
             "category": "apartment",
@@ -27,11 +36,17 @@ CATEGORIES = [
             "building": btype.replace("-tikili", ""),
             "kupca": kupca,
             "room": room,
-            "url": _room_url(f"https://bina.az/baki/alqi-satqi/menziller/{btype}", room, kupca),
+            "price_band": band[0] if room in _PRICE_SPLIT_ROOMS else None,
+            "url": _room_url(
+                f"https://bina.az/baki/alqi-satqi/menziller/{btype}",
+                room, kupca,
+                band if room in _PRICE_SPLIT_ROOMS else None,
+            ),
         }
         for btype in _BUILDING_TYPES
         for kupca in _KUPCA
         for room in _ROOMS
+        for band in (_PRICE_BANDS if room in _PRICE_SPLIT_ROOMS else [(None, None, None)])
     ],
 
     # ── Apartments (rental) — yeni/kohne × kupca/nokupca × 5 rooms ───────────
@@ -42,11 +57,17 @@ CATEGORIES = [
             "building": btype.replace("-tikili", ""),
             "kupca": kupca,
             "room": room,
-            "url": _room_url(f"https://bina.az/baki/kiraye/menziller/{btype}", room, kupca),
+            "price_band": band[0] if room in _PRICE_SPLIT_ROOMS else None,
+            "url": _room_url(
+                f"https://bina.az/baki/kiraye/menziller/{btype}",
+                room, kupca,
+                band if room in _PRICE_SPLIT_ROOMS else None,
+            ),
         }
         for btype in _BUILDING_TYPES
         for kupca in _KUPCA
         for room in _ROOMS
+        for band in (_PRICE_BANDS if room in _PRICE_SPLIT_ROOMS else [(None, None, None)])
     ],
 
     # ── Houses (sale) — one entry per room count ──────────────────────────────
