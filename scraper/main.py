@@ -257,9 +257,7 @@ async def scrape_category(page, cfg: dict) -> None:
         raw_cards = await extract_cards(page)
         raw_cards = raw_cards[:SCRAPE_LIMIT]
     else:
-        # Use incremental stop when we have enough existing data (not a first-time full scrape)
-        stop_fn = make_stop_check(existing, parser) if len(existing) >= 100 else None
-        raw_cards = await scroll_and_extract(page, target=total, stop_check=stop_fn)
+        raw_cards = await scroll_and_extract(page, target=total)
     print(f"  cards extracted: {len(raw_cards)}")
     seen_ids: set[str] = set()
     counts = {"new": 0, "updated": 0, "unchanged": 0}
