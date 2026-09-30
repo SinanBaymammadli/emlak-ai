@@ -100,7 +100,7 @@ def save_listings(category: str, deal_type: str, listings: dict[str, dict], room
     path = DATA_DIR / f"{_file_stem(category, deal_type, room, building, kupca, price_band)}.json"
     sorted_listings = sorted(
         listings.values(),
-        key=lambda l: (l["deleted_at"] is not None, l.get("last_seen_at", "")),
+        key=lambda l: (l["deleted_at"] is not None, l.get("updated_at_site") or l.get("first_seen_at", "")),
         reverse=False,
     )
     # Escape U+2028 / U+2029 — Python's json module leaves them unescaped but
@@ -135,7 +135,7 @@ def merge_room_files(category: str, deal_type: str) -> None:
                         continue
                     for listing in _json_loads(path.read_text(encoding="utf-8")):
                         lid = listing["id"]
-                        if lid not in merged or listing.get("last_seen_at", "") > merged[lid].get("last_seen_at", ""):
+                        if lid not in merged or (listing.get("updated_at_site") or listing.get("first_seen_at", "")) > (merged[lid].get("updated_at_site") or merged[lid].get("first_seen_at", "")):
                             merged[lid] = listing
 
     if merged:
@@ -158,7 +158,6 @@ def upsert(
             "deal_type": deal_type,
             "url": f"https://bina.az/items/{item_id}",
             "first_seen_at": now,
-            "last_seen_at": now,
             "deleted_at": None,
             "price_history": (
                 [{"price": listing["price"], "date": now}]
@@ -178,14 +177,13 @@ def upsert(
     new_price = listing.get("price")
 
     if new_price != old_price:
-        record.update({**listing, "last_seen_at": now})
+        record.update(listing)
         if new_price is not None:
             record.setdefault("price_history", []).append(
                 {"price": new_price, "date": now}
             )
         return "updated"
 
-    record["last_seen_at"] = now
     return "unchanged"
 
 
@@ -226,7 +224,7 @@ def mark_deleted(existing: dict[str, dict], seen_ids: set[str], stale_days: int 
         if item_id in seen_ids:
             continue
         # Only mark deleted if updated_at_site is older than cutoff (stale listing)
-        updated = record.get("updated_at_site") or record.get("last_seen_at", "")
+        updated = record.get("updated_at_site") or record.get("first_seen_at", "")
         if updated < cutoff:
             record["deleted_at"] = now.isoformat()
             count += 1
