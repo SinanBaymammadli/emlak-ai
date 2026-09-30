@@ -1,37 +1,5 @@
 [
   {
-    "id": "6486450",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F23%2F20%2F57%2F34%2F9d0830b8-b93d-4ca2-8ee1-bc3e3ae765fb%2F55876_lw8n0kppmxoIs9Jn__gxHQ.jpg",
-    "price": 850,
-    "location": "Sahil m.",
-    "area_m2": "40 m²",
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.37522511441532,
-    "lng": 49.83915894380732,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-23T21:02:45+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı ofis 40 m²",
-    "description": "[22:35, 22.09.2026] Sayyara Karimova: Сдаётся уютный и полностью готовый к работе офис на 1-м этаже в архитектурном центре города.\r\n📐 Площадь — 40 м²\r\n▪️ 2 комнаты\r\n▪️ Отдельный вход через закрытый блок с кодовым замком\r\n▪️ Высокие потолки\r\n▪️ Все окна выходят на улицу\r\n▪️ Дизайнерский ремонт высокого уровня\r\n▪️ Современная мебель\r\n▪️ Телевизор\r\n▪️ Кондиционер\r\n▪️ Система отопления комби\r\n▪️ Система видеонаблюдения\r\nПомещение полностью готово к использованию и не требует дополнительных вложений.\r\n[22:35, 22.09.2026] Sayyara Karimova: ŞƏHƏRİN MƏRKƏZİNDƏ OFİS İCARƏYƏ VERİLİR\r\n\r\nŞəhərin memarlıq mərkəzində, 1-ci mərtəbədə yerləşən, rahat və tam hazır ofis icarəyə verilir.\r\n\r\n📐 Sahəsi — 40 m²\r\n▪️ 2 otaq\r\n▪️ Kodlu kilid sistemi olan qapalı blokdan ayrıca giriş\r\n▪️ Hündür tavanlar\r\n▪️ Bütün pəncərələr küçəyə baxır\r\n▪️ Yüksək səviyyəli dizayner təmiri\r\n▪️ Müasir mebel\r\n▪️ Televizor\r\n▪️ Kondisioner\r\n▪️ Kombi istilik sistemi\r\n▪️ Videomüşahidə sistemi\r\n\r\nMəkan tam istifadəyə hazırdır və əlavə xərc tələb etmir.",
-    "building_type": "Ofis",
-    "location_id": "38",
-    "location_name": "Sahil",
-    "category": "office",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6486450",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 850,
-        "date": "2026-09-30T19:57:52.244038+00:00"
-      }
-    ]
-  },
-  {
     "id": "6486614",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F23%2F23%2F27%2F42%2F2a60f621-f1bc-4dab-9717-5fd6d3b5213d%2F87746_UCpV3XaGeVFeG3w36DE3rw.jpg",
     "price": 300,
@@ -50204,6 +50172,38 @@
       {
         "price": 430,
         "date": "2026-09-30T19:57:52.244046+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6486450",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F23%2F20%2F57%2F34%2F9d0830b8-b93d-4ca2-8ee1-bc3e3ae765fb%2F55876_lw8n0kppmxoIs9Jn__gxHQ.jpg",
+    "price": 850,
+    "location": "Sahil m.",
+    "area_m2": "40 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.37522511441532,
+    "lng": 49.83915894380732,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-09-23T21:02:45+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı ofis 40 m²",
+    "description": "[22:35, 22.09.2026] Sayyara Karimova: Сдаётся уютный и полностью готовый к работе офис на 1-м этаже в архитектурном центре города.\r\n📐 Площадь — 40 м²\r\n▪️ 2 комнаты\r\n▪️ Отдельный вход через закрытый блок с кодовым замком\r\n▪️ Высокие потолки\r\n▪️ Все окна выходят на улицу\r\n▪️ Дизайнерский ремонт высокого уровня\r\n▪️ Современная мебель\r\n▪️ Телевизор\r\n▪️ Кондиционер\r\n▪️ Система отопления комби\r\n▪️ Система видеонаблюдения\r\nПомещение полностью готово к использованию и не требует дополнительных вложений.\r\n[22:35, 22.09.2026] Sayyara Karimova: ŞƏHƏRİN MƏRKƏZİNDƏ OFİS İCARƏYƏ VERİLİR\r\n\r\nŞəhərin memarlıq mərkəzində, 1-ci mərtəbədə yerləşən, rahat və tam hazır ofis icarəyə verilir.\r\n\r\n📐 Sahəsi — 40 m²\r\n▪️ 2 otaq\r\n▪️ Kodlu kilid sistemi olan qapalı blokdan ayrıca giriş\r\n▪️ Hündür tavanlar\r\n▪️ Bütün pəncərələr küçəyə baxır\r\n▪️ Yüksək səviyyəli dizayner təmiri\r\n▪️ Müasir mebel\r\n▪️ Televizor\r\n▪️ Kondisioner\r\n▪️ Kombi istilik sistemi\r\n▪️ Videomüşahidə sistemi\r\n\r\nMəkan tam istifadəyə hazırdır və əlavə xərc tələb etmir.",
+    "building_type": "Ofis",
+    "location_id": "38",
+    "location_name": "Sahil",
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6486450",
+    "deleted_at": "2026-09-30T21:07:02.570295+00:00",
+    "price_history": [
+      {
+        "price": 850,
+        "date": "2026-09-30T19:57:52.244038+00:00"
       }
     ]
   }
