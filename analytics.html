@@ -94,7 +94,8 @@ async function loadFile(cat, type) {
 }
 
 let allListings = [];
-let selCat = 'all';
+let selCat  = 'all';
+let selType = 'all';
 const charts = {};
 
 async function loadAll() {
@@ -106,7 +107,8 @@ async function loadAll() {
 
 function filtered() {
   let list = allListings.filter(l => !l.deleted_at);
-  if (selCat !== 'all') list = list.filter(l => l.category === selCat);
+  if (selCat  !== 'all') list = list.filter(l => l.category  === selCat);
+  if (selType !== 'all') list = list.filter(l => l.deal_type === selType);
   return list;
 }
 
@@ -125,9 +127,14 @@ function buildHTML() {
         <button class="chip ${selCat===c?'active':''}" data-cat="${c}">${c==='all'?'Hamısı':catLabel(c)}</button>
       `).join('')}
     </div>
+    <div class="filter-row" id="type-filter">
+      <button class="chip ${selType==='all'?'active':''}"    data-type="all">Satış + Kirayə</button>
+      <button class="chip ${selType==='sale'?'active':''}"   data-type="sale">Satış</button>
+      <button class="chip ${selType==='rental'?'active':''}" data-type="rental">Kirayə</button>
+    </div>
     <div class="stat-tiles" id="stat-tiles">
       <div class="stat-tile"><div class="label">Aktiv elanlar</div><div class="value" id="s-total">—</div></div>
-      <div class="stat-tile"><div class="label">Orta qiymət</div><div class="value" id="s-avg-price">—</div></div>
+      <div class="stat-tile"><div class="label">${selType==='rental'?'Orta kirayə (₼/ay)':'Orta qiymət'}</div><div class="value" id="s-avg-price">—</div></div>
       <div class="stat-tile"><div class="label">Orta ₼/m²</div><div class="value" id="s-avg-ppm2">—</div></div>
       <div class="stat-tile"><div class="label">Unikal məkanlar</div><div class="value" id="s-locs">—</div></div>
     </div>
@@ -138,7 +145,7 @@ function buildHTML() {
       <div class="chart-card"><h3>Satış vs Kirayə</h3><div class="chart-wrap" style="height:240px"><canvas id="c-deal"></canvas></div></div>
       <div class="chart-card"><h3>Yeni vs Köhnə tikili</h3><div class="chart-wrap" style="height:240px"><canvas id="c-build"></canvas></div></div>
       <div class="chart-card"><h3>Agentlik vs Mülkiyyətçi</h3><div class="chart-wrap" style="height:240px"><canvas id="c-agency"></canvas></div></div>
-      <div class="chart-card full-width"><h3>Qiymət paylanması (satış)</h3><div class="chart-wrap" style="height:240px"><canvas id="c-price-dist"></canvas></div></div>
+      <div class="chart-card full-width"><h3>Qiymət paylanması${selType==='rental'?' (kirayə)':' (satış)'}</h3><div class="chart-wrap" style="height:240px"><canvas id="c-price-dist"></canvas></div></div>
     </div>`;
 }
 
@@ -146,6 +153,11 @@ function wireFilters() {
   document.getElementById('cat-filter').addEventListener('click', e => {
     const btn = e.target.closest('.chip'); if (!btn) return;
     selCat = btn.dataset.cat;
+    render();
+  });
+  document.getElementById('type-filter').addEventListener('click', e => {
+    const btn = e.target.closest('.chip'); if (!btn) return;
+    selType = btn.dataset.type;
     render();
   });
 }
