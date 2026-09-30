@@ -1,38 +1,5 @@
 [
   {
-    "id": "6501022",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F29%2F12%2F02%2F21%2Fa0e3608f-f60d-46d6-9f0b-4d5b9e64d6c9%2F34263_qH6QfWCJdMDnu2rKjtRIOg.jpg",
-    "price": 200000,
-    "location": "Avtovağzal m.",
-    "rooms": "5 otaqlı",
-    "area_m2": "150 m²",
-    "floor": "5/5 mərtəbə",
-    "is_agency": true,
-    "lat": 40.42661924514651,
-    "lng": 49.79855550964785,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 5,
-    "updated_at_site": "2026-09-29T12:25:20+04:00",
-    "is_featured": false,
-    "title": "Satılır 5 otaqlı köhnə tikili 150 m²",
-    "description": "🏠 METROYA YAXIN 5 OTAQLI MƏNZİL SATILIR!\r\n\r\n📍 5 mərtəbəli binanın 5-ci mərtəbəsində yerləşir.\r\n📐 Ümumi sahəsi 150 kv.m\r\n🛏️ 5 otaqlıdır\r\n\r\nMənzil tam təmirli və bütün şəraiti olan vəziyyətdədir. Yaşayış üçün lazım olan hər şey mövcuddur.\r\n\r\n✅ Qaz, su, işıq daimidir\r\n✅ İnternet problemsizdir\r\n✅ Kombi istilik sistemi\r\n✅ Kondisioner\r\n✅ Paltaryuyan maşın\r\n✅ Soyuducu\r\n✅ Mikrodalğalı soba və digər məişət avadanlıqları\r\n\r\n📑 Kupça (çıxarış) var, sənədləri tam qaydasındadır.\r\n\r\n📞 Əlavə məlumat və digər mənzillərlə bağlı məlumat almaq üçün zəng edə bilərsiniz.",
-    "building_type": "Köhnə tikili",
-    "location_id": "266",
-    "location_name": "Avtovağzal",
-    "category": "apartment",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6501022",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 200000,
-        "date": "2026-09-30T18:40:00.552208+00:00"
-      }
-    ]
-  },
-  {
     "id": "6429478",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F03%2F12%2F28%2F02%2F9b044293-1a6a-444f-a5c7-f28515223caa%2F63816_YOZ0IsmB3iaWqc5rYXMTzA.jpg",
     "price": 370000,
@@ -57,7 +24,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6429478",
-    "deleted_at": "2026-09-30T21:07:23.976554+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 370000,
@@ -90,7 +57,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6465073",
-    "deleted_at": "2026-09-30T21:07:23.976554+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 275000,
@@ -123,11 +90,44 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6472083",
-    "deleted_at": "2026-09-30T21:07:23.976554+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 330000,
         "date": "2026-09-30T18:40:00.621582+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6501022",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F29%2F12%2F02%2F21%2Fa0e3608f-f60d-46d6-9f0b-4d5b9e64d6c9%2F34263_qH6QfWCJdMDnu2rKjtRIOg.jpg",
+    "price": 200000,
+    "location": "Avtovağzal m.",
+    "rooms": "5 otaqlı",
+    "area_m2": "150 m²",
+    "floor": "5/5 mərtəbə",
+    "is_agency": true,
+    "lat": 40.42661924514651,
+    "lng": 49.79855550964785,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 5,
+    "updated_at_site": "2026-09-29T12:25:20+04:00",
+    "is_featured": false,
+    "title": "Satılır 5 otaqlı köhnə tikili 150 m²",
+    "description": "🏠 METROYA YAXIN 5 OTAQLI MƏNZİL SATILIR!\r\n\r\n📍 5 mərtəbəli binanın 5-ci mərtəbəsində yerləşir.\r\n📐 Ümumi sahəsi 150 kv.m\r\n🛏️ 5 otaqlıdır\r\n\r\nMənzil tam təmirli və bütün şəraiti olan vəziyyətdədir. Yaşayış üçün lazım olan hər şey mövcuddur.\r\n\r\n✅ Qaz, su, işıq daimidir\r\n✅ İnternet problemsizdir\r\n✅ Kombi istilik sistemi\r\n✅ Kondisioner\r\n✅ Paltaryuyan maşın\r\n✅ Soyuducu\r\n✅ Mikrodalğalı soba və digər məişət avadanlıqları\r\n\r\n📑 Kupça (çıxarış) var, sənədləri tam qaydasındadır.\r\n\r\n📞 Əlavə məlumat və digər mənzillərlə bağlı məlumat almaq üçün zəng edə bilərsiniz.",
+    "building_type": "Köhnə tikili",
+    "location_id": "266",
+    "location_name": "Avtovağzal",
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6501022",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 200000,
+        "date": "2026-09-30T18:40:00.552208+00:00"
       }
     ]
   }
