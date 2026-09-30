@@ -1,107 +1,5 @@
 [
   {
-    "id": "6486482",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F23%2F21%2F14%2F12%2F43e8f6ad-7046-41e3-8a0f-bc9736e367f2%2F90032_nzmM-4j145hWiFPixyRIeA.jpg",
-    "price": 175000,
-    "location": "Əhmədli m.",
-    "rooms": "7 otaqlı",
-    "area_m2": "130 m²",
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.38022804259452,
-    "lng": 49.94920334024025,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-23T21:23:58+04:00",
-    "is_featured": false,
-    "title": "Satılır 7 otaqlı həyət evi/bağ evi 130 m²",
-    "description": "Menzil Kend Ehmedlinin girisi.Ehmedli metrosuna 5 daq mesafada yerlasir.\r\nMenzilin qaz.su isiq saygaci var.daimidi.Istilik sistemi kombidi.Yolun kenaridi.42 nomali avtobus evin yaninda dayanir.Internet xatii var .Tv var.Sened belediyya.Elava melumat ucun elaqa saxlayin.Ev sahibiyem.",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "51",
-    "location_name": "Əhmədli",
-    "land_area_sot": 3,
-    "category": "house",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6486482",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 175000,
-        "date": "2026-09-30T19:53:23.451334+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6486497",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F23%2F21%2F29%2F51%2F03a525f6-41f9-4b61-bbe4-d8eff7180b02%2F66416_P5KnGB_7ynmDB8ABaP99hQ.jpg",
-    "price": 250000,
-    "location": "Biləcəri q.",
-    "rooms": "6 otaqlı",
-    "area_m2": "225 m²",
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.44587645120014,
-    "lng": 49.78671785505378,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-23T21:32:29+04:00",
-    "is_featured": false,
-    "title": "Satılır 6 otaqlı həyət evi/bağ evi 225 m²",
-    "description": "3 sanuzeli var manqalxana qurulması işlərin böyük hissəsi görülüb\r\n\r\nƏşyalı, 6 Otaqlı 2 Mərtəbəli Həyət Evidir. Tam yeni təmirli evdir.\r\n \r\nEv tipi: 2 mərtəbəli həyət evi\r\nEvin sahəsi: 226 m²\r\nTorpaq sahəsi: 2,3 sot\r\nOtaq sayı: 6 otaq\r\nKupça: Bu ildən veriləcək. Bütün sənədləri qeydiyyatdan keçib. Bələdiyyə sənədidir\r\nTəmir: Yüksək səviyyəli dizaynla tam təmirli\r\n\r\n Plan və Tikinti:\r\n 1-ci mərtəbə: Kolidor, geniş zal, mətbəx, qarderob otağı, hamam-tualet\r\n 2-ci mərtəbə: Kolidor, 4 otaq, hamam-tualet, balkon\r\n\r\nƏlavə Üstünlüklər:\r\nHəyətdə su çəni quraşdırılıb\r\nQaz, su, işıq daimidir və 24 saat kamera işləyir\r\n\r\nYaxınlıqda məktəb, supermarket, dayanacağa bir dəqiqəlik yoldur.\r\n\r\nRahat və əlverişli infrastruktur\r\n",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "17",
-    "location_name": "Biləcəri",
-    "land_area_sot": 2.3,
-    "category": "house",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6486497",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 250000,
-        "date": "2026-09-30T19:53:23.451324+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6249383",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F29%2F11%2F11%2F22%2Fc45457fa-b6ff-487d-9211-a57158610c4c%2F74001_URpxmezxuUoYvgd0g2mw2Q.jpg",
-    "price": 340000,
-    "location": "Qaraçuxur q.",
-    "rooms": "6 otaqlı",
-    "area_m2": "320 m²",
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.39287163030937,
-    "lng": 49.98299239615971,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": null,
-    "updated_at_site": "2026-09-23T21:34:35+04:00",
-    "is_featured": false,
-    "title": "Satılır 6 otaqlı həyət evi/bağ evi 320 m²",
-    "description": "🏡 PREMİUM VİLLA – TƏCİLİ SATILIR!\r\n\r\n📜 Paket Kupçalı (Ev + Torpaq)\r\n🏦 İpotekaya Yararlı\r\n🏗️ Şəxsi Tikili\r\n\r\n📍 Qaraçuxur qəsəbəsi\r\nAura Şadlıq Sarayı və Araz Marketə yaxın, elit məhəllədə yerləşən möhtəşəm 3 mərtəbəli villa satışdadır.\r\n\r\n📐 Əsas Məlumatlar\r\n✨ Torpaq sahəsi – 3 sot\r\n✨ Yaşayış sahəsi – 330 kv.m\r\n✨ 6 otaq\r\n✨ Geniş və funksional layihə\r\n\r\n🛠️ Tikintinin Keyfiyyəti\r\n🔹 Beton kolonlarla inşa olunub\r\n🔹 Hər iki mərtəbənin arakəsmələri monolit betondur\r\n🔹 80×80 sm möhkəm beton bünövrə\r\n🔹 Daxili pilləkənlər tam monolit betondur\r\n\r\n🎨 Təmir və Komfort\r\n♨️ Hər iki mərtəbə tam isti döşəmə sistemi ilə təmin olunub.\r\n🪨 Fasadı təbii aqlay daş ilə üzlənib.\r\n🌿 Həyətdə istirahət üçün gözəl besedka mövcuddur.\r\n\r\n🌟 Ərazi Üstünlükləri\r\n🚗 Qapıya qədər tam asfalt yol\r\n🏘️ Elit villalar olan küçədə yerləşir\r\n📏 Küçənin eni 8 metr\r\n💧 Qaz, su, işıq\r\n🌐 Optik internet\r\n🚰 Mərkəzi kanalizasiya sistemi\r\n\r\n🔐 Qonşuların razılığı ilə küçəyə şlaqbaum quraşdırılacaq və hər ev sahibinə idarəetmə pultu təqdim olunacaq.\r\n\r\n💎 Qeyd:\r\nEvin tikinti keyfiyyətinə tam zəmanət verilir. Real alıcı istədiyi mütəxəssis və ya mühəndislə birlikdə evə baxış keçirə bilər.\r\n\r\n📞 Belə keyfiyyətli, sənədləri tam qaydasında olan villalar bazarda çox nadir hallarda satışa çıxır. Ətraflı məlumat və baxış üçün əlaqə saxlayın.",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "75",
-    "location_name": "Qaraçuxur",
-    "land_area_sot": 3,
-    "category": "house",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6249383",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 340000,
-        "date": "2026-09-30T19:53:23.451316+00:00"
-      }
-    ]
-  },
-  {
     "id": "6320592",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F25%2F13%2F57%2F43%2Fd9403394-29a4-46ff-b8ab-4f1219b74cee%2F55105_8fMwDuXa66QxTAei11KPCw.jpg",
     "price": 225000,
@@ -163264,6 +163162,108 @@
       {
         "price": 125000,
         "date": "2026-09-30T19:53:23.451342+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6486482",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F23%2F21%2F14%2F12%2F43e8f6ad-7046-41e3-8a0f-bc9736e367f2%2F90032_nzmM-4j145hWiFPixyRIeA.jpg",
+    "price": 175000,
+    "location": "Əhmədli m.",
+    "rooms": "7 otaqlı",
+    "area_m2": "130 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38022804259452,
+    "lng": 49.94920334024025,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-09-23T21:23:58+04:00",
+    "is_featured": false,
+    "title": "Satılır 7 otaqlı həyət evi/bağ evi 130 m²",
+    "description": "Menzil Kend Ehmedlinin girisi.Ehmedli metrosuna 5 daq mesafada yerlasir.\r\nMenzilin qaz.su isiq saygaci var.daimidi.Istilik sistemi kombidi.Yolun kenaridi.42 nomali avtobus evin yaninda dayanir.Internet xatii var .Tv var.Sened belediyya.Elava melumat ucun elaqa saxlayin.Ev sahibiyem.",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "51",
+    "location_name": "Əhmədli",
+    "land_area_sot": 3,
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6486482",
+    "deleted_at": "2026-09-30T21:53:39.309710+00:00",
+    "price_history": [
+      {
+        "price": 175000,
+        "date": "2026-09-30T19:53:23.451334+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6486497",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F23%2F21%2F29%2F51%2F03a525f6-41f9-4b61-bbe4-d8eff7180b02%2F66416_P5KnGB_7ynmDB8ABaP99hQ.jpg",
+    "price": 250000,
+    "location": "Biləcəri q.",
+    "rooms": "6 otaqlı",
+    "area_m2": "225 m²",
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.44587645120014,
+    "lng": 49.78671785505378,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-09-23T21:32:29+04:00",
+    "is_featured": false,
+    "title": "Satılır 6 otaqlı həyət evi/bağ evi 225 m²",
+    "description": "3 sanuzeli var manqalxana qurulması işlərin böyük hissəsi görülüb\r\n\r\nƏşyalı, 6 Otaqlı 2 Mərtəbəli Həyət Evidir. Tam yeni təmirli evdir.\r\n \r\nEv tipi: 2 mərtəbəli həyət evi\r\nEvin sahəsi: 226 m²\r\nTorpaq sahəsi: 2,3 sot\r\nOtaq sayı: 6 otaq\r\nKupça: Bu ildən veriləcək. Bütün sənədləri qeydiyyatdan keçib. Bələdiyyə sənədidir\r\nTəmir: Yüksək səviyyəli dizaynla tam təmirli\r\n\r\n Plan və Tikinti:\r\n 1-ci mərtəbə: Kolidor, geniş zal, mətbəx, qarderob otağı, hamam-tualet\r\n 2-ci mərtəbə: Kolidor, 4 otaq, hamam-tualet, balkon\r\n\r\nƏlavə Üstünlüklər:\r\nHəyətdə su çəni quraşdırılıb\r\nQaz, su, işıq daimidir və 24 saat kamera işləyir\r\n\r\nYaxınlıqda məktəb, supermarket, dayanacağa bir dəqiqəlik yoldur.\r\n\r\nRahat və əlverişli infrastruktur\r\n",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "17",
+    "location_name": "Biləcəri",
+    "land_area_sot": 2.3,
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6486497",
+    "deleted_at": "2026-09-30T21:53:39.309710+00:00",
+    "price_history": [
+      {
+        "price": 250000,
+        "date": "2026-09-30T19:53:23.451324+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6249383",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F29%2F11%2F11%2F22%2Fc45457fa-b6ff-487d-9211-a57158610c4c%2F74001_URpxmezxuUoYvgd0g2mw2Q.jpg",
+    "price": 340000,
+    "location": "Qaraçuxur q.",
+    "rooms": "6 otaqlı",
+    "area_m2": "320 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.39287163030937,
+    "lng": 49.98299239615971,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": null,
+    "updated_at_site": "2026-09-23T21:34:35+04:00",
+    "is_featured": false,
+    "title": "Satılır 6 otaqlı həyət evi/bağ evi 320 m²",
+    "description": "🏡 PREMİUM VİLLA – TƏCİLİ SATILIR!\r\n\r\n📜 Paket Kupçalı (Ev + Torpaq)\r\n🏦 İpotekaya Yararlı\r\n🏗️ Şəxsi Tikili\r\n\r\n📍 Qaraçuxur qəsəbəsi\r\nAura Şadlıq Sarayı və Araz Marketə yaxın, elit məhəllədə yerləşən möhtəşəm 3 mərtəbəli villa satışdadır.\r\n\r\n📐 Əsas Məlumatlar\r\n✨ Torpaq sahəsi – 3 sot\r\n✨ Yaşayış sahəsi – 330 kv.m\r\n✨ 6 otaq\r\n✨ Geniş və funksional layihə\r\n\r\n🛠️ Tikintinin Keyfiyyəti\r\n🔹 Beton kolonlarla inşa olunub\r\n🔹 Hər iki mərtəbənin arakəsmələri monolit betondur\r\n🔹 80×80 sm möhkəm beton bünövrə\r\n🔹 Daxili pilləkənlər tam monolit betondur\r\n\r\n🎨 Təmir və Komfort\r\n♨️ Hər iki mərtəbə tam isti döşəmə sistemi ilə təmin olunub.\r\n🪨 Fasadı təbii aqlay daş ilə üzlənib.\r\n🌿 Həyətdə istirahət üçün gözəl besedka mövcuddur.\r\n\r\n🌟 Ərazi Üstünlükləri\r\n🚗 Qapıya qədər tam asfalt yol\r\n🏘️ Elit villalar olan küçədə yerləşir\r\n📏 Küçənin eni 8 metr\r\n💧 Qaz, su, işıq\r\n🌐 Optik internet\r\n🚰 Mərkəzi kanalizasiya sistemi\r\n\r\n🔐 Qonşuların razılığı ilə küçəyə şlaqbaum quraşdırılacaq və hər ev sahibinə idarəetmə pultu təqdim olunacaq.\r\n\r\n💎 Qeyd:\r\nEvin tikinti keyfiyyətinə tam zəmanət verilir. Real alıcı istədiyi mütəxəssis və ya mühəndislə birlikdə evə baxış keçirə bilər.\r\n\r\n📞 Belə keyfiyyətli, sənədləri tam qaydasında olan villalar bazarda çox nadir hallarda satışa çıxır. Ətraflı məlumat və baxış üçün əlaqə saxlayın.",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "75",
+    "location_name": "Qaraçuxur",
+    "land_area_sot": 3,
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6249383",
+    "deleted_at": "2026-09-30T21:53:39.309710+00:00",
+    "price_history": [
+      {
+        "price": 340000,
+        "date": "2026-09-30T19:53:23.451316+00:00"
       }
     ]
   }
