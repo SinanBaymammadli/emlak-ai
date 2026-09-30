@@ -33,12 +33,19 @@ async def load_category_page(page, url: str) -> int:
     return total
 
 
-async def scroll_load_all(page) -> int:
-    """Scroll viewport-by-viewport to trigger IntersectionObserver lazy loading.
-    Continues from the last position so we never scroll back to the top mid-scrape.
+async def scroll_and_extract(page) -> list[dict]:
+    """Scroll and extract cards incrementally.
+
+    After every COLLAPSE_EVERY new cards, collapses already-processed cards to
+    keep the DOM lean and prevent the page slowing down past 10k+ items.
+    Returns the full list of extracted cards.
     """
+    COLLAPSE_EVERY = 200
+
     await page.set_viewport_size({"width": 1280, "height": 900})
+    all_cards: list[dict] = []
     prev, stalls, last_pos = 0, 0, 0
+
     while stalls < 3:
         scroll_height = await page.evaluate("() => document.body.scrollHeight")
         pos = last_pos
@@ -48,19 +55,50 @@ async def scroll_load_all(page) -> int:
             await page.wait_for_timeout(200)
         last_pos = pos
         await page.wait_for_timeout(1_500)
+
         count = await page.evaluate(
-            "() => document.querySelectorAll('.item-card').length"
+            "() => document.querySelectorAll('.item-card:not([data-x])').length"
         )
+
         if count > prev:
-            print(f"  scroll: {count} cards")
+            # Extract newly visible cards (not yet marked as extracted)
+            new_cards = await page.evaluate("""() => {
+                const results = [];
+                document.querySelectorAll('.item-card:not([data-x])').forEach(card => {
+                    const a = card.querySelector('a[href*="/items/"]');
+                    if (!a) return;
+                    const m = a.getAttribute('href').match(/\\/items\\/(\\d+)/);
+                    if (!m) return;
+                    const img = card.querySelector('img');
+                    const photo_url = img ? (img.src || img.dataset.src || null) : null;
+                    card.setAttribute('data-x', '1');
+                    results.push({id: m[1], text: card.innerText.trim(), photo_url});
+                });
+                return results;
+            }""")
+
+            all_cards.extend(new_cards)
+            print(f"  scroll: {len(all_cards)} extracted")
+
+            # Collapse processed cards every COLLAPSE_EVERY to keep DOM lean
+            if len(all_cards) % COLLAPSE_EVERY < len(new_cards):
+                await page.evaluate("""() => {
+                    document.querySelectorAll('.item-card[data-x]').forEach(c => {
+                        c.innerHTML = '';
+                        c.style.height = '4px';
+                        c.style.overflow = 'hidden';
+                    });
+                }""")
+
             prev, stalls = count, 0
         else:
             stalls += 1
-    return prev
+
+    return all_cards
 
 
 async def extract_cards(page) -> list[dict]:
-    """Extract all listing cards from the current page."""
+    """Extract all unprocessed listing cards (used for SCRAPE_LIMIT mode)."""
     await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
     await page.wait_for_timeout(1_000)
     return await page.evaluate("""() => {

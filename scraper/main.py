@@ -22,7 +22,7 @@ from scraper.browser import (
     fetch_item_graphql,
     load_category_page,
     open_browser,
-    scroll_load_all,
+    scroll_and_extract,
 )
 from scraper.categories import CATEGORIES
 from scraper.parser import PARSERS
@@ -150,11 +150,10 @@ async def scrape_category(page, cfg: dict) -> None:
     print(f"  total on site: {total}")
     if SCRAPE_LIMIT:
         print(f"  limit={SCRAPE_LIMIT} (test mode — skipping full scroll)")
-    else:
-        await scroll_load_all(page)
-    raw_cards = await extract_cards(page)
-    if SCRAPE_LIMIT:
+        raw_cards = await extract_cards(page)
         raw_cards = raw_cards[:SCRAPE_LIMIT]
+    else:
+        raw_cards = await scroll_and_extract(page)
     print(f"  cards extracted: {len(raw_cards)}")
 
     parser = PARSERS.get(category, PARSERS["apartment"])
