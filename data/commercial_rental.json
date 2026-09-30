@@ -1,37 +1,5 @@
 [
   {
-    "id": "6486453",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F23%2F20%2F51%2F47%2F2b527337-fb73-4cf5-83c0-e14d94afe0c4%2F55569_2TwpAxlgBI_uSy9FatZrsw.jpg",
-    "price": 700,
-    "location": "Azadlıq Prospekti m.",
-    "area_m2": "25 m²",
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.42010253494892,
-    "lng": 49.8374720649984,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-23T21:06:40+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir obyekt 25 m²",
-    "description": "10 saylı poliklinikanın həyətində sahəsi 25 m2 olan obyekti icarə verirəm. Market, meyvə dükanı, ofis və s. kimi tam yararlıdır. Daxilində sanitar qovşağı var. ",
-    "building_type": "Obyekt",
-    "location_id": "6",
-    "location_name": "Azadlıq Prospekti",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6486453",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 700,
-        "date": "2026-09-30T19:58:27.683308+00:00"
-      }
-    ]
-  },
-  {
     "id": "6486615",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F23%2F23%2F30%2F19%2Ffb93bddc-7799-4c38-80e1-31e0213c5818%2F2882_UKrsblPqtbS6XET-VKRIMQ.jpg",
     "price": 25000,
@@ -89084,6 +89052,38 @@
       {
         "price": 1800,
         "date": "2026-09-30T19:58:27.683317+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6486453",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F23%2F20%2F51%2F47%2F2b527337-fb73-4cf5-83c0-e14d94afe0c4%2F55569_2TwpAxlgBI_uSy9FatZrsw.jpg",
+    "price": 700,
+    "location": "Azadlıq Prospekti m.",
+    "area_m2": "25 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.42010253494892,
+    "lng": 49.8374720649984,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-09-23T21:06:40+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir obyekt 25 m²",
+    "description": "10 saylı poliklinikanın həyətində sahəsi 25 m2 olan obyekti icarə verirəm. Market, meyvə dükanı, ofis və s. kimi tam yararlıdır. Daxilində sanitar qovşağı var. ",
+    "building_type": "Obyekt",
+    "location_id": "6",
+    "location_name": "Azadlıq Prospekti",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6486453",
+    "deleted_at": "2026-09-30T21:51:20.715893+00:00",
+    "price_history": [
+      {
+        "price": 700,
+        "date": "2026-09-30T19:58:27.683308+00:00"
       }
     ]
   }
