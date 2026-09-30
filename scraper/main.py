@@ -100,7 +100,7 @@ def save_listings(category: str, deal_type: str, listings: dict[str, dict], room
     path = DATA_DIR / f"{_file_stem(category, deal_type, room, building, kupca, price_band)}.json"
     sorted_listings = sorted(
         listings.values(),
-        key=lambda l: (l["deleted_at"] is not None, l.get("updated_at_site", "")),
+        key=lambda l: (l["deleted_at"] is not None, l.get("updated_at_site") or ""),
         reverse=False,
     )
     # Escape U+2028 / U+2029 — Python's json module leaves them unescaped but
@@ -135,7 +135,7 @@ def merge_room_files(category: str, deal_type: str) -> None:
                         continue
                     for listing in _json_loads(path.read_text(encoding="utf-8")):
                         lid = listing["id"]
-                        if lid not in merged or (listing.get("updated_at_site", "")) > (merged[lid].get("updated_at_site", "")):
+                        if lid not in merged or (listing.get("updated_at_site") or "") > (merged[lid].get("updated_at_site") or ""):
                             merged[lid] = listing
 
     if merged:
@@ -248,6 +248,7 @@ async def scrape_category(page, cfg: dict) -> None:
     print(f"\n→ {'/'.join(parts)}")
 
     existing = load_existing(category, deal_type, room, building, kupca, price_band)
+    parser = PARSERS.get(category, PARSERS["apartment"])
 
     total = await load_category_page(page, url)
     print(f"  total on site: {total}")
@@ -260,8 +261,6 @@ async def scrape_category(page, cfg: dict) -> None:
         stop_fn = make_stop_check(existing, parser) if len(existing) >= 100 else None
         raw_cards = await scroll_and_extract(page, target=total, stop_check=stop_fn)
     print(f"  cards extracted: {len(raw_cards)}")
-
-    parser = PARSERS.get(category, PARSERS["apartment"])
     seen_ids: set[str] = set()
     counts = {"new": 0, "updated": 0, "unchanged": 0}
 
