@@ -13,12 +13,37 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6337806",
     "first_seen_at": "2026-09-30T09:37:00.643451+00:00",
-    "last_seen_at": "2026-09-30T09:37:00.643451+00:00",
+    "last_seen_at": "2026-09-30T12:27:26.653111+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 350,
         "date": "2026-09-30T09:37:00.643451+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504704",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F14%2F43%2F01%2Fc9d560b8-dafd-4538-a75c-5429948fdcb4%2F16177_ys50EPJUqQeMo8SLK_ElpQ.jpg",
+    "price": 200,
+    "location": "/ay",
+    "rooms": "",
+    "area_m2": "24 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.41466025047666,
+    "lng": 49.80423528274063,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6504704",
+    "first_seen_at": "2026-09-30T12:27:26.811176+00:00",
+    "last_seen_at": "2026-09-30T12:27:26.811176+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 200,
+        "date": "2026-09-30T12:27:26.811176+00:00"
       }
     ]
   },
@@ -36,7 +61,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6503673",
     "first_seen_at": "2026-09-30T09:37:00.685509+00:00",
-    "last_seen_at": "2026-09-30T09:37:00.685509+00:00",
+    "last_seen_at": "2026-09-30T12:27:26.811236+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -59,7 +84,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6503339",
     "first_seen_at": "2026-09-30T09:37:00.727856+00:00",
-    "last_seen_at": "2026-09-30T09:37:00.727856+00:00",
+    "last_seen_at": "2026-09-30T12:27:26.811258+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -82,7 +107,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6503004",
     "first_seen_at": "2026-09-30T09:37:00.766453+00:00",
-    "last_seen_at": "2026-09-30T09:37:00.766453+00:00",
+    "last_seen_at": "2026-09-30T12:27:26.811276+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -105,7 +130,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6502535",
     "first_seen_at": "2026-09-30T09:37:00.805816+00:00",
-    "last_seen_at": "2026-09-30T09:37:00.805816+00:00",
+    "last_seen_at": "2026-09-30T12:27:26.811293+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -128,7 +153,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6499479",
     "first_seen_at": "2026-09-30T09:37:00.847805+00:00",
-    "last_seen_at": "2026-09-30T09:37:00.847805+00:00",
+    "last_seen_at": "2026-09-30T12:27:26.811308+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -151,7 +176,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6431438",
     "first_seen_at": "2026-09-30T09:37:00.885268+00:00",
-    "last_seen_at": "2026-09-30T09:37:00.885268+00:00",
+    "last_seen_at": "2026-09-30T12:27:26.811321+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -174,7 +199,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6497293",
     "first_seen_at": "2026-09-30T09:37:00.924379+00:00",
-    "last_seen_at": "2026-09-30T09:37:00.924379+00:00",
+    "last_seen_at": "2026-09-30T12:27:26.811335+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -197,7 +222,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6497117",
     "first_seen_at": "2026-09-30T09:37:00.966169+00:00",
-    "last_seen_at": "2026-09-30T09:37:00.966169+00:00",
+    "last_seen_at": "2026-09-30T12:27:26.811349+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -220,7 +245,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6496267",
     "first_seen_at": "2026-09-30T09:37:01.009552+00:00",
-    "last_seen_at": "2026-09-30T09:37:01.009552+00:00",
+    "last_seen_at": "2026-09-30T12:27:26.811362+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -243,7 +268,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6494969",
     "first_seen_at": "2026-09-30T09:37:01.052429+00:00",
-    "last_seen_at": "2026-09-30T09:37:01.052429+00:00",
+    "last_seen_at": "2026-09-30T12:27:26.811376+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -266,7 +291,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6296207",
     "first_seen_at": "2026-09-30T09:37:01.092828+00:00",
-    "last_seen_at": "2026-09-30T09:37:01.092828+00:00",
+    "last_seen_at": "2026-09-30T12:27:26.811391+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -289,7 +314,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6493093",
     "first_seen_at": "2026-09-30T09:37:01.136198+00:00",
-    "last_seen_at": "2026-09-30T09:37:01.136198+00:00",
+    "last_seen_at": "2026-09-30T12:27:26.811405+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -312,7 +337,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6493028",
     "first_seen_at": "2026-09-30T09:37:01.175767+00:00",
-    "last_seen_at": "2026-09-30T09:37:01.175767+00:00",
+    "last_seen_at": "2026-09-30T12:27:26.811417+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -335,7 +360,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6487417",
     "first_seen_at": "2026-09-30T09:37:01.222348+00:00",
-    "last_seen_at": "2026-09-30T09:37:01.222348+00:00",
+    "last_seen_at": "2026-09-30T12:27:26.811430+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -358,7 +383,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6486378",
     "first_seen_at": "2026-09-30T09:37:01.266917+00:00",
-    "last_seen_at": "2026-09-30T09:37:01.266917+00:00",
+    "last_seen_at": "2026-09-30T12:27:26.811443+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -381,7 +406,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6354991",
     "first_seen_at": "2026-09-30T09:37:01.311077+00:00",
-    "last_seen_at": "2026-09-30T09:37:01.311077+00:00",
+    "last_seen_at": "2026-09-30T12:27:26.811456+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -404,7 +429,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6482926",
     "first_seen_at": "2026-09-30T09:37:01.374664+00:00",
-    "last_seen_at": "2026-09-30T09:37:01.374664+00:00",
+    "last_seen_at": "2026-09-30T12:27:26.811471+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -427,7 +452,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6481738",
     "first_seen_at": "2026-09-30T09:37:01.416838+00:00",
-    "last_seen_at": "2026-09-30T09:37:01.416838+00:00",
+    "last_seen_at": "2026-09-30T12:27:26.811484+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -450,12 +475,662 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6481531",
     "first_seen_at": "2026-09-30T09:37:01.457897+00:00",
-    "last_seen_at": "2026-09-30T09:37:01.457897+00:00",
+    "last_seen_at": "2026-09-30T12:27:26.811498+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 300,
         "date": "2026-09-30T09:37:01.457897+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6480564",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F21%2F21%2F23%2F00%2Fbbb14221-d6d8-4d8f-a16b-924438fac2c9%2F90931_S2KkDNNRF4N12MDbbfaq5g.jpg",
+    "price": 230,
+    "location": "/ay",
+    "rooms": "",
+    "area_m2": "55 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.40872300920793,
+    "lng": 49.86429162951374,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6480564",
+    "first_seen_at": "2026-09-30T12:27:26.969587+00:00",
+    "last_seen_at": "2026-09-30T12:27:26.969587+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 230,
+        "date": "2026-09-30T12:27:26.969587+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6479504",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F21%2F15%2F58%2F39%2Ffdb2bee9-3d99-46b8-8f93-5f6244c550d1%2F63759_8M2RUdHwuOIePwffl3htnQ.jpg",
+    "price": 250,
+    "location": "/ay",
+    "rooms": "",
+    "area_m2": "38 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.379828,
+    "lng": 49.808782,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6479504",
+    "first_seen_at": "2026-09-30T12:27:27.127214+00:00",
+    "last_seen_at": "2026-09-30T12:27:27.127214+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 250,
+        "date": "2026-09-30T12:27:27.127214+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6474192",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F19%2F14%2F03%2F49%2Fbeefa196-e6c3-4036-af19-459281095957%2F68276_nWKuzTWaHOWByigO-GLiLA.jpg",
+    "price": 250,
+    "location": "/ay",
+    "rooms": "",
+    "area_m2": "30 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.39789706964218,
+    "lng": 49.8213382251913,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6474192",
+    "first_seen_at": "2026-09-30T12:27:27.284611+00:00",
+    "last_seen_at": "2026-09-30T12:27:27.284611+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 250,
+        "date": "2026-09-30T12:27:27.284611+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6472788",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F18%2F20%2F33%2F09%2Feedc16e1-ca5a-45ad-95db-c05ae44895f3%2F67004_l0XjuUeS_o2zPH09B3Xh9g.jpg",
+    "price": 140,
+    "location": "/ay",
+    "rooms": "",
+    "area_m2": "15 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.37214759708212,
+    "lng": 49.96124826506902,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6472788",
+    "first_seen_at": "2026-09-30T12:27:27.441840+00:00",
+    "last_seen_at": "2026-09-30T12:27:27.441840+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 140,
+        "date": "2026-09-30T12:27:27.441840+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6469189",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F17%2F17%2F01%2F47%2Fb4264f0d-e548-4ca7-96a9-2ce3b344d08f%2F71272_oKb9kXeHfA2xOe6d1uDzkA.jpg",
+    "price": 100,
+    "location": "/ay",
+    "rooms": "",
+    "area_m2": "18 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38438337805815,
+    "lng": 49.88066357420326,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6469189",
+    "first_seen_at": "2026-09-30T12:27:27.600672+00:00",
+    "last_seen_at": "2026-09-30T12:27:27.600672+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 100,
+        "date": "2026-09-30T12:27:27.600672+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6344994",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F03%2F16%2F47%2F46%2Fbce3244c-300a-4c50-a6bf-f4b589be2e7c%2F32158_-Psz9MI3xYI8-UWwdEU9tA.jpg",
+    "price": 200,
+    "location": "/ay",
+    "rooms": "",
+    "area_m2": "15 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38857750778858,
+    "lng": 49.82131931548786,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6344994",
+    "first_seen_at": "2026-09-30T12:27:27.757729+00:00",
+    "last_seen_at": "2026-09-30T12:27:27.757729+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 200,
+        "date": "2026-09-30T12:27:27.757729+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6463852",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F15%2F21%2F03%2F48%2Ffbe082b7-a267-4697-a3f5-b1a2a1e731e3%2F63805_N5bo3afz98mHXhPdweVdhQ.jpg",
+    "price": 200,
+    "location": "/ay",
+    "rooms": "",
+    "area_m2": "24 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.3956224103331,
+    "lng": 49.82892301865388,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6463852",
+    "first_seen_at": "2026-09-30T12:27:27.914299+00:00",
+    "last_seen_at": "2026-09-30T12:27:27.914299+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 200,
+        "date": "2026-09-30T12:27:27.914299+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6307907",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F20%2F21%2F51%2F25%2F46956563-1e55-4360-8d8d-f8441b3be788%2F6499_oivABhGr23iK-3TJTdHTFA.jpg",
+    "price": 150,
+    "location": "/ay",
+    "rooms": "",
+    "area_m2": "15 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38170489490725,
+    "lng": 49.88836681352232,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6307907",
+    "first_seen_at": "2026-09-30T12:27:28.132247+00:00",
+    "last_seen_at": "2026-09-30T12:27:28.132247+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 150,
+        "date": "2026-09-30T12:27:28.132247+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6463278",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F15%2F17%2F39%2F35%2F8cbc0502-0d71-42b7-b853-4864d6d2f2b8%2F70707_VsqzmT-jibq6QyUaS4X2ig.jpg",
+    "price": 15,
+    "location": "/ay",
+    "rooms": "",
+    "area_m2": "3 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.3675533990853,
+    "lng": 49.93996262068251,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6463278",
+    "first_seen_at": "2026-09-30T12:27:28.290482+00:00",
+    "last_seen_at": "2026-09-30T12:27:28.290482+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 15,
+        "date": "2026-09-30T12:27:28.290482+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6460916",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F14%2F19%2F53%2F00%2Fd9a52e9d-c499-451f-bb74-d48d98a88c8a%2F63806_o5cLCZh0qweyzDw9zo90BQ.jpg",
+    "price": 150,
+    "location": "/ay",
+    "rooms": "",
+    "area_m2": "24 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.3672456201755,
+    "lng": 49.82546341453418,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6460916",
+    "first_seen_at": "2026-09-30T12:27:28.445325+00:00",
+    "last_seen_at": "2026-09-30T12:27:28.445325+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 150,
+        "date": "2026-09-30T12:27:28.445325+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6457727",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F13%2F17%2F44%2F47%2F29a059ce-217f-4ec6-93b7-68180a020f21%2F59919_zYElPmtj6JmTLr7TTQHSnQ.jpg",
+    "price": 500,
+    "location": "/ay",
+    "rooms": "",
+    "area_m2": "16 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.42015326498552,
+    "lng": 49.81217733853197,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6457727",
+    "first_seen_at": "2026-09-30T12:27:28.604769+00:00",
+    "last_seen_at": "2026-09-30T12:27:28.604769+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 500,
+        "date": "2026-09-30T12:27:28.604769+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6450178",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F10%2F17%2F45%2F40%2F53fe9824-d43f-42fd-ae58-9eccd327401c%2F63787_QmTefZ1y_BB_D44r3-zlJw.jpg",
+    "price": 180,
+    "location": "/ay",
+    "rooms": "",
+    "area_m2": "40 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.42305150626961,
+    "lng": 49.95903041595515,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6450178",
+    "first_seen_at": "2026-09-30T12:27:28.760541+00:00",
+    "last_seen_at": "2026-09-30T12:27:28.760541+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 180,
+        "date": "2026-09-30T12:27:28.760541+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6448211",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F10%2F10%2F09%2F07%2F357cf61b-bc17-4475-ad2a-04c3f5cf295a%2F59951_cfTz-sbSffd3BnlZ_cNsJw.jpg",
+    "price": 170,
+    "location": "/ay",
+    "rooms": "",
+    "area_m2": "20 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38748332905946,
+    "lng": 49.87788076660702,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6448211",
+    "first_seen_at": "2026-09-30T12:27:28.982337+00:00",
+    "last_seen_at": "2026-09-30T12:27:28.982337+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 170,
+        "date": "2026-09-30T12:27:28.982337+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6201888",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F10%2F23%2F17%2F48%2F7a4f45fe-7850-4e0f-ab74-9a5bf3386db1%2F66011_zWdmff3LfwQ05xqDZHCGnw.jpg",
+    "price": 350,
+    "location": "/ay",
+    "rooms": "",
+    "area_m2": "30 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.37894400165318,
+    "lng": 49.86289719425496,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6201888",
+    "first_seen_at": "2026-09-30T12:27:29.150809+00:00",
+    "last_seen_at": "2026-09-30T12:27:29.150809+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 350,
+        "date": "2026-09-30T12:27:29.150809+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6447985",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F09%2F22%2F57%2F09%2F4b1b71ba-935e-4640-a6bb-c08e641c1e2a%2F63797_MDLgpZ0oZ8VtVw5he4Uu2w.jpg",
+    "price": 100,
+    "location": "/ay",
+    "rooms": "",
+    "area_m2": "40 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.39990449641488,
+    "lng": 49.83939119195931,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6447985",
+    "first_seen_at": "2026-09-30T12:27:29.313185+00:00",
+    "last_seen_at": "2026-09-30T12:27:29.313185+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 100,
+        "date": "2026-09-30T12:27:29.313185+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6446446",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F09%2F14%2F43%2F13%2F0ec63c99-e3c1-4804-9184-5dba1a6da899%2F63785_uIvOBpJo1rKudIX1j4IYqw.jpg",
+    "price": 250,
+    "location": "/ay",
+    "rooms": "",
+    "area_m2": "36 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38414276738512,
+    "lng": 49.80180495048958,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6446446",
+    "first_seen_at": "2026-09-30T12:27:29.472186+00:00",
+    "last_seen_at": "2026-09-30T12:27:29.472186+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 250,
+        "date": "2026-09-30T12:27:29.472186+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6444228",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F08%2F16%2F59%2F28%2Fe6a43b5d-6642-415e-ae47-75b6c84bfc91%2F63804_wWyfToausXOYqpHdDwuPmg.jpg",
+    "price": 65,
+    "location": "/ay",
+    "rooms": "",
+    "area_m2": "18 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.33098478505667,
+    "lng": 49.71906202040479,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6444228",
+    "first_seen_at": "2026-09-30T12:27:29.638510+00:00",
+    "last_seen_at": "2026-09-30T12:27:29.638510+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 65,
+        "date": "2026-09-30T12:27:29.638510+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6434775",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F05%2F09%2F58%2F55%2F415bf921-be82-4b5a-90eb-e6162fe7e754%2F72335_ApC5ZqAly-fr0ouL0C_ZxQ.jpg",
+    "price": 110,
+    "location": "/ay",
+    "rooms": "",
+    "area_m2": "18 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38530679018758,
+    "lng": 49.88540651181899,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6434775",
+    "first_seen_at": "2026-09-30T12:27:29.795399+00:00",
+    "last_seen_at": "2026-09-30T12:27:29.795399+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 110,
+        "date": "2026-09-30T12:27:29.795399+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6434747",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F05%2F09%2F18%2F47%2F69f603bc-d205-434d-b87f-34866b83fc40%2F72335_l-aiw7batFVZm6Sjv-kodQ.jpg",
+    "price": 170,
+    "location": "/ay",
+    "rooms": "",
+    "area_m2": "35 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.40631166886877,
+    "lng": 49.87555840838381,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6434747",
+    "first_seen_at": "2026-09-30T12:27:29.951929+00:00",
+    "last_seen_at": "2026-09-30T12:27:29.951929+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 170,
+        "date": "2026-09-30T12:27:29.951929+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6434735",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F05%2F09%2F02%2F40%2F79614ab0-0904-4663-9416-bfacb8d56149%2F63812_dbzHuDKGrbzkK9v0GhE-Iw.jpg",
+    "price": 600,
+    "location": "/ay",
+    "rooms": "",
+    "area_m2": "160 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.40622591821091,
+    "lng": 49.87557276955359,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6434735",
+    "first_seen_at": "2026-09-30T12:27:30.109511+00:00",
+    "last_seen_at": "2026-09-30T12:27:30.109511+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 600,
+        "date": "2026-09-30T12:27:30.109511+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6434731",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F05%2F08%2F57%2F36%2F2b1a6586-8994-4a9b-8a15-88eb75b0ca5d%2F72294_OYWa97czaT42inqB16hz0w.jpg",
+    "price": 110,
+    "location": "/ay",
+    "rooms": "",
+    "area_m2": "21 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.4063103240313,
+    "lng": 49.87557679653993,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6434731",
+    "first_seen_at": "2026-09-30T12:27:30.312323+00:00",
+    "last_seen_at": "2026-09-30T12:27:30.312323+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 110,
+        "date": "2026-09-30T12:27:30.312323+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6433429",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F04%2F16%2F01%2F16%2F5db2ea4b-5783-4ed4-ae1d-440446c8809d%2F72341_wHlSwha5n6ztXIBJpVxgDg.jpg",
+    "price": 550,
+    "location": "/ay",
+    "rooms": "",
+    "area_m2": "18 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.36489724169412,
+    "lng": 49.812329668457,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6433429",
+    "first_seen_at": "2026-09-30T12:27:30.478506+00:00",
+    "last_seen_at": "2026-09-30T12:27:30.478506+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 550,
+        "date": "2026-09-30T12:27:30.478506+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6428796",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F03%2F06%2F39%2F56%2F2bace747-ee1e-4efa-9a6c-9b6a0eea1845%2F63812_W2LFmrqrr0gPQB5UUeJ65g.jpg",
+    "price": 150,
+    "location": "/ay",
+    "rooms": "",
+    "area_m2": "18 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.40605631699022,
+    "lng": 49.93191279895859,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6428796",
+    "first_seen_at": "2026-09-30T12:27:30.637814+00:00",
+    "last_seen_at": "2026-09-30T12:27:30.637814+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 150,
+        "date": "2026-09-30T12:27:30.637814+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6040714",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F04%2F13%2F12%2F44%2F50%2Ffe649de0-3048-42a5-a684-2c6133953a36%2F73234_Wy46P0b9hE_6OekEAGTCgw.jpg",
+    "price": 120,
+    "location": "/ay",
+    "rooms": "",
+    "area_m2": "18 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.41868132988179,
+    "lng": 49.84201599532849,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6040714",
+    "first_seen_at": "2026-09-30T12:27:30.797679+00:00",
+    "last_seen_at": "2026-09-30T12:27:30.797679+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 120,
+        "date": "2026-09-30T12:27:30.797679+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6426490",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F02%2F12%2F43%2F48%2F6025bea7-06cb-4b13-b9f6-6b7941663ba7%2F72343_1gWaPovlUGOBtI6vd6LM3w.jpg",
+    "price": 150,
+    "location": "/ay",
+    "rooms": "",
+    "area_m2": "16 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.40094441106674,
+    "lng": 49.86950112783975,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6426490",
+    "first_seen_at": "2026-09-30T12:27:30.956411+00:00",
+    "last_seen_at": "2026-09-30T12:27:30.956411+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 150,
+        "date": "2026-09-30T12:27:30.956411+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6426240",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F02%2F11%2F56%2F52%2F4752d37c-bcc2-4c55-a9d9-389ff82e88e5%2F63817_0mg6cEnY_miBqlZzzgRQnA.jpg",
+    "price": 150,
+    "location": "/ay",
+    "rooms": "",
+    "area_m2": "15 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38038779627989,
+    "lng": 49.88342554059277,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6426240",
+    "first_seen_at": "2026-09-30T12:27:31.112983+00:00",
+    "last_seen_at": "2026-09-30T12:27:31.112983+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 150,
+        "date": "2026-09-30T12:27:31.112983+00:00"
       }
     ]
   }

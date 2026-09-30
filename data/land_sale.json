@@ -1,93 +1,2224 @@
 [
   {
-    "id": "6397021",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F19%2F21%2F30%2F36%2Fccc58420-2b28-4eb9-9d43-c060495aebf1%2F68577_h4E2X5BAIXCasfGf_ulEVg.jpg",
-    "price": 24000,
-    "location": "Ələt q.",
+    "id": "6236877",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F24%2F11%2F48%2F11%2F02863b89-eb06-48fc-9b90-01fd470a1835%2F75566_VGcvNQxe9vg2HFimzr8Gyw.jpg",
+    "price": 55000,
+    "location": "Masazır q.",
+    "land_area_sot": 1.3,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.46258289327518,
+    "lng": 49.75479233969514,
+    "has_repair": null,
+    "area_m2": 1.3,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6236877",
+    "first_seen_at": "2026-09-30T12:09:37.827552+00:00",
+    "last_seen_at": "2026-09-30T12:09:37.827552+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 55000,
+        "date": "2026-09-30T12:09:37.827552+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6393692",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F21%2F01%2F08%2F32%2Fdcdcb978-91b5-49c3-ad8c-fedf5952b44c%2F85437__QFvrmZzlmEuwuUvmvuK7g.jpg",
+    "price": 10500,
+    "location": "Novxanı q.",
+    "land_area_sot": 22.0,
+    "lat": 40.56137325574228,
+    "lng": 49.77049904365663,
+    "has_repair": null,
+    "area_m2": 22,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6393692",
+    "first_seen_at": "2026-09-30T09:32:28.280903+00:00",
+    "last_seen_at": "2026-09-30T12:09:37.827621+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 10500,
+        "date": "2026-09-30T09:32:28.280903+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5140026",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F04%2F20%2F21%2F29%2F16%2F13f7f7ca-2c14-406d-b297-0ed984bffa05%2F27314_nl5hK4zSmPDP2ykAjfmWfg.jpg",
+    "price": 644000,
+    "location": "Mərdəkan q.",
+    "land_area_sot": 30.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.4944528281755,
+    "lng": 50.16111365021464,
+    "has_repair": null,
+    "area_m2": 30,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5140026",
+    "first_seen_at": "2026-09-30T12:09:37.985307+00:00",
+    "last_seen_at": "2026-09-30T12:09:37.985307+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 644000,
+        "date": "2026-09-30T12:09:37.985307+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6425352",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F01%2F20%2F34%2F41%2F6b580b45-662f-4f7b-9e22-a21551221c56%2F72324_fs6B0IDFL3PBsizrJi2N9Q.jpg",
+    "price": 1300000,
+    "location": "Masazır q.",
+    "land_area_sot": 15.9,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.46562317597007,
+    "lng": 49.75453614599677,
+    "has_repair": null,
+    "area_m2": 15.9,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6425352",
+    "first_seen_at": "2026-09-30T12:09:38.148847+00:00",
+    "last_seen_at": "2026-09-30T12:09:38.148847+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1300000,
+        "date": "2026-09-30T12:09:38.148847+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6158693",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F15%2F15%2F39%2F50%2Fff943384-1be2-4c0f-8c7f-ac178e949748%2F12549_Jit60alYiVlqfBBWhHG2FA.jpg",
+    "price": 119000,
+    "location": "Mərdəkan q.",
+    "land_area_sot": 4.4,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.47857,
+    "lng": 50.150065,
+    "has_repair": null,
+    "area_m2": 4.4,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6158693",
+    "first_seen_at": "2026-09-30T12:09:38.312539+00:00",
+    "last_seen_at": "2026-09-30T12:09:38.312539+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 119000,
+        "date": "2026-09-30T12:09:38.312539+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6229219",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F21%2F11%2F44%2F03%2F4147844c-6dfe-4679-99da-3a9aaee96dab%2F64570_-YikGlbiMi4VW3tiI24Dfg.jpg",
+    "price": 78000,
+    "location": "Türkan q.",
+    "land_area_sot": 10.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.3707085758335,
+    "lng": 50.17917258814085,
+    "has_repair": null,
+    "area_m2": 10,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6229219",
+    "first_seen_at": "2026-09-30T12:09:38.470202+00:00",
+    "last_seen_at": "2026-09-30T12:09:38.470202+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 78000,
+        "date": "2026-09-30T12:09:38.470202+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6230882",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F22%2F01%2F08%2F03%2F04401cf7-deb2-43ef-b9b6-cc264597786b%2F55105_p7l89ckQ7ZX8WrZ5MYqC4w.jpg",
+    "price": 600000,
+    "location": "Şüvəlan q.",
+    "land_area_sot": 17.5,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.48799028181169,
+    "lng": 50.20973558434774,
+    "has_repair": null,
+    "area_m2": 17.5,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6230882",
+    "first_seen_at": "2026-09-30T12:09:38.630034+00:00",
+    "last_seen_at": "2026-09-30T12:09:38.630034+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 600000,
+        "date": "2026-09-30T12:09:38.630034+00:00"
+      }
+    ]
+  },
+  {
+    "id": "3024433",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2022%2F10%2F03%2F01%2F01%2F41%2F3e791219-f772-4acc-b59d-3c7e64caf5f9%2F56935_4pWyf6-E3A0d0DjVYmORUA.jpg",
+    "price": 20000000,
+    "location": "Novxanı q.",
+    "land_area_sot": 1000.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.51053643863862,
+    "lng": 49.80737686157227,
+    "has_repair": null,
+    "area_m2": 1000,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/3024433",
+    "first_seen_at": "2026-09-30T12:09:38.790007+00:00",
+    "last_seen_at": "2026-09-30T12:09:38.790007+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 20000000,
+        "date": "2026-09-30T12:09:38.790007+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6505106",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F16%2F02%2F09%2Fe6dc0043-3ce6-4566-b033-0df8ec4aa3e8%2F75543__sFlxx4ppE86McRAcB1omw.jpg",
+    "price": 30750,
+    "location": "Novxanı q.",
+    "land_area_sot": 2.4,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.56228104111833,
+    "lng": 49.77941748445502,
+    "has_repair": null,
+    "area_m2": 2.4,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6505106",
+    "first_seen_at": "2026-09-30T12:09:38.956593+00:00",
+    "last_seen_at": "2026-09-30T12:09:38.956593+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 30750,
+        "date": "2026-09-30T12:09:38.956593+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6449821",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F10%2F16%2F22%2F33%2F6ea63c84-ce6b-4a46-b553-d723c384a9fb%2F63810_CFZ5YT8MtLz0eC2POahwFQ.jpg",
+    "price": 28000,
+    "location": "Novxanı q.",
+    "land_area_sot": 2.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.56943209097265,
+    "lng": 49.73402120702357,
+    "has_repair": null,
+    "area_m2": 2,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6449821",
+    "first_seen_at": "2026-09-30T12:09:39.114779+00:00",
+    "last_seen_at": "2026-09-30T12:09:39.114779+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 28000,
+        "date": "2026-09-30T12:09:39.114779+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6208685",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F13%2F14%2F43%2F03%2Fb4b7c690-b6c1-456b-b95d-2f0ab07fdfd2%2F83962_SpMg6cb3cJ4ZXsQj74W6wQ.jpg",
+    "price": 55000,
+    "location": "Görədil q.",
+    "land_area_sot": 5.5,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.56012389462825,
+    "lng": 49.82363037100194,
+    "has_repair": null,
+    "area_m2": 5.5,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6208685",
+    "first_seen_at": "2026-09-30T12:09:39.277566+00:00",
+    "last_seen_at": "2026-09-30T12:09:39.277566+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 55000,
+        "date": "2026-09-30T12:09:39.277566+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6433308",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F04%2F15%2F26%2F30%2F1d276f6d-1fe5-4bbe-89ea-7314f74e919e%2F72293_WMyUh54NpRef5WEmQ1xlxQ.jpg",
+    "price": 350000,
+    "location": "Qala q.",
+    "land_area_sot": 17.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.44310766283398,
+    "lng": 50.16739004760741,
+    "has_repair": null,
+    "area_m2": 17,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6433308",
+    "first_seen_at": "2026-09-30T12:09:39.451645+00:00",
+    "last_seen_at": "2026-09-30T12:09:39.451645+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 350000,
+        "date": "2026-09-30T12:09:39.451645+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6259648",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F02%2F18%2F03%2F06%2F02a0a4ee-e223-444a-81f4-ea23fc438faa%2F77750_WluwSeLefEd7AxJ1bAWwKg.jpg",
+    "price": 38000,
+    "location": "Novxanı q.",
+    "land_area_sot": 4.2,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.55842784820636,
+    "lng": 49.77441276376838,
+    "has_repair": null,
+    "area_m2": 4.2,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6259648",
+    "first_seen_at": "2026-09-30T12:09:39.607885+00:00",
+    "last_seen_at": "2026-09-30T12:09:39.607885+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 38000,
+        "date": "2026-09-30T12:09:39.607885+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6477740",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F20%2F22%2F55%2F43%2F75e9993f-7d40-4ee2-b520-11d5ad2b2311%2F68759_0r9zHHHBcLJhPCyVg-zXjA.jpg",
+    "price": 98000,
+    "location": "Ramana q.",
+    "land_area_sot": 2.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.44043897345622,
+    "lng": 49.96297288520153,
+    "has_repair": null,
+    "area_m2": 2,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6477740",
+    "first_seen_at": "2026-09-30T12:09:39.763648+00:00",
+    "last_seen_at": "2026-09-30T12:09:39.763648+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 98000,
+        "date": "2026-09-30T12:09:39.763648+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5611074",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F10%2F24%2F11%2F05%2F55%2Fb9c44c2a-e8fa-4f99-84e4-a2b0286698f4%2F89649_IdiJWhN4F5E3SSESYyyqZg.jpg",
+    "price": 180000,
+    "location": "Yeni Balaxanı q.",
     "land_area_sot": 12.0,
-    "lat": 40.00039236600353,
-    "lng": 49.43200458946178,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.47571037479482,
+    "lng": 49.91986633691078,
     "has_repair": null,
     "area_m2": 12,
     "category": "land",
     "deal_type": "sale",
-    "url": "https://bina.az/items/6397021",
-    "first_seen_at": "2026-09-30T09:35:49.181756+00:00",
-    "last_seen_at": "2026-09-30T09:35:49.181756+00:00",
+    "url": "https://bina.az/items/5611074",
+    "first_seen_at": "2026-09-30T12:09:39.918434+00:00",
+    "last_seen_at": "2026-09-30T12:09:39.918434+00:00",
     "deleted_at": null,
     "price_history": [
       {
-        "price": 24000,
-        "date": "2026-09-30T09:35:49.181756+00:00"
+        "price": 180000,
+        "date": "2026-09-30T12:09:39.918434+00:00"
       }
     ]
   },
   {
-    "id": "6415136",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F18%2F23%2F35%2F29%2Fce1a09ae-5ca8-4db2-89c7-c1daac12b5b2%2F89492_56CG1ZJYw-u_kL1fF5pMew.jpg",
-    "price": 225000,
-    "location": "Yeni Ramana q.",
+    "id": "6441023",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F07%2F15%2F25%2F13%2F8cb3c6df-4c4c-46ad-9474-7cbb42b464b1%2F63784_-r3GQ_6d2VV2mQynTZHLhA.jpg",
+    "price": 325000,
+    "location": "Nardaran q.",
+    "land_area_sot": 25.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.56513396311314,
+    "lng": 49.98586085497371,
+    "has_repair": null,
+    "area_m2": 25,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6441023",
+    "first_seen_at": "2026-09-30T12:09:40.079072+00:00",
+    "last_seen_at": "2026-09-30T12:09:40.079072+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 325000,
+        "date": "2026-09-30T12:09:40.079072+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6427080",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F02%2F15%2F01%2F05%2Fdefc2a52-3708-460d-9bb3-e2e4ca88dfb5%2F63761_RKygbh3PAKo6k34jZcPngQ.jpg",
+    "price": 3600000,
+    "location": "Bakıxanov q.",
+    "land_area_sot": 20.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.42678794705822,
+    "lng": 49.93460305471759,
+    "has_repair": null,
+    "area_m2": 20,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6427080",
+    "first_seen_at": "2026-09-30T12:09:40.234073+00:00",
+    "last_seen_at": "2026-09-30T12:09:40.234073+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 3600000,
+        "date": "2026-09-30T12:09:40.234073+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6186856",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F05%2F14%2F10%2F31%2Fb7aa6e0d-d1f2-4570-804b-bed3933554bb%2F55363_I9hdXngjxPVxCQTTguyrhg.jpg",
+    "price": 150000,
+    "location": "Şüvəlan q.",
     "land_area_sot": 6.0,
-    "lat": 40.44784239745076,
-    "lng": 50.01235949300226,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.48799226151618,
+    "lng": 50.20997410583495,
     "has_repair": null,
     "area_m2": 6,
     "category": "land",
     "deal_type": "sale",
-    "url": "https://bina.az/items/6415136",
-    "first_seen_at": "2026-09-30T09:35:49.222843+00:00",
-    "last_seen_at": "2026-09-30T09:35:49.222843+00:00",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 225000,
-        "date": "2026-09-30T09:35:49.222843+00:00"
-      }
-    ]
-  },
-  {
-    "id": "5767279",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F12%2F26%2F20%2F46%2F24%2F56305066-65d7-44de-aed9-8fb42157e68c%2F22567_Rwb_-ISaTzNN_BDs7XSY-g.jpg",
-    "price": 150000,
-    "location": "Məmmədli q.",
-    "land_area_sot": 100.0,
-    "lat": 40.55028781905865,
-    "lng": 49.94678818056268,
-    "has_repair": null,
-    "area_m2": 100,
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/5767279",
-    "first_seen_at": "2026-09-30T09:35:49.262017+00:00",
-    "last_seen_at": "2026-09-30T09:35:49.262017+00:00",
+    "url": "https://bina.az/items/6186856",
+    "first_seen_at": "2026-09-30T12:09:40.392580+00:00",
+    "last_seen_at": "2026-09-30T12:09:40.392580+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 150000,
-        "date": "2026-09-30T09:35:49.262017+00:00"
+        "date": "2026-09-30T12:09:40.392580+00:00"
       }
     ]
   },
   {
-    "id": "6480211",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F21%2F18%2F33%2F50%2F33c96af5-c364-4617-8e3f-f1314f3398c7%2F21809_rBDJBY0fk_mAM1f8l64uDQ.jpg",
-    "price": 155000,
-    "location": "Şağan q.",
+    "id": "6494126",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F26%2F15%2F33%2F39%2F050b6418-0bd8-4f8b-8a47-c7fb481ec185%2F71677_NFecSwUFk2fbi7LuDqjgFg.jpg",
+    "price": 40000,
+    "location": "Buzovna q.",
+    "land_area_sot": 4.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.52643685715714,
+    "lng": 50.05310111510246,
+    "has_repair": null,
+    "area_m2": 4,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6494126",
+    "first_seen_at": "2026-09-30T12:09:40.553635+00:00",
+    "last_seen_at": "2026-09-30T12:09:40.553635+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 40000,
+        "date": "2026-09-30T12:09:40.553635+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6505036",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F15%2F51%2F14%2F868351b4-620e-4217-973a-19f075db0965%2F16173_fczMHiyCjZ4yN7SqqarWCQ.jpg",
+    "price": 180000,
+    "location": "Mərdəkan q.",
+    "land_area_sot": 6.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.51007446858485,
+    "lng": 50.16331153625492,
+    "has_repair": null,
+    "area_m2": 6,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6505036",
+    "first_seen_at": "2026-09-30T12:09:40.706817+00:00",
+    "last_seen_at": "2026-09-30T12:09:40.706817+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 180000,
+        "date": "2026-09-30T12:09:40.706817+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6505030",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F15%2F48%2F36%2F64fa2b21-5482-4d01-b6ae-4d1858e7d72e%2F75513_O8FPt8O_EwcrCpVGBZRAig.jpg",
+    "price": 135000,
+    "location": "Abşeron r.",
+    "land_area_sot": 500.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.4890117101124,
+    "lng": 49.53832310633088,
+    "has_repair": null,
+    "area_m2": 500,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6505030",
+    "first_seen_at": "2026-09-30T12:09:40.864246+00:00",
+    "last_seen_at": "2026-09-30T12:09:40.864246+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 135000,
+        "date": "2026-09-30T12:09:40.864246+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6135643",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F16%2F15%2F48%2F27%2F96a578b5-e975-4804-bbf3-ff06ca11eaf3%2F30813_onSMhtqXZEYQgckQ3va90A.jpg",
+    "price": 500000,
+    "location": "Şüvəlan q.",
+    "land_area_sot": 10.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.48903669896254,
+    "lng": 50.21040325927733,
+    "has_repair": null,
+    "area_m2": 10,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6135643",
+    "first_seen_at": "2026-09-30T12:09:41.019530+00:00",
+    "last_seen_at": "2026-09-30T12:09:41.019530+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 500000,
+        "date": "2026-09-30T12:09:41.019530+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6309958",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F21%2F16%2F24%2F48%2F1cafa9bb-4f79-40b4-b147-2c9a51cc804d%2F22613_4Q64DtlQxwUtNrakCW1L4Q.jpg",
+    "price": 64000,
+    "location": "Binə q.",
+    "land_area_sot": 20.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.43501063712664,
+    "lng": 50.06995325122067,
+    "has_repair": null,
+    "area_m2": 20,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6309958",
+    "first_seen_at": "2026-09-30T12:09:41.185765+00:00",
+    "last_seen_at": "2026-09-30T12:09:41.185765+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 64000,
+        "date": "2026-09-30T12:09:41.185765+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6505012",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F15%2F45%2F46%2F3714cd0b-4671-4e8e-b0ad-c07904e75400%2F36766_CPPB_To8icdyy2yocdcQjg.jpg",
+    "price": 50000,
+    "location": "Novxanı q.",
+    "land_area_sot": 5.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.56326178089407,
+    "lng": 49.75383507645743,
+    "has_repair": null,
+    "area_m2": 5,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6505012",
+    "first_seen_at": "2026-09-30T12:09:41.341334+00:00",
+    "last_seen_at": "2026-09-30T12:09:41.341334+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 50000,
+        "date": "2026-09-30T12:09:41.341334+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504995",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F15%2F34%2F25%2Fe2505db6-ee84-4b10-b899-5323524c9267%2F66669_2kl8sO-yMd3d4SVKkZ06xg.jpg",
+    "price": 48000,
+    "location": "Novxanı q.",
+    "land_area_sot": 4.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.56184362253252,
+    "lng": 49.77891779239381,
+    "has_repair": null,
+    "area_m2": 4,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6504995",
+    "first_seen_at": "2026-09-30T12:09:41.495508+00:00",
+    "last_seen_at": "2026-09-30T12:09:41.495508+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 48000,
+        "date": "2026-09-30T12:09:41.495508+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504985",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F15%2F40%2F32%2F0383beb4-5f31-4402-82f6-85794fd19285%2F16171_K-pRgyZbzOBVFVLHoj76BQ.jpg",
+    "price": 20000,
+    "location": "Novxanı q.",
+    "land_area_sot": 2.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.563255889274,
+    "lng": 49.75383746029279,
+    "has_repair": null,
+    "area_m2": 2,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6504985",
+    "first_seen_at": "2026-09-30T12:09:41.660078+00:00",
+    "last_seen_at": "2026-09-30T12:09:41.660078+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 20000,
+        "date": "2026-09-30T12:09:41.660078+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6495543",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F27%2F11%2F49%2F20%2Fa94806bd-c7b3-455a-a283-3d3f2bc61772%2F71658_Rsur6oDIbkC6ztZX4KY7Tg.jpg",
+    "price": 175000,
+    "location": "Bakıxanov q.",
+    "land_area_sot": 6.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.43857997121294,
+    "lng": 49.93795237531805,
+    "has_repair": null,
+    "area_m2": 6,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6495543",
+    "first_seen_at": "2026-09-30T12:09:41.814732+00:00",
+    "last_seen_at": "2026-09-30T12:09:41.814732+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 175000,
+        "date": "2026-09-30T12:09:41.814732+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504953",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F15%2F32%2F49%2F812396a7-51ae-4042-9431-14eaed3cd881%2F75535_ep5ZrlsjENd9EW8FlS52Cg.jpg",
+    "price": 45000,
+    "location": "Saray q.",
+    "land_area_sot": 6.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.5317647,
+    "lng": 49.713245400000005,
+    "has_repair": null,
+    "area_m2": 6,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6504953",
+    "first_seen_at": "2026-09-30T12:09:41.970342+00:00",
+    "last_seen_at": "2026-09-30T12:09:41.970342+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 45000,
+        "date": "2026-09-30T12:09:41.970342+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6461032",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F14%2F20%2F53%2F59%2F77558410-894c-4af4-950c-eab071674622%2F70716_G7eHbE1wjPlsN4qQD7TvQQ.jpg",
+    "price": 120000,
+    "location": "Görədil q.",
+    "land_area_sot": 12.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.55150183838249,
+    "lng": 49.82325988625026,
+    "has_repair": null,
+    "area_m2": 12,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6461032",
+    "first_seen_at": "2026-09-30T12:09:42.129672+00:00",
+    "last_seen_at": "2026-09-30T12:09:42.129672+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 120000,
+        "date": "2026-09-30T12:09:42.129672+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6457611",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F13%2F17%2F03%2F58%2Fb4bcd24d-2d97-44b1-bf63-59aba7a0cdf3%2F32424_-38hf5fKHwA4k39aRc-BRQ.jpg",
+    "price": 239000,
+    "location": "Mərdəkan q.",
+    "land_area_sot": 13.8,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.47857,
+    "lng": 50.150065,
+    "has_repair": null,
+    "area_m2": 13.8,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6457611",
+    "first_seen_at": "2026-09-30T12:09:42.285897+00:00",
+    "last_seen_at": "2026-09-30T12:09:42.285897+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 239000,
+        "date": "2026-09-30T12:09:42.285897+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6306185",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F20%2F13%2F17%2F01%2Fa65fb394-d048-49f0-9bb4-5ace7f781b37%2F80542_o2QwzHoYWfBN7zCRVA98Rw.jpg",
+    "price": 1480000,
+    "location": "Hökməli q.",
+    "land_area_sot": 780.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.44956461294997,
+    "lng": 49.6557907397653,
+    "has_repair": null,
+    "area_m2": 780,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6306185",
+    "first_seen_at": "2026-09-30T12:09:42.450560+00:00",
+    "last_seen_at": "2026-09-30T12:09:42.450560+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1480000,
+        "date": "2026-09-30T12:09:42.450560+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6175290",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F01%2F14%2F51%2F08%2F2b6f9111-6b0d-4b45-98f2-65dfa5b39056%2F12692_Iv4JJvG39iFyVjzau3VBNA.jpg",
+    "price": 175000,
+    "location": "Şüvəlan q.",
+    "land_area_sot": 7.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.49314901340439,
+    "lng": 50.20104771423338,
+    "has_repair": null,
+    "area_m2": 7,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6175290",
+    "first_seen_at": "2026-09-30T12:09:42.605777+00:00",
+    "last_seen_at": "2026-09-30T12:09:42.605777+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 175000,
+        "date": "2026-09-30T12:09:42.605777+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5838463",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F01%2F27%2F02%2F22%2F40%2F1ea3a6de-78d3-4d0f-ac8b-009b6df46e4b%2F60599_Oy3SFpkyY6cExEZp5_H0Dg.jpg",
+    "price": 170000,
+    "location": "Mərdəkan q.",
+    "land_area_sot": 5.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.47483291053965,
+    "lng": 50.13151976507874,
+    "has_repair": null,
+    "area_m2": 5,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5838463",
+    "first_seen_at": "2026-09-30T12:09:42.770528+00:00",
+    "last_seen_at": "2026-09-30T12:09:42.770528+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 170000,
+        "date": "2026-09-30T12:09:42.770528+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5692346",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F11%2F26%2F13%2F04%2F38%2Fb652228f-8a31-473c-a23a-fe6ad35f38fb%2F7532_JiwmZzwUhtAf2BGnmebKpg.jpg",
+    "price": 49000,
+    "location": "Novxanı q.",
+    "land_area_sot": 4.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.5614831992611,
+    "lng": 49.79120680699314,
+    "has_repair": null,
+    "area_m2": 4,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5692346",
+    "first_seen_at": "2026-09-30T12:09:42.928427+00:00",
+    "last_seen_at": "2026-09-30T12:09:42.928427+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 49000,
+        "date": "2026-09-30T12:09:42.928427+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5044726",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F03%2F12%2F12%2F40%2F12%2F8f6045df-53d6-4571-b425-9713dc5e27d8%2F83603_NnVipO7k_8o2mR0vhpmgbA.jpg",
+    "price": 115000,
+    "location": "Novxanı q.",
+    "land_area_sot": 12.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.54974986713025,
+    "lng": 49.80643150837586,
+    "has_repair": null,
+    "area_m2": 12,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5044726",
+    "first_seen_at": "2026-09-30T12:09:43.083491+00:00",
+    "last_seen_at": "2026-09-30T12:09:43.083491+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 115000,
+        "date": "2026-09-30T12:09:43.083491+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5854537",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F02%2F02%2F12%2F23%2F58%2F138846ca-9714-4a38-a620-414152367f19%2F43433_1pPWKoSXLfjaPLkC-kKhOQ.jpg",
+    "price": 340000,
+    "location": "Pirəkəşkül q.",
+    "land_area_sot": 506.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.50575798831749,
+    "lng": 49.54562505427797,
+    "has_repair": null,
+    "area_m2": 506,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5854537",
+    "first_seen_at": "2026-09-30T12:09:43.239627+00:00",
+    "last_seen_at": "2026-09-30T12:09:43.239627+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 340000,
+        "date": "2026-09-30T12:09:43.239627+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5731171",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F12%2F11%2F16%2F10%2F04%2F552f89d7-d820-47b4-a6cd-1df5e0cb6473%2F67292_2SoFE_ohVvOpHj-kJz74gQ.jpg",
+    "price": 385000,
+    "location": "Şüvəlan q.",
+    "land_area_sot": 22.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.48884086817947,
+    "lng": 50.20619755554198,
+    "has_repair": null,
+    "area_m2": 22,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5731171",
+    "first_seen_at": "2026-09-30T12:09:43.405067+00:00",
+    "last_seen_at": "2026-09-30T12:09:43.405067+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 385000,
+        "date": "2026-09-30T12:09:43.405067+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5628253",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F10%2F31%2F11%2F35%2F36%2F69f2cf9b-40d0-469c-84e1-b4368103038e%2F37302_ksBAd98Yipnr_0BzNr1yHg.jpg",
+    "price": 105000,
+    "location": "Şüvəlan q.",
     "land_area_sot": 4.5,
-    "lat": 40.48580885591517,
-    "lng": 50.12490678950188,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.497,
+    "lng": 50.208,
     "has_repair": null,
     "area_m2": 4.5,
     "category": "land",
     "deal_type": "sale",
-    "url": "https://bina.az/items/6480211",
-    "first_seen_at": "2026-09-30T09:35:49.305726+00:00",
-    "last_seen_at": "2026-09-30T09:35:49.305726+00:00",
+    "url": "https://bina.az/items/5628253",
+    "first_seen_at": "2026-09-30T12:09:43.561003+00:00",
+    "last_seen_at": "2026-09-30T12:09:43.561003+00:00",
     "deleted_at": null,
     "price_history": [
       {
-        "price": 155000,
-        "date": "2026-09-30T09:35:49.305726+00:00"
+        "price": 105000,
+        "date": "2026-09-30T12:09:43.561003+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6461476",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F15%2F10%2F36%2F36%2Fd7349ddf-1a61-40c4-ad58-e5142428179d%2F63806_5CsgjjEcg5ylMb0X-B0Uzg.jpg",
+    "price": 220000,
+    "location": "Mərdəkan q.",
+    "land_area_sot": 11.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.47857,
+    "lng": 50.150065,
+    "has_repair": null,
+    "area_m2": 11,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6461476",
+    "first_seen_at": "2026-09-30T12:09:43.726498+00:00",
+    "last_seen_at": "2026-09-30T12:09:43.726498+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 220000,
+        "date": "2026-09-30T12:09:43.726498+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6450489",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F10%2F18%2F51%2F42%2F9a6352e3-f455-4e0f-9815-a44b6914a132%2F63807_gXFwJ9noUbeJNKQy9mzW2w.jpg",
+    "price": 45000,
+    "location": "Görədil q.",
+    "land_area_sot": 3.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.55943984815742,
+    "lng": 49.83268808326704,
+    "has_repair": null,
+    "area_m2": 3,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6450489",
+    "first_seen_at": "2026-09-30T12:09:43.889541+00:00",
+    "last_seen_at": "2026-09-30T12:09:43.889541+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 45000,
+        "date": "2026-09-30T12:09:43.889541+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6309290",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F21%2F14%2F02%2F26%2F5876cbdb-388b-446a-9deb-85d9d1c3a140%2F15945_73KTMuQWJ78s4gTaZ-476w.jpg",
+    "price": 86000,
+    "location": "Mərdəkan q.",
+    "land_area_sot": 3.8,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.5013848882606,
+    "lng": 50.14630698617134,
+    "has_repair": null,
+    "area_m2": 3.8,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6309290",
+    "first_seen_at": "2026-09-30T12:09:44.073951+00:00",
+    "last_seen_at": "2026-09-30T12:09:44.073951+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 86000,
+        "date": "2026-09-30T12:09:44.073951+00:00"
+      }
+    ]
+  },
+  {
+    "id": "2852564",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2022%2F06%2F21%2F15%2F44%2F19%2F09045993-f835-42ab-8237-5ebc54a25f57%2F26730_picPpdZ1AURWjHgN1Qg1Rw.jpg",
+    "price": 1200000,
+    "location": "Şağan q.",
+    "land_area_sot": 30.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.4906394,
+    "lng": 50.11374879999994,
+    "has_repair": null,
+    "area_m2": 30,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/2852564",
+    "first_seen_at": "2026-09-30T12:09:44.275988+00:00",
+    "last_seen_at": "2026-09-30T12:09:44.275988+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1200000,
+        "date": "2026-09-30T12:09:44.275988+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5602711",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F10%2F21%2F10%2F22%2F08%2Fde2f9828-1d3a-4418-928b-efa213c3ce3f%2F13017_XQnsOqZNTk7pAJTxuXLkPA.jpg",
+    "price": 72000,
+    "location": "Nardaran q.",
+    "land_area_sot": 3.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.56300020713955,
+    "lng": 49.92122285182202,
+    "has_repair": null,
+    "area_m2": 3,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5602711",
+    "first_seen_at": "2026-09-30T12:09:44.468517+00:00",
+    "last_seen_at": "2026-09-30T12:09:44.468517+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 72000,
+        "date": "2026-09-30T12:09:44.468517+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504772",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F14%2F59%2F19%2Fe6f46e9b-4437-4f2d-8cd6-4dc97bf4aaf1%2F16127_Gk-ckbfUoVggjC46iWoW1g.jpg",
+    "price": 153600,
+    "location": "Nardaran q.",
+    "land_area_sot": 12.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.55640975795379,
+    "lng": 49.97376279095093,
+    "has_repair": null,
+    "area_m2": 12,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6504772",
+    "first_seen_at": "2026-09-30T12:09:44.625601+00:00",
+    "last_seen_at": "2026-09-30T12:09:44.625601+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 153600,
+        "date": "2026-09-30T12:09:44.625601+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6394129",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F21%2F11%2F44%2F58%2F5ea90eb0-2f18-42dc-aae4-29e7ee8a291c%2F87168_84DFJvfvFqjaHIPfhuxFnQ.jpg",
+    "price": 160000,
+    "location": "Massiv D q.",
+    "land_area_sot": 3.5,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.37772716914974,
+    "lng": 49.98429799389991,
+    "has_repair": null,
+    "area_m2": 3.5,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6394129",
+    "first_seen_at": "2026-09-30T12:09:44.780862+00:00",
+    "last_seen_at": "2026-09-30T12:09:44.780862+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 160000,
+        "date": "2026-09-30T12:09:44.780862+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504766",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F14%2F39%2F58%2Fada94f95-1984-4aef-b1f8-d04ad98cef1c%2F16131_WXsiqpLVrB8Vi4g5SrKFdg.jpg",
+    "price": 320000,
+    "location": "Bilgəh q.",
+    "land_area_sot": 20.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.57980893618472,
+    "lng": 50.04312461376953,
+    "has_repair": null,
+    "area_m2": 20,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6504766",
+    "first_seen_at": "2026-09-30T12:09:44.937089+00:00",
+    "last_seen_at": "2026-09-30T12:09:44.937089+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 320000,
+        "date": "2026-09-30T12:09:44.937089+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6211739",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F14%2F20%2F58%2F38%2F6ea7c8b0-2ddd-44af-8419-cd88cf14c665%2F68105_8NfUKUnCfOccGiJNLHvrTg.jpg",
+    "price": 223000,
+    "location": "Nardaran q.",
+    "land_area_sot": 12.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.56864854761566,
+    "lng": 49.93083114597548,
+    "has_repair": null,
+    "area_m2": 12,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6211739",
+    "first_seen_at": "2026-09-30T12:09:45.095381+00:00",
+    "last_seen_at": "2026-09-30T12:09:45.095381+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 223000,
+        "date": "2026-09-30T12:09:45.095381+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6494933",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F26%2F19%2F21%2F55%2F08aa5df3-64b9-4bc2-8732-6b9bda5b6095%2F71677_qYE11OU1SHxpwqO7V9C9mw.jpg",
+    "price": 95000,
+    "location": "Nardaran q.",
+    "land_area_sot": 8.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.56653020531813,
+    "lng": 49.90930421139905,
+    "has_repair": null,
+    "area_m2": 8,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6494933",
+    "first_seen_at": "2026-09-30T12:09:45.253747+00:00",
+    "last_seen_at": "2026-09-30T12:09:45.253747+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 95000,
+        "date": "2026-09-30T12:09:45.253747+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6211632",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F14%2F19%2F48%2F20%2Ff7bf9308-d9c6-4dc1-a51e-cd1e05d06827%2F55182_-4a2535_u9wj_A4Vkp8BTQ.jpg",
+    "price": 198000,
+    "location": "Nardaran q.",
+    "land_area_sot": 12.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.57552139506712,
+    "lng": 49.96811762420155,
+    "has_repair": null,
+    "area_m2": 12,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6211632",
+    "first_seen_at": "2026-09-30T12:09:45.413406+00:00",
+    "last_seen_at": "2026-09-30T12:09:45.413406+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 198000,
+        "date": "2026-09-30T12:09:45.413406+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6492000",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F25%2F18%2F04%2F57%2Fbd661b2f-8719-4fc3-b711-4cfee3f8614e%2F59367_PLcqkApvX927aXDKTgLy9Q.jpg",
+    "price": 108000,
+    "location": "Nardaran q.",
+    "land_area_sot": 8.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.55849448571377,
+    "lng": 49.96016209856313,
+    "has_repair": null,
+    "area_m2": 8,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6492000",
+    "first_seen_at": "2026-09-30T12:09:45.569468+00:00",
+    "last_seen_at": "2026-09-30T12:09:45.569468+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 108000,
+        "date": "2026-09-30T12:09:45.569468+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6298425",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F17%2F11%2F46%2F12%2Fd7d13cec-14f8-437f-872a-dd8aa245e161%2F45787_h0UIGu0qnvp3gNzMnrlVyA.jpg",
+    "price": 130000,
+    "location": "Şüvəlan q.",
+    "land_area_sot": 4.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.4899505683946,
+    "lng": 50.20817166137694,
+    "has_repair": null,
+    "area_m2": 4,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6298425",
+    "first_seen_at": "2026-09-30T12:09:45.725778+00:00",
+    "last_seen_at": "2026-09-30T12:09:45.725778+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 130000,
+        "date": "2026-09-30T12:09:45.725778+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504749",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F14%2F54%2F18%2F32f503c6-a365-4dcd-8ac5-2981d980bdd5%2F16149_5NwfRDYIQk11EW7O2jALQg.jpg",
+    "price": 6600000,
+    "location": "Nəsimi r.",
+    "land_area_sot": 27.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.40408645611608,
+    "lng": 49.83361998352129,
+    "has_repair": null,
+    "area_m2": 27,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6504749",
+    "first_seen_at": "2026-09-30T12:09:45.880275+00:00",
+    "last_seen_at": "2026-09-30T12:09:45.880275+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 6600000,
+        "date": "2026-09-30T12:09:45.880275+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6376609",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F14%2F17%2F52%2F54%2F100e54ca-ad39-4bb4-a0dd-82381e593448%2F14184_y5YwbWSM0UpvBsmohFwEgw.jpg",
+    "price": 220000,
+    "location": "Novxanı q.",
+    "land_area_sot": 9.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.57238689741087,
+    "lng": 49.7736261964824,
+    "has_repair": null,
+    "area_m2": 9,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6376609",
+    "first_seen_at": "2026-09-30T12:09:46.036681+00:00",
+    "last_seen_at": "2026-09-30T12:09:46.036681+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 220000,
+        "date": "2026-09-30T12:09:46.036681+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6360645",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F09%2F07%2F28%2F37%2F6101d8d1-5b00-4d90-85f7-10cdf3da365f%2F88554_DimhKXLu0YCyrK2E8YaVjw.jpg",
+    "price": 75000,
+    "location": "Fatmayı q.",
+    "land_area_sot": 6.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.53721542411109,
+    "lng": 49.85760422314592,
+    "has_repair": null,
+    "area_m2": 6,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6360645",
+    "first_seen_at": "2026-09-30T12:09:46.197275+00:00",
+    "last_seen_at": "2026-09-30T12:09:46.197275+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 75000,
+        "date": "2026-09-30T12:09:46.197275+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6440726",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F07%2F14%2F37%2F17%2F49626d4e-208d-4626-a947-36e9c82c02c6%2F63768_tt5keEhqgZ1CjXWkB8oJsA.jpg",
+    "price": 88000,
+    "location": "Albalılıq q.",
+    "land_area_sot": 12.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.53810430226944,
+    "lng": 50.03002700759202,
+    "has_repair": null,
+    "area_m2": 12,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6440726",
+    "first_seen_at": "2026-09-30T12:09:46.354395+00:00",
+    "last_seen_at": "2026-09-30T12:09:46.354395+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 88000,
+        "date": "2026-09-30T12:09:46.354395+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5587897",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F10%2F15%2F11%2F31%2F40%2F9556878c-2f26-4378-b502-f4f579499cf6%2F37302_ksBAd98Yipnr_0BzNr1yHg.jpg",
+    "price": 840000,
+    "location": "Şüvəlan q.",
+    "land_area_sot": 30.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.48923252917422,
+    "lng": 50.20825749206541,
+    "has_repair": null,
+    "area_m2": 30,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5587897",
+    "first_seen_at": "2026-09-30T12:09:46.572878+00:00",
+    "last_seen_at": "2026-09-30T12:09:46.572878+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 840000,
+        "date": "2026-09-30T12:09:46.572878+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6240320",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F25%2F15%2F39%2F22%2Fa88c5a6f-ae90-43a8-8979-3b0a884edd8f%2F77733_aqg1k1CJNm84hbi5R1cNYA.jpg",
+    "price": 399000,
+    "location": "Mərdəkan q.",
+    "land_area_sot": 12.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.47857,
+    "lng": 50.150065,
+    "has_repair": null,
+    "area_m2": 12,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6240320",
+    "first_seen_at": "2026-09-30T12:09:46.728554+00:00",
+    "last_seen_at": "2026-09-30T12:09:46.728554+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 399000,
+        "date": "2026-09-30T12:09:46.728554+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6415627",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F29%2F11%2F55%2F42%2F8e6b45da-ad68-4242-906e-a2d3314d0f86%2F68682_H6rg34ps79eUU9_xgDiadg.jpg",
+    "price": 360000,
+    "location": "Badamdar q.",
+    "land_area_sot": 6.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.3242560308514,
+    "lng": 49.80802994694825,
+    "has_repair": null,
+    "area_m2": 6,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6415627",
+    "first_seen_at": "2026-09-30T12:09:46.884880+00:00",
+    "last_seen_at": "2026-09-30T12:09:46.884880+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 360000,
+        "date": "2026-09-30T12:09:46.884880+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6416197",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F30%2F16%2F40%2F49%2Fa8086b48-68a2-4b64-8417-2cbc2cff771d%2F67837_0--xGUq_-YwNiN_8D4tFdg.jpg",
+    "price": 199000,
+    "location": "Badamdar q.",
+    "land_area_sot": 4.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.32471408717773,
+    "lng": 49.80797272648919,
+    "has_repair": null,
+    "area_m2": 4,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6416197",
+    "first_seen_at": "2026-09-30T12:09:47.041381+00:00",
+    "last_seen_at": "2026-09-30T12:09:47.041381+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 199000,
+        "date": "2026-09-30T12:09:47.041381+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6457656",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F13%2F17%2F18%2F16%2Ff4f06aa0-9217-43ed-85d2-28f89c0b27c5%2F59781_Of0OGseukkzPn3q745rmXw.jpg",
+    "price": 29000,
+    "location": "Novxanı q.",
+    "land_area_sot": 2.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.5606971023244,
+    "lng": 49.77777913698728,
+    "has_repair": null,
+    "area_m2": 2,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6457656",
+    "first_seen_at": "2026-09-30T12:09:47.201559+00:00",
+    "last_seen_at": "2026-09-30T12:09:47.201559+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 29000,
+        "date": "2026-09-30T12:09:47.201559+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504685",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F14%2F45%2F01%2Fab5fdbe0-bf94-4fdf-8c06-392dbadfafe0%2F37938_QSPrm7ydR00IXVsk1AcrwA.jpg",
+    "price": 16000,
+    "location": "Biləcəri q.",
+    "land_area_sot": 3.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.43504654110203,
+    "lng": 49.80232994438254,
+    "has_repair": null,
+    "area_m2": 3,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6504685",
+    "first_seen_at": "2026-09-30T12:09:47.357695+00:00",
+    "last_seen_at": "2026-09-30T12:09:47.357695+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 16000,
+        "date": "2026-09-30T12:09:47.357695+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6286612",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F13%2F01%2F25%2F48%2F44f69569-a704-46e9-a406-2555e3dd68c9%2F79204_viifD1mKe-y2gWBHsKKIVA.jpg",
+    "price": 17500,
+    "location": "Hökməli q.",
+    "land_area_sot": 2.5,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.42516433074653,
+    "lng": 49.72837340524908,
+    "has_repair": null,
+    "area_m2": 2.5,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6286612",
+    "first_seen_at": "2026-09-30T12:09:47.515449+00:00",
+    "last_seen_at": "2026-09-30T12:09:47.515449+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 17500,
+        "date": "2026-09-30T12:09:47.515449+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6400449",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F23%2F18%2F10%2F17%2Fe644d4df-542a-4cbd-930a-76bb93c9f72f%2F68105_P_ZspObih8KCqFGSiHbHmg.jpg",
+    "price": 44000,
+    "location": "Novxanı q.",
+    "land_area_sot": 3.7,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.5685750302409,
+    "lng": 49.77300457940251,
+    "has_repair": null,
+    "area_m2": 3.7,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6400449",
+    "first_seen_at": "2026-09-30T12:09:47.670888+00:00",
+    "last_seen_at": "2026-09-30T12:09:47.670888+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 44000,
+        "date": "2026-09-30T12:09:47.670888+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6227194",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F20%2F14%2F06%2F20%2Fe950ceca-d136-4205-a4f3-0c430556a1f9%2F29292_rbL4kKi-_FSc48c_a0TkfQ.jpg",
+    "price": 30000,
+    "location": "Novxanı q.",
+    "land_area_sot": 3.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.56227427997355,
+    "lng": 49.73551825174864,
+    "has_repair": null,
+    "area_m2": 3,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6227194",
+    "first_seen_at": "2026-09-30T12:09:47.826737+00:00",
+    "last_seen_at": "2026-09-30T12:09:47.826737+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 30000,
+        "date": "2026-09-30T12:09:47.826737+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6244253",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F26%2F21%2F05%2F37%2F5d19b98c-87f3-4136-8000-89a0c3b57eb0%2F89607_HyNRjgRl4jrSTtMcby4Dxw.jpg",
+    "price": 39000,
+    "location": "Novxanı q.",
+    "land_area_sot": 3.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.56960909819899,
+    "lng": 49.7700768051661,
+    "has_repair": null,
+    "area_m2": 3,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6244253",
+    "first_seen_at": "2026-09-30T12:09:47.988641+00:00",
+    "last_seen_at": "2026-09-30T12:09:47.988641+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 39000,
+        "date": "2026-09-30T12:09:47.988641+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5554008",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F10%2F01%2F23%2F15%2F28%2F40435739-6cc1-4738-901e-b93554b0464c%2F89649_IdiJWhN4F5E3SSESYyyqZg.jpg",
+    "price": 340000,
+    "location": "Buzovna q.",
+    "land_area_sot": 10.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.49965621009343,
+    "lng": 50.10564798239561,
+    "has_repair": null,
+    "area_m2": 10,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5554008",
+    "first_seen_at": "2026-09-30T12:09:48.152754+00:00",
+    "last_seen_at": "2026-09-30T12:09:48.152754+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 340000,
+        "date": "2026-09-30T12:09:48.152754+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6244247",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F26%2F20%2F56%2F46%2Fe3a1818f-b156-4079-b630-28b1c8adbe67%2F93808_ErDJVvsm9LbG_gqxSAU84Q.jpg",
+    "price": 26000,
+    "location": "Novxanı q.",
+    "land_area_sot": 2.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.56972307153899,
+    "lng": 49.77016266032496,
+    "has_repair": null,
+    "area_m2": 2,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6244247",
+    "first_seen_at": "2026-09-30T12:09:48.308727+00:00",
+    "last_seen_at": "2026-09-30T12:09:48.308727+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 26000,
+        "date": "2026-09-30T12:09:48.308727+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6465382",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F16%2F14%2F17%2F31%2Fb14ef967-9e87-4f67-9135-4183f72e74d7%2F49883_aOIl8EpegC8nP1ge16AHAQ.jpg",
+    "price": 270000,
+    "location": "Pirşağı q.",
+    "land_area_sot": 15.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.56822001788327,
+    "lng": 49.88928580914153,
+    "has_repair": null,
+    "area_m2": 15,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6465382",
+    "first_seen_at": "2026-09-30T12:09:48.466202+00:00",
+    "last_seen_at": "2026-09-30T12:09:48.466202+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 270000,
+        "date": "2026-09-30T12:09:48.466202+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5994418",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F14%2F10%2F47%2F44%2F4b5d329c-fbb0-43f4-9497-b9f6e3f9925a%2F56944_AEn7yS_5yqO_hQyePxTLdw.jpg",
+    "price": 403000,
+    "location": "Mərdəkan q.",
+    "land_area_sot": 14.1,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.50154060415463,
+    "lng": 50.14752678459909,
+    "has_repair": null,
+    "area_m2": 14.1,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5994418",
+    "first_seen_at": "2026-09-30T12:09:48.620053+00:00",
+    "last_seen_at": "2026-09-30T12:09:48.620053+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 403000,
+        "date": "2026-09-30T12:09:48.620053+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6426401",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F02%2F12%2F28%2F56%2F6ad0f558-0078-4678-ba9e-415bb872e500%2F72338_HWiNcZKuSX32uL_t9TiAcQ.jpg",
+    "price": 740000,
+    "location": "Pirşağı q.",
+    "land_area_sot": 50.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.55917341613569,
+    "lng": 49.86223371012881,
+    "has_repair": null,
+    "area_m2": 50,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6426401",
+    "first_seen_at": "2026-09-30T12:09:48.776360+00:00",
+    "last_seen_at": "2026-09-30T12:09:48.776360+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 740000,
+        "date": "2026-09-30T12:09:48.776360+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504669",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F14%2F33%2F00%2F3505d8e2-979b-480e-8ca8-c4d81f3d377f%2F75491_Oh33lTjMtRicyixG1LShMA.jpg",
+    "price": 466666,
+    "location": "Novxanı q.",
+    "land_area_sot": 55.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.5330599,
+    "lng": 49.7843881,
+    "has_repair": null,
+    "area_m2": 55,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6504669",
+    "first_seen_at": "2026-09-30T12:09:48.931652+00:00",
+    "last_seen_at": "2026-09-30T12:09:48.931652+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 466666,
+        "date": "2026-09-30T12:09:48.931652+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504653",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F14%2F10%2F40%2F532f2329-3605-4343-9650-2be197427e81%2F16133_a8uIM2gI0UnsC-ZUJjjIyQ.jpg",
+    "price": 55000,
+    "location": "Qobu q.",
+    "land_area_sot": 8.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.39107908800951,
+    "lng": 49.70997712818216,
+    "has_repair": null,
+    "area_m2": 8,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6504653",
+    "first_seen_at": "2026-09-30T12:09:49.086533+00:00",
+    "last_seen_at": "2026-09-30T12:09:49.086533+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 55000,
+        "date": "2026-09-30T12:09:49.086533+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5961319",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F03%2F12%2F16%2F40%2F35%2Fd47e7897-6f42-4a17-8356-1c17318bf33d%2F40031_wlzFUcXc2SS7zavwPpaHrQ.jpg",
+    "price": 1300000,
+    "location": "Bilgəh q.",
+    "land_area_sot": 27.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.57736881510914,
+    "lng": 50.04359647361844,
+    "has_repair": null,
+    "area_m2": 27,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5961319",
+    "first_seen_at": "2026-09-30T12:09:49.254017+00:00",
+    "last_seen_at": "2026-09-30T12:09:49.254017+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1300000,
+        "date": "2026-09-30T12:09:49.254017+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6498659",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F28%2F12%2F58%2F26%2Fe0a1ab46-f024-4a33-8819-3ba20b1f3f03%2F83931_sR2oByWfF-Abzq9L9FsjRg.jpg",
+    "price": 50000,
+    "location": "Nardaran q.",
+    "land_area_sot": 5.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.55807666699417,
+    "lng": 49.98174918480009,
+    "has_repair": null,
+    "area_m2": 5,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6498659",
+    "first_seen_at": "2026-09-30T12:09:49.409956+00:00",
+    "last_seen_at": "2026-09-30T12:09:49.409956+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 50000,
+        "date": "2026-09-30T12:09:49.409956+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6269410",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F06%2F15%2F29%2F34%2F90f17ca3-144f-4400-9503-be25a34b7e18%2F7180_gszGGiV5KItV_6opHVRApw.jpg",
+    "price": 455000,
+    "location": "Mərdəkan q.",
+    "land_area_sot": 12.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.47857,
+    "lng": 50.150065,
+    "has_repair": null,
+    "area_m2": 12,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6269410",
+    "first_seen_at": "2026-09-30T12:09:49.860314+00:00",
+    "last_seen_at": "2026-09-30T12:09:49.860314+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 455000,
+        "date": "2026-09-30T12:09:49.860314+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6215988",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F16%2F14%2F28%2F53%2F235c2c54-475a-412b-adff-4d8686cd510a%2F62558_jcCuoSmnHDqPJHdw95PPpA.jpg",
+    "price": 30000,
+    "location": "Novxanı q.",
+    "land_area_sot": 3.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.56600385561783,
+    "lng": 49.73816582843644,
+    "has_repair": null,
+    "area_m2": 3,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6215988",
+    "first_seen_at": "2026-09-30T12:09:50.017931+00:00",
+    "last_seen_at": "2026-09-30T12:09:50.017931+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 30000,
+        "date": "2026-09-30T12:09:50.017931+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6430054",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F03%2F14%2F37%2F44%2F225f58bb-dde7-4f4f-b6ed-a81cf4e751a4%2F72348_NhwITwgti-KEg4idcRyN4g.jpg",
+    "price": 108000,
+    "location": "Şüvəlan q.",
+    "land_area_sot": 4.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.497,
+    "lng": 50.208,
+    "has_repair": null,
+    "area_m2": 4,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6430054",
+    "first_seen_at": "2026-09-30T12:09:50.175691+00:00",
+    "last_seen_at": "2026-09-30T12:09:50.175691+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 108000,
+        "date": "2026-09-30T12:09:50.175691+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6119391",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F11%2F12%2F08%2F37%2F6d446f23-fdc8-46a3-9927-9f04205a93fe%2F55405_Tnpe9QC8jEhrw7RPO5cEvQ.jpg",
+    "price": 26400,
+    "location": "Novxanı q.",
+    "land_area_sot": 2.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.56762815784905,
+    "lng": 49.76900421693507,
+    "has_repair": null,
+    "area_m2": 2.2,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6119391",
+    "first_seen_at": "2026-09-30T12:09:50.339189+00:00",
+    "last_seen_at": "2026-09-30T12:09:50.339189+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 26400,
+        "date": "2026-09-30T12:09:50.339189+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6030686",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F04%2F09%2F14%2F41%2F17%2Ffae7d9e6-83e3-461c-bf45-1d0c572d33ce%2F40121_2E0_JuYypZOlDuLUJsGNJw.jpg",
+    "price": 950000,
+    "location": "Həzi Aslanov q.",
+    "land_area_sot": 8.9,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.37376947959432,
+    "lng": 49.92782424620451,
+    "has_repair": null,
+    "area_m2": 8.9,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6030686",
+    "first_seen_at": "2026-09-30T12:09:50.513405+00:00",
+    "last_seen_at": "2026-09-30T12:09:50.513405+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 950000,
+        "date": "2026-09-30T12:09:50.513405+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5493085",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F09%2F08%2F12%2F20%2F49%2Fe2351491-daaa-449a-a32d-17be506007eb%2F92313_wLbwyJGJi75X1LikQGRJwg.jpg",
+    "price": 409200,
+    "location": "Badamdar q.",
+    "land_area_sot": 6.6,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.32271106925512,
+    "lng": 49.80515089750667,
+    "has_repair": null,
+    "area_m2": 6.6,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5493085",
+    "first_seen_at": "2026-09-30T12:09:50.669865+00:00",
+    "last_seen_at": "2026-09-30T12:09:50.669865+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 409200,
+        "date": "2026-09-30T12:09:50.669865+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504575",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F14%2F14%2F38%2F9c997dc7-46b9-4131-a49f-ba5c36e8713d%2F16137_lYekFCFa0zra3PQQJFN4xQ.jpg",
+    "price": 118000,
+    "location": "Yeni Ramana q.",
+    "land_area_sot": 5.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.44420077693953,
+    "lng": 49.98329153442383,
+    "has_repair": null,
+    "area_m2": 5,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6504575",
+    "first_seen_at": "2026-09-30T12:09:50.826212+00:00",
+    "last_seen_at": "2026-09-30T12:09:50.826212+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 118000,
+        "date": "2026-09-30T12:09:50.826212+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6257612",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F01%2F23%2F44%2F42%2F267e5b69-182b-4906-9f9d-5b399d11836b%2F75565_VELxw76KBYHUowPhCRROJA.jpg",
+    "price": 52000,
+    "location": "Novxanı q.",
+    "land_area_sot": 6.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.53117828059639,
+    "lng": 49.78357539066847,
+    "has_repair": null,
+    "area_m2": 6,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6257612",
+    "first_seen_at": "2026-09-30T12:09:50.986550+00:00",
+    "last_seen_at": "2026-09-30T12:09:50.986550+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 52000,
+        "date": "2026-09-30T12:09:50.986550+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5493126",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F09%2F08%2F12%2F30%2F02%2Fe2179831-30b1-452d-b792-2b2391b6614f%2F92313_wLbwyJGJi75X1LikQGRJwg.jpg",
+    "price": 273000,
+    "location": "Badamdar q.",
+    "land_area_sot": 4.2,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.32272147235467,
+    "lng": 49.80509700552447,
+    "has_repair": null,
+    "area_m2": 4.2,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5493126",
+    "first_seen_at": "2026-09-30T12:09:51.151596+00:00",
+    "last_seen_at": "2026-09-30T12:09:51.151596+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 273000,
+        "date": "2026-09-30T12:09:51.151596+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6328288",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F28%2F15%2F54%2F12%2F8b3ff69a-82cb-4e25-9338-51293f5fbfd3%2F64490_g9LCyb7tcJ9uhXdA3h4Adg.jpg",
+    "price": 30000,
+    "location": "Novxanı q.",
+    "land_area_sot": 3.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.5633094607637,
+    "lng": 49.75365320084286,
+    "has_repair": null,
+    "area_m2": 3,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6328288",
+    "first_seen_at": "2026-09-30T12:09:51.307515+00:00",
+    "last_seen_at": "2026-09-30T12:09:51.307515+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 30000,
+        "date": "2026-09-30T12:09:51.307515+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6484894",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F23%2F14%2F11%2F31%2Fe66d25b8-f8a8-4a45-8503-1d62568c0146%2F63779_dyiRiB5X1-lhNMoia-h18A.jpg",
+    "price": 125000,
+    "location": "Mərdəkan q.",
+    "land_area_sot": 5.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.47857,
+    "lng": 50.150065,
+    "has_repair": null,
+    "area_m2": 5,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6484894",
+    "first_seen_at": "2026-09-30T12:09:51.464798+00:00",
+    "last_seen_at": "2026-09-30T12:09:51.464798+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 125000,
+        "date": "2026-09-30T12:09:51.464798+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6398791",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F22%2F21%2F40%2F49%2Fac73422d-9d33-46dd-93f4-c1514827ebbb%2F87121_GyDfAcej4x9dUm1ddPpzVw.jpg",
+    "price": 126000,
+    "location": "Novxanı q.",
+    "land_area_sot": 7.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.52486096448899,
+    "lng": 49.77879888915627,
+    "has_repair": null,
+    "area_m2": 7,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6398791",
+    "first_seen_at": "2026-09-30T12:09:51.622412+00:00",
+    "last_seen_at": "2026-09-30T12:09:51.622412+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 126000,
+        "date": "2026-09-30T12:09:51.622412+00:00"
+      }
+    ]
+  },
+  {
+    "id": "4324078",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2024%2F05%2F09%2F11%2F13%2F25%2Fc005795d-ab72-41c9-9708-f4cb3e5cd367%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+    "price": 175000,
+    "location": "Şağan q.",
+    "land_area_sot": 7.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.49343312375074,
+    "lng": 50.11615205927727,
+    "has_repair": null,
+    "area_m2": 7,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/4324078",
+    "first_seen_at": "2026-09-30T12:09:51.847779+00:00",
+    "last_seen_at": "2026-09-30T12:09:51.847779+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 175000,
+        "date": "2026-09-30T12:09:51.847779+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6417268",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F29%2F19%2F20%2F35%2F77156206-8479-4a8c-a707-e8f3bdcc1f6c%2F68268_l6z5PU5edrrc0TQhWshs7g.jpg",
+    "price": 360000,
+    "location": "Nardaran q.",
+    "land_area_sot": 12.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.58029182330874,
+    "lng": 49.95524975900268,
+    "has_repair": null,
+    "area_m2": 12,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6417268",
+    "first_seen_at": "2026-09-30T12:09:52.011609+00:00",
+    "last_seen_at": "2026-09-30T12:09:52.011609+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 360000,
+        "date": "2026-09-30T12:09:52.011609+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6487869",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F24%2F14%2F05%2F58%2F89deb053-0e36-4d9d-b9fc-65b260a0a5b4%2F71670_xS759rB89S9kGgLkEPJTjw.jpg",
+    "price": 35100,
+    "location": "Buzovna q.",
+    "land_area_sot": 3.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.49583327911355,
+    "lng": 50.05722496732548,
+    "has_repair": null,
+    "area_m2": 3,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6487869",
+    "first_seen_at": "2026-09-30T12:09:52.165545+00:00",
+    "last_seen_at": "2026-09-30T12:09:52.165545+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 35100,
+        "date": "2026-09-30T12:09:52.165545+00:00"
       }
     ]
   },
@@ -105,7 +2236,7 @@
     "deal_type": "sale",
     "url": "https://bina.az/items/6431881",
     "first_seen_at": "2026-09-30T09:35:49.349144+00:00",
-    "last_seen_at": "2026-09-30T09:35:49.349144+00:00",
+    "last_seen_at": "2026-09-30T12:09:52.165609+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -115,25 +2246,252 @@
     ]
   },
   {
-    "id": "6483200",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F18%2F45%2F08%2F2f871a35-48af-480d-a37d-9677f1a22dcf%2F12320_f1J3FWQ6mBk0i4Sxc7QacA.jpg",
-    "price": 63000,
-    "location": "Binəqədi q.",
+    "id": "6504409",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F14%2F10%2F34%2F3594b71e-2774-4362-b07f-3dd650c919bf%2F16149_uwCAvtAvSDkFxsCtkzBxVw.jpg",
+    "price": 1900,
+    "location": "Atyalı q.",
+    "land_area_sot": 2.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.44754786804006,
+    "lng": 49.68228047607422,
+    "has_repair": null,
+    "area_m2": 2,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6504409",
+    "first_seen_at": "2026-09-30T12:09:52.330810+00:00",
+    "last_seen_at": "2026-09-30T12:09:52.330810+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1900,
+        "date": "2026-09-30T12:09:52.330810+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6368944",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F12%2F10%2F50%2F15%2Ffbbaa13d-7451-4289-b6cc-461eebab0a6d%2F5871_Tv4szgPAwuTO4bXdK0xCvg.jpg",
+    "price": 50500,
+    "location": "Novxanı q.",
     "land_area_sot": 4.2,
-    "lat": 40.45517923430762,
-    "lng": 49.78337101511263,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.56592976590187,
+    "lng": 49.77091268190916,
     "has_repair": null,
     "area_m2": 4.2,
     "category": "land",
     "deal_type": "sale",
-    "url": "https://bina.az/items/6483200",
-    "first_seen_at": "2026-09-30T09:35:49.409746+00:00",
-    "last_seen_at": "2026-09-30T09:35:49.409746+00:00",
+    "url": "https://bina.az/items/6368944",
+    "first_seen_at": "2026-09-30T12:09:52.488794+00:00",
+    "last_seen_at": "2026-09-30T12:09:52.488794+00:00",
     "deleted_at": null,
     "price_history": [
       {
-        "price": 63000,
-        "date": "2026-09-30T09:35:49.409746+00:00"
+        "price": 50500,
+        "date": "2026-09-30T12:09:52.488794+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504415",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F14%2F06%2F22%2F5e48b2ce-629c-47df-a97f-e440639aebb4%2F92104_pJY_T4cRyYG54uf6RAToSQ.jpg",
+    "price": 150000,
+    "location": "Nardaran q.",
+    "land_area_sot": 12.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.56674936617002,
+    "lng": 49.97150536546111,
+    "has_repair": null,
+    "area_m2": 12,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6504415",
+    "first_seen_at": "2026-09-30T12:09:52.644055+00:00",
+    "last_seen_at": "2026-09-30T12:09:52.644055+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 150000,
+        "date": "2026-09-30T12:09:52.644055+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6232033",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F22%2F14%2F10%2F10%2F2706258e-5090-473f-8342-13534435d8be%2F55405_eaUe8tOsn3OajdV7WnwLGw.jpg",
+    "price": 175000,
+    "location": "Şıxov q.",
+    "land_area_sot": 4.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.3116162970768,
+    "lng": 49.78005222649694,
+    "has_repair": null,
+    "area_m2": 4,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6232033",
+    "first_seen_at": "2026-09-30T12:09:52.857582+00:00",
+    "last_seen_at": "2026-09-30T12:09:52.857582+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 175000,
+        "date": "2026-09-30T12:09:52.857582+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6063307",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F04%2F21%2F13%2F54%2F47%2Ffcacc1e0-8ed5-4c77-96d5-0e8e0368ee4d%2F54389_-lC_r3FgPcMOkoTz-6n4AA.jpg",
+    "price": 880000,
+    "location": "Mərdəkan q.",
+    "land_area_sot": 25.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.4961269023181,
+    "lng": 50.15268618975591,
+    "has_repair": null,
+    "area_m2": 25,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6063307",
+    "first_seen_at": "2026-09-30T12:09:53.017413+00:00",
+    "last_seen_at": "2026-09-30T12:09:53.017413+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 880000,
+        "date": "2026-09-30T12:09:53.017413+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6405630",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F25%2F16%2F24%2F01%2Fb5c066c6-da37-4fe3-a07d-2b9a83225835%2F68144_j5EwBVP7HJrX9mgo_eaGGw.jpg",
+    "price": 360000,
+    "location": "Şüvəlan q.",
+    "land_area_sot": 12.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.48793466647546,
+    "lng": 50.23006017265155,
+    "has_repair": null,
+    "area_m2": 12,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6405630",
+    "first_seen_at": "2026-09-30T12:09:53.174651+00:00",
+    "last_seen_at": "2026-09-30T12:09:53.174651+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 360000,
+        "date": "2026-09-30T12:09:53.174651+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5363377",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F07%2F18%2F15%2F22%2F28%2F6632abbd-ab76-46b6-8a17-c6032ec88e1d%2F66008_-f1hpkebL9FYqnHCOa3oWQ.jpg",
+    "price": 800000,
+    "location": "Mərdəkan q.",
+    "land_area_sot": 25.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.50540946496266,
+    "lng": 50.15178532938373,
+    "has_repair": null,
+    "area_m2": 25,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5363377",
+    "first_seen_at": "2026-09-30T12:09:53.331220+00:00",
+    "last_seen_at": "2026-09-30T12:09:53.331220+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 800000,
+        "date": "2026-09-30T12:09:53.331220+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6296447",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F16%2F15%2F12%2F29%2F022f9e1a-25ae-45ca-a7f9-ef539360e28b%2F3552_woahiNwo5pV243r_p2doOw.jpg",
+    "price": 210000,
+    "location": "Şüvəlan q.",
+    "land_area_sot": 7.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.497,
+    "lng": 50.208,
+    "has_repair": null,
+    "area_m2": 7,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6296447",
+    "first_seen_at": "2026-09-30T12:09:53.491395+00:00",
+    "last_seen_at": "2026-09-30T12:09:53.491395+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 210000,
+        "date": "2026-09-30T12:09:53.491395+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6488680",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F24%2F16%2F45%2F15%2F48171119-2bcf-4f2a-80e0-3a9c653affd0%2F59368_GQC1sbHjt8ssIzCy0O8Tnw.jpg",
+    "price": 198000,
+    "location": "M.Ə.Rəsulzadə q.",
+    "land_area_sot": 4.8,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.4365100436851,
+    "lng": 49.84270680570623,
+    "has_repair": null,
+    "area_m2": 4.8,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6488680",
+    "first_seen_at": "2026-09-30T12:09:53.649189+00:00",
+    "last_seen_at": "2026-09-30T12:09:53.649189+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 198000,
+        "date": "2026-09-30T12:09:53.649189+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5971628",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F03%2F16%2F16%2F13%2F20%2Fb01e0e92-2e8f-4975-b4e3-c6e62ee82470%2F22157_BxfVXZf10eb9iI_t26XbTQ.jpg",
+    "price": 58000,
+    "location": "Görədil q.",
+    "land_area_sot": 5.5,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.5587841661236,
+    "lng": 49.8151417624756,
+    "has_repair": null,
+    "area_m2": 5.5,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5971628",
+    "first_seen_at": "2026-09-30T12:09:53.803549+00:00",
+    "last_seen_at": "2026-09-30T12:09:53.803549+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 58000,
+        "date": "2026-09-30T12:09:53.803549+00:00"
       }
     ]
   },
@@ -151,7 +2509,7 @@
     "deal_type": "sale",
     "url": "https://bina.az/items/6425911",
     "first_seen_at": "2026-09-30T09:35:49.451038+00:00",
-    "last_seen_at": "2026-09-30T09:35:49.451038+00:00",
+    "last_seen_at": "2026-09-30T12:09:53.803611+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -161,25 +2519,302 @@
     ]
   },
   {
-    "id": "6499243",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F28%2F16%2F21%2F16%2Fa87f1912-7bf8-4109-9994-58882698fd48%2F24832_Hr7dHLBSaSAikFxIEoYP0A.jpg",
-    "price": 625000,
-    "location": "Sahil q.",
-    "land_area_sot": 25.0,
-    "lat": 40.2001106407093,
-    "lng": 49.51985765996104,
+    "id": "6119807",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F11%2F13%2F33%2F45%2F42af705d-c700-495d-a1b8-3ce195f4d5d0%2F75699_mHUkX4Q88gyoNW1RoafS5Q.jpg",
+    "price": 6600000,
+    "location": "Nərimanov r.",
+    "land_area_sot": 26.5,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.40292803729429,
+    "lng": 49.83296606369976,
     "has_repair": null,
-    "area_m2": 25,
+    "area_m2": 26.5,
     "category": "land",
     "deal_type": "sale",
-    "url": "https://bina.az/items/6499243",
-    "first_seen_at": "2026-09-30T09:35:49.490127+00:00",
-    "last_seen_at": "2026-09-30T09:35:49.490127+00:00",
+    "url": "https://bina.az/items/6119807",
+    "first_seen_at": "2026-09-30T12:09:53.967584+00:00",
+    "last_seen_at": "2026-09-30T12:09:53.967584+00:00",
     "deleted_at": null,
     "price_history": [
       {
-        "price": 625000,
-        "date": "2026-09-30T09:35:49.490127+00:00"
+        "price": 6600000,
+        "date": "2026-09-30T12:09:53.967584+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6387220",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F18%2F18%2F10%2F43%2F30f26afc-c5d8-4ed8-87d3-efbfac0d717b%2F36802_6MSaQ-63qH3IVaCKeUzXwg.jpg",
+    "price": 1250000,
+    "location": "Mərdəkan q.",
+    "land_area_sot": 50.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.49111035100519,
+    "lng": 50.1759867798233,
+    "has_repair": null,
+    "area_m2": 50,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6387220",
+    "first_seen_at": "2026-09-30T12:09:54.122616+00:00",
+    "last_seen_at": "2026-09-30T12:09:54.122616+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1250000,
+        "date": "2026-09-30T12:09:54.122616+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6407856",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F26%2F13%2F32%2F03%2F5bf7ac4c-20b2-4b51-aed6-0b261681af90%2F34889_RRfz9NQ2lxY19AwwlRAwOg.jpg",
+    "price": 440000,
+    "location": "Nardaran q.",
+    "land_area_sot": 24.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.5854035883396,
+    "lng": 49.99561164025879,
+    "has_repair": null,
+    "area_m2": 24,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6407856",
+    "first_seen_at": "2026-09-30T12:09:54.278419+00:00",
+    "last_seen_at": "2026-09-30T12:09:54.278419+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 440000,
+        "date": "2026-09-30T12:09:54.278419+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6481770",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F13%2F33%2F44%2Ff50e724e-b64d-4c06-9e35-739b2aca443d%2F55594_StLZ8wRl99oU0w-vWeTxlw.jpg",
+    "price": 1100000,
+    "location": "M.Ə.Rəsulzadə q.",
+    "land_area_sot": 30.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.44175760929276,
+    "lng": 49.85915709228903,
+    "has_repair": null,
+    "area_m2": 30,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6481770",
+    "first_seen_at": "2026-09-30T12:09:54.433908+00:00",
+    "last_seen_at": "2026-09-30T12:09:54.433908+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1100000,
+        "date": "2026-09-30T12:09:54.433908+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5405232",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F08%2F04%2F15%2F21%2F53%2F2ded2257-d30b-4952-bfc6-b62df31cc44e%2F4513_SdFmiiX51JZHxZnCDO0xMg.jpg",
+    "price": 520000,
+    "location": "Məmmədli q.",
+    "land_area_sot": 120.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.53091029102544,
+    "lng": 49.95187096557164,
+    "has_repair": null,
+    "area_m2": 120,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5405232",
+    "first_seen_at": "2026-09-30T12:09:54.598557+00:00",
+    "last_seen_at": "2026-09-30T12:09:54.598557+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 520000,
+        "date": "2026-09-30T12:09:54.598557+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6389539",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F19%2F16%2F01%2F48%2Fd38e59f3-33fe-4583-b7fe-d2047df5b49e%2F81311_HbVufXiBwz4DVFxCJwY-vg.jpg",
+    "price": 6800000,
+    "location": "Nəriman Nərimanov m.",
+    "land_area_sot": 34.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.41074650670226,
+    "lng": 49.86691784340814,
+    "has_repair": null,
+    "area_m2": 34,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6389539",
+    "first_seen_at": "2026-09-30T12:09:54.760290+00:00",
+    "last_seen_at": "2026-09-30T12:09:54.760290+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 6800000,
+        "date": "2026-09-30T12:09:54.760290+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6330849",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F29%2F14%2F40%2F27%2F5e243223-a8fd-4da6-a6c0-17f71278f9cb%2F37338_jqTvnajTtmwJtkjHgM54iQ.jpg",
+    "price": 792000,
+    "location": "Buzovna q.",
+    "land_area_sot": 24.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.51435880902831,
+    "lng": 50.08767850065761,
+    "has_repair": null,
+    "area_m2": 24,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6330849",
+    "first_seen_at": "2026-09-30T12:09:54.921033+00:00",
+    "last_seen_at": "2026-09-30T12:09:54.921033+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 792000,
+        "date": "2026-09-30T12:09:54.921033+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5712810",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F12%2F04%2F14%2F04%2F14%2F859a071c-78e6-4a1d-bcfc-7f59395b35ed%2F7512_32gr44NPeyaOdG-3l3lq5w.jpg",
+    "price": 350000,
+    "location": "Bilgəh q.",
+    "land_area_sot": 24.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.5661559921919,
+    "lng": 50.02763217449951,
+    "has_repair": null,
+    "area_m2": 24,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5712810",
+    "first_seen_at": "2026-09-30T12:09:55.091099+00:00",
+    "last_seen_at": "2026-09-30T12:09:55.091099+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 350000,
+        "date": "2026-09-30T12:09:55.091099+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6212241",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F15%2F11%2F00%2F19%2F3fe200e7-25fe-45bb-92c6-254809e97ff8%2F61427_7GQH7qZQE32R2V-JvN9ieg.jpg",
+    "price": 482000,
+    "location": "Nardaran q.",
+    "land_area_sot": 15.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.58079162889158,
+    "lng": 49.96458619880664,
+    "has_repair": null,
+    "area_m2": 15,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6212241",
+    "first_seen_at": "2026-09-30T12:09:55.252123+00:00",
+    "last_seen_at": "2026-09-30T12:09:55.252123+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 482000,
+        "date": "2026-09-30T12:09:55.252123+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504428",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F13%2F31%2F08%2F4d7cd2ea-2d17-4c3b-ad89-4eb13d1c07f8%2F96177_692gx2gRcyQu3Xf46MC7uQ.jpg",
+    "price": 420000,
+    "location": "Mərdəkan q.",
+    "land_area_sot": 12.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.47857,
+    "lng": 50.150065,
+    "has_repair": null,
+    "area_m2": 12,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6504428",
+    "first_seen_at": "2026-09-30T12:09:55.410293+00:00",
+    "last_seen_at": "2026-09-30T12:09:55.410293+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 420000,
+        "date": "2026-09-30T12:09:55.410293+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6492020",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F25%2F18%2F08%2F52%2F685c0281-6e25-4fb3-881f-83d928f88eb0%2F52652_XfvlgHLqQ-4Di70mfloHYw.jpg",
+    "price": 105000,
+    "location": "Bilgəh q.",
+    "land_area_sot": 5.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.5635703594461,
+    "lng": 50.04044451912024,
+    "has_repair": null,
+    "area_m2": 5,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6492020",
+    "first_seen_at": "2026-09-30T12:09:55.569352+00:00",
+    "last_seen_at": "2026-09-30T12:09:55.569352+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 105000,
+        "date": "2026-09-30T12:09:55.569352+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6439710",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F07%2F11%2F27%2F43%2Fa6b1dea2-8f45-4487-99d6-50abe26af805%2F50448_ohpua__Dt5c3A2OwxrK0YA.jpg",
+    "price": 199000,
+    "location": "Şüvəlan q.",
+    "land_area_sot": 5.5,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.50166444413733,
+    "lng": 50.17402831959815,
+    "has_repair": null,
+    "area_m2": 5.5,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6439710",
+    "first_seen_at": "2026-09-30T12:09:55.729553+00:00",
+    "last_seen_at": "2026-09-30T12:09:55.729553+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 199000,
+        "date": "2026-09-30T12:09:55.729553+00:00"
       }
     ]
   },
@@ -197,7 +2832,7 @@
     "deal_type": "sale",
     "url": "https://bina.az/items/6504405",
     "first_seen_at": "2026-09-30T09:35:49.531444+00:00",
-    "last_seen_at": "2026-09-30T09:35:49.531444+00:00",
+    "last_seen_at": "2026-09-30T12:09:55.729617+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -220,7 +2855,7 @@
     "deal_type": "sale",
     "url": "https://bina.az/items/5602469",
     "first_seen_at": "2026-09-30T09:32:28.098642+00:00",
-    "last_seen_at": "2026-09-30T09:35:49.571033+00:00",
+    "last_seen_at": "2026-09-30T12:09:55.729641+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -243,7 +2878,7 @@
     "deal_type": "sale",
     "url": "https://bina.az/items/6504357",
     "first_seen_at": "2026-09-30T09:32:28.146672+00:00",
-    "last_seen_at": "2026-09-30T09:35:49.613087+00:00",
+    "last_seen_at": "2026-09-30T12:09:55.729661+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -266,7 +2901,7 @@
     "deal_type": "sale",
     "url": "https://bina.az/items/6337926",
     "first_seen_at": "2026-09-30T09:32:28.190297+00:00",
-    "last_seen_at": "2026-09-30T09:35:49.652544+00:00",
+    "last_seen_at": "2026-09-30T12:09:55.729679+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -289,35 +2924,12 @@
     "deal_type": "sale",
     "url": "https://bina.az/items/6504325",
     "first_seen_at": "2026-09-30T09:32:28.240474+00:00",
-    "last_seen_at": "2026-09-30T09:35:49.693327+00:00",
+    "last_seen_at": "2026-09-30T12:09:55.729695+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 450000,
         "date": "2026-09-30T09:32:28.240474+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6393692",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F21%2F01%2F08%2F32%2Fdcdcb978-91b5-49c3-ad8c-fedf5952b44c%2F85437__QFvrmZzlmEuwuUvmvuK7g.jpg",
-    "price": 10500,
-    "location": "Novxanı q.",
-    "land_area_sot": 22.0,
-    "lat": 40.56137325574228,
-    "lng": 49.77049904365663,
-    "has_repair": null,
-    "area_m2": 22,
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6393692",
-    "first_seen_at": "2026-09-30T09:32:28.280903+00:00",
-    "last_seen_at": "2026-09-30T09:35:49.733223+00:00",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 10500,
-        "date": "2026-09-30T09:32:28.280903+00:00"
       }
     ]
   },
@@ -335,7 +2947,7 @@
     "deal_type": "sale",
     "url": "https://bina.az/items/5929669",
     "first_seen_at": "2026-09-30T09:32:28.322649+00:00",
-    "last_seen_at": "2026-09-30T09:35:49.775140+00:00",
+    "last_seen_at": "2026-09-30T12:09:55.729709+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -358,7 +2970,7 @@
     "deal_type": "sale",
     "url": "https://bina.az/items/6461823",
     "first_seen_at": "2026-09-30T09:32:28.361466+00:00",
-    "last_seen_at": "2026-09-30T09:35:49.815281+00:00",
+    "last_seen_at": "2026-09-30T12:09:55.729724+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -381,7 +2993,7 @@
     "deal_type": "sale",
     "url": "https://bina.az/items/6504286",
     "first_seen_at": "2026-09-30T09:32:28.403624+00:00",
-    "last_seen_at": "2026-09-30T09:35:49.857417+00:00",
+    "last_seen_at": "2026-09-30T12:09:55.729739+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -404,7 +3016,7 @@
     "deal_type": "sale",
     "url": "https://bina.az/items/6338381",
     "first_seen_at": "2026-09-30T09:32:28.446153+00:00",
-    "last_seen_at": "2026-09-30T09:35:49.895269+00:00",
+    "last_seen_at": "2026-09-30T12:09:55.729753+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -427,7 +3039,7 @@
     "deal_type": "sale",
     "url": "https://bina.az/items/6141739",
     "first_seen_at": "2026-09-30T09:32:28.487115+00:00",
-    "last_seen_at": "2026-09-30T09:35:49.938091+00:00",
+    "last_seen_at": "2026-09-30T12:09:55.729766+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -450,12 +3062,983 @@
     "deal_type": "sale",
     "url": "https://bina.az/items/5971612",
     "first_seen_at": "2026-09-30T09:32:28.527530+00:00",
-    "last_seen_at": "2026-09-30T09:35:49.980085+00:00",
+    "last_seen_at": "2026-09-30T12:09:55.729780+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 58000,
         "date": "2026-09-30T09:32:28.527530+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6280870",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F10%2F15%2F37%2F28%2Fca2cc748-ee23-4726-b488-7bf97ea6b6c0%2F89611_r0PQ35mZf-oQcEa4SJLyVA.jpg",
+    "price": 135000,
+    "location": "Qala q.",
+    "land_area_sot": 100.0,
+    "lat": 40.46571147668939,
+    "lng": 50.2420561462218,
+    "has_repair": null,
+    "area_m2": 100,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6280870",
+    "first_seen_at": "2026-09-30T09:32:28.568685+00:00",
+    "last_seen_at": "2026-09-30T12:09:55.729794+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 135000,
+        "date": "2026-09-30T09:32:28.568685+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504264",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F12%2F59%2F21%2F80c82935-85c2-4f6f-a527-63034d6d1459%2F16169_NKQYxqWYjEqk8Pudaio92A.jpg",
+    "price": 43500,
+    "location": "Qala q.",
+    "land_area_sot": 3.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.43532322027678,
+    "lng": 50.19359714579086,
+    "has_repair": null,
+    "area_m2": 3,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6504264",
+    "first_seen_at": "2026-09-30T12:09:55.886671+00:00",
+    "last_seen_at": "2026-09-30T12:09:55.886671+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 43500,
+        "date": "2026-09-30T12:09:55.886671+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504260",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F13%2F02%2F15%2F5984a14a-f603-4da0-ab5d-486d6de09a87%2F75508_gX8dPvvEXomnApn-djORiQ.jpg",
+    "price": 33000,
+    "location": "Hövsan q.",
+    "land_area_sot": 2.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.376143,
+    "lng": 50.091873,
+    "has_repair": null,
+    "area_m2": 2,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6504260",
+    "first_seen_at": "2026-09-30T12:09:56.048849+00:00",
+    "last_seen_at": "2026-09-30T12:09:56.048849+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 33000,
+        "date": "2026-09-30T12:09:56.048849+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6338627",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F01%2F11%2F58%2F42%2F6142f8e3-e14f-4584-9907-faebfdfe8d64%2F32144_t--4yEqMu3IKDah70OFtuw.jpg",
+    "price": 915000,
+    "location": "Mərdəkan q.",
+    "land_area_sot": 36.5,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.48080930736501,
+    "lng": 50.14847713226317,
+    "has_repair": null,
+    "area_m2": 36.5,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6338627",
+    "first_seen_at": "2026-09-30T12:09:56.211569+00:00",
+    "last_seen_at": "2026-09-30T12:09:56.211569+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 915000,
+        "date": "2026-09-30T12:09:56.211569+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6393252",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F20%2F19%2F17%2F10%2Fa866773c-4a02-4050-a000-354f646011bf%2F81321_reQCJaEy17GJkmOo3Lu93w.jpg",
+    "price": 90000,
+    "location": "Pirşağı q.",
+    "land_area_sot": 10.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.56620742033504,
+    "lng": 49.88801510317995,
+    "has_repair": null,
+    "area_m2": 10,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6393252",
+    "first_seen_at": "2026-09-30T12:09:56.368273+00:00",
+    "last_seen_at": "2026-09-30T12:09:56.368273+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 90000,
+        "date": "2026-09-30T12:09:56.368273+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6283302",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F11%2F14%2F39%2F22%2F5b7ea5ab-de96-493c-8248-c94f9b758fbc%2F90612_VTqnQcUhS9CJ99ndaBds0g.jpg",
+    "price": 680000,
+    "location": "Badamdar q.",
+    "land_area_sot": 13.6,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.32231471001533,
+    "lng": 49.80677109685052,
+    "has_repair": null,
+    "area_m2": 13.6,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6283302",
+    "first_seen_at": "2026-09-30T12:09:56.526812+00:00",
+    "last_seen_at": "2026-09-30T12:09:56.526812+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 680000,
+        "date": "2026-09-30T12:09:56.526812+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6397438",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F22%2F14%2F12%2F57%2F4a3c195c-9cd8-4aa3-b2e0-c0b24ffe2327%2F87119_MyOOVDvqj2az084-VhcvxA.jpg",
+    "price": 84000,
+    "location": "Badamdar q.",
+    "land_area_sot": 2.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.32515658452332,
+    "lng": 49.79658685239328,
+    "has_repair": null,
+    "area_m2": 2,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6397438",
+    "first_seen_at": "2026-09-30T12:09:56.685941+00:00",
+    "last_seen_at": "2026-09-30T12:09:56.685941+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 84000,
+        "date": "2026-09-30T12:09:56.685941+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504219",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F12%2F51%2F09%2F1ff2acf3-c1f9-465c-a9a3-2de91f9380ff%2F75489_q4nlUfxFlWrK7kAwdodU3g.jpg",
+    "price": 170000,
+    "location": "Dübəndi q.",
+    "land_area_sot": 12.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.40700013011138,
+    "lng": 50.32911932528107,
+    "has_repair": null,
+    "area_m2": 12,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6504219",
+    "first_seen_at": "2026-09-30T12:09:56.852172+00:00",
+    "last_seen_at": "2026-09-30T12:09:56.852172+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 170000,
+        "date": "2026-09-30T12:09:56.852172+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6224537",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F19%2F14%2F22%2F41%2F0bbe4617-5c9e-4e0b-9333-cacc49516f48%2F65978_EfG-HegSHDvp160G7YJpYg.jpg",
+    "price": 380000,
+    "location": "Bilgəh q.",
+    "land_area_sot": 23.2,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.55887528439212,
+    "lng": 50.03515131887648,
+    "has_repair": null,
+    "area_m2": 23.2,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6224537",
+    "first_seen_at": "2026-09-30T12:09:57.008871+00:00",
+    "last_seen_at": "2026-09-30T12:09:57.008871+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 380000,
+        "date": "2026-09-30T12:09:57.008871+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5782941",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F01%2F06%2F11%2F48%2F20%2F307d9209-4b6c-466c-b7ac-5d07168866d8%2F32606_aFnUWXqHMOaLTDNt_RoL2A.jpg",
+    "price": 840000,
+    "location": "Mərdəkan q.",
+    "land_area_sot": 24.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.47857,
+    "lng": 50.150065,
+    "has_repair": null,
+    "area_m2": 24,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5782941",
+    "first_seen_at": "2026-09-30T12:09:57.166399+00:00",
+    "last_seen_at": "2026-09-30T12:09:57.166399+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 840000,
+        "date": "2026-09-30T12:09:57.166399+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6131847",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F15%2F12%2F10%2F05%2Fadf24da7-acaf-4dd2-8dad-a6580e3e68bc%2F55182_7SWDBcs4Hmh_7HnOhIx9kA.jpg",
+    "price": 315000,
+    "location": "Şüvəlan q.",
+    "land_area_sot": 12.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.497,
+    "lng": 50.208,
+    "has_repair": null,
+    "area_m2": 12,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6131847",
+    "first_seen_at": "2026-09-30T12:09:57.324757+00:00",
+    "last_seen_at": "2026-09-30T12:09:57.324757+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 315000,
+        "date": "2026-09-30T12:09:57.324757+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504174",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F12%2F43%2F01%2F46969ea0-b317-4cd7-962e-347a41f075a0%2F75462_8BMlXamP-2iLKB3ae3ZWWg.jpg",
+    "price": 5700,
+    "location": "Məmmədli q.",
+    "land_area_sot": 5.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.5132390029438,
+    "lng": 49.91729458869695,
+    "has_repair": null,
+    "area_m2": 5,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6504174",
+    "first_seen_at": "2026-09-30T12:09:57.492790+00:00",
+    "last_seen_at": "2026-09-30T12:09:57.492790+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 5700,
+        "date": "2026-09-30T12:09:57.492790+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6492768",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F26%2F01%2F18%2F13%2Fb72fb49c-fa9b-4fe5-b974-8ced797d1924%2F71672_mUSQEWMTc4RBcmr-80YqKA.jpg",
+    "price": 624000,
+    "location": "Şüvəlan q.",
+    "land_area_sot": 24.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.48812281708585,
+    "lng": 50.20928746032713,
+    "has_repair": null,
+    "area_m2": 24,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6492768",
+    "first_seen_at": "2026-09-30T12:09:57.650372+00:00",
+    "last_seen_at": "2026-09-30T12:09:57.650372+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 624000,
+        "date": "2026-09-30T12:09:57.650372+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504156",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F12%2F42%2F46%2Fa5780b08-66ac-4083-96f4-8012e0594f9b%2F16129_tMHxtjLJJK8AHGPbPQUysw.jpg",
+    "price": 162000,
+    "location": "Mərdəkan q.",
+    "land_area_sot": 4.5,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.47857,
+    "lng": 50.150065,
+    "has_repair": null,
+    "area_m2": 4.5,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6504156",
+    "first_seen_at": "2026-09-30T12:09:57.807563+00:00",
+    "last_seen_at": "2026-09-30T12:09:57.807563+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 162000,
+        "date": "2026-09-30T12:09:57.807563+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6062270",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F04%2F21%2F00%2F43%2F34%2F97397e8d-1816-493d-92f6-bb7f17417148%2F44041_A9KuwLUiPfgnt-2EjWlHRw.jpg",
+    "price": 157000,
+    "location": "Nardaran q.",
+    "land_area_sot": 5.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.58117830111476,
+    "lng": 49.95593252632089,
+    "has_repair": null,
+    "area_m2": 5,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6062270",
+    "first_seen_at": "2026-09-30T12:09:57.963790+00:00",
+    "last_seen_at": "2026-09-30T12:09:57.963790+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 157000,
+        "date": "2026-09-30T12:09:57.963790+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6341091",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F02%2F11%2F13%2F40%2F5e0bf1f1-707c-4ce6-9f24-3136ff61a880%2F24887_6ncXQy6LPDjPcUeBNVqT7w.jpg",
+    "price": 208000,
+    "location": "Nardaran q.",
+    "land_area_sot": 12.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.57658157303312,
+    "lng": 49.97169348840325,
+    "has_repair": null,
+    "area_m2": 12,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6341091",
+    "first_seen_at": "2026-09-30T12:09:58.121008+00:00",
+    "last_seen_at": "2026-09-30T12:09:58.121008+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 208000,
+        "date": "2026-09-30T12:09:58.121008+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6450673",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F10%2F19%2F58%2F37%2F34342f52-01c7-4622-a427-87442fe44f02%2F63789_s5k2EPmO4svUJ7V48gzUig.jpg",
+    "price": 700000,
+    "location": "Badamdar q.",
+    "land_area_sot": 10.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.32051937249133,
+    "lng": 49.80664624944355,
+    "has_repair": null,
+    "area_m2": 10,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6450673",
+    "first_seen_at": "2026-09-30T12:09:58.279276+00:00",
+    "last_seen_at": "2026-09-30T12:09:58.279276+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 700000,
+        "date": "2026-09-30T12:09:58.279276+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6345419",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F03%2F18%2F09%2F33%2Fbc14a399-74de-472a-bdf7-9aa0247f3908%2F33168_qNk2-WCRNGbk-b2dmivAcA.jpg",
+    "price": 340000,
+    "location": "Buzovna q.",
+    "land_area_sot": 17.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.51791598217289,
+    "lng": 50.12651462181704,
+    "has_repair": null,
+    "area_m2": 17,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6345419",
+    "first_seen_at": "2026-09-30T12:09:58.443916+00:00",
+    "last_seen_at": "2026-09-30T12:09:58.443916+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 340000,
+        "date": "2026-09-30T12:09:58.443916+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504071",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F12%2F26%2F53%2F347a7ffb-2c9a-4448-93ee-30dd932f950f%2F75539_oKvIOHb1J7FhYrob5VnhtQ.jpg",
+    "price": 26500,
+    "location": "Şüvəlan q.",
+    "land_area_sot": 6.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.48824935231523,
+    "lng": 50.20381938958725,
+    "has_repair": null,
+    "area_m2": 6,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6504071",
+    "first_seen_at": "2026-09-30T12:09:58.603899+00:00",
+    "last_seen_at": "2026-09-30T12:09:58.603899+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 26500,
+        "date": "2026-09-30T12:09:58.603899+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504076",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F12%2F24%2F22%2F98e59a96-b43c-40af-9065-39a7ff16d5f6%2F75548_SiGtdMN1g-7IyVrPt_gfYg.jpg",
+    "price": 25000,
+    "location": "Binə q.",
+    "land_area_sot": 1.5,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.45288951159937,
+    "lng": 50.10141015879529,
+    "has_repair": null,
+    "area_m2": 1.5,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6504076",
+    "first_seen_at": "2026-09-30T12:09:58.761324+00:00",
+    "last_seen_at": "2026-09-30T12:09:58.761324+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 25000,
+        "date": "2026-09-30T12:09:58.761324+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6375257",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F14%2F12%2F30%2F43%2F3f6ced50-c8bd-497d-b500-bd38b077ce27%2F14207_Nt_WeAh0W5SUxA1eNzTdPA.jpg",
+    "price": 2200000,
+    "location": "Ağ şəhər q.",
+    "land_area_sot": 33.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.37717505713213,
+    "lng": 49.89593064294432,
+    "has_repair": null,
+    "area_m2": 33,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6375257",
+    "first_seen_at": "2026-09-30T12:09:58.920353+00:00",
+    "last_seen_at": "2026-09-30T12:09:58.920353+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 2200000,
+        "date": "2026-09-30T12:09:58.920353+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6373624",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F13%2F17%2F25%2F44%2Fec2b1814-8a2b-45a0-9b52-60e03a5f1caf%2F14207_r8ZfnrrwklM9T_Gk0R4vIA.jpg",
+    "price": 2750000,
+    "location": "Hövsan q.",
+    "land_area_sot": 2500.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38974331325561,
+    "lng": 50.09010297418163,
+    "has_repair": null,
+    "area_m2": 2500,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6373624",
+    "first_seen_at": "2026-09-30T12:09:59.081262+00:00",
+    "last_seen_at": "2026-09-30T12:09:59.081262+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 2750000,
+        "date": "2026-09-30T12:09:59.081262+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6365853",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F11%2F11%2F28%2F23%2Ff2ea658f-375e-4fc8-9856-7124ee594094%2F16470_sY48hzsfUkPVElVhUbJKeg.jpg",
+    "price": 325000,
+    "location": "Şüvəlan q.",
+    "land_area_sot": 14.5,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.497,
+    "lng": 50.208,
+    "has_repair": null,
+    "area_m2": 14.5,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6365853",
+    "first_seen_at": "2026-09-30T12:09:59.239578+00:00",
+    "last_seen_at": "2026-09-30T12:09:59.239578+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 325000,
+        "date": "2026-09-30T12:09:59.239578+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6354928",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F07%2F01%2F25%2F25%2Fa222d9c6-f694-4d62-af99-eb0fffe42ed8%2F23216_L5BldZxji2Vf_ozAL1kbVg.jpg",
+    "price": 114000,
+    "location": "Nardaran q.",
+    "land_area_sot": 12.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.55397008331071,
+    "lng": 49.97769052359006,
+    "has_repair": null,
+    "area_m2": 12,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6354928",
+    "first_seen_at": "2026-09-30T12:09:59.397629+00:00",
+    "last_seen_at": "2026-09-30T12:09:59.397629+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 114000,
+        "date": "2026-09-30T12:09:59.397629+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6488074",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F24%2F14%2F46%2F14%2Fd3f72dd5-7ad3-4853-9567-f3047acc1dcb%2F71687_vSH5TGAjfX1vytzGQ02piA.jpg",
+    "price": 320000,
+    "location": "Sea Breeze q.",
+    "land_area_sot": 12.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.587918758471,
+    "lng": 49.98741608972573,
+    "has_repair": null,
+    "area_m2": 12,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6488074",
+    "first_seen_at": "2026-09-30T12:09:59.559296+00:00",
+    "last_seen_at": "2026-09-30T12:09:59.559296+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 320000,
+        "date": "2026-09-30T12:09:59.559296+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6244378",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F26%2F22%2F33%2F42%2F518e8f7c-8c91-41e8-b59d-5c484c5cc302%2F77738_9XIjl9-JPD9fZu5xu8MaQQ.jpg",
+    "price": 39000,
+    "location": "Nardaran q.",
+    "land_area_sot": 2.5,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.56344045556551,
+    "lng": 49.9365866670975,
+    "has_repair": null,
+    "area_m2": 2.5,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6244378",
+    "first_seen_at": "2026-09-30T12:09:59.720125+00:00",
+    "last_seen_at": "2026-09-30T12:09:59.720125+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 39000,
+        "date": "2026-09-30T12:09:59.720125+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6449182",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F10%2F14%2F01%2F06%2F6a48f6ee-cda3-4592-8cbe-ee3547aa385d%2F63779_uUFWuZSzDQ_OGlS8_fra_g.jpg",
+    "price": 320000,
+    "location": "Azadlıq Prospekti m.",
+    "land_area_sot": 6.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.42869500267214,
+    "lng": 49.84447681363561,
+    "has_repair": null,
+    "area_m2": 6,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6449182",
+    "first_seen_at": "2026-09-30T12:09:59.878710+00:00",
+    "last_seen_at": "2026-09-30T12:09:59.878710+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 320000,
+        "date": "2026-09-30T12:09:59.878710+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6202628",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F11%2F12%2F25%2F54%2F908395db-ad4b-46b7-bdf7-b9b43a5bdf6e%2F61419_Ck5MHxymgB7NDp1ZLqnrtA.jpg",
+    "price": 99000,
+    "location": "Dübəndi q.",
+    "land_area_sot": 10.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.41913400845673,
+    "lng": 50.28908381797432,
+    "has_repair": null,
+    "area_m2": 10,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6202628",
+    "first_seen_at": "2026-09-30T12:10:00.036718+00:00",
+    "last_seen_at": "2026-09-30T12:10:00.036718+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 99000,
+        "date": "2026-09-30T12:10:00.036718+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6174567",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F01%2F11%2F48%2F49%2Fea3b4926-a7e2-4a1d-872c-940953ca7c4a%2F93706_HZdQDtGl2VDLwatAUI_4kQ.jpg",
+    "price": 1534500,
+    "location": "Bilgəh q.",
+    "land_area_sot": 93.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.57839273941515,
+    "lng": 50.05906632241864,
+    "has_repair": null,
+    "area_m2": 93,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6174567",
+    "first_seen_at": "2026-09-30T12:10:00.195800+00:00",
+    "last_seen_at": "2026-09-30T12:10:00.195800+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1534500,
+        "date": "2026-09-30T12:10:00.195800+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6449216",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F10%2F14%2F03%2F35%2F9fdf082e-08ff-47d6-acda-45da94a4e9b1%2F63778_603MZbVPmu7u7xuCd3RaZA.jpg",
+    "price": 1300000,
+    "location": "Xalqlar Dostluğu m.",
+    "land_area_sot": 20.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.39713753528859,
+    "lng": 49.96381655214144,
+    "has_repair": null,
+    "area_m2": 20,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6449216",
+    "first_seen_at": "2026-09-30T12:10:00.363484+00:00",
+    "last_seen_at": "2026-09-30T12:10:00.363484+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1300000,
+        "date": "2026-09-30T12:10:00.363484+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6174630",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F01%2F12%2F10%2F17%2F52d5584e-71aa-495d-8699-073bb153de7b%2F72468_CSaVu4Hj_BW-jgsHzf0clQ.jpg",
+    "price": 97500,
+    "location": "Suraxanı r.",
+    "land_area_sot": 7.5,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.36575266974062,
+    "lng": 50.0965292850528,
+    "has_repair": null,
+    "area_m2": 7.5,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6174630",
+    "first_seen_at": "2026-09-30T12:10:00.520800+00:00",
+    "last_seen_at": "2026-09-30T12:10:00.520800+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 97500,
+        "date": "2026-09-30T12:10:00.520800+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6454950",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F12%2F14%2F26%2F57%2Fa246e2de-3351-4340-9256-2bd2ac71c3da%2F57493_0UeIwAQ9-OXpYLII7C8Q_A.jpg",
+    "price": 320000,
+    "location": "Azadlıq Prospekti m.",
+    "land_area_sot": 5.2,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.42958490362618,
+    "lng": 49.84391966103408,
+    "has_repair": null,
+    "area_m2": 5.2,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6454950",
+    "first_seen_at": "2026-09-30T12:10:00.678281+00:00",
+    "last_seen_at": "2026-09-30T12:10:00.678281+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 320000,
+        "date": "2026-09-30T12:10:00.678281+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6483200",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F18%2F45%2F08%2F2f871a35-48af-480d-a37d-9677f1a22dcf%2F12320_f1J3FWQ6mBk0i4Sxc7QacA.jpg",
+    "price": 63000,
+    "location": "Binəqədi q.",
+    "land_area_sot": 4.2,
+    "lat": 40.45517923430762,
+    "lng": 49.78337101511263,
+    "has_repair": null,
+    "area_m2": 4.2,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6483200",
+    "first_seen_at": "2026-09-30T09:35:49.409746+00:00",
+    "last_seen_at": "2026-09-30T12:10:00.678347+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 63000,
+        "date": "2026-09-30T09:35:49.409746+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6226966",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F20%2F13%2F02%2F38%2Fb3e4df47-6bcd-4894-8458-ad5ae5b2a643%2F65335_jT1xoN_kmMdyYTVjnvnzPg.jpg",
+    "price": 90000,
+    "location": "Suraxanı r.",
+    "land_area_sot": 6.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.36563539924086,
+    "lng": 50.09693314299692,
+    "has_repair": null,
+    "area_m2": 6,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6226966",
+    "first_seen_at": "2026-09-30T12:10:00.841111+00:00",
+    "last_seen_at": "2026-09-30T12:10:00.841111+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 90000,
+        "date": "2026-09-30T12:10:00.841111+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6430190",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F03%2F14%2F51%2F57%2F228f93b8-5ce2-4ea4-ad31-27ce5d768d0e%2F63791_or0EGKw3J6zv-5zegQq9Rw.jpg",
+    "price": 360000,
+    "location": "Şüvəlan q.",
+    "land_area_sot": 12.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.497,
+    "lng": 50.208,
+    "has_repair": null,
+    "area_m2": 12,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6430190",
+    "first_seen_at": "2026-09-30T12:10:01.002281+00:00",
+    "last_seen_at": "2026-09-30T12:10:01.002281+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 360000,
+        "date": "2026-09-30T12:10:01.002281+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6498248",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F28%2F12%2F53%2F06%2Fb9d3f8f2-d740-4362-a5c8-83e313f1d4d0%2F76434_FhLuGu4iOQumy3FcwP4_FQ.jpg",
+    "price": 108000,
+    "location": "Şüvəlan q.",
+    "land_area_sot": 5.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.48077413473739,
+    "lng": 50.22664054357148,
+    "has_repair": null,
+    "area_m2": 5,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6498248",
+    "first_seen_at": "2026-09-30T12:10:01.160464+00:00",
+    "last_seen_at": "2026-09-30T12:10:01.160464+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 108000,
+        "date": "2026-09-30T12:10:01.160464+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6481033",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F11%2F00%2F24%2F4f0e297e-2234-4f9b-b9b3-056f662f1d5d%2F22868_APTt6GQ4ceHQO0TbFWyHSw.jpg",
+    "price": 1200000,
+    "location": "Binə q.",
+    "land_area_sot": 14.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.45668469704552,
+    "lng": 50.07907341259434,
+    "has_repair": null,
+    "area_m2": 14,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6481033",
+    "first_seen_at": "2026-09-30T12:10:01.332232+00:00",
+    "last_seen_at": "2026-09-30T12:10:01.332232+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1200000,
+        "date": "2026-09-30T12:10:01.332232+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6379328",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F15%2F18%2F06%2F19%2Ffab81339-98a8-44ff-8c96-fa973c18f45f%2F12534_BjatC0up6gBryc8VKF9klg.jpg",
+    "price": 1160000,
+    "location": "Mərdəkan q.",
+    "land_area_sot": 50.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.50665641517514,
+    "lng": 50.13905279888859,
+    "has_repair": null,
+    "area_m2": 50,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6379328",
+    "first_seen_at": "2026-09-30T12:10:01.492830+00:00",
+    "last_seen_at": "2026-09-30T12:10:01.492830+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1160000,
+        "date": "2026-09-30T12:10:01.492830+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6096651",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F03%2F14%2F42%2F50%2F03adc473-cbe5-47ee-ba4b-3c8275082e7a%2F97280_XDAaX3El3kShsDYfRRVWCw.jpg",
+    "price": 160000,
+    "location": "Mərdəkan q.",
+    "land_area_sot": 5.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.47857,
+    "lng": 50.150065,
+    "has_repair": null,
+    "area_m2": 5,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6096651",
+    "first_seen_at": "2026-09-30T12:10:01.656438+00:00",
+    "last_seen_at": "2026-09-30T12:10:01.656438+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 160000,
+        "date": "2026-09-30T12:10:01.656438+00:00"
       }
     ]
   },
@@ -644,25 +4227,117 @@
     ]
   },
   {
-    "id": "6280870",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F10%2F15%2F37%2F28%2Fca2cc748-ee23-4726-b488-7bf97ea6b6c0%2F89611_r0PQ35mZf-oQcEa4SJLyVA.jpg",
-    "price": 135000,
-    "location": "Qala q.",
+    "id": "6397021",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F19%2F21%2F30%2F36%2Fccc58420-2b28-4eb9-9d43-c060495aebf1%2F68577_h4E2X5BAIXCasfGf_ulEVg.jpg",
+    "price": 24000,
+    "location": "Ələt q.",
+    "land_area_sot": 12.0,
+    "lat": 40.00039236600353,
+    "lng": 49.43200458946178,
+    "has_repair": null,
+    "area_m2": 12,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6397021",
+    "first_seen_at": "2026-09-30T09:35:49.181756+00:00",
+    "last_seen_at": "2026-09-30T09:35:49.181756+00:00",
+    "deleted_at": "2026-09-30T12:10:01.656464+00:00",
+    "price_history": [
+      {
+        "price": 24000,
+        "date": "2026-09-30T09:35:49.181756+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6415136",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F18%2F23%2F35%2F29%2Fce1a09ae-5ca8-4db2-89c7-c1daac12b5b2%2F89492_56CG1ZJYw-u_kL1fF5pMew.jpg",
+    "price": 225000,
+    "location": "Yeni Ramana q.",
+    "land_area_sot": 6.0,
+    "lat": 40.44784239745076,
+    "lng": 50.01235949300226,
+    "has_repair": null,
+    "area_m2": 6,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6415136",
+    "first_seen_at": "2026-09-30T09:35:49.222843+00:00",
+    "last_seen_at": "2026-09-30T09:35:49.222843+00:00",
+    "deleted_at": "2026-09-30T12:10:01.656464+00:00",
+    "price_history": [
+      {
+        "price": 225000,
+        "date": "2026-09-30T09:35:49.222843+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5767279",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F12%2F26%2F20%2F46%2F24%2F56305066-65d7-44de-aed9-8fb42157e68c%2F22567_Rwb_-ISaTzNN_BDs7XSY-g.jpg",
+    "price": 150000,
+    "location": "Məmmədli q.",
     "land_area_sot": 100.0,
-    "lat": 40.46571147668939,
-    "lng": 50.2420561462218,
+    "lat": 40.55028781905865,
+    "lng": 49.94678818056268,
     "has_repair": null,
     "area_m2": 100,
     "category": "land",
     "deal_type": "sale",
-    "url": "https://bina.az/items/6280870",
-    "first_seen_at": "2026-09-30T09:32:28.568685+00:00",
-    "last_seen_at": "2026-09-30T09:32:28.568685+00:00",
-    "deleted_at": "2026-09-30T09:35:49.980098+00:00",
+    "url": "https://bina.az/items/5767279",
+    "first_seen_at": "2026-09-30T09:35:49.262017+00:00",
+    "last_seen_at": "2026-09-30T09:35:49.262017+00:00",
+    "deleted_at": "2026-09-30T12:10:01.656464+00:00",
     "price_history": [
       {
-        "price": 135000,
-        "date": "2026-09-30T09:32:28.568685+00:00"
+        "price": 150000,
+        "date": "2026-09-30T09:35:49.262017+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6480211",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F21%2F18%2F33%2F50%2F33c96af5-c364-4617-8e3f-f1314f3398c7%2F21809_rBDJBY0fk_mAM1f8l64uDQ.jpg",
+    "price": 155000,
+    "location": "Şağan q.",
+    "land_area_sot": 4.5,
+    "lat": 40.48580885591517,
+    "lng": 50.12490678950188,
+    "has_repair": null,
+    "area_m2": 4.5,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6480211",
+    "first_seen_at": "2026-09-30T09:35:49.305726+00:00",
+    "last_seen_at": "2026-09-30T09:35:49.305726+00:00",
+    "deleted_at": "2026-09-30T12:10:01.656464+00:00",
+    "price_history": [
+      {
+        "price": 155000,
+        "date": "2026-09-30T09:35:49.305726+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6499243",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F28%2F16%2F21%2F16%2Fa87f1912-7bf8-4109-9994-58882698fd48%2F24832_Hr7dHLBSaSAikFxIEoYP0A.jpg",
+    "price": 625000,
+    "location": "Sahil q.",
+    "land_area_sot": 25.0,
+    "lat": 40.2001106407093,
+    "lng": 49.51985765996104,
+    "has_repair": null,
+    "area_m2": 25,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6499243",
+    "first_seen_at": "2026-09-30T09:35:49.490127+00:00",
+    "last_seen_at": "2026-09-30T09:35:49.490127+00:00",
+    "deleted_at": "2026-09-30T12:10:01.656464+00:00",
+    "price_history": [
+      {
+        "price": 625000,
+        "date": "2026-09-30T09:35:49.490127+00:00"
       }
     ]
   }

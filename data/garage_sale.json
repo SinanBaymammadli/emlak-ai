@@ -1,51 +1,5 @@
 [
   {
-    "id": "6278993",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F09%2F19%2F40%2F23%2F4d60f311-13ba-4e60-b83d-56544cb2f3d0%2F77778_HjWR-G30EOrG1o5Q3zcjKw.jpg",
-    "price": 680000,
-    "location": "Yeni Yasamal q.",
-    "rooms": "",
-    "area_m2": "949 m²",
-    "lat": 40.38624769504972,
-    "lng": 49.7873485446877,
-    "has_repair": true,
-    "category": "garage",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6278993",
-    "first_seen_at": "2026-09-30T09:36:48.587660+00:00",
-    "last_seen_at": "2026-09-30T09:36:48.587660+00:00",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 680000,
-        "date": "2026-09-30T09:36:48.587660+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6483578",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F21%2F47%2F34%2Fbd8f70ef-d26b-4930-8a92-90e1930e469a%2F78748_e7bMn4plmB1JM1CnRk663w.jpg",
-    "price": 43000,
-    "location": "Sea Breeze q.",
-    "rooms": "",
-    "area_m2": "22 m²",
-    "lat": 40.587075,
-    "lng": 49.962589,
-    "has_repair": null,
-    "category": "garage",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6483578",
-    "first_seen_at": "2026-09-30T09:36:48.630323+00:00",
-    "last_seen_at": "2026-09-30T09:36:48.630323+00:00",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 43000,
-        "date": "2026-09-30T09:36:48.630323+00:00"
-      }
-    ]
-  },
-  {
     "id": "6400320",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F23%2F17%2F12%2F46%2F3b957c1e-b1e1-4cae-af02-7b0cb61fffb1%2F68107_tfvA1G5XrsG4Uce1UhHj4w.jpg",
     "price": 13500,
@@ -59,12 +13,35 @@
     "deal_type": "sale",
     "url": "https://bina.az/items/6400320",
     "first_seen_at": "2026-09-30T09:36:48.674622+00:00",
-    "last_seen_at": "2026-09-30T09:36:48.674622+00:00",
+    "last_seen_at": "2026-09-30T12:27:01.891550+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 13500,
         "date": "2026-09-30T09:36:48.674622+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6278993",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F09%2F19%2F40%2F23%2F4d60f311-13ba-4e60-b83d-56544cb2f3d0%2F77778_HjWR-G30EOrG1o5Q3zcjKw.jpg",
+    "price": 680000,
+    "location": "Yeni Yasamal q.",
+    "rooms": "",
+    "area_m2": "949 m²",
+    "lat": 40.38624769504972,
+    "lng": 49.7873485446877,
+    "has_repair": true,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6278993",
+    "first_seen_at": "2026-09-30T09:36:48.587660+00:00",
+    "last_seen_at": "2026-09-30T12:27:01.891586+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 680000,
+        "date": "2026-09-30T09:36:48.587660+00:00"
       }
     ]
   },
@@ -82,7 +59,7 @@
     "deal_type": "sale",
     "url": "https://bina.az/items/6435734",
     "first_seen_at": "2026-09-30T09:36:48.716452+00:00",
-    "last_seen_at": "2026-09-30T09:36:48.716452+00:00",
+    "last_seen_at": "2026-09-30T12:27:01.891604+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -92,25 +69,25 @@
     ]
   },
   {
-    "id": "6457741",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F13%2F17%2F42%2F49%2F9e5b2c3c-8053-4567-9291-c21ca6ed82f7%2F63806_DIRamA7pPAg37K3Lbr7g1w.jpg",
-    "price": 40000,
-    "location": "Ağ şəhər q.",
+    "id": "6483578",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F21%2F47%2F34%2Fbd8f70ef-d26b-4930-8a92-90e1930e469a%2F78748_e7bMn4plmB1JM1CnRk663w.jpg",
+    "price": 43000,
+    "location": "Sea Breeze q.",
     "rooms": "",
-    "area_m2": "25 m²",
-    "lat": 40.38252094655981,
-    "lng": 49.89488212348122,
+    "area_m2": "22 m²",
+    "lat": 40.587075,
+    "lng": 49.962589,
     "has_repair": null,
     "category": "garage",
     "deal_type": "sale",
-    "url": "https://bina.az/items/6457741",
-    "first_seen_at": "2026-09-30T09:36:48.760166+00:00",
-    "last_seen_at": "2026-09-30T09:36:48.760166+00:00",
+    "url": "https://bina.az/items/6483578",
+    "first_seen_at": "2026-09-30T09:36:48.630323+00:00",
+    "last_seen_at": "2026-09-30T12:27:01.891619+00:00",
     "deleted_at": null,
     "price_history": [
       {
-        "price": 40000,
-        "date": "2026-09-30T09:36:48.760166+00:00"
+        "price": 43000,
+        "date": "2026-09-30T09:36:48.630323+00:00"
       }
     ]
   },
@@ -128,12 +105,60 @@
     "deal_type": "sale",
     "url": "https://bina.az/items/6494075",
     "first_seen_at": "2026-09-30T09:36:48.798533+00:00",
-    "last_seen_at": "2026-09-30T09:36:48.798533+00:00",
+    "last_seen_at": "2026-09-30T12:27:01.891634+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 22000,
         "date": "2026-09-30T09:36:48.798533+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6457741",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F13%2F17%2F42%2F49%2F9e5b2c3c-8053-4567-9291-c21ca6ed82f7%2F63806_DIRamA7pPAg37K3Lbr7g1w.jpg",
+    "price": 40000,
+    "location": "Ağ şəhər q.",
+    "rooms": "",
+    "area_m2": "25 m²",
+    "lat": 40.38252094655981,
+    "lng": 49.89488212348122,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6457741",
+    "first_seen_at": "2026-09-30T09:36:48.760166+00:00",
+    "last_seen_at": "2026-09-30T12:27:01.891647+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 40000,
+        "date": "2026-09-30T09:36:48.760166+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5972149",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F03%2F16%2F18%2F07%2F39%2Fef77658d-980f-44bb-8554-289907660963%2F3941_7RbzfEvpEeCrUXOHg4HLOQ.jpg",
+    "price": 45000,
+    "location": "28 May m.",
+    "rooms": "",
+    "area_m2": "10 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38081815117302,
+    "lng": 49.85786907465073,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5972149",
+    "first_seen_at": "2026-09-30T12:27:02.052898+00:00",
+    "last_seen_at": "2026-09-30T12:27:02.052898+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 45000,
+        "date": "2026-09-30T12:27:02.052898+00:00"
       }
     ]
   },
@@ -151,7 +176,7 @@
     "deal_type": "sale",
     "url": "https://bina.az/items/6474526",
     "first_seen_at": "2026-09-30T09:36:48.839769+00:00",
-    "last_seen_at": "2026-09-30T09:36:48.839769+00:00",
+    "last_seen_at": "2026-09-30T12:27:02.052957+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -174,7 +199,7 @@
     "deal_type": "sale",
     "url": "https://bina.az/items/6503550",
     "first_seen_at": "2026-09-30T09:36:48.879642+00:00",
-    "last_seen_at": "2026-09-30T09:36:48.879642+00:00",
+    "last_seen_at": "2026-09-30T12:27:02.052980+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -197,7 +222,7 @@
     "deal_type": "sale",
     "url": "https://bina.az/items/6198941",
     "first_seen_at": "2026-09-30T09:36:48.919958+00:00",
-    "last_seen_at": "2026-09-30T09:36:48.919958+00:00",
+    "last_seen_at": "2026-09-30T12:27:02.052997+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -220,7 +245,7 @@
     "deal_type": "sale",
     "url": "https://bina.az/items/6497989",
     "first_seen_at": "2026-09-30T09:36:48.958602+00:00",
-    "last_seen_at": "2026-09-30T09:36:48.958602+00:00",
+    "last_seen_at": "2026-09-30T12:27:02.053014+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -243,7 +268,7 @@
     "deal_type": "sale",
     "url": "https://bina.az/items/6503305",
     "first_seen_at": "2026-09-30T09:36:49.000422+00:00",
-    "last_seen_at": "2026-09-30T09:36:49.000422+00:00",
+    "last_seen_at": "2026-09-30T12:27:02.053029+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -266,7 +291,7 @@
     "deal_type": "sale",
     "url": "https://bina.az/items/6422581",
     "first_seen_at": "2026-09-30T09:36:49.040578+00:00",
-    "last_seen_at": "2026-09-30T09:36:49.040578+00:00",
+    "last_seen_at": "2026-09-30T12:27:02.053044+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -289,7 +314,7 @@
     "deal_type": "sale",
     "url": "https://bina.az/items/6467358",
     "first_seen_at": "2026-09-30T09:36:49.081094+00:00",
-    "last_seen_at": "2026-09-30T09:36:49.081094+00:00",
+    "last_seen_at": "2026-09-30T12:27:02.053058+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -312,7 +337,7 @@
     "deal_type": "sale",
     "url": "https://bina.az/items/6475064",
     "first_seen_at": "2026-09-30T09:36:49.121860+00:00",
-    "last_seen_at": "2026-09-30T09:36:49.121860+00:00",
+    "last_seen_at": "2026-09-30T12:27:02.053071+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -335,7 +360,7 @@
     "deal_type": "sale",
     "url": "https://bina.az/items/6500836",
     "first_seen_at": "2026-09-30T09:36:49.161644+00:00",
-    "last_seen_at": "2026-09-30T09:36:49.161644+00:00",
+    "last_seen_at": "2026-09-30T12:27:02.053085+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -358,7 +383,7 @@
     "deal_type": "sale",
     "url": "https://bina.az/items/4710225",
     "first_seen_at": "2026-09-30T09:36:49.203331+00:00",
-    "last_seen_at": "2026-09-30T09:36:49.203331+00:00",
+    "last_seen_at": "2026-09-30T12:27:02.053098+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -381,7 +406,7 @@
     "deal_type": "sale",
     "url": "https://bina.az/items/6500179",
     "first_seen_at": "2026-09-30T09:36:49.247814+00:00",
-    "last_seen_at": "2026-09-30T09:36:49.247814+00:00",
+    "last_seen_at": "2026-09-30T12:27:02.053112+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -404,7 +429,7 @@
     "deal_type": "sale",
     "url": "https://bina.az/items/6390929",
     "first_seen_at": "2026-09-30T09:36:49.292824+00:00",
-    "last_seen_at": "2026-09-30T09:36:49.292824+00:00",
+    "last_seen_at": "2026-09-30T12:27:02.053126+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -427,7 +452,7 @@
     "deal_type": "sale",
     "url": "https://bina.az/items/5967439",
     "first_seen_at": "2026-09-30T09:36:49.333979+00:00",
-    "last_seen_at": "2026-09-30T09:36:49.333979+00:00",
+    "last_seen_at": "2026-09-30T12:27:02.053181+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -450,12 +475,1487 @@
     "deal_type": "sale",
     "url": "https://bina.az/items/6326516",
     "first_seen_at": "2026-09-30T09:36:49.373710+00:00",
-    "last_seen_at": "2026-09-30T09:36:49.373710+00:00",
+    "last_seen_at": "2026-09-30T12:27:02.053201+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 63000,
         "date": "2026-09-30T09:36:49.373710+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6334146",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F30%2F16%2F26%2F42%2F27e0e646-d6f0-46e5-a41f-0d2ca158e385%2F20395_M9vfz6793Mwlv4tP4Axcqw.jpg",
+    "price": 68000,
+    "location": "Nəriman Nərimanov m.",
+    "rooms": "",
+    "area_m2": "20 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.39890024709506,
+    "lng": 49.86847352463678,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6334146",
+    "first_seen_at": "2026-09-30T12:27:02.212358+00:00",
+    "last_seen_at": "2026-09-30T12:27:02.212358+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 68000,
+        "date": "2026-09-30T12:27:02.212358+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6435689",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F05%2F13%2F59%2F51%2Fbdee2824-384f-4084-bfd3-07098a6ac119%2F72296_7cpyj70lONuQab3NIuWw7A.jpg",
+    "price": 36500,
+    "location": "Ağ şəhər q.",
+    "rooms": "",
+    "area_m2": "18 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38758262946408,
+    "lng": 49.89060478113251,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6435689",
+    "first_seen_at": "2026-09-30T12:27:02.368256+00:00",
+    "last_seen_at": "2026-09-30T12:27:02.368256+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 36500,
+        "date": "2026-09-30T12:27:02.368256+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6338494",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F01%2F11%2F20%2F05%2Ffd016e2a-16d0-46e7-ac8e-80c812200419%2F20413_jGlMql5EbdjuMvZD0Rniug.jpg",
+    "price": 679000,
+    "location": "Yeni Yasamal q.",
+    "rooms": "",
+    "area_m2": "1000 m²",
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.38850365742176,
+    "lng": 49.78741605401039,
+    "has_repair": true,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6338494",
+    "first_seen_at": "2026-09-30T12:27:02.531770+00:00",
+    "last_seen_at": "2026-09-30T12:27:02.531770+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 679000,
+        "date": "2026-09-30T12:27:02.531770+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6495101",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F26%2F21%2F23%2F31%2F158fabe0-8a7b-4969-8e9f-a734a003e745%2F64898_ieRUgVup6uUrMJPmjgyjkQ.jpg",
+    "price": 9200,
+    "location": "Nəsimi r.",
+    "rooms": "",
+    "area_m2": "18 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.39567062053167,
+    "lng": 49.83476214478677,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6495101",
+    "first_seen_at": "2026-09-30T12:27:02.694395+00:00",
+    "last_seen_at": "2026-09-30T12:27:02.694395+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 9200,
+        "date": "2026-09-30T12:27:02.694395+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6494862",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F26%2F18%2F52%2F22%2F9309b61d-8726-4a05-92eb-7046380fbca3%2F64912_Xg33_EkOnIRd4VeqF5FXSg.jpg",
+    "price": 39000,
+    "location": "Elmlər Akademiyası m.",
+    "rooms": "",
+    "area_m2": "21 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38113564607352,
+    "lng": 49.80955447619628,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6494862",
+    "first_seen_at": "2026-09-30T12:27:02.851040+00:00",
+    "last_seen_at": "2026-09-30T12:27:02.851040+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 39000,
+        "date": "2026-09-30T12:27:02.851040+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6445178",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F08%2F23%2F47%2F35%2Fac890a33-5ece-43c6-9c06-361080d96b82%2F63813_-rKMMW2cNg0bu7a_XA8KDw.jpg",
+    "price": 65000,
+    "location": "Nəriman Nərimanov m.",
+    "rooms": "",
+    "area_m2": "30 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.39983168370768,
+    "lng": 49.87459969002679,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6445178",
+    "first_seen_at": "2026-09-30T12:27:03.009238+00:00",
+    "last_seen_at": "2026-09-30T12:27:03.009238+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 65000,
+        "date": "2026-09-30T12:27:03.009238+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6455306",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F12%2F15%2F55%2F25%2F26d64532-7927-4f73-a798-e5e7b8841d4a%2F59836_sv1j4fJFWMtY4vtUd62Xzg.jpg",
+    "price": 79000,
+    "location": "8 Noyabr m.",
+    "rooms": "",
+    "area_m2": "35 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.39404265420642,
+    "lng": 49.81975898444864,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6455306",
+    "first_seen_at": "2026-09-30T12:27:03.167829+00:00",
+    "last_seen_at": "2026-09-30T12:27:03.167829+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 79000,
+        "date": "2026-09-30T12:27:03.167829+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6474137",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F19%2F13%2F48%2F37%2Fa7c520c2-cc79-401c-a3d2-3bd1ea94c0f1%2F90032_HJYDYxIZ279SAp9iLT0LqQ.jpg",
+    "price": 65000,
+    "location": "Yasamal q.",
+    "rooms": "",
+    "area_m2": "24.7 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.36602725235261,
+    "lng": 49.81112447159637,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6474137",
+    "first_seen_at": "2026-09-30T12:27:03.324835+00:00",
+    "last_seen_at": "2026-09-30T12:27:03.324835+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 65000,
+        "date": "2026-09-30T12:27:03.324835+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6486326",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F23%2F19%2F52%2F18%2Fd4f3ab5b-e72e-4aff-9958-7691e77e885d%2F90382_jrHhLUDX4UVJ7dGJiyNQWQ.jpg",
+    "price": 23500,
+    "location": "20 Yanvar m.",
+    "rooms": "",
+    "area_m2": "21 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.40258045214267,
+    "lng": 49.80995802582731,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6486326",
+    "first_seen_at": "2026-09-30T12:27:03.481317+00:00",
+    "last_seen_at": "2026-09-30T12:27:03.481317+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 23500,
+        "date": "2026-09-30T12:27:03.481317+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6471466",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F18%2F15%2F02%2F44%2Fa8a3354e-b955-416e-9d25-a874d4fd18f2%2F89388_klCzs9kqquXqutEnhBiuyw.jpg",
+    "price": 33000,
+    "location": "Şah İsmayıl Xətai m.",
+    "rooms": "",
+    "area_m2": "12 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.3863642557393,
+    "lng": 49.87793620043091,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6471466",
+    "first_seen_at": "2026-09-30T12:27:03.814093+00:00",
+    "last_seen_at": "2026-09-30T12:27:03.814093+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 33000,
+        "date": "2026-09-30T12:27:03.814093+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6492377",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F25%2F20%2F08%2F13%2Fff474c5a-ad90-4562-ad73-98db9d9e7cb5%2F71643_Dh9q3RrJ7oVW0aDqRALR9A.jpg",
+    "price": 23000,
+    "location": "20 Yanvar m.",
+    "rooms": "",
+    "area_m2": "18 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.40347154068571,
+    "lng": 49.80162679334406,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6492377",
+    "first_seen_at": "2026-09-30T12:27:03.977047+00:00",
+    "last_seen_at": "2026-09-30T12:27:03.977047+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 23000,
+        "date": "2026-09-30T12:27:03.977047+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5740891",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F12%2F15%2F18%2F23%2F45%2Fcb739d77-c9dd-47fd-b6ef-de6f842a0fb2%2F53831_Ks4EAaFS6Z4SKEuJWkFhVA.jpg",
+    "price": 25000,
+    "location": "Elmlər Akademiyası m.",
+    "rooms": "",
+    "area_m2": "24 m²",
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.37466229575929,
+    "lng": 49.81014129366107,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5740891",
+    "first_seen_at": "2026-09-30T12:27:04.140133+00:00",
+    "last_seen_at": "2026-09-30T12:27:04.140133+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 25000,
+        "date": "2026-09-30T12:27:04.140133+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6490217",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F25%2F11%2F49%2F13%2F78aa75de-fb21-47f5-8858-dcd1ae7ffeca%2F59329_Bl7YP9uL57PBZOd-vmRIbg.jpg",
+    "price": 130000,
+    "location": "Sahil m.",
+    "rooms": "",
+    "area_m2": "20 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.37390305968432,
+    "lng": 49.84239926694533,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6490217",
+    "first_seen_at": "2026-09-30T12:27:04.304023+00:00",
+    "last_seen_at": "2026-09-30T12:27:04.304023+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 130000,
+        "date": "2026-09-30T12:27:04.304023+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6252959",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F30%2F14%2F03%2F36%2Ff7ee1fac-ea39-48ad-9322-c2dd565e0b4e%2F85805_KmeX5UVsvQYgZt5yg1CjQQ.jpg",
+    "price": 51000,
+    "location": "28 May m.",
+    "rooms": "",
+    "area_m2": "15.2 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38115069542106,
+    "lng": 49.84366079807613,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6252959",
+    "first_seen_at": "2026-09-30T12:27:04.461396+00:00",
+    "last_seen_at": "2026-09-30T12:27:04.461396+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 51000,
+        "date": "2026-09-30T12:27:04.461396+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6487652",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F24%2F13%2F19%2F44%2Fa57adc08-ed86-44c8-a5f2-763782903a46%2F59366_fx1AQOVlpEWof_rry5PvNw.jpg",
+    "price": 55000,
+    "location": "İnşaatçılar m.",
+    "rooms": "",
+    "area_m2": "60 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38554108341039,
+    "lng": 49.80397179872982,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6487652",
+    "first_seen_at": "2026-09-30T12:27:04.621406+00:00",
+    "last_seen_at": "2026-09-30T12:27:04.621406+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 55000,
+        "date": "2026-09-30T12:27:04.621406+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6487048",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F24%2F11%2F20%2F47%2F005738cc-5f0d-4fff-8132-293a55d11478%2F55688_rxZ3GeMOj2FC1mR9uue3ww.jpg",
+    "price": 32500,
+    "location": "Azadlıq Prospekti m.",
+    "rooms": "",
+    "area_m2": "42 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.42163639821609,
+    "lng": 49.84084465570871,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6487048",
+    "first_seen_at": "2026-09-30T12:27:04.782279+00:00",
+    "last_seen_at": "2026-09-30T12:27:04.782279+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 32500,
+        "date": "2026-09-30T12:27:04.782279+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6486657",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F24%2F00%2F20%2F33%2F464e4f90-de75-4f02-8f7a-131061f01722%2F22490_XqPegjSqonIpx7KkljKKUg.jpg",
+    "price": 75000,
+    "location": "Nəsimi r.",
+    "rooms": "",
+    "area_m2": "30 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.39407235724504,
+    "lng": 49.83495931520297,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6486657",
+    "first_seen_at": "2026-09-30T12:27:04.941426+00:00",
+    "last_seen_at": "2026-09-30T12:27:04.941426+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 75000,
+        "date": "2026-09-30T12:27:04.941426+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6485296",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F23%2F15%2F39%2F13%2Fe789bafc-5c13-4f90-8a29-4cf3a0888c17%2F89581_g5hcYdQAC4Hddnf8tm3wdQ.jpg",
+    "price": 28000,
+    "location": "Nəsimi m.",
+    "rooms": "",
+    "area_m2": "26 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.42008611712752,
+    "lng": 49.81877063500044,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6485296",
+    "first_seen_at": "2026-09-30T12:27:05.108363+00:00",
+    "last_seen_at": "2026-09-30T12:27:05.108363+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 28000,
+        "date": "2026-09-30T12:27:05.108363+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5442370",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F08%2F18%2F22%2F44%2F36%2Fbf4da2fe-2578-4ef4-a6b9-2853943ab8e0%2F4513_SdFmiiX51JZHxZnCDO0xMg.jpg",
+    "price": 20000,
+    "location": "20 Yanvar m.",
+    "rooms": "",
+    "area_m2": "18 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.40133555236362,
+    "lng": 49.80173851912689,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5442370",
+    "first_seen_at": "2026-09-30T12:27:05.266738+00:00",
+    "last_seen_at": "2026-09-30T12:27:05.266738+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 20000,
+        "date": "2026-09-30T12:27:05.266738+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6154134",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F23%2F13%2F56%2F57%2Fe8089580-61fb-487c-906b-c025cfcd2d88%2F53342_5EjlnG-fUZu78Hx7yvAneA.jpg",
+    "price": 30000,
+    "location": "Elmlər Akademiyası m.",
+    "rooms": "",
+    "area_m2": "22.7 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.36796640042103,
+    "lng": 49.81985973963516,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6154134",
+    "first_seen_at": "2026-09-30T12:27:05.427267+00:00",
+    "last_seen_at": "2026-09-30T12:27:05.427267+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 30000,
+        "date": "2026-09-30T12:27:05.427267+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6483574",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F22%2F28%2F17%2F04213165-7b4d-405d-998b-e307797b8cdd%2F89718_MLScJhLrgBF0PaQRdwCCrQ.jpg",
+    "price": 12000,
+    "location": "Nərimanov r.",
+    "rooms": "",
+    "area_m2": "24 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.39832522198378,
+    "lng": 49.83853779206049,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6483574",
+    "first_seen_at": "2026-09-30T12:27:05.587269+00:00",
+    "last_seen_at": "2026-09-30T12:27:05.587269+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 12000,
+        "date": "2026-09-30T12:27:05.587269+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6483110",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F18%2F36%2F26%2F3aeddc48-97ce-4977-87fc-c7dd3ea6df30%2F63798_B8Ild5ADytKQ5vlF12O4CA.jpg",
+    "price": 43000,
+    "location": "Nizami m.",
+    "rooms": "",
+    "area_m2": "31 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.37805540840528,
+    "lng": 49.82346412158858,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6483110",
+    "first_seen_at": "2026-09-30T12:27:05.747848+00:00",
+    "last_seen_at": "2026-09-30T12:27:05.747848+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 43000,
+        "date": "2026-09-30T12:27:05.747848+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6482057",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F14%2F45%2F56%2F7ff33331-9b79-4a7b-8ca3-00fef8ff51b7%2F89912_MxjYVJJXuITZmjo98dqGxg.jpg",
+    "price": 80000,
+    "location": "Nəriman Nərimanov m.",
+    "rooms": "",
+    "area_m2": "39 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.40111314600158,
+    "lng": 49.87067735375841,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6482057",
+    "first_seen_at": "2026-09-30T12:27:05.905416+00:00",
+    "last_seen_at": "2026-09-30T12:27:05.905416+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 80000,
+        "date": "2026-09-30T12:27:05.905416+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6481134",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F11%2F14%2F20%2F8446d9fa-78f6-4c59-90ef-b7763b7e9aad%2F55790_7ZbGgszqbhIS7oelD1hG0g.jpg",
+    "price": 45000,
+    "location": "Keşlə q.",
+    "rooms": "",
+    "area_m2": "64 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.4013853466134,
+    "lng": 49.88714538351011,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6481134",
+    "first_seen_at": "2026-09-30T12:27:06.061324+00:00",
+    "last_seen_at": "2026-09-30T12:27:06.061324+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 45000,
+        "date": "2026-09-30T12:27:06.061324+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6480874",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F09%2F52%2F45%2F536a3442-34c3-4d37-a33e-36ff9093692d%2F90006_4q8HiSWyu5QrlKQztmf6zQ.jpg",
+    "price": 78000,
+    "location": "Əhmədli q.",
+    "rooms": "",
+    "area_m2": "100 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38215895188218,
+    "lng": 49.96818495180752,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6480874",
+    "first_seen_at": "2026-09-30T12:27:06.226328+00:00",
+    "last_seen_at": "2026-09-30T12:27:06.226328+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 78000,
+        "date": "2026-09-30T12:27:06.226328+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6325849",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F27%2F17%2F28%2F34%2F320b0062-9e88-4122-99a4-542ffb63c539%2F55538_KscsUH9F6hKfHmnRKhm4iA.jpg",
+    "price": 14000,
+    "location": "İçəri Şəhər m.",
+    "rooms": "",
+    "area_m2": "18 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.37047712555795,
+    "lng": 49.82390940280276,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6325849",
+    "first_seen_at": "2026-09-30T12:27:06.391558+00:00",
+    "last_seen_at": "2026-09-30T12:27:06.391558+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 14000,
+        "date": "2026-09-30T12:27:06.391558+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6049047",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F04%2F16%2F11%2F18%2F36%2Fee7c8449-666d-4634-8d80-001d5c2371f6%2F30682_d0elZn8zh49OEaB3CO-ztA.jpg",
+    "price": 80000,
+    "location": "Nəsimi r.",
+    "rooms": "",
+    "area_m2": "40 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.39232579999999,
+    "lng": 49.82880550000004,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6049047",
+    "first_seen_at": "2026-09-30T12:27:06.550215+00:00",
+    "last_seen_at": "2026-09-30T12:27:06.550215+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 80000,
+        "date": "2026-09-30T12:27:06.550215+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6475764",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F21%2F16%2F47%2F39%2Fa7c007f8-de8c-41c6-9a49-50bf46ed0ca3%2F89829_ahOmDnCoEaAAVYcH-6eZwA.jpg",
+    "price": 15000,
+    "location": "Əhmədli m.",
+    "rooms": "",
+    "area_m2": "16 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.382631,
+    "lng": 49.945952,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6475764",
+    "first_seen_at": "2026-09-30T12:27:06.706437+00:00",
+    "last_seen_at": "2026-09-30T12:27:06.706437+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 15000,
+        "date": "2026-09-30T12:27:06.706437+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6308912",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F21%2F12%2F49%2F29%2Fc7f01b32-87f7-4023-8904-dbb3f4d3adaf%2F55078_Poofz5MjaOlRViebRscQlQ.jpg",
+    "price": 55000,
+    "location": "Yasamal r.",
+    "rooms": "",
+    "area_m2": "20 m²",
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.39141605886238,
+    "lng": 49.82154821864997,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6308912",
+    "first_seen_at": "2026-09-30T12:27:06.865531+00:00",
+    "last_seen_at": "2026-09-30T12:27:06.865531+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 55000,
+        "date": "2026-09-30T12:27:06.865531+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6406694",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F25%2F23%2F30%2F25%2F56bf5061-461f-4bba-b3ae-61a8c61997c5%2F68083_1-zhY6WtnVs4pUEsNRG6ww.jpg",
+    "price": 31000,
+    "location": "Nizami m.",
+    "rooms": "",
+    "area_m2": "25 m²",
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.38438543722594,
+    "lng": 49.82561018518597,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6406694",
+    "first_seen_at": "2026-09-30T12:27:07.022413+00:00",
+    "last_seen_at": "2026-09-30T12:27:07.022413+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 31000,
+        "date": "2026-09-30T12:27:07.022413+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6282181",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F11%2F00%2F39%2F24%2F3a33ac2a-db1a-4064-a305-b3fc95d2b2c0%2F29353__9wUYrY8PRCmeuakv30Qjw.jpg",
+    "price": 22000,
+    "location": "Azadlıq Prospekti m.",
+    "rooms": "",
+    "area_m2": "16.7 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.42536158886271,
+    "lng": 49.84273119880121,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6282181",
+    "first_seen_at": "2026-09-30T12:27:07.179520+00:00",
+    "last_seen_at": "2026-09-30T12:27:07.179520+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 22000,
+        "date": "2026-09-30T12:27:07.179520+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6474194",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F19%2F14%2F03%2F36%2Fcae4ad27-8260-4f99-a08d-4b358ccee2b7%2F63806_Ux_oCYAyjZ6KCpSgi5uQjg.jpg",
+    "price": 15000,
+    "location": "20 Yanvar m.",
+    "rooms": "",
+    "area_m2": "20 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.40715884227937,
+    "lng": 49.80698267002834,
+    "has_repair": true,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6474194",
+    "first_seen_at": "2026-09-30T12:27:07.340657+00:00",
+    "last_seen_at": "2026-09-30T12:27:07.340657+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 15000,
+        "date": "2026-09-30T12:27:07.340657+00:00"
+      }
+    ]
+  },
+  {
+    "id": "4677137",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2024%2F10%2F08%2F14%2F34%2F43%2F70158b4c-dbdb-4e0e-b406-e590568c9346%2F11375_qXr7-N1ppBcS2a5TEaxWRQ.jpg",
+    "price": 40000,
+    "location": "Şah İsmayıl Xətai m.",
+    "rooms": "",
+    "area_m2": "10.3 m²",
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.37947606869115,
+    "lng": 49.87564029626061,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/4677137",
+    "first_seen_at": "2026-09-30T12:27:07.497547+00:00",
+    "last_seen_at": "2026-09-30T12:27:07.497547+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 40000,
+        "date": "2026-09-30T12:27:07.497547+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6473224",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F19%2F09%2F49%2F21%2F02af5eb0-ad53-4286-afe2-0d5d266a7f8a%2F68239_issnUNyq_5KdC_Y3ZCqT4g.jpg",
+    "price": 40000,
+    "location": "Şah İsmayıl Xətai m.",
+    "rooms": "",
+    "area_m2": "26 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.37732339067637,
+    "lng": 49.86714797894245,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6473224",
+    "first_seen_at": "2026-09-30T12:27:07.656241+00:00",
+    "last_seen_at": "2026-09-30T12:27:07.656241+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 40000,
+        "date": "2026-09-30T12:27:07.656241+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6393222",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F20%2F19%2F06%2F33%2Fda5b5f50-e321-420b-80ca-6319c12ea19a%2F85388_F2nocHucm5p10L3IR0jBIg.jpg",
+    "price": 18000,
+    "location": "İnşaatçılar m.",
+    "rooms": "",
+    "area_m2": "20 m²",
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.39524066005529,
+    "lng": 49.80839558658501,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6393222",
+    "first_seen_at": "2026-09-30T12:27:07.820727+00:00",
+    "last_seen_at": "2026-09-30T12:27:07.820727+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 18000,
+        "date": "2026-09-30T12:27:07.820727+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6471956",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F18%2F16%2F49%2F03%2F18fbedbf-1230-4723-b600-cc18489c80f0%2F89341_sRoFv5XOJqR2ceid1TB8pQ.jpg",
+    "price": 31000,
+    "location": "Yasamal r.",
+    "rooms": "",
+    "area_m2": "15 m²",
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.39251432955317,
+    "lng": 49.81534647094726,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6471956",
+    "first_seen_at": "2026-09-30T12:27:07.978396+00:00",
+    "last_seen_at": "2026-09-30T12:27:07.978396+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 31000,
+        "date": "2026-09-30T12:27:07.978396+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5894131",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F02%2F16%2F18%2F48%2F07%2F64a6ff16-ab85-4986-92f1-3836749403aa%2F88075_aLs-Rej6q1iVAC5Dsmdbdg.jpg",
+    "price": 300000,
+    "location": "Şah İsmayıl Xətai m.",
+    "rooms": "",
+    "area_m2": "200 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38492877277431,
+    "lng": 49.87473899393128,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5894131",
+    "first_seen_at": "2026-09-30T12:27:08.143586+00:00",
+    "last_seen_at": "2026-09-30T12:27:08.143586+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 300000,
+        "date": "2026-09-30T12:27:08.143586+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6386598",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F18%2F16%2F00%2F31%2Fae347bf0-2c2b-48b3-a538-3675f4bdff0e%2F36803_izdnnlAR31xTz5BlcR8lgA.jpg",
+    "price": 48500,
+    "location": "İnşaatçılar m.",
+    "rooms": "",
+    "area_m2": "60 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38602045363213,
+    "lng": 49.81087145884922,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6386598",
+    "first_seen_at": "2026-09-30T12:27:08.307354+00:00",
+    "last_seen_at": "2026-09-30T12:27:08.307354+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 48500,
+        "date": "2026-09-30T12:27:08.307354+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6471036",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F18%2F13%2F25%2F35%2F6f6bb0b7-99fc-43cf-9f07-b54e38e5a807%2F91093_9D267eHDs3LX9WjlX7z_lA.jpg",
+    "price": 30000,
+    "location": "Neftçilər m.",
+    "rooms": "",
+    "area_m2": "42 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.40620779723641,
+    "lng": 49.94816372533413,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6471036",
+    "first_seen_at": "2026-09-30T12:27:08.470731+00:00",
+    "last_seen_at": "2026-09-30T12:27:08.470731+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 30000,
+        "date": "2026-09-30T12:27:08.470731+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5850466",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F01%2F31%2F14%2F03%2F13%2Fad8ae429-dbe0-4ec0-b2f2-e9f9598154c0%2F14252_ZHu77-jEhfQz_R6ZTSIPZw.jpg",
+    "price": 25000,
+    "location": "Yasamal r.",
+    "rooms": "",
+    "area_m2": "16 m²",
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.39610961792037,
+    "lng": 49.81603311645507,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5850466",
+    "first_seen_at": "2026-09-30T12:27:08.629362+00:00",
+    "last_seen_at": "2026-09-30T12:27:08.629362+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 25000,
+        "date": "2026-09-30T12:27:08.629362+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6289964",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F14%2F11%2F30%2F27%2Fd98124fe-0a54-45c8-a9f6-36ee9335c9f5%2F5107_H5Q7aSKSAY2CtaXwKMEHBA.jpg",
+    "price": 15000,
+    "location": "Xətai r.",
+    "rooms": "",
+    "area_m2": "20 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.378181,
+    "lng": 49.931383,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6289964",
+    "first_seen_at": "2026-09-30T12:27:08.787302+00:00",
+    "last_seen_at": "2026-09-30T12:27:08.787302+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 15000,
+        "date": "2026-09-30T12:27:08.787302+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6280830",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F10%2F15%2F20%2F57%2Ff2bed66f-91eb-4419-939a-b421492bdfd9%2F72415_km1pElTcjaFXnVP8aRE6Xg.jpg",
+    "price": 20500,
+    "location": "Nərimanov r.",
+    "rooms": "",
+    "area_m2": "20 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.39207317388101,
+    "lng": 49.87151590840038,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6280830",
+    "first_seen_at": "2026-09-30T12:27:08.947227+00:00",
+    "last_seen_at": "2026-09-30T12:27:08.947227+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 20500,
+        "date": "2026-09-30T12:27:08.947227+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6468146",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F17%2F13%2F26%2F49%2F0a99b52c-5288-4230-9de9-6d523cdcf5b6%2F63796_cAKV7C1XpFNwIXK6sPGNUg.jpg",
+    "price": 55000,
+    "location": "İnşaatçılar m.",
+    "rooms": "",
+    "area_m2": "60 m²",
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.38391056334969,
+    "lng": 49.80249465755021,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6468146",
+    "first_seen_at": "2026-09-30T12:27:09.107361+00:00",
+    "last_seen_at": "2026-09-30T12:27:09.107361+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 55000,
+        "date": "2026-09-30T12:27:09.107361+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6176381",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F01%2F18%2F47%2F22%2Fc13bf868-f93f-4885-b371-0a1a6c775e87%2F72484_T-u5dMCafFLzP7ulPbzeyg.jpg",
+    "price": 30000,
+    "location": "Koroğlu m.",
+    "rooms": "",
+    "area_m2": "36 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.42012729704897,
+    "lng": 49.9086249424291,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6176381",
+    "first_seen_at": "2026-09-30T12:27:09.263617+00:00",
+    "last_seen_at": "2026-09-30T12:27:09.263617+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 30000,
+        "date": "2026-09-30T12:27:09.263617+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6379808",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F15%2F21%2F17%2F12%2F8dcb7f6d-c1bd-4e28-986f-1c8291fb54d0%2F36808_BiKsKFXdDhfr9zN1LR2MLQ.jpg",
+    "price": 51000,
+    "location": "Azadlıq Prospekti m.",
+    "rooms": "",
+    "area_m2": "26 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.42746594934535,
+    "lng": 49.84499189482431,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6379808",
+    "first_seen_at": "2026-09-30T12:27:09.418922+00:00",
+    "last_seen_at": "2026-09-30T12:27:09.418922+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 51000,
+        "date": "2026-09-30T12:27:09.418922+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6465326",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F16%2F13%2F59%2F12%2Fd16501a4-63c8-4c3e-9bc7-5b39c174f47c%2F71607_Ewc2E6yL9YXeKUPB7l8iKQ.jpg",
+    "price": 19000,
+    "location": "20 Yanvar m.",
+    "rooms": "",
+    "area_m2": "25 m²",
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.40763811682032,
+    "lng": 49.8090657035694,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6465326",
+    "first_seen_at": "2026-09-30T12:27:09.580540+00:00",
+    "last_seen_at": "2026-09-30T12:27:09.580540+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 19000,
+        "date": "2026-09-30T12:27:09.580540+00:00"
+      }
+    ]
+  },
+  {
+    "id": "4627448",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2024%2F09%2F17%2F10%2F53%2F14%2Fefab3ba6-4f7b-4f64-9523-0de9dc2df489%2F76402_Kt6M8xdUQ8mUvNPSzi54jw.jpg",
+    "price": 55000,
+    "location": "Elmlər Akademiyası m.",
+    "rooms": "",
+    "area_m2": "44 m²",
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.36635855091951,
+    "lng": 49.81733041160318,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/4627448",
+    "first_seen_at": "2026-09-30T12:27:09.743437+00:00",
+    "last_seen_at": "2026-09-30T12:27:09.743437+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 55000,
+        "date": "2026-09-30T12:27:09.743437+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6331203",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F10%2F13%2F27%2F21%2F352c0e3a-bf17-43df-9df9-9868855c3a12%2F59780_4Zl38ZTM2UWLZyJSISTiow.jpg",
+    "price": 49000,
+    "location": "28 May m.",
+    "rooms": "",
+    "area_m2": "37 m²",
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.38112244694016,
+    "lng": 49.84821873684834,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6331203",
+    "first_seen_at": "2026-09-30T12:27:09.903450+00:00",
+    "last_seen_at": "2026-09-30T12:27:09.903450+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 49000,
+        "date": "2026-09-30T12:27:09.903450+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6147477",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F21%2F09%2F46%2F13%2Fbdfd9f0a-0e02-48bc-8b80-24d60fce220b%2F51566_-CG8xby46axXWUrb_3URBw.jpg",
+    "price": 62000,
+    "location": "Nəriman Nərimanov m.",
+    "rooms": "",
+    "area_m2": "20 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.40481872739357,
+    "lng": 49.87631225577664,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6147477",
+    "first_seen_at": "2026-09-30T12:27:10.059655+00:00",
+    "last_seen_at": "2026-09-30T12:27:10.059655+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 62000,
+        "date": "2026-09-30T12:27:10.059655+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6462111",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F15%2F13%2F01%2F16%2Fbf9ddad0-8c18-43ba-9503-86e05b1dfdb3%2F70791_gMjIuxNq4ScnGaPISdLLJw.jpg",
+    "price": 170000,
+    "location": "Nizami m.",
+    "rooms": "",
+    "area_m2": "100 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.37990977319783,
+    "lng": 49.82975874670345,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6462111",
+    "first_seen_at": "2026-09-30T12:27:10.219417+00:00",
+    "last_seen_at": "2026-09-30T12:27:10.219417+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 170000,
+        "date": "2026-09-30T12:27:10.219417+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6461336",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F15%2F06%2F43%2F34%2Fe8e26548-9267-4f34-9d02-0ce0986cfe38%2F49883_PgqNY5p1_t6t2j7lUqfYZQ.jpg",
+    "price": 55000,
+    "location": "Ağ şəhər q.",
+    "rooms": "",
+    "area_m2": "20 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38273409525128,
+    "lng": 49.8866109926621,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6461336",
+    "first_seen_at": "2026-09-30T12:27:10.375704+00:00",
+    "last_seen_at": "2026-09-30T12:27:10.375704+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 55000,
+        "date": "2026-09-30T12:27:10.375704+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6461269",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F15%2F00%2F15%2F44%2Ffe526ba5-c806-4f2d-93dc-42b2a642a64f%2F71204_kaE1vmihKMaHcRwVqPToEw.jpg",
+    "price": 30000,
+    "location": "Gənclik m.",
+    "rooms": "",
+    "area_m2": "21 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.40106136286929,
+    "lng": 49.84386454775645,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6461269",
+    "first_seen_at": "2026-09-30T12:27:10.535454+00:00",
+    "last_seen_at": "2026-09-30T12:27:10.535454+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 30000,
+        "date": "2026-09-30T12:27:10.535454+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6461175",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F14%2F22%2F52%2F17%2Fafb80482-fee1-478d-8aa7-308f9497bd8d%2F69678_GNTRUP3NdScBtdZwjPWPEw.jpg",
+    "price": 40000,
+    "location": "Nərimanov r.",
+    "rooms": "",
+    "area_m2": "26 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.4046877208778,
+    "lng": 49.83686247528362,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6461175",
+    "first_seen_at": "2026-09-30T12:27:10.694703+00:00",
+    "last_seen_at": "2026-09-30T12:27:10.694703+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 40000,
+        "date": "2026-09-30T12:27:10.694703+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6457372",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F13%2F15%2F37%2F27%2F5daa58f4-5db0-4089-aeaf-c26f3f58d365%2F63764_NAmDTFAVc3Ll__IrfXAoqg.jpg",
+    "price": 43000,
+    "location": "8 Noyabr m.",
+    "rooms": "",
+    "area_m2": "24 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.40098360029008,
+    "lng": 49.8194905343628,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6457372",
+    "first_seen_at": "2026-09-30T12:27:10.850985+00:00",
+    "last_seen_at": "2026-09-30T12:27:10.850985+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 43000,
+        "date": "2026-09-30T12:27:10.850985+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5728207",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F12%2F10%2F15%2F29%2F23%2F441c6510-bf74-41d6-bf38-339a31950739%2F59807_hhazynSwKhQyrpxl76Sgiw.jpg",
+    "price": 20500,
+    "location": "Yasamal r.",
+    "rooms": "",
+    "area_m2": "20 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.39172112209121,
+    "lng": 49.8212328789805,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5728207",
+    "first_seen_at": "2026-09-30T12:27:11.005007+00:00",
+    "last_seen_at": "2026-09-30T12:27:11.005007+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 20500,
+        "date": "2026-09-30T12:27:11.005007+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5707508",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F12%2F02%2F15%2F37%2F55%2F60deaf74-7c3d-420e-bd24-2c821807dcee%2F95175_X2XV5ce9tlKxrP6CErRWPA.jpg",
+    "price": 25000,
+    "location": "Şah İsmayıl Xətai m.",
+    "rooms": "",
+    "area_m2": "30.5 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38665042061535,
+    "lng": 49.8772364688388,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5707508",
+    "first_seen_at": "2026-09-30T12:27:11.161518+00:00",
+    "last_seen_at": "2026-09-30T12:27:11.161518+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 25000,
+        "date": "2026-09-30T12:27:11.161518+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6455080",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F12%2F15%2F07%2F34%2F4fe1f84f-0433-46e4-9927-3addd128d57f%2F63757_NDeXvbCe5dgKY4316MH7MA.jpg",
+    "price": 29500,
+    "location": "Neftçilər m.",
+    "rooms": "",
+    "area_m2": "35 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.41540047948025,
+    "lng": 49.94806415453824,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6455080",
+    "first_seen_at": "2026-09-30T12:27:11.315855+00:00",
+    "last_seen_at": "2026-09-30T12:27:11.315855+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 29500,
+        "date": "2026-09-30T12:27:11.315855+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6454381",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F12%2F12%2F20%2F43%2F159d6a6a-e763-4fdd-8ddd-60148adb66dd%2F72317_R-ME7ob63FcH5ce5VgK1wg.jpg",
+    "price": 23300,
+    "location": "Elmlər Akademiyası m.",
+    "rooms": "",
+    "area_m2": "25.5 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.37536909743867,
+    "lng": 49.8150957076132,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6454381",
+    "first_seen_at": "2026-09-30T12:27:11.469838+00:00",
+    "last_seen_at": "2026-09-30T12:27:11.469838+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 23300,
+        "date": "2026-09-30T12:27:11.469838+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5531430",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F09%2F23%2F11%2F52%2F56%2F7155b2c9-10ac-4f83-acbf-445bbb969c52%2F4513_SdFmiiX51JZHxZnCDO0xMg.jpg",
+    "price": 100000,
+    "location": "Nizami m.",
+    "rooms": "",
+    "area_m2": "42.3 m²",
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.38011300526512,
+    "lng": 49.82328735893011,
+    "has_repair": null,
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5531430",
+    "first_seen_at": "2026-09-30T12:27:11.622810+00:00",
+    "last_seen_at": "2026-09-30T12:27:11.622810+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 100000,
+        "date": "2026-09-30T12:27:11.622810+00:00"
       }
     ]
   }
