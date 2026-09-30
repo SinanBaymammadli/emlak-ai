@@ -1,4 +1,3 @@
-import time
 from camoufox.async_api import AsyncCamoufox
 
 
@@ -38,45 +37,27 @@ async def load_category_page(page, url: str) -> int:
 
 async def scroll_and_extract(page, target: int = 0) -> list[dict]:
     """Scroll and extract cards incrementally.
-
-    Stops when len(extracted) >= target (the count shown in the page header).
-    Falls back to a 10s scrollHeight-stall timeout if target is 0 or unreachable.
+    Stops when len(extracted) >= target (the Elanlar count shown in the page header).
     """
-    STALL_TIMEOUT = 20
     await page.set_viewport_size({"width": 1280, "height": 900})
     all_cards: list[dict] = []
-    last_height = 0
-    last_change_t = time.time()
     last_pos = 0
 
     while True:
-        # Stop if we've reached the advertised listing count
         if target > 0 and len(all_cards) >= target:
             print(f"  reached target {target} → done ({len(all_cards)} extracted)")
             break
 
         scroll_height = await page.evaluate("() => document.body.scrollHeight")
 
-        if scroll_height > last_height:
-            last_height = scroll_height
-            last_change_t = time.time()
-
-        # Scroll down, checking stall timeout on every step
         pos = last_pos
         while pos < scroll_height:
-            if time.time() - last_change_t >= STALL_TIMEOUT:
-                break
             pos += 800
             await page.evaluate(f"window.scrollTo(0, {pos})")
             await page.wait_for_timeout(150)
         last_pos = pos
         await page.wait_for_timeout(800)
 
-        if time.time() - last_change_t >= STALL_TIMEOUT:
-            print(f"  page stable for {STALL_TIMEOUT}s → done ({len(all_cards)} extracted)")
-            break
-
-        # Extract newly loaded cards
         new_cards = await page.evaluate("""() => {
             const results = [];
             document.querySelectorAll('.item-card:not([data-x])').forEach(card => {
