@@ -1,0 +1,442 @@
+[
+  {
+    "id": "6430578",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F03%2F15%2F54%2F19%2F89ffb6bd-f356-4d95-820d-7c27d4d7397b%2F63816_oh3AqeqoNb7laWneSPF_KA.jpg",
+    "price": 195000,
+    "location": "Əmircan q.",
+    "area_m2": "70 m²",
+    "lat": 40.41870642781855,
+    "lng": 49.99751063658449,
+    "has_repair": true,
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6430578",
+    "first_seen_at": "2026-09-30T09:36:01.071460+00:00",
+    "last_seen_at": "2026-09-30T09:36:01.071460+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 195000,
+        "date": "2026-09-30T09:36:01.071460+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6501997",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F29%2F15%2F42%2F21%2Fc6df7dad-0afa-427d-93f9-a701606f2c08%2F40980_YC5NkVUMc8a_k4dv-Ac6nw.jpg",
+    "price": 77000,
+    "location": "9-cu mikrorayon q.",
+    "area_m2": "60 m²",
+    "lat": 40.42793349999999,
+    "lng": 49.81359980000002,
+    "has_repair": true,
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6501997",
+    "first_seen_at": "2026-09-30T09:36:01.120908+00:00",
+    "last_seen_at": "2026-09-30T09:36:01.120908+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 77000,
+        "date": "2026-09-30T09:36:01.120908+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6496928",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F27%2F20%2F00%2F17%2F58c44ce2-390b-42da-ade2-d6e8e6caf031%2F59346_oxpcL3OtQeB0ODueWkXuPQ.jpg",
+    "price": 155000,
+    "location": "Badamdar q.",
+    "area_m2": "132 m²",
+    "lat": 40.34372804894466,
+    "lng": 49.81002309575364,
+    "has_repair": false,
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6496928",
+    "first_seen_at": "2026-09-30T09:36:01.172171+00:00",
+    "last_seen_at": "2026-09-30T09:36:01.172171+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 155000,
+        "date": "2026-09-30T09:36:01.172171+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6378103",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F15%2F12%2F50%2F37%2F085e9aac-f196-4f24-ace5-fc0225c6abae%2F12551_B_5tH6ZxrqN8LOtMtndydg.jpg",
+    "price": 127000,
+    "location": "Neftçilər m.",
+    "area_m2": "80 m²",
+    "lat": 40.40647875730215,
+    "lng": 49.94331960257453,
+    "has_repair": true,
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6378103",
+    "first_seen_at": "2026-09-30T09:36:01.212301+00:00",
+    "last_seen_at": "2026-09-30T09:36:01.212301+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 127000,
+        "date": "2026-09-30T09:36:01.212301+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6457180",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F13%2F14%2F35%2F46%2F366ef05c-53cf-480f-b1ec-2905fd0e8059%2F59919_5wgg_4_uydsRBQhOG7msdg.jpg",
+    "price": 900000,
+    "location": "Azadlıq Prospekti m.",
+    "area_m2": "450 m²",
+    "lat": 40.41975499299443,
+    "lng": 49.83574786777049,
+    "has_repair": true,
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6457180",
+    "first_seen_at": "2026-09-30T09:36:01.251561+00:00",
+    "last_seen_at": "2026-09-30T09:36:01.251561+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 900000,
+        "date": "2026-09-30T09:36:01.251561+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5440890",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F01%2F21%2F13%2F27%2F14%2F90e3d8ea-771e-4f4d-87ce-41314d819008%2F4152_yE4CdjwzM8wUO41PgO0hRQ.jpg",
+    "price": 2987250,
+    "location": "Şah İsmayıl Xətai m.",
+    "area_m2": "398.3 m²",
+    "lat": 40.38727762622229,
+    "lng": 49.87814669308522,
+    "has_repair": false,
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5440890",
+    "first_seen_at": "2026-09-30T09:36:01.294125+00:00",
+    "last_seen_at": "2026-09-30T09:36:01.294125+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 2987250,
+        "date": "2026-09-30T09:36:01.294125+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6150371",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F22%2F01%2F29%2F33%2F3ab87688-3795-4b8d-809a-f5b1ab4f1a65%2F35166_uhyu-pzmOZfs0EYIxxksYA.jpg",
+    "price": 285000,
+    "location": "Nərimanov r.",
+    "area_m2": "80 m²",
+    "lat": 40.41262741304975,
+    "lng": 49.84651570179184,
+    "has_repair": true,
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6150371",
+    "first_seen_at": "2026-09-30T09:36:01.339329+00:00",
+    "last_seen_at": "2026-09-30T09:36:01.339329+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 285000,
+        "date": "2026-09-30T09:36:01.339329+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6040842",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F04%2F13%2F13%2F10%2F47%2F08daeeb8-03c7-4a87-83d3-76255cbfda81%2F73267_P-KfM8_Z3dd_Xe7Uh7fTXA.jpg",
+    "price": 328000,
+    "location": "Elmlər Akademiyası m.",
+    "area_m2": "70 m²",
+    "lat": 40.36855487064757,
+    "lng": 49.81879696574482,
+    "has_repair": true,
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6040842",
+    "first_seen_at": "2026-09-30T09:36:01.381491+00:00",
+    "last_seen_at": "2026-09-30T09:36:01.381491+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 328000,
+        "date": "2026-09-30T09:36:01.381491+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6371263",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F14%2F09%2F51%2F59%2F612f2a73-9d5f-453e-acbc-f5745d172297%2F16439_WJWC13yTfDRxSm221SwvnQ.jpg",
+    "price": 75000,
+    "location": "Yasamal q.",
+    "area_m2": "33 m²",
+    "lat": 40.39143673028259,
+    "lng": 49.82070005930369,
+    "has_repair": true,
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6371263",
+    "first_seen_at": "2026-09-30T09:36:01.421394+00:00",
+    "last_seen_at": "2026-09-30T09:36:01.421394+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 75000,
+        "date": "2026-09-30T09:36:01.421394+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5129717",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F04%2F14%2F51%2F21%2Fd6c0df5f-b37c-46bf-bdf3-b1700707a1d8%2F45672_av3Iw5_bj6-hI1Fxl0yKig.jpg",
+    "price": 1100000,
+    "location": "Gənclik m.",
+    "area_m2": "170 m²",
+    "lat": 40.39637414815267,
+    "lng": 49.83339789618081,
+    "has_repair": true,
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5129717",
+    "first_seen_at": "2026-09-30T09:36:01.460226+00:00",
+    "last_seen_at": "2026-09-30T09:36:01.460226+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1100000,
+        "date": "2026-09-30T09:36:01.460226+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504331",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F13%2F12%2F12%2Fed3dd748-7aad-4515-b7e1-a9558434da2b%2F16160_pZ3p91OrtKlG8JG-gjjTCA.jpg",
+    "price": 180000,
+    "location": "Şah İsmayıl Xətai m.",
+    "area_m2": "80 m²",
+    "lat": 40.38051028385068,
+    "lng": 49.87677322445679,
+    "has_repair": true,
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6504331",
+    "first_seen_at": "2026-09-30T09:36:01.498895+00:00",
+    "last_seen_at": "2026-09-30T09:36:01.498895+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 180000,
+        "date": "2026-09-30T09:36:01.498895+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6303129",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F18%2F18%2F40%2F46%2F66245869-5d8d-4f7e-9731-a87c9d84be06%2F53178_NDN-umSANwd5Ygz0ahHz6g.jpg",
+    "price": 495000,
+    "location": "İçəri Şəhər m.",
+    "area_m2": "200 m²",
+    "lat": 40.36757234266658,
+    "lng": 49.83159249656456,
+    "has_repair": true,
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6303129",
+    "first_seen_at": "2026-09-30T09:36:01.538530+00:00",
+    "last_seen_at": "2026-09-30T09:36:01.538530+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 495000,
+        "date": "2026-09-30T09:36:01.538530+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5996726",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F13%2F15%2F33%2F01%2Fcf53f836-f624-424c-a083-95adb2b0c5d8%2F77776_a5TKtAMSYEzwrgaWjOme2A.jpg",
+    "price": 3000000,
+    "location": "Şah İsmayıl Xətai m.",
+    "area_m2": "315 m²",
+    "lat": 40.38397766946931,
+    "lng": 49.882158299701,
+    "has_repair": true,
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5996726",
+    "first_seen_at": "2026-09-30T09:36:01.579343+00:00",
+    "last_seen_at": "2026-09-30T09:36:01.579343+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 3000000,
+        "date": "2026-09-30T09:36:01.579343+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504262",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F13%2F05%2F55%2F69c2282b-c022-47ff-85a6-88ce3608d1df%2F69949_X0-JTtUYb4dw-o0RBNe32Q.jpg",
+    "price": 360000,
+    "location": "Binəqədi r.",
+    "area_m2": "50 m²",
+    "lat": 40.41689655396593,
+    "lng": 49.84521046313476,
+    "has_repair": true,
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6504262",
+    "first_seen_at": "2026-09-30T09:36:01.618888+00:00",
+    "last_seen_at": "2026-09-30T09:36:01.618888+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 360000,
+        "date": "2026-09-30T09:36:01.618888+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5924208",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F02%2F27%2F13%2F39%2F42%2F5308de43-e0c5-405a-bea3-0f51ab832f5b%2F14943_G_IckHbIYNbAN9XkwkQm3g.jpg",
+    "price": 890000,
+    "location": "Nəsimi r.",
+    "area_m2": "150 m²",
+    "lat": 40.39232579999999,
+    "lng": 49.82880550000004,
+    "has_repair": true,
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5924208",
+    "first_seen_at": "2026-09-30T09:36:01.662692+00:00",
+    "last_seen_at": "2026-09-30T09:36:01.662692+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 890000,
+        "date": "2026-09-30T09:36:01.662692+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504189",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F12%2F44%2F36%2F36d4ec0b-3816-46e4-9e23-7debdcbcaef5%2F75495_NW5QJWSb-qC7v-EPeRPb6A.jpg",
+    "price": 2000000,
+    "location": "İnşaatçılar m.",
+    "area_m2": "1000 m²",
+    "lat": 40.39065719392591,
+    "lng": 49.80280291455049,
+    "has_repair": true,
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6504189",
+    "first_seen_at": "2026-09-30T09:36:01.705161+00:00",
+    "last_seen_at": "2026-09-30T09:36:01.705161+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 2000000,
+        "date": "2026-09-30T09:36:01.705161+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6423334",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F01%2F12%2F46%2F49%2F3dcc4bc9-cc5f-4314-ab98-e8dd6dbe2ffa%2F63818_kIRpwQiMyVUzgU5ctAgIJg.jpg",
+    "price": 189000,
+    "location": "28 May m.",
+    "area_m2": "59 m²",
+    "lat": 40.38752526392435,
+    "lng": 49.84666173461488,
+    "has_repair": true,
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6423334",
+    "first_seen_at": "2026-09-30T09:36:01.747834+00:00",
+    "last_seen_at": "2026-09-30T09:36:01.747834+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 189000,
+        "date": "2026-09-30T09:36:01.747834+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504167",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F12%2F17%2F55%2F0aa66939-8b33-48c3-b88b-6fcc18d9b448%2F93330_JQh8qJ21DbPt4Nb_ELAzOQ.jpg",
+    "price": 830000,
+    "location": "İnşaatçılar m.",
+    "area_m2": "126 m²",
+    "lat": 40.39475609010849,
+    "lng": 49.80552595027887,
+    "has_repair": true,
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6504167",
+    "first_seen_at": "2026-09-30T09:36:01.811027+00:00",
+    "last_seen_at": "2026-09-30T09:36:01.811027+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 830000,
+        "date": "2026-09-30T09:36:01.811027+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6372532",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F13%2F13%2F15%2F35%2F019a0e6b-5836-41f6-99ef-0a9ca127b400%2F77981_hQw9KAhhAYxYp-Nzz76-Pg.jpg",
+    "price": 2300000,
+    "location": "Azadlıq Prospekti m.",
+    "area_m2": "1100 m²",
+    "lat": 40.42549826294125,
+    "lng": 49.83805742693148,
+    "has_repair": true,
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6372532",
+    "first_seen_at": "2026-09-30T09:36:01.850999+00:00",
+    "last_seen_at": "2026-09-30T09:36:01.850999+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 2300000,
+        "date": "2026-09-30T09:36:01.850999+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6366717",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F24%2F13%2F31%2F04%2F21aef412-6bc9-4513-b60c-c1da5bf1bc58%2F68113_wDhw_n0UAhN_Oivbe1gusA.jpg",
+    "price": 250000,
+    "location": "Nərimanov r.",
+    "area_m2": "56 m²",
+    "lat": 40.40173740988819,
+    "lng": 49.83864601928666,
+    "has_repair": true,
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6366717",
+    "first_seen_at": "2026-09-30T09:36:01.892466+00:00",
+    "last_seen_at": "2026-09-30T09:36:01.892466+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 250000,
+        "date": "2026-09-30T09:36:01.892466+00:00"
+      }
+    ]
+  }
+]

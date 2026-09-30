@@ -1,0 +1,442 @@
+[
+  {
+    "id": "6468742",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F17%2F15%2F41%2F47%2Fce30c3b7-c2f6-4109-b95f-07405b71f95f%2F71279_XN5dEnjSinkpRCkVUZqjvw.jpg",
+    "price": 2000,
+    "location": "/ay",
+    "area_m2": "66 m²",
+    "lat": 40.37085555903915,
+    "lng": 49.81183867332393,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6468742",
+    "first_seen_at": "2026-09-30T09:36:36.571875+00:00",
+    "last_seen_at": "2026-09-30T09:36:36.571875+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 2000,
+        "date": "2026-09-30T09:36:36.571875+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5833785",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F01%2F25%2F10%2F06%2F02%2Fb866b5f1-6d09-4123-9f01-cb12bbe3fb2e%2F60559_spF_n2RwvlMWZehlYBEdVA.jpg",
+    "price": 2900,
+    "location": "/ay",
+    "area_m2": "225 m²",
+    "lat": 40.38385124021433,
+    "lng": 49.82345093137802,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/5833785",
+    "first_seen_at": "2026-09-30T09:36:36.614139+00:00",
+    "last_seen_at": "2026-09-30T09:36:36.614139+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 2900,
+        "date": "2026-09-30T09:36:36.614139+00:00"
+      }
+    ]
+  },
+  {
+    "id": "4292334",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F06%2F16%2F15%2F27%2F12%2F3c0af679-1f84-405e-84ad-905098f2f36b%2F92313_wLbwyJGJi75X1LikQGRJwg.jpg",
+    "price": 550,
+    "location": "/ay",
+    "area_m2": "30 m²",
+    "lat": 40.41011288392352,
+    "lng": 49.86353289563134,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/4292334",
+    "first_seen_at": "2026-09-30T09:36:36.655966+00:00",
+    "last_seen_at": "2026-09-30T09:36:36.655966+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 550,
+        "date": "2026-09-30T09:36:36.655966+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6382269",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F17%2F10%2F56%2F00%2F3925c83a-eae0-4059-9093-dcb45f44e0f3%2F36834_6OeHmwKAzJj0e9SqaufdXw.jpg",
+    "price": 4650,
+    "location": "/ay",
+    "area_m2": "310 m²",
+    "lat": 40.41541719227868,
+    "lng": 49.8580488923397,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6382269",
+    "first_seen_at": "2026-09-30T09:36:36.696360+00:00",
+    "last_seen_at": "2026-09-30T09:36:36.696360+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 4650,
+        "date": "2026-09-30T09:36:36.696360+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6459293",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F14%2F13%2F16%2F59%2Fe140c1a2-e69d-4fff-9159-d79d4dc5822b%2F70520_JbC-_TfIjjWuo5NUAZTJ2Q.jpg",
+    "price": 900,
+    "location": "/ay",
+    "area_m2": "24 m²",
+    "lat": 40.37665340088938,
+    "lng": 49.84159028026908,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6459293",
+    "first_seen_at": "2026-09-30T09:36:36.735898+00:00",
+    "last_seen_at": "2026-09-30T09:36:36.735898+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 900,
+        "date": "2026-09-30T09:36:36.735898+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6450842",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F10%2F21%2F42%2F46%2F2d781bae-8d88-4a3f-be9c-d05e123dd2e2%2F63795_e4-0_JAKpYRjpn9F5ROiKg.jpg",
+    "price": 2000,
+    "location": "/ay",
+    "area_m2": "130 m²",
+    "lat": 40.39964030452469,
+    "lng": 49.86096893113175,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6450842",
+    "first_seen_at": "2026-09-30T09:36:36.774201+00:00",
+    "last_seen_at": "2026-09-30T09:36:36.774201+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 2000,
+        "date": "2026-09-30T09:36:36.774201+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6116463",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F09%2F21%2F11%2F52%2F6985df28-f633-43c0-bee8-936454a4704e%2F55105_3-bp6MqYNmr-5JE3saT3FA.jpg",
+    "price": 5000,
+    "location": "/ay",
+    "area_m2": "500 m²",
+    "lat": 40.37714724620015,
+    "lng": 49.82363070910644,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6116463",
+    "first_seen_at": "2026-09-30T09:36:36.814727+00:00",
+    "last_seen_at": "2026-09-30T09:36:36.814727+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 5000,
+        "date": "2026-09-30T09:36:36.814727+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6503096",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F29%2F20%2F21%2F09%2F145f54bf-af7f-49f7-bedb-634efe5c8731%2F98992_LlejKfEPHQITXXqgF-xpkA.jpg",
+    "price": 850,
+    "location": "/ay",
+    "area_m2": "50 m²",
+    "lat": 40.4089166,
+    "lng": 49.86399959999994,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6503096",
+    "first_seen_at": "2026-09-30T09:36:36.856417+00:00",
+    "last_seen_at": "2026-09-30T09:36:36.856417+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 850,
+        "date": "2026-09-30T09:36:36.856417+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6201067",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F10%2F17%2F22%2F34%2Ff3b9daa7-6c3e-45aa-b8b5-df27bb6f3463%2F60937_k7tRscPP_ZhZZ3TVSOossQ.jpg",
+    "price": 25000,
+    "location": "/ay",
+    "area_m2": "2000 m²",
+    "lat": 40.36859944118918,
+    "lng": 49.82916859874118,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6201067",
+    "first_seen_at": "2026-09-30T09:36:36.895563+00:00",
+    "last_seen_at": "2026-09-30T09:36:36.895563+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 25000,
+        "date": "2026-09-30T09:36:36.895563+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504313",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F12%2F57%2F42%2F86a5791e-f848-42b2-b247-54ac2b2462c7%2F45126_LxLn1TNu8ztFH-ankTlfRg.jpg",
+    "price": 1500,
+    "location": "/ay",
+    "area_m2": "45 m²",
+    "lat": 40.38124689742141,
+    "lng": 49.84592995418506,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6504313",
+    "first_seen_at": "2026-09-30T09:36:36.936361+00:00",
+    "last_seen_at": "2026-09-30T09:36:36.936361+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1500,
+        "date": "2026-09-30T09:36:36.936361+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6377117",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F14%2F20%2F44%2F55%2F0b7639e6-3fcf-439c-a767-742beeab7aac%2F31463_M8t3U7OxPll2ENr-p127ow.jpg",
+    "price": 5500,
+    "location": "/ay",
+    "area_m2": "270 m²",
+    "lat": 40.37785817530786,
+    "lng": 49.8746395440462,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6377117",
+    "first_seen_at": "2026-09-30T09:36:36.976870+00:00",
+    "last_seen_at": "2026-09-30T09:36:36.976870+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 5500,
+        "date": "2026-09-30T09:36:36.976870+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504291",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F12%2F59%2F46%2Faff6df4f-0069-4814-9599-ab7e42177cbb%2F91347_YZN6BKYgCJAEMd5njsVuTA.jpg",
+    "price": 6999,
+    "location": "/ay",
+    "area_m2": "400 m²",
+    "lat": 40.37997001367269,
+    "lng": 49.81513276805572,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6504291",
+    "first_seen_at": "2026-09-30T09:36:37.020038+00:00",
+    "last_seen_at": "2026-09-30T09:36:37.020038+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 6999,
+        "date": "2026-09-30T09:36:37.020038+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6120744",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F11%2F17%2F14%2F21%2Fe27e56ea-a284-4c14-acd2-68ad2d4e090e%2F30708_SgfC5FeTa6L_oX6MUAsBxA.jpg",
+    "price": 1750,
+    "location": "/ay",
+    "area_m2": "95 m²",
+    "lat": 40.38427337438366,
+    "lng": 49.87392910850476,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6120744",
+    "first_seen_at": "2026-09-30T09:36:37.063553+00:00",
+    "last_seen_at": "2026-09-30T09:36:37.063553+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1750,
+        "date": "2026-09-30T09:36:37.063553+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6470348",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F18%2F11%2F01%2F46%2F0f34a0ba-69f1-400b-b087-73c6dcd4834e%2F63799_JJ2bruRx2Cvt-otUBLX-JA.jpg",
+    "price": 2100,
+    "location": "/ay",
+    "area_m2": "260 m²",
+    "lat": 40.40176900638345,
+    "lng": 49.82101626181354,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6470348",
+    "first_seen_at": "2026-09-30T09:36:37.103706+00:00",
+    "last_seen_at": "2026-09-30T09:36:37.103706+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 2100,
+        "date": "2026-09-30T09:36:37.103706+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6499303",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F28%2F16%2F38%2F04%2F9ad9c679-f57a-4ed0-89c5-60b2098a6bad%2F71972_I_tmKjg9ZUsfa1wEPxfyKg.jpg",
+    "price": 1700,
+    "location": "/ay",
+    "area_m2": "120 m²",
+    "lat": 40.38022353072504,
+    "lng": 49.82907938110351,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6499303",
+    "first_seen_at": "2026-09-30T09:36:37.148192+00:00",
+    "last_seen_at": "2026-09-30T09:36:37.148192+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1700,
+        "date": "2026-09-30T09:36:37.148192+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6466475",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F16%2F17%2F53%2F10%2F73072d01-0fab-49e5-a661-ff2782045b9c%2F71196_wdVHkVaL24nY4qHCF5Llrg.jpg",
+    "price": 900,
+    "location": "/ay",
+    "area_m2": "35 m²",
+    "lat": 40.3823682285021,
+    "lng": 49.86390740209482,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6466475",
+    "first_seen_at": "2026-09-30T09:36:37.195369+00:00",
+    "last_seen_at": "2026-09-30T09:36:37.195369+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 900,
+        "date": "2026-09-30T09:36:37.195369+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6492847",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F26%2F18%2F52%2F37%2F5954eb14-1e47-4314-8887-f535019a10ac%2F71632_cT-mdISwQVI-4YXF1gGpKw.jpg",
+    "price": 1500,
+    "location": "/ay",
+    "area_m2": "90 m²",
+    "lat": 40.38343754660406,
+    "lng": 49.86414127012908,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6492847",
+    "first_seen_at": "2026-09-30T09:36:37.236529+00:00",
+    "last_seen_at": "2026-09-30T09:36:37.236529+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1500,
+        "date": "2026-09-30T09:36:37.236529+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6485063",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F23%2F14%2F56%2F24%2F5668e736-5d80-4af4-8895-0e1c11108e49%2F55876_Qt-iSMf8JKTUz0TrvLdE4w.jpg",
+    "price": 1300,
+    "location": "/ay",
+    "area_m2": "170 m²",
+    "lat": 40.38104837180995,
+    "lng": 49.83409520920349,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6485063",
+    "first_seen_at": "2026-09-30T09:36:37.276364+00:00",
+    "last_seen_at": "2026-09-30T09:36:37.276364+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1300,
+        "date": "2026-09-30T09:36:37.276364+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504244",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F12%2F08%2F53%2F6dd59933-a732-4e8c-93c6-d91f5ecc1bdc%2F8601_hqjFcCg6hWBmX0ktCccP0Q.jpg",
+    "price": 2200,
+    "location": "/ay",
+    "area_m2": "170 m²",
+    "lat": 40.38014938683357,
+    "lng": 49.84679418004701,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6504244",
+    "first_seen_at": "2026-09-30T09:36:37.316534+00:00",
+    "last_seen_at": "2026-09-30T09:36:37.316534+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 2200,
+        "date": "2026-09-30T09:36:37.316534+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6385983",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F18%2F13%2F39%2F39%2Fa80b650c-7718-48fc-b761-26475ddf77de%2F36842_ZR63lJEmW-mj9vJnzZ8eWQ.jpg",
+    "price": 570,
+    "location": "/ay",
+    "area_m2": "40 m²",
+    "lat": 40.3930410447877,
+    "lng": 49.82240029508301,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6385983",
+    "first_seen_at": "2026-09-30T09:36:37.356642+00:00",
+    "last_seen_at": "2026-09-30T09:36:37.356642+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 570,
+        "date": "2026-09-30T09:36:37.356642+00:00"
+      }
+    ]
+  }
+]

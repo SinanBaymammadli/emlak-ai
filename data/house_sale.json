@@ -1,0 +1,746 @@
+[
+  {
+    "id": "5835547",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F01%2F25%2F23%2F00%2F06%2F47d0582e-6b4d-4afd-98c3-fbdc9b46f756%2F14280_jRNGJsFjIYrr0T7YYaiyLw.jpg",
+    "price": 330000,
+    "location": "Türkan q.",
+    "rooms": "6 otaqlı",
+    "area_m2": "540 m²",
+    "lat": 40.35743815246333,
+    "lng": 50.19318135167401,
+    "has_repair": true,
+    "land_area_sot": 12,
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5835547",
+    "first_seen_at": "2026-09-30T09:35:25.275014+00:00",
+    "last_seen_at": "2026-09-30T09:35:25.275014+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 330000,
+        "date": "2026-09-30T09:35:25.275014+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6358288",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F08%2F11%2F59%2F28%2F299855c8-a46b-4e17-86ae-38464d9f44d8%2F88555_4dI6pNLSWMl5nOYzJLcuXw.jpg",
+    "price": 1480000,
+    "location": "Şüvəlan q.",
+    "rooms": "7 otaqlı",
+    "area_m2": "798 m²",
+    "lat": 40.50425150571584,
+    "lng": 50.19248274780641,
+    "has_repair": true,
+    "land_area_sot": 20,
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6358288",
+    "first_seen_at": "2026-09-30T09:35:25.318823+00:00",
+    "last_seen_at": "2026-09-30T09:35:25.318823+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1480000,
+        "date": "2026-09-30T09:35:25.318823+00:00"
+      }
+    ]
+  },
+  {
+    "id": "4832955",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2024%2F12%2F12%2F16%2F12%2F59%2F6df4ed3a-5085-4254-8e4a-6247ceb12862%2F67900_VsfyEqu9G0cxtdUTwCN1tQ.jpg",
+    "price": 750000,
+    "location": "Mərdəkan q.",
+    "rooms": "6 otaqlı",
+    "area_m2": "400 m²",
+    "lat": 40.50296994365496,
+    "lng": 50.18850375174953,
+    "has_repair": true,
+    "land_area_sot": 8,
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/4832955",
+    "first_seen_at": "2026-09-30T09:35:25.361639+00:00",
+    "last_seen_at": "2026-09-30T09:35:25.361639+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 750000,
+        "date": "2026-09-30T09:35:25.361639+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6484669",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F23%2F13%2F08%2F40%2F07697a2a-67d3-49ee-8cc9-e90155db9887%2F55595_qC4nmOsKxn44GadKa61Z8Q.jpg",
+    "price": 210000,
+    "location": "Binə q.",
+    "rooms": "5 otaqlı",
+    "area_m2": "140 m²",
+    "lat": 40.45683031932129,
+    "lng": 50.07940857523942,
+    "has_repair": true,
+    "land_area_sot": 2.5,
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6484669",
+    "first_seen_at": "2026-09-30T09:35:25.404810+00:00",
+    "last_seen_at": "2026-09-30T09:35:25.404810+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 210000,
+        "date": "2026-09-30T09:35:25.404810+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6476991",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F20%2F16%2F48%2F58%2Faeead3ed-96fe-4142-bdd4-97e63d1a151c%2F67747_coJTimjSgjd8AAAWsu-BqA.jpg",
+    "price": 1400000,
+    "location": "Azadlıq Prospekti m.",
+    "rooms": "9 otaqlı",
+    "area_m2": "600 m²",
+    "lat": 40.42546064292541,
+    "lng": 49.83558612438968,
+    "has_repair": true,
+    "land_area_sot": 10,
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6476991",
+    "first_seen_at": "2026-09-30T09:35:25.444149+00:00",
+    "last_seen_at": "2026-09-30T09:35:25.444149+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1400000,
+        "date": "2026-09-30T09:35:25.444149+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6465044",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F16%2F12%2F56%2F06%2Ffdf8bf89-bf1b-4c23-882e-e512a2108b73%2F63805_jOUJymb8Sx674lq1s-MKmQ.jpg",
+    "price": 120000,
+    "location": "Biləcəri q.",
+    "rooms": "4 otaqlı",
+    "area_m2": "100 m²",
+    "lat": 40.44277442327051,
+    "lng": 49.79895967291767,
+    "has_repair": true,
+    "land_area_sot": 2,
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6465044",
+    "first_seen_at": "2026-09-30T09:35:25.488953+00:00",
+    "last_seen_at": "2026-09-30T09:35:25.488953+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 120000,
+        "date": "2026-09-30T09:35:25.488953+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6393133",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F20%2F18%2F42%2F49%2Fdaa4a42c-f25a-4749-a692-31b37f02b52f%2F85433_MamPFeKgvX-emgoqSSZacA.jpg",
+    "price": 134000,
+    "location": "Şüvəlan q.",
+    "rooms": "3 otaqlı",
+    "area_m2": "80 m²",
+    "lat": 40.49159117427354,
+    "lng": 50.19466362013809,
+    "has_repair": true,
+    "land_area_sot": 2.3,
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6393133",
+    "first_seen_at": "2026-09-30T09:35:25.529219+00:00",
+    "last_seen_at": "2026-09-30T09:35:25.529219+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 134000,
+        "date": "2026-09-30T09:35:25.529219+00:00"
+      }
+    ]
+  },
+  {
+    "id": "4902839",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F23%2F23%2F57%2F13%2F49d48d85-9ae8-40cb-8ba6-49c7d763511b%2F91098_qz1xTrBOUnOYVm7twchdOQ.jpg",
+    "price": 195200,
+    "location": "M.Ə.Rəsulzadə q.",
+    "rooms": "3 otaqlı",
+    "area_m2": "135 m²",
+    "lat": 40.44368048926882,
+    "lng": 49.85346423897596,
+    "has_repair": true,
+    "land_area_sot": 5.5,
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/4902839",
+    "first_seen_at": "2026-09-30T09:35:25.569469+00:00",
+    "last_seen_at": "2026-09-30T09:35:25.569469+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 195200,
+        "date": "2026-09-30T09:35:25.569469+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6475886",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F20%2F10%2F31%2F52%2Fa57242c4-5bdf-4686-8032-1c02c2c82a99%2F22910_M99kQgbksdPZGbRBUcEixw.jpg",
+    "price": 107000,
+    "location": "Masazır q.",
+    "rooms": "4 otaqlı",
+    "area_m2": "130 m²",
+    "lat": 40.45321612645461,
+    "lng": 49.76602823815914,
+    "has_repair": true,
+    "land_area_sot": 1.2,
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6475886",
+    "first_seen_at": "2026-09-30T09:35:25.611096+00:00",
+    "last_seen_at": "2026-09-30T09:35:25.611096+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 107000,
+        "date": "2026-09-30T09:35:25.611096+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504402",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F13%2F31%2F01%2Fa23a38c2-fc0d-40b9-aba1-b16c958fe3b1%2F92031_iakNE3LHWp2E4yftfzAzxw.jpg",
+    "price": 148000,
+    "location": "Hövsan q.",
+    "rooms": "5 otaqlı",
+    "area_m2": "150 m²",
+    "lat": 40.36535336139422,
+    "lng": 50.07339079174798,
+    "has_repair": true,
+    "land_area_sot": 2.2,
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6504402",
+    "first_seen_at": "2026-09-30T09:35:25.654665+00:00",
+    "last_seen_at": "2026-09-30T09:35:25.654665+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 148000,
+        "date": "2026-09-30T09:35:25.654665+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6080553",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F04%2F27%2F16%2F55%2F22%2Fa96c50c6-298d-4a6d-ad6d-70ba3d36aac0%2F61333_5jqIl3kAWCZtO4nEtUd8uw.jpg",
+    "price": 855000,
+    "location": "Həzi Aslanov q.",
+    "rooms": "12 otaqlı",
+    "area_m2": "480 m²",
+    "lat": 40.38058782837116,
+    "lng": 49.92602287626074,
+    "has_repair": true,
+    "land_area_sot": 10,
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6080553",
+    "first_seen_at": "2026-09-30T09:35:25.693931+00:00",
+    "last_seen_at": "2026-09-30T09:35:25.693931+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 855000,
+        "date": "2026-09-30T09:35:25.693931+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6464305",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F16%2F09%2F51%2F30%2F09bfb545-0a2f-4012-9b4c-71a5663ac6ca%2F70897_VNUcaEfjDbJeNSlliiKslg.jpg",
+    "price": 850000,
+    "location": "Sea Breeze q.",
+    "rooms": "8 otaqlı",
+    "area_m2": "390 m²",
+    "lat": 40.58866106138284,
+    "lng": 49.96682331396484,
+    "has_repair": false,
+    "land_area_sot": 6,
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6464305",
+    "first_seen_at": "2026-09-30T09:32:03.955726+00:00",
+    "last_seen_at": "2026-09-30T09:35:25.735006+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 850000,
+        "date": "2026-09-30T09:32:03.955726+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6493609",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F26%2F13%2F11%2F52%2Fd4abf400-950a-46b0-9052-442c74fbd615%2F71642_yGEEd31Ku9K6fEJrjoj4jg.jpg",
+    "price": 250000,
+    "location": "Şüvəlan q.",
+    "rooms": "4 otaqlı",
+    "area_m2": "118 m²",
+    "lat": 40.48367710261697,
+    "lng": 50.20789380722812,
+    "has_repair": true,
+    "land_area_sot": 2,
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6493609",
+    "first_seen_at": "2026-09-30T09:32:04.257240+00:00",
+    "last_seen_at": "2026-09-30T09:35:25.775020+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 250000,
+        "date": "2026-09-30T09:32:04.257240+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5127924",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F04%2F15%2F19%2F54%2F46%2F7cc8f4f7-d541-4f7f-aaea-bdddcd88f4e9%2F43897_-Q4P3xohzGoNtBQd6dffGw.jpg",
+    "price": 495000,
+    "location": "Mərdəkan q.",
+    "rooms": "5 otaqlı",
+    "area_m2": "200 m²",
+    "lat": 40.50866056576773,
+    "lng": 50.13088184112547,
+    "has_repair": true,
+    "land_area_sot": 7,
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5127924",
+    "first_seen_at": "2026-09-30T09:32:04.295382+00:00",
+    "last_seen_at": "2026-09-30T09:35:25.815414+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 495000,
+        "date": "2026-09-30T09:32:04.295382+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6349454",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F05%2F11%2F33%2F37%2Fbd5096fc-f952-49e3-8618-063753ec62ff%2F22753_HA2BXKOKiSt5eYCo0nmiHg.jpg",
+    "price": 245000,
+    "location": "Mərdəkan q.",
+    "rooms": "4 otaqlı",
+    "area_m2": "160 m²",
+    "lat": 40.47380387895466,
+    "lng": 50.14511543029785,
+    "has_repair": true,
+    "land_area_sot": 4,
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6349454",
+    "first_seen_at": "2026-09-30T09:32:04.335474+00:00",
+    "last_seen_at": "2026-09-30T09:35:25.853991+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 245000,
+        "date": "2026-09-30T09:32:04.335474+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5171650",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F05%2F02%2F21%2F37%2F42%2F1245c15d-4571-46c0-8308-62d65c47ae68%2F43897_-Q4P3xohzGoNtBQd6dffGw.jpg",
+    "price": 280000,
+    "location": "Şağan q.",
+    "rooms": "4 otaqlı",
+    "area_m2": "150 m²",
+    "lat": 40.49129412324415,
+    "lng": 50.11511170044423,
+    "has_repair": true,
+    "land_area_sot": 3.5,
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5171650",
+    "first_seen_at": "2026-09-30T09:32:04.379541+00:00",
+    "last_seen_at": "2026-09-30T09:35:25.896473+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 280000,
+        "date": "2026-09-30T09:32:04.379541+00:00"
+      }
+    ]
+  },
+  {
+    "id": "4964066",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F02%2F06%2F13%2F55%2F07%2F90e8de3f-bd7e-4586-980e-b6222e0ddb7f%2F15183_32hW8Kd3m8Ala0OF6-yLoA.jpg",
+    "price": 450000,
+    "location": "Mərdəkan q.",
+    "rooms": "5 otaqlı",
+    "area_m2": "246 m²",
+    "lat": 40.47367329553431,
+    "lng": 50.14448600524901,
+    "has_repair": true,
+    "land_area_sot": 9,
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/4964066",
+    "first_seen_at": "2026-09-30T09:32:04.421558+00:00",
+    "last_seen_at": "2026-09-30T09:35:25.943336+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 450000,
+        "date": "2026-09-30T09:32:04.421558+00:00"
+      }
+    ]
+  },
+  {
+    "id": "2342534",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2022%2F04%2F08%2F15%2F19%2F38%2F88e32be7-45f6-4b83-9413-a95b6a73dff1%2F5747_sie7Gy93Tw3yrs94mu_ryg.jpg",
+    "price": 360000,
+    "location": "Şüvəlan q.",
+    "rooms": "",
+    "area_m2": "237 m²",
+    "lat": 40.50059945693225,
+    "lng": 50.17388962508543,
+    "has_repair": true,
+    "land_area_sot": 6.2,
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/2342534",
+    "first_seen_at": "2026-09-30T09:32:04.460774+00:00",
+    "last_seen_at": "2026-09-30T09:35:25.983410+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 360000,
+        "date": "2026-09-30T09:32:04.460774+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504361",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F13%2F22%2F05%2Fad462760-8e0b-4a4b-ad07-27070747857b%2F36602_AtwkXeo78vkucVG3Z2K6Pg.jpg",
+    "price": 59000,
+    "location": "Hövsan q.",
+    "rooms": "2 otaqlı",
+    "area_m2": "48 m²",
+    "lat": 40.36195263245578,
+    "lng": 50.08234579357909,
+    "has_repair": true,
+    "land_area_sot": 0.1,
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6504361",
+    "first_seen_at": "2026-09-30T09:32:04.500035+00:00",
+    "last_seen_at": "2026-09-30T09:35:26.032937+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 59000,
+        "date": "2026-09-30T09:32:04.500035+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6172913",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F31%2F14%2F33%2F32%2F55ed5b13-8c1c-4c2d-a4d7-dddf8612cbe1%2F57319_ixlrUddWM-UiWqfBY9BKCg.jpg",
+    "price": 520000,
+    "location": "Mərdəkan q.",
+    "rooms": "5 otaqlı",
+    "area_m2": "250 m²",
+    "lat": 40.51161875228544,
+    "lng": 50.13502625795628,
+    "has_repair": true,
+    "land_area_sot": 6,
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6172913",
+    "first_seen_at": "2026-09-30T09:32:04.540098+00:00",
+    "last_seen_at": "2026-09-30T09:35:26.080131+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 520000,
+        "date": "2026-09-30T09:32:04.540098+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6290443",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F14%2F13%2F13%2F20%2F1fd5fc45-91fd-418b-ac1d-858f8ba1926c%2F75199_oMWxVV4rUP0Ml02o_buVqQ.jpg",
+    "price": 4100000,
+    "location": "Bilgəh q.",
+    "rooms": "7 otaqlı",
+    "area_m2": "1000 m²",
+    "lat": 40.58137904369388,
+    "lng": 50.02367683765781,
+    "has_repair": true,
+    "land_area_sot": 27,
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6290443",
+    "first_seen_at": "2026-09-30T09:32:03.916294+00:00",
+    "last_seen_at": "2026-09-30T09:32:03.916294+00:00",
+    "deleted_at": "2026-09-30T09:35:26.080146+00:00",
+    "price_history": [
+      {
+        "price": 4100000,
+        "date": "2026-09-30T09:32:03.916294+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6476905",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F20%2F16%2F23%2F15%2F937ce20f-6549-4a41-a42f-834318fbb7be%2F68274_PSW0GUKDnWkB3ct9tLHdXA.jpg",
+    "price": 635000,
+    "location": "Mərdəkan q.",
+    "rooms": "5 otaqlı",
+    "area_m2": "350 m²",
+    "lat": 40.48022391726543,
+    "lng": 50.14734702819816,
+    "has_repair": true,
+    "land_area_sot": 13,
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6476905",
+    "first_seen_at": "2026-09-30T09:32:03.994963+00:00",
+    "last_seen_at": "2026-09-30T09:32:03.994963+00:00",
+    "deleted_at": "2026-09-30T09:35:26.080146+00:00",
+    "price_history": [
+      {
+        "price": 635000,
+        "date": "2026-09-30T09:32:03.994963+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6491255",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F25%2F15%2F16%2F31%2F533a8589-9344-4a6f-8163-6fa1698e698f%2F71683_ERD7hKhmnsCffHl6PjhH0g.jpg",
+    "price": 175000,
+    "location": "Binə q.",
+    "rooms": "4 otaqlı",
+    "area_m2": "160 m²",
+    "lat": 40.44759208513907,
+    "lng": 50.08930530586531,
+    "has_repair": true,
+    "land_area_sot": 1.6,
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6491255",
+    "first_seen_at": "2026-09-30T09:32:04.051836+00:00",
+    "last_seen_at": "2026-09-30T09:32:04.051836+00:00",
+    "deleted_at": "2026-09-30T09:35:26.080146+00:00",
+    "price_history": [
+      {
+        "price": 175000,
+        "date": "2026-09-30T09:32:04.051836+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6124574",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F12%2F19%2F24%2F29%2Fc98a5e09-9a78-4a01-8f33-6490367c20a4%2F46250_ux_-XHOX60OySSUkPr2Qlw.jpg",
+    "price": 169000,
+    "location": "Buzovna q.",
+    "rooms": "3 otaqlı",
+    "area_m2": "100 m²",
+    "lat": 40.51670665548561,
+    "lng": 50.05974512712645,
+    "has_repair": true,
+    "land_area_sot": 4.3,
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6124574",
+    "first_seen_at": "2026-09-30T09:32:04.095259+00:00",
+    "last_seen_at": "2026-09-30T09:32:04.095259+00:00",
+    "deleted_at": "2026-09-30T09:35:26.080146+00:00",
+    "price_history": [
+      {
+        "price": 169000,
+        "date": "2026-09-30T09:32:04.095259+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6182627",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F03%2F19%2F43%2F25%2F662c3d87-5b40-407d-a4c9-32281a568737%2F55105_nLHEAxWBSHPUcKkj4ypJUg.jpg",
+    "price": 370000,
+    "location": "Şüvəlan q.",
+    "rooms": "4 otaqlı",
+    "area_m2": "270 m²",
+    "lat": 40.48718716322431,
+    "lng": 50.19034748840328,
+    "has_repair": true,
+    "land_area_sot": 4,
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6182627",
+    "first_seen_at": "2026-09-30T09:32:04.135378+00:00",
+    "last_seen_at": "2026-09-30T09:32:04.135378+00:00",
+    "deleted_at": "2026-09-30T09:35:26.080146+00:00",
+    "price_history": [
+      {
+        "price": 370000,
+        "date": "2026-09-30T09:32:04.135378+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6019981",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F04%2F05%2F22%2F00%2F51%2Fa07bc9de-b6eb-4d81-8976-a397c12fe3cd%2F72948_8KRLoavLdAU0QEIlMuf9aQ.jpg",
+    "price": 250000,
+    "location": "Mərdəkan q.",
+    "rooms": "4 otaqlı",
+    "area_m2": "160 m²",
+    "lat": 40.46603372347843,
+    "lng": 50.09049850219725,
+    "has_repair": true,
+    "land_area_sot": 3,
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6019981",
+    "first_seen_at": "2026-09-30T09:32:04.175441+00:00",
+    "last_seen_at": "2026-09-30T09:32:04.175441+00:00",
+    "deleted_at": "2026-09-30T09:35:26.080146+00:00",
+    "price_history": [
+      {
+        "price": 250000,
+        "date": "2026-09-30T09:32:04.175441+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6257306",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F01%2F20%2F09%2F16%2F41b5aa4f-007d-4800-a877-6f293e668c41%2F68936_fsx0cqCfYMcwjy0IN5mqHA.jpg",
+    "price": 195000,
+    "location": "Zabrat q.",
+    "rooms": "4 otaqlı",
+    "area_m2": "150 m²",
+    "lat": 40.4999956366669,
+    "lng": 49.94986487709959,
+    "has_repair": true,
+    "land_area_sot": 6,
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6257306",
+    "first_seen_at": "2026-09-30T09:32:04.216315+00:00",
+    "last_seen_at": "2026-09-30T09:32:04.216315+00:00",
+    "deleted_at": "2026-09-30T09:35:26.080146+00:00",
+    "price_history": [
+      {
+        "price": 195000,
+        "date": "2026-09-30T09:32:04.216315+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6422608",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F01%2F02%2F11%2F56%2F50f3fc2f-1830-44b3-aa75-e118f6da3a7b%2F63816_v15Idy4aaD8pXFWY2TOoiA.jpg",
+    "price": 97500,
+    "location": "20-ci sahə q.",
+    "rooms": "3 otaqlı",
+    "area_m2": "91 m²",
+    "lat": 40.32547439775271,
+    "lng": 49.81616368372919,
+    "has_repair": true,
+    "land_area_sot": 1,
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6422608",
+    "first_seen_at": "2026-09-30T09:32:04.587198+00:00",
+    "last_seen_at": "2026-09-30T09:32:04.587198+00:00",
+    "deleted_at": "2026-09-30T09:35:26.080146+00:00",
+    "price_history": [
+      {
+        "price": 97500,
+        "date": "2026-09-30T09:32:04.587198+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504356",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F12%2F55%2F11%2F895e40c8-1480-4742-8ba3-8c16df8bf318%2F16172_tMV9K0wbpFSOY0tUoBdu0g.jpg",
+    "price": 950000,
+    "location": "Şüvəlan q.",
+    "rooms": "7 otaqlı",
+    "area_m2": "400 m²",
+    "lat": 40.49068138452842,
+    "lng": 50.21459594560169,
+    "has_repair": true,
+    "land_area_sot": 13,
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6504356",
+    "first_seen_at": "2026-09-30T09:32:04.626421+00:00",
+    "last_seen_at": "2026-09-30T09:32:04.626421+00:00",
+    "deleted_at": "2026-09-30T09:35:26.080146+00:00",
+    "price_history": [
+      {
+        "price": 950000,
+        "date": "2026-09-30T09:32:04.626421+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504345",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F13%2F21%2F08%2Fd2e58d0e-a50c-4f9b-8551-774f4ffbc9e3%2F16168_CdmNtQ8yX6Yt6GhZ2mAxzw.jpg",
+    "price": 165000,
+    "location": "Şüvəlan q.",
+    "rooms": "4 otaqlı",
+    "area_m2": "120 m²",
+    "lat": 40.48805753933276,
+    "lng": 50.20920162963866,
+    "has_repair": true,
+    "land_area_sot": 2.5,
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6504345",
+    "first_seen_at": "2026-09-30T09:32:04.724009+00:00",
+    "last_seen_at": "2026-09-30T09:32:04.724009+00:00",
+    "deleted_at": "2026-09-30T09:35:26.080146+00:00",
+    "price_history": [
+      {
+        "price": 165000,
+        "date": "2026-09-30T09:32:04.724009+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6445027",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F08%2F21%2F10%2F48%2F606d1857-5185-4db7-8435-bf1e76837208%2F63773_PxxKGxcC_orTGyx93bnm7Q.jpg",
+    "price": 158000,
+    "location": "Saray q.",
+    "rooms": "4 otaqlı",
+    "area_m2": "185 m²",
+    "lat": 40.54306926499437,
+    "lng": 49.70000161009651,
+    "has_repair": true,
+    "land_area_sot": 7,
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6445027",
+    "first_seen_at": "2026-09-30T09:32:04.767663+00:00",
+    "last_seen_at": "2026-09-30T09:32:04.767663+00:00",
+    "deleted_at": "2026-09-30T09:35:26.080146+00:00",
+    "price_history": [
+      {
+        "price": 158000,
+        "date": "2026-09-30T09:32:04.767663+00:00"
+      }
+    ]
+  }
+]

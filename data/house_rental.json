@@ -1,0 +1,698 @@
+[
+  {
+    "id": "4012813",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2023%2F12%2F27%2F20%2F35%2F36%2F6f7e8ef9-fd3b-4ecc-92a5-3c2275a034e5%2F88124_h9dRu5POvjGEwj3DAKKjZA.jpg",
+    "price": 200,
+    "location": "/gün",
+    "rooms": "5 otaqlı",
+    "area_m2": "400 m²",
+    "lat": 40.5156142,
+    "lng": 50.10132739999995,
+    "has_repair": true,
+    "land_area_sot": 10,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/4012813",
+    "first_seen_at": "2026-09-30T09:35:37.154668+00:00",
+    "last_seen_at": "2026-09-30T09:35:37.154668+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 200,
+        "date": "2026-09-30T09:35:37.154668+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5981079",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F03%2F21%2F12%2F24%2F19%2Fe032363d-dda9-4d36-acea-2984a3c81d78%2F42635_YkfAwRy4PFmrHefqQ3G7Lw.jpg",
+    "price": 2500,
+    "location": "/ay",
+    "rooms": "6 otaqlı",
+    "area_m2": "500 m²",
+    "lat": 40.579393913606,
+    "lng": 50.02858420869502,
+    "has_repair": true,
+    "land_area_sot": 25,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/5981079",
+    "first_seen_at": "2026-09-30T09:35:37.197404+00:00",
+    "last_seen_at": "2026-09-30T09:35:37.197404+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 2500,
+        "date": "2026-09-30T09:35:37.197404+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5354668",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F07%2F15%2F09%2F31%2F44%2Fee914d63-e092-4f32-b35f-5a10c0eb0770%2F66008_-f1hpkebL9FYqnHCOa3oWQ.jpg",
+    "price": 2000,
+    "location": "/ay",
+    "rooms": "4 otaqlı",
+    "area_m2": "250 m²",
+    "lat": 40.5019386816121,
+    "lng": 50.16053634399412,
+    "has_repair": true,
+    "land_area_sot": 8,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/5354668",
+    "first_seen_at": "2026-09-30T09:35:37.247290+00:00",
+    "last_seen_at": "2026-09-30T09:35:37.247290+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 2000,
+        "date": "2026-09-30T09:35:37.247290+00:00"
+      }
+    ]
+  },
+  {
+    "id": "4505524",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2024%2F07%2F26%2F19%2F10%2F59%2F270577d4-d8d1-43e0-aa24-d8549995df83%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+    "price": 150,
+    "location": "/gün",
+    "rooms": "5 otaqlı",
+    "area_m2": "290 m²",
+    "lat": 40.49618268561751,
+    "lng": 50.16508750657509,
+    "has_repair": true,
+    "land_area_sot": 8,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/4505524",
+    "first_seen_at": "2026-09-30T09:35:37.338855+00:00",
+    "last_seen_at": "2026-09-30T09:35:37.338855+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 150,
+        "date": "2026-09-30T09:35:37.338855+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5490506",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F09%2F07%2F00%2F01%2F37%2F91f36fef-bd1f-487b-8616-1af9b6f1951f%2F92313_wLbwyJGJi75X1LikQGRJwg.jpg",
+    "price": 200,
+    "location": "/gün",
+    "rooms": "4 otaqlı",
+    "area_m2": "320 m²",
+    "lat": 40.57180302109975,
+    "lng": 49.74973637933525,
+    "has_repair": true,
+    "land_area_sot": 9,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/5490506",
+    "first_seen_at": "2026-09-30T09:35:37.382797+00:00",
+    "last_seen_at": "2026-09-30T09:35:37.382797+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 200,
+        "date": "2026-09-30T09:35:37.382797+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6239567",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F25%2F12%2F21%2F41%2Fd90f76f9-a201-498e-b0e4-e1d3e939bf54%2F77737_f81Eut_jGwgeqGm3AGRzIQ.jpg",
+    "price": 1500,
+    "location": "/ay",
+    "rooms": "4 otaqlı",
+    "area_m2": "220 m²",
+    "lat": 40.50107214012564,
+    "lng": 50.17499289890717,
+    "has_repair": true,
+    "land_area_sot": 6,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6239567",
+    "first_seen_at": "2026-09-30T09:35:37.425428+00:00",
+    "last_seen_at": "2026-09-30T09:35:37.425428+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1500,
+        "date": "2026-09-30T09:35:37.425428+00:00"
+      }
+    ]
+  },
+  {
+    "id": "4749912",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2024%2F11%2F08%2F12%2F13%2F21%2Fd9c83855-f888-47c6-b2de-072f17d33ee2%2F67900_VsfyEqu9G0cxtdUTwCN1tQ.jpg",
+    "price": 1500,
+    "location": "/ay",
+    "rooms": "6 otaqlı",
+    "area_m2": "400 m²",
+    "lat": 40.49969579134586,
+    "lng": 50.20317381147596,
+    "has_repair": true,
+    "land_area_sot": 20,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/4749912",
+    "first_seen_at": "2026-09-30T09:35:37.467189+00:00",
+    "last_seen_at": "2026-09-30T09:35:37.467189+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1500,
+        "date": "2026-09-30T09:35:37.467189+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6120268",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F11%2F15%2F03%2F57%2F7ab195c9-87fa-48f3-97ae-6636f38aa5b4%2F78313_vhO4eRhrTNpL380qPG9Gbg.jpg",
+    "price": 200,
+    "location": "/gün",
+    "rooms": "1 otaqlı",
+    "area_m2": "57 m²",
+    "lat": 40.59093078153384,
+    "lng": 49.98291734355122,
+    "has_repair": true,
+    "land_area_sot": 1,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6120268",
+    "first_seen_at": "2026-09-30T09:35:37.507623+00:00",
+    "last_seen_at": "2026-09-30T09:35:37.507623+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 200,
+        "date": "2026-09-30T09:35:37.507623+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504398",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F13%2F31%2F06%2Fd1301d6a-e19e-4d50-b8ea-64d89f8342a8%2F16133_zM3317J1X2MnrNRl9ix0-w.jpg",
+    "price": 8000,
+    "location": "/ay",
+    "rooms": "5 otaqlı",
+    "area_m2": "300 m²",
+    "lat": 40.47360800372888,
+    "lng": 50.15469985717772,
+    "has_repair": true,
+    "land_area_sot": 3,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6504398",
+    "first_seen_at": "2026-09-30T09:35:37.550966+00:00",
+    "last_seen_at": "2026-09-30T09:35:37.550966+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 8000,
+        "date": "2026-09-30T09:35:37.550966+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6188511",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F05%2F21%2F34%2F58%2F7d34181e-3744-4cf5-bf08-3e633a833a27%2F30848_kTvylw20xUYDmkyQVotOXw.jpg",
+    "price": 2500,
+    "location": "/ay",
+    "rooms": "3 otaqlı",
+    "area_m2": "240 m²",
+    "lat": 40.57210146406278,
+    "lng": 50.04214739095593,
+    "has_repair": true,
+    "land_area_sot": 10,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6188511",
+    "first_seen_at": "2026-09-30T09:32:16.181401+00:00",
+    "last_seen_at": "2026-09-30T09:35:37.589685+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 2500,
+        "date": "2026-09-30T09:32:16.181401+00:00"
+      }
+    ]
+  },
+  {
+    "id": "4608738",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2024%2F09%2F09%2F09%2F16%2F32%2F491843ae-8ea8-4272-ab14-5d8d6e67881a%2F76402_Kt6M8xdUQ8mUvNPSzi54jw.jpg",
+    "price": 2500,
+    "location": "/ay",
+    "rooms": "4 otaqlı",
+    "area_m2": "250 m²",
+    "lat": 40.58229020897569,
+    "lng": 50.04028823005726,
+    "has_repair": true,
+    "land_area_sot": 10,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/4608738",
+    "first_seen_at": "2026-09-30T09:32:16.320583+00:00",
+    "last_seen_at": "2026-09-30T09:35:37.630621+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 2500,
+        "date": "2026-09-30T09:32:16.320583+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6435014",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F05%2F11%2F23%2F13%2Fef8df8d9-10ce-4cd3-8e7b-817ca3c28e96%2F72313_8BdV1an0cwIZfSYt88UNGw.jpg",
+    "price": 150,
+    "location": "/gün",
+    "rooms": "4 otaqlı",
+    "area_m2": "160 m²",
+    "lat": 40.497,
+    "lng": 50.208,
+    "has_repair": true,
+    "land_area_sot": 4,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6435014",
+    "first_seen_at": "2026-09-30T09:32:16.359213+00:00",
+    "last_seen_at": "2026-09-30T09:35:37.672473+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 150,
+        "date": "2026-09-30T09:32:16.359213+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6282180",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F11%2F00%2F34%2F06%2F6277fa96-d536-4794-9e30-2e95f57b13f9%2F93046_5m8oCql-U-yidJR09Jzk_g.jpg",
+    "price": 130,
+    "location": "/gün",
+    "rooms": "4 otaqlı",
+    "area_m2": "150 m²",
+    "lat": 40.47857,
+    "lng": 50.150065,
+    "has_repair": true,
+    "land_area_sot": 4,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6282180",
+    "first_seen_at": "2026-09-30T09:32:16.397088+00:00",
+    "last_seen_at": "2026-09-30T09:35:37.717057+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 130,
+        "date": "2026-09-30T09:32:16.397088+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6174098",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F01%2F13%2F25%2F09%2F30efd869-2b71-40f2-9100-d066511df971%2F63792_o5eEUIYW7jZ858TYACbHbg.jpg",
+    "price": 40,
+    "location": "/gün",
+    "rooms": "4 otaqlı",
+    "area_m2": "96 m²",
+    "lat": 40.5408222954881,
+    "lng": 49.78129819521482,
+    "has_repair": true,
+    "land_area_sot": 3,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6174098",
+    "first_seen_at": "2026-09-30T09:32:16.436545+00:00",
+    "last_seen_at": "2026-09-30T09:35:37.759141+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 40,
+        "date": "2026-09-30T09:32:16.436545+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6349485",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F05%2F11%2F39%2F44%2Fac717450-dfff-400d-a3e8-8f0abf96a681%2F26111_Px7DYdDEPJxnlfvqi8HOUg.jpg",
+    "price": 600,
+    "location": "/ay",
+    "rooms": "1 otaqlı",
+    "area_m2": "55 m²",
+    "lat": 40.59108857738191,
+    "lng": 49.98358471267039,
+    "has_repair": true,
+    "land_area_sot": 1,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6349485",
+    "first_seen_at": "2026-09-30T09:32:16.475587+00:00",
+    "last_seen_at": "2026-09-30T09:35:37.804136+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 600,
+        "date": "2026-09-30T09:32:16.475587+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6392381",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F20%2F15%2F42%2F40%2F2de0d9e8-bc10-4985-847f-f4687711c253%2F85420_1KOJUSE9IH6dPkfwLDFGgw.jpg",
+    "price": 250,
+    "location": "/gün",
+    "rooms": "5 otaqlı",
+    "area_m2": "360 m²",
+    "lat": 40.50796456813232,
+    "lng": 50.12842328086606,
+    "has_repair": true,
+    "land_area_sot": 9,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6392381",
+    "first_seen_at": "2026-09-30T09:32:16.522001+00:00",
+    "last_seen_at": "2026-09-30T09:35:37.844171+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 250,
+        "date": "2026-09-30T09:32:16.522001+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6497181",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F27%2F23%2F12%2F56%2F22dcf2bd-a9ec-45b0-b732-e9db8b7a69af%2F76352_vnx41AOjuVDTOm2zXvkbZw.jpg",
+    "price": 1000,
+    "location": "/ay",
+    "rooms": "4 otaqlı",
+    "area_m2": "250 m²",
+    "lat": 40.504483940296,
+    "lng": 50.15707450622564,
+    "has_repair": true,
+    "land_area_sot": 6,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6497181",
+    "first_seen_at": "2026-09-30T09:32:16.561047+00:00",
+    "last_seen_at": "2026-09-30T09:35:37.887152+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1000,
+        "date": "2026-09-30T09:32:16.561047+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6497187",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F27%2F23%2F15%2F06%2Fe8daee20-b1d2-4e7a-b12e-43d1abbf0b77%2F71656_iMqcRFqLU7tb3te2MBoHPg.jpg",
+    "price": 1200,
+    "location": "/ay",
+    "rooms": "5 otaqlı",
+    "area_m2": "300 m²",
+    "lat": 40.50763818669899,
+    "lng": 50.15716033691415,
+    "has_repair": true,
+    "land_area_sot": 8,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6497187",
+    "first_seen_at": "2026-09-30T09:32:16.602529+00:00",
+    "last_seen_at": "2026-09-30T09:35:37.932959+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1200,
+        "date": "2026-09-30T09:32:16.602529+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6497201",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F27%2F23%2F24%2F57%2Fe0f0391e-fb61-4fc2-b18c-7654f3eb6d7b%2F64935_q0LymlIPSnobaSwyUJwPqg.jpg",
+    "price": 1000,
+    "location": "/ay",
+    "rooms": "5 otaqlı",
+    "area_m2": "300 m²",
+    "lat": 40.50550636744769,
+    "lng": 50.16313987487797,
+    "has_repair": true,
+    "land_area_sot": 8,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6497201",
+    "first_seen_at": "2026-09-30T09:32:16.640757+00:00",
+    "last_seen_at": "2026-09-30T09:35:37.975789+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1000,
+        "date": "2026-09-30T09:32:16.640757+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6497179",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F27%2F23%2F10%2F47%2F98bb8e05-32aa-4adb-86fa-6e170c277996%2F94003_YqHnC-Thzrw2-uGqS_5TmA.jpg",
+    "price": 1500,
+    "location": "/ay",
+    "rooms": "5 otaqlı",
+    "area_m2": "400 m²",
+    "lat": 40.50546286022681,
+    "lng": 50.17329650634759,
+    "has_repair": true,
+    "land_area_sot": 12,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6497179",
+    "first_seen_at": "2026-09-30T09:32:16.681306+00:00",
+    "last_seen_at": "2026-09-30T09:35:38.018650+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1500,
+        "date": "2026-09-30T09:32:16.681306+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5834594",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F01%2F25%2F15%2F41%2F02%2F1d8acdd4-ecbc-4fa4-b36b-600cbb0c66a2%2F43416_jUU0DG-TPwrGzXiSAl0KMA.jpg",
+    "price": 150,
+    "location": "/gün",
+    "rooms": "4 otaqlı",
+    "area_m2": "280 m²",
+    "lat": 40.50410204220679,
+    "lng": 50.16333399863763,
+    "has_repair": true,
+    "land_area_sot": 7,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/5834594",
+    "first_seen_at": "2026-09-30T09:32:15.975645+00:00",
+    "last_seen_at": "2026-09-30T09:32:15.975645+00:00",
+    "deleted_at": "2026-09-30T09:35:38.018666+00:00",
+    "price_history": [
+      {
+        "price": 150,
+        "date": "2026-09-30T09:32:15.975645+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6061601",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F04%2F20%2F18%2F50%2F34%2Faef0b1bd-b7e5-403c-b8c3-c455be2c861a%2F40055_KtcElmgZSY8ol8detrZc0A.jpg",
+    "price": 1200,
+    "location": "/ay",
+    "rooms": "4 otaqlı",
+    "area_m2": "250 m²",
+    "lat": 40.50302265719675,
+    "lng": 50.17625457835297,
+    "has_repair": null,
+    "land_area_sot": 7,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6061601",
+    "first_seen_at": "2026-09-30T09:32:16.013881+00:00",
+    "last_seen_at": "2026-09-30T09:32:16.013881+00:00",
+    "deleted_at": "2026-09-30T09:35:38.018666+00:00",
+    "price_history": [
+      {
+        "price": 1200,
+        "date": "2026-09-30T09:32:16.013881+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5240626",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F05%2F29%2F12%2F35%2F06%2F7c3ef50e-423e-4250-84bf-a899a2b7a369%2F66008_-f1hpkebL9FYqnHCOa3oWQ.jpg",
+    "price": 1200,
+    "location": "/ay",
+    "rooms": "4 otaqlı",
+    "area_m2": "200 m²",
+    "lat": 40.47857,
+    "lng": 50.150065,
+    "has_repair": true,
+    "land_area_sot": 7,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/5240626",
+    "first_seen_at": "2026-09-30T09:32:16.055325+00:00",
+    "last_seen_at": "2026-09-30T09:32:16.055325+00:00",
+    "deleted_at": "2026-09-30T09:35:38.018666+00:00",
+    "price_history": [
+      {
+        "price": 1200,
+        "date": "2026-09-30T09:32:16.055325+00:00"
+      }
+    ]
+  },
+  {
+    "id": "4268168",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2024%2F09%2F10%2F22%2F43%2F45%2F58290fe1-b330-4607-a8cb-19233febdf94%2F26954_DWgEQQqRrb1W5yDQKFgsVA.jpg",
+    "price": 150,
+    "location": "/gün",
+    "rooms": "5 otaqlı",
+    "area_m2": "300 m²",
+    "lat": 40.4805938668667,
+    "lng": 50.14624553436278,
+    "has_repair": true,
+    "land_area_sot": 12,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/4268168",
+    "first_seen_at": "2026-09-30T09:32:16.096898+00:00",
+    "last_seen_at": "2026-09-30T09:32:16.096898+00:00",
+    "deleted_at": "2026-09-30T09:35:38.018666+00:00",
+    "price_history": [
+      {
+        "price": 150,
+        "date": "2026-09-30T09:32:16.096898+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5838351",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F07%2F10%2F47%2F16%2F3a1525f4-7ccf-4dd2-9664-732fc1946e28%2F88513_nJTbWFnvXzH3uqvuWEOhvQ.jpg",
+    "price": 3000,
+    "location": "/ay",
+    "rooms": "9 otaqlı",
+    "area_m2": "400 m²",
+    "lat": 40.34944018856326,
+    "lng": 49.80561221427905,
+    "has_repair": true,
+    "land_area_sot": 4.5,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/5838351",
+    "first_seen_at": "2026-09-30T09:32:16.136148+00:00",
+    "last_seen_at": "2026-09-30T09:32:16.136148+00:00",
+    "deleted_at": "2026-09-30T09:35:38.018666+00:00",
+    "price_history": [
+      {
+        "price": 3000,
+        "date": "2026-09-30T09:32:16.136148+00:00"
+      }
+    ]
+  },
+  {
+    "id": "3515902",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2023%2F05%2F25%2F17%2F19%2F13%2F330d88f8-5d31-40a6-84e4-350461b0b09e%2F52840_P3qM4xmIYXy2A3ocjcZXTg.jpg",
+    "price": 150,
+    "location": "/gün",
+    "rooms": "4 otaqlı",
+    "area_m2": "320 m²",
+    "lat": 40.57419579029404,
+    "lng": 49.98848501090622,
+    "has_repair": true,
+    "land_area_sot": 14,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/3515902",
+    "first_seen_at": "2026-09-30T09:32:16.221242+00:00",
+    "last_seen_at": "2026-09-30T09:32:16.221242+00:00",
+    "deleted_at": "2026-09-30T09:35:38.018666+00:00",
+    "price_history": [
+      {
+        "price": 150,
+        "date": "2026-09-30T09:32:16.221242+00:00"
+      }
+    ]
+  },
+  {
+    "id": "4707659",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2024%2F10%2F21%2F03%2F14%2F13%2Fafca8f8e-01a0-401c-ab7f-175c2970b118%2F11375_qXr7-N1ppBcS2a5TEaxWRQ.jpg",
+    "price": 170,
+    "location": "/gün",
+    "rooms": "5 otaqlı",
+    "area_m2": "280 m²",
+    "lat": 40.47426091892619,
+    "lng": 50.14019447082518,
+    "has_repair": true,
+    "land_area_sot": 12,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/4707659",
+    "first_seen_at": "2026-09-30T09:32:16.280748+00:00",
+    "last_seen_at": "2026-09-30T09:32:16.280748+00:00",
+    "deleted_at": "2026-09-30T09:35:38.018666+00:00",
+    "price_history": [
+      {
+        "price": 170,
+        "date": "2026-09-30T09:32:16.280748+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6497199",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F27%2F23%2F23%2F21%2Fa124dcff-5c3f-4b76-a77f-be856b513764%2F94003_YS5pPQhSP0TMy0SZrNGRDw.jpg",
+    "price": 1000,
+    "location": "/ay",
+    "rooms": "4 otaqlı",
+    "area_m2": "250 m²",
+    "lat": 40.50350500607798,
+    "lng": 50.15893417114258,
+    "has_repair": true,
+    "land_area_sot": 8,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6497199",
+    "first_seen_at": "2026-09-30T09:32:16.723249+00:00",
+    "last_seen_at": "2026-09-30T09:32:16.723249+00:00",
+    "deleted_at": "2026-09-30T09:35:38.018666+00:00",
+    "price_history": [
+      {
+        "price": 1000,
+        "date": "2026-09-30T09:32:16.723249+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504249",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F13%2F03%2F31%2Ffd7e7784-b385-40df-bd0f-39bb5686cc7a%2F63840_ny5bLSrhaiVy4Px7dMW1Vg.jpg",
+    "price": 800,
+    "location": "/ay",
+    "rooms": "2 otaqlı",
+    "area_m2": "90 m²",
+    "lat": 40.37505487643807,
+    "lng": 49.81513347094726,
+    "has_repair": true,
+    "land_area_sot": 1,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6504249",
+    "first_seen_at": "2026-09-30T09:32:16.765067+00:00",
+    "last_seen_at": "2026-09-30T09:32:16.765067+00:00",
+    "deleted_at": "2026-09-30T09:35:38.018666+00:00",
+    "price_history": [
+      {
+        "price": 800,
+        "date": "2026-09-30T09:32:16.765067+00:00"
+      }
+    ]
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "id": "6379169",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F08%2F11%2F30%2F56%2Fe046fe39-9ead-4f94-8db2-e52fdfec7880%2F50445_QYTgFJU8bsV96lRChIlrtA.jpg",
+    "price": 900,
+    "location": "/ay",
+    "area_m2": "75 m²",
+    "lat": 40.41015713738118,
+    "lng": 49.94524209218751,
+    "has_repair": true,
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6379169",
+    "first_seen_at": "2026-09-30T09:36:12.887941+00:00",
+    "last_seen_at": "2026-09-30T09:36:12.887941+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 900,
+        "date": "2026-09-30T09:36:12.887941+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5957587",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F03%2F11%2F13%2F27%2F34%2F68f8090d-f63d-4d8d-8fed-e794c7b9c9fa%2F91803_tBTUXvZGx5zXJ7HLqo-mqA.jpg",
+    "price": 10800,
+    "location": "/ay",
+    "area_m2": "270 m²",
+    "lat": 40.3813596,
+    "lng": 49.8843435,
+    "has_repair": false,
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/5957587",
+    "first_seen_at": "2026-09-30T09:36:12.930148+00:00",
+    "last_seen_at": "2026-09-30T09:36:12.930148+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 10800,
+        "date": "2026-09-30T09:36:12.930148+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6465784",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F16%2F15%2F38%2F33%2F918c76dd-0d06-4fdf-93d4-0511ec9d3176%2F71607_U6hAERFhK9KLEVQZHh0c3Q.jpg",
+    "price": 5500,
+    "location": "/ay",
+    "area_m2": "600 m²",
+    "lat": 40.37721557050639,
+    "lng": 49.84666593282941,
+    "has_repair": true,
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6465784",
+    "first_seen_at": "2026-09-30T09:36:12.974062+00:00",
+    "last_seen_at": "2026-09-30T09:36:12.974062+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 5500,
+        "date": "2026-09-30T09:36:12.974062+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5957871",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F03%2F11%2F14%2F42%2F18%2F13136dac-31ce-4104-baac-97d6ef900063%2F91818_NwsXqOkkKifaAKd2ee9TrQ.jpg",
+    "price": 7600,
+    "location": "/ay",
+    "area_m2": "250 m²",
+    "lat": 40.3813596,
+    "lng": 49.8843435,
+    "has_repair": false,
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/5957871",
+    "first_seen_at": "2026-09-30T09:36:13.015538+00:00",
+    "last_seen_at": "2026-09-30T09:36:13.015538+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 7600,
+        "date": "2026-09-30T09:36:13.015538+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6485201",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F23%2F14%2F45%2F19%2F442e8db1-d6e2-46e2-875c-f26027484009%2F63782_41mXABVpusYMYUMDpn2-RA.jpg",
+    "price": 500,
+    "location": "/ay",
+    "area_m2": "20 m²",
+    "lat": 40.38455717867544,
+    "lng": 49.83157805594446,
+    "has_repair": true,
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6485201",
+    "first_seen_at": "2026-09-30T09:36:13.055749+00:00",
+    "last_seen_at": "2026-09-30T09:36:13.055749+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 500,
+        "date": "2026-09-30T09:36:13.055749+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6481757",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F13%2F28%2F54%2F35ab7455-770e-43b1-8039-3a9082689fd1%2F90613_qTsObrZoMVFQcIdqqCdSwA.jpg",
+    "price": 500,
+    "location": "/ay",
+    "area_m2": "18 m²",
+    "lat": 40.36998250329903,
+    "lng": 49.80633870573265,
+    "has_repair": true,
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6481757",
+    "first_seen_at": "2026-09-30T09:36:13.097539+00:00",
+    "last_seen_at": "2026-09-30T09:36:13.097539+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 500,
+        "date": "2026-09-30T09:36:13.097539+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6434165",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F04%2F18%2F55%2F43%2Fdd18dfb0-3575-463b-9b8f-a6afa29c272e%2F25150_imdJolQrOFcrjrT6FSc8GQ.jpg",
+    "price": 2800,
+    "location": "/ay",
+    "area_m2": "80 m²",
+    "lat": 40.39372047347402,
+    "lng": 49.79507696840025,
+    "has_repair": true,
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6434165",
+    "first_seen_at": "2026-09-30T09:36:13.134800+00:00",
+    "last_seen_at": "2026-09-30T09:36:13.134800+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 2800,
+        "date": "2026-09-30T09:36:13.134800+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6433291",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F04%2F15%2F27%2F38%2F1d98cccf-9c33-43ec-abd7-f4f2c743e440%2F72341_HqwA644xxiKwLSAH9SquZA.jpg",
+    "price": 4500,
+    "location": "/ay",
+    "area_m2": "650 m²",
+    "lat": 40.38956988166236,
+    "lng": 49.89823819393413,
+    "has_repair": true,
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6433291",
+    "first_seen_at": "2026-09-30T09:36:13.173272+00:00",
+    "last_seen_at": "2026-09-30T09:36:13.173272+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 4500,
+        "date": "2026-09-30T09:36:13.173272+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504408",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F13%2F28%2F02%2F0a4b8393-62e2-4d09-aca3-4bcc9f06644a%2F93924_tdvqcq-4USTPan7hQyx0LQ.jpg",
+    "price": 3650,
+    "location": "/ay",
+    "area_m2": "80 m²",
+    "lat": 40.37132513381169,
+    "lng": 49.8455427958119,
+    "has_repair": true,
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6504408",
+    "first_seen_at": "2026-09-30T09:36:13.213156+00:00",
+    "last_seen_at": "2026-09-30T09:36:13.213156+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 3650,
+        "date": "2026-09-30T09:36:13.213156+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504382",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F13%2F27%2F54%2F10720749-9c6a-44e9-8f85-050aa3970342%2F75526_tH6p22jdlaotue1MWT-wDA.jpg",
+    "price": 2200,
+    "location": "/ay",
+    "area_m2": "175 m²",
+    "lat": 40.38363092134561,
+    "lng": 49.84665828320315,
+    "has_repair": true,
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6504382",
+    "first_seen_at": "2026-09-30T09:36:13.251342+00:00",
+    "last_seen_at": "2026-09-30T09:36:13.251342+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 2200,
+        "date": "2026-09-30T09:36:13.251342+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6344991",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F03%2F16%2F42%2F46%2F86764970-6652-49e0-893b-59d30b67e87e%2F21238_KmlpcCGM1yFRxEQ8krfMig.jpg",
+    "price": 1000,
+    "location": "/ay",
+    "area_m2": "55 m²",
+    "lat": 40.37969178661319,
+    "lng": 49.82998217612469,
+    "has_repair": true,
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6344991",
+    "first_seen_at": "2026-09-30T09:36:13.291975+00:00",
+    "last_seen_at": "2026-09-30T09:36:13.291975+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1000,
+        "date": "2026-09-30T09:36:13.291975+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504363",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F13%2F24%2F36%2F40ecd7e6-912c-4b53-9545-2e6401b95a4e%2F69949_4hrdrjFKXrKFvjCGDgHKdw.jpg",
+    "price": 2000,
+    "location": "/ay",
+    "area_m2": "135 m²",
+    "lat": 40.39558292080408,
+    "lng": 49.86279797036126,
+    "has_repair": true,
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6504363",
+    "first_seen_at": "2026-09-30T09:36:13.334416+00:00",
+    "last_seen_at": "2026-09-30T09:36:13.334416+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 2000,
+        "date": "2026-09-30T09:36:13.334416+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6207111",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F12%2F19%2F01%2F00%2F545ad21d-cbec-4052-a39a-c59087e84a8f%2F60937_8DR4aL38JkfvSvHpjYh7GQ.jpg",
+    "price": 2200,
+    "location": "/ay",
+    "area_m2": "184 m²",
+    "lat": 40.36807006794007,
+    "lng": 49.95543141583562,
+    "has_repair": true,
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6207111",
+    "first_seen_at": "2026-09-30T09:36:13.377200+00:00",
+    "last_seen_at": "2026-09-30T09:36:13.377200+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 2200,
+        "date": "2026-09-30T09:36:13.377200+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504347",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F13%2F20%2F31%2F59809839-5c90-4f03-8be8-5182d7d99934%2F76697_NbM_fjdcUuDGo7Ct8mS7Sg.jpg",
+    "price": 7000,
+    "location": "/ay",
+    "area_m2": "264 m²",
+    "lat": 40.38194803049608,
+    "lng": 49.88451516137694,
+    "has_repair": true,
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6504347",
+    "first_seen_at": "2026-09-30T09:36:13.419143+00:00",
+    "last_seen_at": "2026-09-30T09:36:13.419143+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 7000,
+        "date": "2026-09-30T09:36:13.419143+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504337",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F13%2F17%2F09%2Fa12245fa-2e63-4ae6-91c0-73479edf5532%2F60210_g9x7Lq0tsh_Gn8lz3vpvMw.jpg",
+    "price": 13000,
+    "location": "/ay",
+    "area_m2": "920 m²",
+    "lat": 40.48765796158071,
+    "lng": 50.13325935562798,
+    "has_repair": true,
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6504337",
+    "first_seen_at": "2026-09-30T09:36:13.462403+00:00",
+    "last_seen_at": "2026-09-30T09:36:13.462403+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 13000,
+        "date": "2026-09-30T09:36:13.462403+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6246587",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F27%2F18%2F21%2F53%2F815d49fb-1e82-42c8-9ba8-28cdd54c9a3f%2F45341_P6tsdMQ66jxY3mfo_PNE5g.jpg",
+    "price": 1200,
+    "location": "/ay",
+    "area_m2": "130 m²",
+    "lat": 40.4237184967665,
+    "lng": 49.96828031682252,
+    "has_repair": true,
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6246587",
+    "first_seen_at": "2026-09-30T09:36:13.501663+00:00",
+    "last_seen_at": "2026-09-30T09:36:13.501663+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1200,
+        "date": "2026-09-30T09:36:13.501663+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6454889",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F18%2F23%2F31%2F06%2F77070a37-4571-435f-be5c-cdd4697a6050%2F66258_rIy7ieDmZg9VSMcQBTe0tg.jpg",
+    "price": 1550,
+    "location": "/ay",
+    "area_m2": "64 m²",
+    "lat": 40.37667552589275,
+    "lng": 49.83153295113366,
+    "has_repair": true,
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6454889",
+    "first_seen_at": "2026-09-30T09:36:13.542870+00:00",
+    "last_seen_at": "2026-09-30T09:36:13.542870+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1550,
+        "date": "2026-09-30T09:36:13.542870+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6355164",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F07%2F11%2F00%2F01%2Ff7a4eccf-0aeb-4cc0-90d3-63a5489e2ab6%2F88511_fXr_QaV4EH1M5J4gtpjibA.jpg",
+    "price": 6000,
+    "location": "/ay",
+    "area_m2": "200 m²",
+    "lat": 40.38524968405711,
+    "lng": 49.88131796823119,
+    "has_repair": true,
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6355164",
+    "first_seen_at": "2026-09-30T09:36:13.584726+00:00",
+    "last_seen_at": "2026-09-30T09:36:13.584726+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 6000,
+        "date": "2026-09-30T09:36:13.584726+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6252748",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F16%2F23%2F22%2F26%2F0689e0f9-f969-4ef9-9a90-f962fd6f1877%2F71408_I_faaQAVNYEMhAFER-5h3g.jpg",
+    "price": 8000,
+    "location": "/ay",
+    "area_m2": "330 m²",
+    "lat": 40.39759277710297,
+    "lng": 49.83605145951767,
+    "has_repair": true,
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6252748",
+    "first_seen_at": "2026-09-30T09:36:13.624818+00:00",
+    "last_seen_at": "2026-09-30T09:36:13.624818+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 8000,
+        "date": "2026-09-30T09:36:13.624818+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6467455",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F29%2F13%2F11%2F58%2F58b6b080-c2dc-40e5-bbc9-3184a1733cde%2F28171_sB0v6D4sK9t-cDT8CEzYUA.jpg",
+    "price": 1199,
+    "location": "/ay",
+    "area_m2": "110 m²",
+    "lat": 40.37412703677374,
+    "lng": 49.84649644909668,
+    "has_repair": true,
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6467455",
+    "first_seen_at": "2026-09-30T09:36:13.667992+00:00",
+    "last_seen_at": "2026-09-30T09:36:13.667992+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1199,
+        "date": "2026-09-30T09:36:13.667992+00:00"
+      }
+    ]
+  }
+]

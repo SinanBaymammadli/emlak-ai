@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "6490030",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F28%2F10%2F40%2F33%2F21886ff4-8429-4986-be57-7bc6c57fb525%2F54577_7VdMBWKbi_6Qo6CWgRfAfQ.jpg",
+    "price": 220000,
+    "location": "Əhmədli m.",
+    "rooms": "2 otaqlı",
+    "area_m2": "82 m²",
+    "lat": 40.37950361134584,
+    "lng": 49.95838002958499,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6490030",
+    "first_seen_at": "2026-09-30T09:34:56.395608+00:00",
+    "last_seen_at": "2026-09-30T09:34:56.395608+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 220000,
+        "date": "2026-09-30T09:34:56.395608+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6341861",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F02%2F15%2F23%2F20%2F0ce123b0-3dd1-4aa8-b5de-99199df667b4%2F64516_v5QyxLECxqnrTNFTIhCZQA.jpg",
+    "price": 128000,
+    "location": "Bakıxanov q.",
+    "rooms": "2 otaqlı",
+    "area_m2": "60 m²",
+    "lat": 40.42054438331242,
+    "lng": 49.97090103028429,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6341861",
+    "first_seen_at": "2026-09-30T09:34:56.436325+00:00",
+    "last_seen_at": "2026-09-30T09:34:56.436325+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 128000,
+        "date": "2026-09-30T09:34:56.436325+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6307152",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F20%2F17%2F12%2F34%2Ff8d8e653-d783-46a0-8324-50ca9b28762f%2F55360_tEZDd7-cgK-1s56XVjRZzw.jpg",
+    "price": 435000,
+    "location": "Şah İsmayıl Xətai m.",
+    "rooms": "3 otaqlı",
+    "area_m2": "115 m²",
+    "lat": 40.38511140439329,
+    "lng": 49.87567888317871,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6307152",
+    "first_seen_at": "2026-09-30T09:34:56.478749+00:00",
+    "last_seen_at": "2026-09-30T09:34:56.478749+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 435000,
+        "date": "2026-09-30T09:34:56.478749+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6443448",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F10%2F46%2F55%2F6d764e3e-c971-4672-b0db-e81d2e5d43c5%2F90553_xQUlwXL0IuSgXC42Eb5G-A.jpg",
+    "price": 255000,
+    "location": "Yasamal r.",
+    "rooms": "3 otaqlı",
+    "area_m2": "80 m²",
+    "lat": 40.39220951732532,
+    "lng": 49.82155478745838,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6443448",
+    "first_seen_at": "2026-09-30T09:34:56.518648+00:00",
+    "last_seen_at": "2026-09-30T09:34:56.518648+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 255000,
+        "date": "2026-09-30T09:34:56.518648+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6483076",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F18%2F27%2F03%2F6532a20b-f91d-42f1-91a1-1bdc6c1d5b20%2F68274_FxSLWevK3K0OQtwNPOraAw.jpg",
+    "price": 260000,
+    "location": "Qara Qarayev m.",
+    "rooms": "2 otaqlı",
+    "area_m2": "95 m²",
+    "lat": 40.41661865393308,
+    "lng": 49.92801158147584,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6483076",
+    "first_seen_at": "2026-09-30T09:34:56.564477+00:00",
+    "last_seen_at": "2026-09-30T09:34:56.564477+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 260000,
+        "date": "2026-09-30T09:34:56.564477+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6181912",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F03%2F16%2F47%2F26%2Feeddb375-187f-421b-9768-54bafbc5552d%2F55164_ujwulaUuTA5Ojz5FPD8RLg.jpg",
+    "price": 532840,
+    "location": "Koroğlu m.",
+    "rooms": "4 otaqlı",
+    "area_m2": "190.3 m²",
+    "lat": 40.42145211983612,
+    "lng": 49.915180490719,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6181912",
+    "first_seen_at": "2026-09-30T09:34:56.604167+00:00",
+    "last_seen_at": "2026-09-30T09:34:56.604167+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 532840,
+        "date": "2026-09-30T09:34:56.604167+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6216169",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F22%2F12%2F15%2F43%2F76034266-156d-45df-895a-0c0f3a243606%2F29624_HP4YSzHpEo3yNwJsqHfmhg.jpg",
+    "price": 395000,
+    "location": "Gənclik m.",
+    "rooms": "2 otaqlı",
+    "area_m2": "98 m²",
+    "lat": 40.40022243031112,
+    "lng": 49.85825887506132,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6216169",
+    "first_seen_at": "2026-09-30T09:34:56.646730+00:00",
+    "last_seen_at": "2026-09-30T09:34:56.646730+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 395000,
+        "date": "2026-09-30T09:34:56.646730+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6494996",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F26%2F19%2F56%2F33%2F1ea2cc91-ae56-4916-888f-bdbfb4e74587%2F71663_4ydZRGukbKIq-BjzCnOIBQ.jpg",
+    "price": 465000,
+    "location": "Ağ şəhər q.",
+    "rooms": "3 otaqlı",
+    "area_m2": "86 m²",
+    "lat": 40.38645916020747,
+    "lng": 49.89249741540526,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6494996",
+    "first_seen_at": "2026-09-30T09:34:56.689851+00:00",
+    "last_seen_at": "2026-09-30T09:34:56.689851+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 465000,
+        "date": "2026-09-30T09:34:56.689851+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504407",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F13%2F33%2F39%2F85cb124a-d4c6-4b34-af87-4149620cdd9b%2F75533_QO3EqPKB9VtlzO7bFSldQQ.jpg",
+    "price": 255000,
+    "location": "Bakıxanov q.",
+    "rooms": "2 otaqlı",
+    "area_m2": "78 m²",
+    "lat": 40.4170054978086,
+    "lng": 49.96922057471719,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6504407",
+    "first_seen_at": "2026-09-30T09:34:56.731639+00:00",
+    "last_seen_at": "2026-09-30T09:34:56.731639+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 255000,
+        "date": "2026-09-30T09:34:56.731639+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6300730",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F17%2F22%2F45%2F54%2F67762dd3-d51e-40e9-861b-aa788b57f7c0%2F53222_HDRaQS9v7FaLq0y3eP5JZQ.jpg",
+    "price": 210000,
+    "location": "Qara Qarayev m.",
+    "rooms": "2 otaqlı",
+    "area_m2": "52 m²",
+    "lat": 40.41700656717722,
+    "lng": 49.93090115657908,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6300730",
+    "first_seen_at": "2026-09-30T09:34:56.798512+00:00",
+    "last_seen_at": "2026-09-30T09:34:56.798512+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 210000,
+        "date": "2026-09-30T09:34:56.798512+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6498799",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F28%2F14%2F44%2F51%2Ff4451391-4cfa-4076-b869-23da95d30b57%2F48431_dr4_qA9k1Z07Vnz-BRb4iw.jpg",
+    "price": 395000,
+    "location": "Nəriman Nərimanov m.",
+    "rooms": "3 otaqlı",
+    "area_m2": "105 m²",
+    "lat": 40.40889870735175,
+    "lng": 49.87263340259523,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6498799",
+    "first_seen_at": "2026-09-30T09:34:56.849914+00:00",
+    "last_seen_at": "2026-09-30T09:34:56.849914+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 395000,
+        "date": "2026-09-30T09:34:56.849914+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504368",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F13%2F24%2F29%2F60dc4877-e70e-4646-9eb3-2996a64093d7%2F75501_OLLdlvW9sZhmkzs_oZx4Tg.jpg",
+    "price": 110000,
+    "location": "Əhmədli m.",
+    "rooms": "2 otaqlı",
+    "area_m2": "65 m²",
+    "lat": 40.382631,
+    "lng": 49.945952,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6504368",
+    "first_seen_at": "2026-09-30T09:34:56.891862+00:00",
+    "last_seen_at": "2026-09-30T09:34:56.891862+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 110000,
+        "date": "2026-09-30T09:34:56.891862+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6467838",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F17%2F12%2F19%2F18%2F7e10df89-02e3-4686-83f7-952eaa0e8462%2F52748_CPMwsBNhpnYG2FeRf2316g.jpg",
+    "price": 480000,
+    "location": "Badamdar q.",
+    "rooms": "3 otaqlı",
+    "area_m2": "140 m²",
+    "lat": 40.35533132386568,
+    "lng": 49.81942855837163,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6467838",
+    "first_seen_at": "2026-09-30T09:34:56.933945+00:00",
+    "last_seen_at": "2026-09-30T09:34:56.933945+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 480000,
+        "date": "2026-09-30T09:34:56.933945+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5909818",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F20%2F14%2F30%2F41%2F43b89234-002f-4071-a915-31cec0a3c40c%2F75140_7-nz940wL0WE0jLK2DdIDA.jpg",
+    "price": 259000,
+    "location": "Nərimanov r.",
+    "rooms": "3 otaqlı",
+    "area_m2": "96 m²",
+    "lat": 40.38810694392716,
+    "lng": 49.85581775888356,
+    "has_repair": false,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5909818",
+    "first_seen_at": "2026-09-30T09:34:56.979175+00:00",
+    "last_seen_at": "2026-09-30T09:34:56.979175+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 259000,
+        "date": "2026-09-30T09:34:56.979175+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6465082",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F16%2F13%2F10%2F08%2Ff399b611-68f1-48f4-a4ed-209738a5bca5%2F49902_VE7VbhmsZHmOXgdD5O5eig.jpg",
+    "price": 380000,
+    "location": "Şah İsmayıl Xətai m.",
+    "rooms": "3 otaqlı",
+    "area_m2": "130 m²",
+    "lat": 40.38073111458826,
+    "lng": 49.86948023007891,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6465082",
+    "first_seen_at": "2026-09-30T09:34:57.022383+00:00",
+    "last_seen_at": "2026-09-30T09:34:57.022383+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 380000,
+        "date": "2026-09-30T09:34:57.022383+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6160224",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F25%2F20%2F56%2F38%2Ffd456963-2ae0-41cf-92f7-7662b24b391b%2F63800_lkRtLoJ-f2XGEe0K5ji8Rg.jpg",
+    "price": 300000,
+    "location": "İçəri Şəhər m.",
+    "rooms": "3 otaqlı",
+    "area_m2": "91 m²",
+    "lat": 40.36845364300483,
+    "lng": 49.82392953979492,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6160224",
+    "first_seen_at": "2026-09-30T09:34:57.066280+00:00",
+    "last_seen_at": "2026-09-30T09:34:57.066280+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 300000,
+        "date": "2026-09-30T09:34:57.066280+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6253134",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F30%2F14%2F50%2F14%2Ffa49cfd7-eb07-4408-9aaa-7165dcc8acc6%2F90612_Ppm-A7mjeszT-fVUu-XT9A.jpg",
+    "price": 550000,
+    "location": "Elmlər Akademiyası m.",
+    "rooms": "4 otaqlı",
+    "area_m2": "164 m²",
+    "lat": 40.37370433898501,
+    "lng": 49.82042182241348,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6253134",
+    "first_seen_at": "2026-09-30T09:34:57.110027+00:00",
+    "last_seen_at": "2026-09-30T09:34:57.110027+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 550000,
+        "date": "2026-09-30T09:34:57.110027+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6486561",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F23%2F22%2F29%2F26%2Fe857e7fb-3b27-4dbb-9a59-39cb2eea6593%2F55791_DghI5Rnek6-rT9ejl8jnnQ.jpg",
+    "price": 320000,
+    "location": "Nəriman Nərimanov m.",
+    "rooms": "2 otaqlı",
+    "area_m2": "102 m²",
+    "lat": 40.40543069088525,
+    "lng": 49.87629095503355,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6486561",
+    "first_seen_at": "2026-09-30T09:34:57.148799+00:00",
+    "last_seen_at": "2026-09-30T09:34:57.148799+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 320000,
+        "date": "2026-09-30T09:34:57.148799+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5993556",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F06%2F14%2F20%2F09%2F47200742-3dd5-4e84-a325-2d53c9139326%2F30726_AtVSfV2kXGpIWsZOQLAQ_g.jpg",
+    "price": 275000,
+    "location": "Biləcəri q.",
+    "rooms": "4 otaqlı",
+    "area_m2": "165 m²",
+    "lat": 40.4307944686589,
+    "lng": 49.78839514039911,
+    "has_repair": false,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5993556",
+    "first_seen_at": "2026-09-30T09:34:57.190113+00:00",
+    "last_seen_at": "2026-09-30T09:34:57.190113+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 275000,
+        "date": "2026-09-30T09:34:57.190113+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5909726",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F28%2F17%2F26%2F02%2Fe2b6880b-de43-4a64-a7c3-22b1eddcfde7%2F68268_TnoA1P_vGefInSd6MOulWg.jpg",
+    "price": 179000,
+    "location": "Nərimanov r.",
+    "rooms": "2 otaqlı",
+    "area_m2": "65 m²",
+    "lat": 40.39025857552382,
+    "lng": 49.8549702420773,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5909726",
+    "first_seen_at": "2026-09-30T09:34:57.234211+00:00",
+    "last_seen_at": "2026-09-30T09:34:57.234211+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 179000,
+        "date": "2026-09-30T09:34:57.234211+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5047064",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F03%2F13%2F10%2F28%2F47%2Ff1f4f486-9490-4d07-9f43-45c9ea9b27bd%2F710_n_84bQNwZvpGSEPPCvJ-ng.jpg",
+    "price": 909500,
+    "location": "Nizami m.",
+    "rooms": "5 otaqlı",
+    "area_m2": "267.5 m²",
+    "lat": 40.37946856044255,
+    "lng": 49.83648955821991,
+    "has_repair": false,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5047064",
+    "first_seen_at": "2026-09-30T09:31:13.056219+00:00",
+    "last_seen_at": "2026-09-30T09:31:13.056219+00:00",
+    "deleted_at": "2026-09-30T09:31:40.928142+00:00",
+    "price_history": [
+      {
+        "price": 909500,
+        "date": "2026-09-30T09:31:13.056219+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6481364",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F12%2F03%2F15%2Fef44f7ec-0e50-42da-9347-db286eba76a1%2F55877_GTnGVrFEPlvx6vx5ZonkUw.jpg",
+    "price": 285000,
+    "location": "Əhmədli m.",
+    "rooms": "3 otaqlı",
+    "area_m2": "117 m²",
+    "lat": 40.37917421399067,
+    "lng": 49.96299016697011,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6481364",
+    "first_seen_at": "2026-09-30T09:31:13.096688+00:00",
+    "last_seen_at": "2026-09-30T09:31:13.096688+00:00",
+    "deleted_at": "2026-09-30T09:31:40.928142+00:00",
+    "price_history": [
+      {
+        "price": 285000,
+        "date": "2026-09-30T09:31:13.096688+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6422849",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F01%2F11%2F04%2F13%2Fd61882b2-9f18-49a1-9970-973594637f99%2F72329_4LSHM95uURDqqt1iQRIkDw.jpg",
+    "price": 600000,
+    "location": "Ağ şəhər q.",
+    "rooms": "3 otaqlı",
+    "area_m2": "157 m²",
+    "lat": 40.38351715335739,
+    "lng": 49.88923584924315,
+    "has_repair": false,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6422849",
+    "first_seen_at": "2026-09-30T09:31:13.138262+00:00",
+    "last_seen_at": "2026-09-30T09:31:13.138262+00:00",
+    "deleted_at": "2026-09-30T09:31:40.928142+00:00",
+    "price_history": [
+      {
+        "price": 600000,
+        "date": "2026-09-30T09:31:13.138262+00:00"
+      }
+    ]
+  },
+  {
+    "id": "3760097",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2024%2F01%2F27%2F12%2F09%2F22%2F887b59da-0e7a-405d-9a5f-91d4094d2e5d%2F56338_WDcao9ce80hQNbDNil6gBA.jpg",
+    "price": 873000,
+    "location": "Nəsimi r.",
+    "rooms": "4 otaqlı",
+    "area_m2": "194 m²",
+    "lat": 40.39245923367223,
+    "lng": 49.84228374713118,
+    "has_repair": false,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/3760097",
+    "first_seen_at": "2026-09-30T09:31:13.181582+00:00",
+    "last_seen_at": "2026-09-30T09:31:13.181582+00:00",
+    "deleted_at": "2026-09-30T09:31:40.928142+00:00",
+    "price_history": [
+      {
+        "price": 873000,
+        "date": "2026-09-30T09:31:13.181582+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6404756",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F25%2F13%2F07%2F07%2F1f70a181-b776-4db6-9497-36b4826817f2%2F99261_36ZgoP65bxaZi0PteElr_A.jpg",
+    "price": 220000,
+    "location": "Nizami r.",
+    "rooms": "3 otaqlı",
+    "area_m2": "126.3 m²",
+    "lat": 40.40909499266433,
+    "lng": 49.95809346943638,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6404756",
+    "first_seen_at": "2026-09-30T09:31:13.224500+00:00",
+    "last_seen_at": "2026-09-30T09:31:13.224500+00:00",
+    "deleted_at": "2026-09-30T09:31:40.928142+00:00",
+    "price_history": [
+      {
+        "price": 220000,
+        "date": "2026-09-30T09:31:13.224500+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6269294",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F06%2F15%2F13%2F15%2Fb501c657-3f45-45b7-a912-05fb78fd302e%2F77740_Je3IGe7YiFeolUtK2H_h2Q.jpg",
+    "price": 317000,
+    "location": "Nəsimi r.",
+    "rooms": "3 otaqlı",
+    "area_m2": "120 m²",
+    "lat": 40.38840239343044,
+    "lng": 49.83851327929651,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6269294",
+    "first_seen_at": "2026-09-30T09:31:13.266853+00:00",
+    "last_seen_at": "2026-09-30T09:31:13.266853+00:00",
+    "deleted_at": "2026-09-30T09:31:40.928142+00:00",
+    "price_history": [
+      {
+        "price": 317000,
+        "date": "2026-09-30T09:31:13.266853+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5772795",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F16%2F20%2F13%2F31%2Fbadef94d-a201-499c-8a78-86ef70c625d0%2F36859_defSrjNIlkYK5vfd4mBEBw.jpg",
+    "price": 380000,
+    "location": "Nərimanov r.",
+    "rooms": "3 otaqlı",
+    "area_m2": "120 m²",
+    "lat": 40.3930203932826,
+    "lng": 49.86027683247713,
+    "has_repair": false,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5772795",
+    "first_seen_at": "2026-09-30T09:31:13.309372+00:00",
+    "last_seen_at": "2026-09-30T09:31:13.309372+00:00",
+    "deleted_at": "2026-09-30T09:31:40.928142+00:00",
+    "price_history": [
+      {
+        "price": 380000,
+        "date": "2026-09-30T09:31:13.309372+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6492926",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F26%2F10%2F48%2F28%2F137a1403-06e8-4ce3-a19f-db93e7287059%2F71647_XTPlqa-Os1q84Ut8R0031A.jpg",
+    "price": 104000,
+    "location": "Saray q.",
+    "rooms": "2 otaqlı",
+    "area_m2": "65 m²",
+    "lat": 40.53258406136482,
+    "lng": 49.70998408238314,
+    "has_repair": false,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6492926",
+    "first_seen_at": "2026-09-30T09:31:13.353864+00:00",
+    "last_seen_at": "2026-09-30T09:31:13.353864+00:00",
+    "deleted_at": "2026-09-30T09:31:40.928142+00:00",
+    "price_history": [
+      {
+        "price": 104000,
+        "date": "2026-09-30T09:31:13.353864+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6501745",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F29%2F14%2F49%2F29%2Fd334426b-be5d-4f42-b345-a13d81bde8aa%2F35352_W6mx3DXXAKuVqiDIXcbJeQ.jpg",
+    "price": 268000,
+    "location": "Həzi Aslanov m.",
+    "rooms": "3 otaqlı",
+    "area_m2": "112 m²",
+    "lat": 40.37248869658702,
+    "lng": 49.95353751155478,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6501745",
+    "first_seen_at": "2026-09-30T09:31:13.698640+00:00",
+    "last_seen_at": "2026-09-30T09:31:13.698640+00:00",
+    "deleted_at": "2026-09-30T09:31:40.928142+00:00",
+    "price_history": [
+      {
+        "price": 268000,
+        "date": "2026-09-30T09:31:13.698640+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6449050",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F10%2F13%2F26%2F11%2Fe4f79f8e-5fb2-4080-92ba-e580f348eae4%2F60074_3hWnfaHR7NYu6t3e6lr6oA.jpg",
+    "price": 175000,
+    "location": "Badamdar q.",
+    "rooms": "2 otaqlı",
+    "area_m2": "65 m²",
+    "lat": 40.33204078078005,
+    "lng": 49.802727000402,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6449050",
+    "first_seen_at": "2026-09-30T09:31:13.736842+00:00",
+    "last_seen_at": "2026-09-30T09:31:13.736842+00:00",
+    "deleted_at": "2026-09-30T09:31:40.928142+00:00",
+    "price_history": [
+      {
+        "price": 175000,
+        "date": "2026-09-30T09:31:13.736842+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6440367",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F07%2F13%2F21%2F39%2F00cede7a-5b9c-4214-92f4-896334098200%2F57241_WxbNojelhekJWRG8SCK9sA.jpg",
+    "price": 740000,
+    "location": "Nəsimi r.",
+    "rooms": "4 otaqlı",
+    "area_m2": "194 m²",
+    "lat": 40.39072157296988,
+    "lng": 49.8316117145602,
+    "has_repair": false,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6440367",
+    "first_seen_at": "2026-09-30T09:31:13.774227+00:00",
+    "last_seen_at": "2026-09-30T09:31:13.774227+00:00",
+    "deleted_at": "2026-09-30T09:31:40.928142+00:00",
+    "price_history": [
+      {
+        "price": 740000,
+        "date": "2026-09-30T09:31:13.774227+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6353622",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F06%2F16%2F02%2F31%2F80c83552-96b1-4332-9a35-75dddb258f0c%2F88524__lASlI-rQtl95HbCQBJi7g.jpg",
+    "price": 287000,
+    "location": "Nərimanov r.",
+    "rooms": "2 otaqlı",
+    "area_m2": "67 m²",
+    "lat": 40.39053110632841,
+    "lng": 49.85731893576212,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6353622",
+    "first_seen_at": "2026-09-30T09:31:13.814739+00:00",
+    "last_seen_at": "2026-09-30T09:31:13.814739+00:00",
+    "deleted_at": "2026-09-30T09:31:40.928142+00:00",
+    "price_history": [
+      {
+        "price": 287000,
+        "date": "2026-09-30T09:31:13.814739+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504384",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F13%2F12%2F26%2Fc31599e9-6770-4178-aeb5-ad5dd7038a83%2F93632_nlwn_kbXnnZM8PjgxXX4LA.jpg",
+    "price": 235000,
+    "location": "Nəriman Nərimanov m.",
+    "rooms": "4 otaqlı",
+    "area_m2": "110 m²",
+    "lat": 40.40004963618053,
+    "lng": 49.88119626832879,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6504384",
+    "first_seen_at": "2026-09-30T09:31:13.857471+00:00",
+    "last_seen_at": "2026-09-30T09:31:13.857471+00:00",
+    "deleted_at": "2026-09-30T09:31:40.928142+00:00",
+    "price_history": [
+      {
+        "price": 235000,
+        "date": "2026-09-30T09:31:13.857471+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504152",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F12%2F41%2F28%2Fbecb5ad9-b7f2-46f6-a4b4-ea5bcb34039d%2F97349_qap1gpT3ZySvSbkpjrm2Uw.jpg",
+    "price": 170000,
+    "location": "28 May m.",
+    "rooms": "2 otaqlı",
+    "area_m2": "62 m²",
+    "lat": 40.38732078793084,
+    "lng": 49.85304387784833,
+    "has_repair": false,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6504152",
+    "first_seen_at": "2026-09-30T09:31:13.903309+00:00",
+    "last_seen_at": "2026-09-30T09:31:13.903309+00:00",
+    "deleted_at": "2026-09-30T09:31:40.928142+00:00",
+    "price_history": [
+      {
+        "price": 170000,
+        "date": "2026-09-30T09:31:13.903309+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6477631",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F20%2F21%2F28%2F45%2F11ff6404-dc9f-4d21-a847-5dd41dbd6e7d%2F68277_MXfkSBJlWthpy9s3d8l0SA.jpg",
+    "price": 110000,
+    "location": "Zığ q.",
+    "rooms": "2 otaqlı",
+    "area_m2": "55 m²",
+    "lat": 40.36502378145131,
+    "lng": 49.98357899475097,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6477631",
+    "first_seen_at": "2026-09-30T09:31:40.176075+00:00",
+    "last_seen_at": "2026-09-30T09:31:40.176075+00:00",
+    "deleted_at": "2026-09-30T09:34:57.234226+00:00",
+    "price_history": [
+      {
+        "price": 110000,
+        "date": "2026-09-30T09:31:40.176075+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5516767",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F04%2F29%2F11%2F31%2F24%2F3f3ee17e-f82f-4df9-8170-08655da5de96%2F62168_5J66Ov2XmPhboywdEo2k9A.jpg",
+    "price": 394944,
+    "location": "Sea Breeze q.",
+    "rooms": "2 otaqlı",
+    "area_m2": "70.4 m²",
+    "lat": 40.58186791761048,
+    "lng": 49.93327317806251,
+    "has_repair": false,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5516767",
+    "first_seen_at": "2026-09-30T09:31:40.215456+00:00",
+    "last_seen_at": "2026-09-30T09:31:40.215456+00:00",
+    "deleted_at": "2026-09-30T09:34:57.234226+00:00",
+    "price_history": [
+      {
+        "price": 394944,
+        "date": "2026-09-30T09:31:40.215456+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5302629",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F06%2F24%2F13%2F21%2F51%2F13d8e25f-b9ae-47d0-a29d-16f7b05770ca%2F66008_-f1hpkebL9FYqnHCOa3oWQ.jpg",
+    "price": 265000,
+    "location": "20 Yanvar m.",
+    "rooms": "3 otaqlı",
+    "area_m2": "95 m²",
+    "lat": 40.39781016142791,
+    "lng": 49.80832099914551,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5302629",
+    "first_seen_at": "2026-09-30T09:31:40.254169+00:00",
+    "last_seen_at": "2026-09-30T09:31:40.254169+00:00",
+    "deleted_at": "2026-09-30T09:34:57.234226+00:00",
+    "price_history": [
+      {
+        "price": 265000,
+        "date": "2026-09-30T09:31:40.254169+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5504984",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F01%2F15%2F26%2F55%2F7a664566-b6bf-4c8a-ac8e-a6d2d524cb52%2F63787_DszqKHs4UdUHt3FI2yV1uQ.jpg",
+    "price": 450398,
+    "location": "Sea Breeze q.",
+    "rooms": "2 otaqlı",
+    "area_m2": "101.9 m²",
+    "lat": 40.58828451832755,
+    "lng": 49.98477816581726,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5504984",
+    "first_seen_at": "2026-09-30T09:31:40.293420+00:00",
+    "last_seen_at": "2026-09-30T09:31:40.293420+00:00",
+    "deleted_at": "2026-09-30T09:34:57.234226+00:00",
+    "price_history": [
+      {
+        "price": 450398,
+        "date": "2026-09-30T09:31:40.293420+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5443799",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F01%2F16%2F04%2F29%2Fb42f5689-0b59-4edf-ab30-89eaac438754%2F63791_X2hQPNDSGKz9U_K0Oc1syw.jpg",
+    "price": 263203,
+    "location": "Sea Breeze q.",
+    "rooms": "1 otaqlı",
+    "area_m2": "56.3 m²",
+    "lat": 40.58026033175758,
+    "lng": 49.93879577553996,
+    "has_repair": false,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5443799",
+    "first_seen_at": "2026-09-30T09:31:40.332885+00:00",
+    "last_seen_at": "2026-09-30T09:31:40.332885+00:00",
+    "deleted_at": "2026-09-30T09:34:57.234226+00:00",
+    "price_history": [
+      {
+        "price": 263203,
+        "date": "2026-09-30T09:31:40.332885+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6492085",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F25%2F17%2F49%2F26%2F3b279867-2557-4971-9972-1135d98aaff6%2F59324_IeFOmBvlnLfrojIw76ANvA.jpg",
+    "price": 590000,
+    "location": "Nərimanov r.",
+    "rooms": "4 otaqlı",
+    "area_m2": "220 m²",
+    "lat": 40.39049630876544,
+    "lng": 49.85065292794183,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6492085",
+    "first_seen_at": "2026-09-30T09:31:40.375429+00:00",
+    "last_seen_at": "2026-09-30T09:31:40.375429+00:00",
+    "deleted_at": "2026-09-30T09:34:57.234226+00:00",
+    "price_history": [
+      {
+        "price": 590000,
+        "date": "2026-09-30T09:31:40.375429+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6323014",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F26%2F15%2F04%2F40%2F9e2acc81-8180-41d5-8b34-58767dacd550%2F88620_toKWAVkQKoe3TJQ2v212YQ.jpg",
+    "price": 132500,
+    "location": "Lökbatan q.",
+    "rooms": "2 otaqlı",
+    "area_m2": "77.8 m²",
+    "lat": 40.3274513,
+    "lng": 49.7296599,
+    "has_repair": false,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6323014",
+    "first_seen_at": "2026-09-30T09:31:40.414146+00:00",
+    "last_seen_at": "2026-09-30T09:31:40.414146+00:00",
+    "deleted_at": "2026-09-30T09:34:57.234226+00:00",
+    "price_history": [
+      {
+        "price": 132500,
+        "date": "2026-09-30T09:31:40.414146+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6422476",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F31%2F22%2F38%2F06%2Ff81d0b3a-79e0-48fa-8e5b-08175f14dd58%2F72343_oiHV4sQ93ZSB2FgyEGWosQ.jpg",
+    "price": 188000,
+    "location": "Qaraçuxur q.",
+    "rooms": "3 otaqlı",
+    "area_m2": "80 m²",
+    "lat": 40.3924442752208,
+    "lng": 49.97480995755252,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6422476",
+    "first_seen_at": "2026-09-30T09:31:40.455101+00:00",
+    "last_seen_at": "2026-09-30T09:31:40.455101+00:00",
+    "deleted_at": "2026-09-30T09:34:57.234226+00:00",
+    "price_history": [
+      {
+        "price": 188000,
+        "date": "2026-09-30T09:31:40.455101+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6474789",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F19%2F16%2F24%2F29%2F8fe9c4ae-5f28-47eb-9282-b0b3f850fec5%2F67663_ViIBy1NmJwHs1xvwN52Yvg.jpg",
+    "price": 101400,
+    "location": "Binəqədi r.",
+    "rooms": "2 otaqlı",
+    "area_m2": "84.5 m²",
+    "lat": 40.4750302,
+    "lng": 49.82237950000001,
+    "has_repair": false,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6474789",
+    "first_seen_at": "2026-09-30T09:31:40.495764+00:00",
+    "last_seen_at": "2026-09-30T09:31:40.495764+00:00",
+    "deleted_at": "2026-09-30T09:34:57.234226+00:00",
+    "price_history": [
+      {
+        "price": 101400,
+        "date": "2026-09-30T09:31:40.495764+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6201530",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F10%2F19%2F28%2F54%2F4ea3bb20-758c-4232-88c8-f71b32fdff69%2F55164_zDAMghkVNiw7YvrvaXH-4g.jpg",
+    "price": 425000,
+    "location": "Nərimanov r.",
+    "rooms": "3 otaqlı",
+    "area_m2": "129 m²",
+    "lat": 40.38891041350292,
+    "lng": 49.85342645105417,
+    "has_repair": false,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6201530",
+    "first_seen_at": "2026-09-30T09:31:40.534496+00:00",
+    "last_seen_at": "2026-09-30T09:31:40.534496+00:00",
+    "deleted_at": "2026-09-30T09:34:57.234226+00:00",
+    "price_history": [
+      {
+        "price": 425000,
+        "date": "2026-09-30T09:31:40.534496+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504390",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F13%2F30%2F39%2Fd11aa785-226b-4b8f-80c5-24963b1def71%2F75555_uezDx8s7vnYA79Zqy7YmYg.jpg",
+    "price": 410000,
+    "location": "Nərimanov r.",
+    "rooms": "3 otaqlı",
+    "area_m2": "99 m²",
+    "lat": 40.39781118507155,
+    "lng": 49.83754437742173,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6504390",
+    "first_seen_at": "2026-09-30T09:31:40.576217+00:00",
+    "last_seen_at": "2026-09-30T09:31:40.576217+00:00",
+    "deleted_at": "2026-09-30T09:34:57.234226+00:00",
+    "price_history": [
+      {
+        "price": 410000,
+        "date": "2026-09-30T09:31:40.576217+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6468820",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F17%2F15%2F58%2F32%2Fc5ff22e8-dda4-4dcb-be43-755adc4a6e1a%2F69859_v0Kl6f4fM_DMmB89GSfXXw.jpg",
+    "price": 253000,
+    "location": "Nərimanov r.",
+    "rooms": "2 otaqlı",
+    "area_m2": "70 m²",
+    "lat": 40.40178177059669,
+    "lng": 49.84130139759758,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6468820",
+    "first_seen_at": "2026-09-30T09:31:40.613710+00:00",
+    "last_seen_at": "2026-09-30T09:31:40.613710+00:00",
+    "deleted_at": "2026-09-30T09:34:57.234226+00:00",
+    "price_history": [
+      {
+        "price": 253000,
+        "date": "2026-09-30T09:31:40.613710+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6493950",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F26%2F14%2F54%2F10%2Fd237e767-a00d-468e-94d9-a5d70dbb7873%2F76693_n013_9Cye3hWVWifg0jvzw.jpg",
+    "price": 289000,
+    "location": "Yeni Yasamal q.",
+    "rooms": "3 otaqlı",
+    "area_m2": "150 m²",
+    "lat": 40.39069673248933,
+    "lng": 49.78749517917633,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6493950",
+    "first_seen_at": "2026-09-30T09:31:40.652557+00:00",
+    "last_seen_at": "2026-09-30T09:31:40.652557+00:00",
+    "deleted_at": "2026-09-30T09:34:57.234226+00:00",
+    "price_history": [
+      {
+        "price": 289000,
+        "date": "2026-09-30T09:31:40.652557+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504385",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F13%2F26%2F54%2F3f80a5e9-0e00-4d84-8f9e-3e7e27c7f2a8%2F76697_cE6jTf99JAnXXjwfeECH4Q.jpg",
+    "price": 190000,
+    "location": "Yeni Yasamal q.",
+    "rooms": "2 otaqlı",
+    "area_m2": "90 m²",
+    "lat": 40.39358001478074,
+    "lng": 49.7884389540061,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6504385",
+    "first_seen_at": "2026-09-30T09:31:40.690093+00:00",
+    "last_seen_at": "2026-09-30T09:31:40.690093+00:00",
+    "deleted_at": "2026-09-30T09:34:57.234226+00:00",
+    "price_history": [
+      {
+        "price": 190000,
+        "date": "2026-09-30T09:31:40.690093+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6147926",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F21%2F11%2F51%2F22%2F2c988ee8-d11f-403e-bd45-8c12b3a86c3b%2F29155_HBfBOo_oi8dDC7deClHmeA.jpg",
+    "price": 655000,
+    "location": "28 May m.",
+    "rooms": "4 otaqlı",
+    "area_m2": "198 m²",
+    "lat": 40.38398025150162,
+    "lng": 49.84242583699201,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6147926",
+    "first_seen_at": "2026-09-30T09:31:13.394770+00:00",
+    "last_seen_at": "2026-09-30T09:31:40.730543+00:00",
+    "deleted_at": "2026-09-30T09:34:57.234226+00:00",
+    "price_history": [
+      {
+        "price": 655000,
+        "date": "2026-09-30T09:31:13.394770+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6501632",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F29%2F14%2F24%2F59%2F76dceb50-d689-4c68-b01e-a1ae5736194d%2F35352_4Tk_FaSdDReG2Yq1ZKYqig.jpg",
+    "price": 110000,
+    "location": "Nəriman Nərimanov m.",
+    "rooms": "2 otaqlı",
+    "area_m2": "45 m²",
+    "lat": 40.39604049276845,
+    "lng": 49.87321209389639,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6501632",
+    "first_seen_at": "2026-09-30T09:31:13.437805+00:00",
+    "last_seen_at": "2026-09-30T09:31:40.767432+00:00",
+    "deleted_at": "2026-09-30T09:34:57.234226+00:00",
+    "price_history": [
+      {
+        "price": 110000,
+        "date": "2026-09-30T09:31:13.437805+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504373",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F13%2F20%2F23%2F4cf2d8ed-7284-4fe8-96ed-e7dda157f73f%2F75505_aWewhrWJqQNOvfDP8cMGiQ.jpg",
+    "price": 159000,
+    "location": "Bayıl q.",
+    "rooms": "2 otaqlı",
+    "area_m2": "40 m²",
+    "lat": 40.3425786015279,
+    "lng": 49.83933316086714,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6504373",
+    "first_seen_at": "2026-09-30T09:31:13.481802+00:00",
+    "last_seen_at": "2026-09-30T09:31:40.807252+00:00",
+    "deleted_at": "2026-09-30T09:34:57.234226+00:00",
+    "price_history": [
+      {
+        "price": 159000,
+        "date": "2026-09-30T09:31:13.481802+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504388",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F13%2F18%2F43%2F352852f3-8ce1-448d-9fbb-6fc83b905fef%2F97240_8rw-b4_-sqDMdCr_TlVrYQ.jpg",
+    "price": 169000,
+    "location": "Əhmədli m.",
+    "rooms": "2 otaqlı",
+    "area_m2": "85 m²",
+    "lat": 40.38473623319385,
+    "lng": 49.96420623542001,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6504388",
+    "first_seen_at": "2026-09-30T09:31:13.571450+00:00",
+    "last_seen_at": "2026-09-30T09:31:40.849345+00:00",
+    "deleted_at": "2026-09-30T09:34:57.234226+00:00",
+    "price_history": [
+      {
+        "price": 169000,
+        "date": "2026-09-30T09:31:13.571450+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6323838",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F26%2F23%2F37%2F19%2F2810dff8-340d-4f97-a7be-953fdae132a2%2F75685_W495DPynxRErO3QI4Tc6bA.jpg",
+    "price": 200000,
+    "location": "Sea Breeze q.",
+    "rooms": "1 otaqlı",
+    "area_m2": "58 m²",
+    "lat": 40.57843608857392,
+    "lng": 49.93496992560054,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6323838",
+    "first_seen_at": "2026-09-30T09:31:13.619555+00:00",
+    "last_seen_at": "2026-09-30T09:31:40.887488+00:00",
+    "deleted_at": "2026-09-30T09:34:57.234226+00:00",
+    "price_history": [
+      {
+        "price": 200000,
+        "date": "2026-09-30T09:31:13.619555+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6243238",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F26%2F16%2F10%2F11%2Fb4295587-92eb-4f58-b67b-549ab84990f5%2F77725_H_pCAl4IMdggBzn28WO6Dg.jpg",
+    "price": 250000,
+    "location": "Əhmədli m.",
+    "rooms": "3 otaqlı",
+    "area_m2": "100 m²",
+    "lat": 40.3874035868236,
+    "lng": 49.95710998950197,
+    "has_repair": true,
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6243238",
+    "first_seen_at": "2026-09-30T09:31:13.659868+00:00",
+    "last_seen_at": "2026-09-30T09:31:40.928125+00:00",
+    "deleted_at": "2026-09-30T09:34:57.234226+00:00",
+    "price_history": [
+      {
+        "price": 250000,
+        "date": "2026-09-30T09:31:13.659868+00:00"
+      }
+    ]
+  }
+]

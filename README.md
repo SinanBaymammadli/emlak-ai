@@ -75,15 +75,36 @@ python -m scraper.main
 
 The scraper opens a real browser window (not headless) to avoid Cloudflare bot detection, same approach as the binaaz reference project.
 
-## Scheduling (GitHub Actions)
+## Scheduling
 
-The workflow at `.github/workflows/scrape.yml` runs daily at **06:00 UTC** and commits updated `data/` files (SQLite + JSON exports) back to the repo.
+The workflow (`.github/workflows/scrape.yml`) is triggered only via `workflow_dispatch` — no built-in cron. GitHub's native cron is unreliable (can skip runs silently), so use an external service to call the GitHub API on a schedule.
 
-To trigger manually: **Actions → Daily scrape → Run workflow**
+### Setting up an external cron trigger
 
-Required repository secrets (add under Settings → Secrets):
-- `TELEGRAM_TOKEN` — for future deal notifications (not active yet)
-- `TELEGRAM_CHAT_ID` — for future deal notifications (not active yet)
+**Option 1 — cron-job.org (free)**
+1. Create a free account at [cron-job.org](https://cron-job.org)
+2. Create a new cron job with:
+   - **URL:** `https://api.github.com/repos/YOUR_USERNAME/emlak-ai/actions/workflows/scrape.yml/dispatches`
+   - **Method:** POST
+   - **Headers:**
+     ```
+     Authorization: Bearer YOUR_GITHUB_PAT
+     Accept: application/vnd.github+json
+     Content-Type: application/json
+     ```
+   - **Body:** `{"ref":"main"}`
+   - **Schedule:** daily at your preferred time
+
+**Option 2 — EasyCron / Pipedream / similar**
+Same approach — HTTP POST to the GitHub Actions dispatch API endpoint above.
+
+**Creating a GitHub Personal Access Token (PAT)**
+1. GitHub → Settings → Developer settings → Personal access tokens → Fine-grained tokens
+2. Scope it to this repo only with **Actions: Read and Write** permission
+3. Paste the token as the `Bearer` value in your cron service
+
+**Trigger manually anytime:**
+GitHub → Actions → Scrape bina.az → Run workflow
 
 ## Project structure
 
@@ -92,13 +113,18 @@ scraper/
   categories.py   — all 8 bina.az search URLs (category + deal_type + URL)
   parser.py       — pure text parsing: price, location, rooms, area, land area
   browser.py      — Camoufox browser automation: load, scroll, extract cards, GraphQL
-  db.py           — SQLite: init schema, upsert listing, record price change, mark deleted
-  main.py         — entry point: scrape all categories, export JSON files
+  main.py         — entry point: scrape all categories, update JSON files
 data/
-  emlak.db        — SQLite database (committed to git for persistence between CI runs)
-  *.json          — per-category exports (regenerated after each scrape)
+  apartment_sale.json
+  apartment_rental.json
+  house_sale.json
+  house_rental.json
+  land_sale.json
+  commercial_sale.json
+  commercial_rental.json
+  office_rental.json
 .github/workflows/
-  scrape.yml      — daily GitHub Actions schedule
+  scrape.yml      — workflow_dispatch only (triggered by external cron)
 ```
 
 ## How historical tracking works

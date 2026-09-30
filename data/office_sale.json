@@ -1,0 +1,442 @@
+[
+  {
+    "id": "6412483",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F28%2F08%2F53%2F12%2F4d94e1be-b434-4ef6-a2a4-8dad9c517f07%2F34854_vRieEYRGW7ryKn7NapvQ_w.jpg",
+    "price": 309000,
+    "location": "İnşaatçılar m.",
+    "area_m2": "105 m²",
+    "lat": 40.38417597497042,
+    "lng": 49.80945969626354,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6412483",
+    "first_seen_at": "2026-09-30T09:36:24.692780+00:00",
+    "last_seen_at": "2026-09-30T09:36:24.692780+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 309000,
+        "date": "2026-09-30T09:36:24.692780+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6489766",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F25%2F08%2F34%2F51%2F1753026a-34a8-4234-be60-2cbceaf77a1a%2F59351_3qsXYJCdu3QxWEeKLW_lSw.jpg",
+    "price": 10500,
+    "location": "Ağ şəhər q.",
+    "area_m2": "20 m²",
+    "lat": 40.38274860751796,
+    "lng": 49.89164011275495,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6489766",
+    "first_seen_at": "2026-09-30T09:36:24.736518+00:00",
+    "last_seen_at": "2026-09-30T09:36:24.736518+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 10500,
+        "date": "2026-09-30T09:36:24.736518+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6491031",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F25%2F14%2F43%2F55%2F8d2c220f-7883-4cab-a74a-0a85f542ce9b%2F59338_lqL5_FqNbegEL_MhPUzgKA.jpg",
+    "price": 1150000,
+    "location": "Yeni Yasamal q.",
+    "area_m2": "564 m²",
+    "lat": 40.39185912562219,
+    "lng": 49.7902333303554,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6491031",
+    "first_seen_at": "2026-09-30T09:36:24.777499+00:00",
+    "last_seen_at": "2026-09-30T09:36:24.777499+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1150000,
+        "date": "2026-09-30T09:36:24.777499+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6500881",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F29%2F11%2F49%2F32%2Fdbcd8b5c-2b65-4ddf-b1d9-6a50b8b65dc0%2F91352_MPcFs3PgCBDfEExnkRI-aA.jpg",
+    "price": 1200000,
+    "location": "28 May m.",
+    "area_m2": "245 m²",
+    "lat": 40.38540474172149,
+    "lng": 49.84843561130885,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6500881",
+    "first_seen_at": "2026-09-30T09:36:24.819670+00:00",
+    "last_seen_at": "2026-09-30T09:36:24.819670+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1200000,
+        "date": "2026-09-30T09:36:24.819670+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6504194",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F12%2F51%2F00%2F31da5a50-2e51-48af-8652-697ebfea1906%2F92804_EHgXhkk8I_ihOxy1eXFGLg.jpg",
+    "price": 365000,
+    "location": "Nizami m.",
+    "area_m2": "40 m²",
+    "lat": 40.38046449551114,
+    "lng": 49.83623388754735,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6504194",
+    "first_seen_at": "2026-09-30T09:36:24.858141+00:00",
+    "last_seen_at": "2026-09-30T09:36:24.858141+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 365000,
+        "date": "2026-09-30T09:36:24.858141+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6494959",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F26%2F19%2F54%2F37%2F273e22e6-6985-46ab-b8e3-1d05184e95a2%2F59333_3zYvhGB2UIR1vqvwSthooA.jpg",
+    "price": 495000,
+    "location": "Nərimanov r.",
+    "area_m2": "150 m²",
+    "lat": 40.38874348356041,
+    "lng": 49.85271286446527,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6494959",
+    "first_seen_at": "2026-09-30T09:36:24.897400+00:00",
+    "last_seen_at": "2026-09-30T09:36:24.897400+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 495000,
+        "date": "2026-09-30T09:36:24.897400+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5427212",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F08%2F12%2F19%2F04%2F38%2F07f87073-f9af-4764-a3dd-152e60524949%2F4513_SdFmiiX51JZHxZnCDO0xMg.jpg",
+    "price": 1050000,
+    "location": "Şah İsmayıl Xətai m.",
+    "area_m2": "185 m²",
+    "lat": 40.37790942845991,
+    "lng": 49.87467447870548,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5427212",
+    "first_seen_at": "2026-09-30T09:36:24.936622+00:00",
+    "last_seen_at": "2026-09-30T09:36:24.936622+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1050000,
+        "date": "2026-09-30T09:36:24.936622+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6502262",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F29%2F16%2F34%2F42%2F63460f79-823a-49e7-a56f-6a09c9b715b3%2F94087_6bWuSu4Gy8E64LJKzmjxvQ.jpg",
+    "price": 37000,
+    "location": "Elmlər Akademiyası m.",
+    "area_m2": "20 m²",
+    "lat": 40.3770825206343,
+    "lng": 49.81988533397529,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6502262",
+    "first_seen_at": "2026-09-30T09:36:24.980538+00:00",
+    "last_seen_at": "2026-09-30T09:36:24.980538+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 37000,
+        "date": "2026-09-30T09:36:24.980538+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5835796",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F01%2F26%2F10%2F30%2F26%2Fab7b2d61-7345-4e80-b8a5-cd58d8c6f2aa%2F14270_OT014uzcCJcdJ0CGAbHSQg.jpg",
+    "price": 1185000,
+    "location": "Yasamal r.",
+    "area_m2": "564.3 m²",
+    "lat": 40.39138341410219,
+    "lng": 49.78946056592555,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5835796",
+    "first_seen_at": "2026-09-30T09:36:25.021146+00:00",
+    "last_seen_at": "2026-09-30T09:36:25.021146+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1185000,
+        "date": "2026-09-30T09:36:25.021146+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5951359",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F03%2F09%2F12%2F56%2F02%2F2e71f9dc-ba02-4d74-9630-562ca8ec540a%2F69238_Fe4pjA2FeDhMUenrk-NGVw.jpg",
+    "price": 575000,
+    "location": "Şah İsmayıl Xətai m.",
+    "area_m2": "200 m²",
+    "lat": 40.38862128413712,
+    "lng": 49.87199889241028,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5951359",
+    "first_seen_at": "2026-09-30T09:36:25.061086+00:00",
+    "last_seen_at": "2026-09-30T09:36:25.061086+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 575000,
+        "date": "2026-09-30T09:36:25.061086+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6500257",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F28%2F22%2F23%2F41%2Ffafd8446-c445-4fea-8d30-e89e87020fae%2F91337_VNqBi-OJQsdb42ulnKtd0g.jpg",
+    "price": 1130000,
+    "location": "Nizami m.",
+    "area_m2": "452 m²",
+    "lat": 40.38321062995112,
+    "lng": 49.82768463241577,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6500257",
+    "first_seen_at": "2026-09-30T09:36:25.104020+00:00",
+    "last_seen_at": "2026-09-30T09:36:25.104020+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1130000,
+        "date": "2026-09-30T09:36:25.104020+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6170451",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F30%2F13%2F36%2F09%2F7f95559d-e346-41d6-abc1-9ffc7475003b%2F72468_aYOFXFn1z9bjzC8vP6ryIg.jpg",
+    "price": 3400000,
+    "location": "28 May m.",
+    "area_m2": "615 m²",
+    "lat": 40.37548771773007,
+    "lng": 49.85852992170113,
+    "has_repair": false,
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6170451",
+    "first_seen_at": "2026-09-30T09:36:25.147709+00:00",
+    "last_seen_at": "2026-09-30T09:36:25.147709+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 3400000,
+        "date": "2026-09-30T09:36:25.147709+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6313135",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F22%2F17%2F48%2F04%2Fdee47607-29a9-429d-96fb-2c8bf9c23d1f%2F75586_MFA-1O7rtd5Q0zSfnKHk2g.jpg",
+    "price": 765000,
+    "location": "Nizami m.",
+    "area_m2": "250 m²",
+    "lat": 40.37977343530924,
+    "lng": 49.83910518261722,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6313135",
+    "first_seen_at": "2026-09-30T09:36:25.188865+00:00",
+    "last_seen_at": "2026-09-30T09:36:25.188865+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 765000,
+        "date": "2026-09-30T09:36:25.188865+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6444528",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F08%2F17%2F59%2F29%2Fe6d252cd-12b1-4da4-86fb-87d06e258a31%2F59600_UMT1niCMfig0_w0KBj0USg.jpg",
+    "price": 750000,
+    "location": "Nəriman Nərimanov m.",
+    "area_m2": "263.5 m²",
+    "lat": 40.4089166,
+    "lng": 49.86399959999994,
+    "has_repair": false,
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6444528",
+    "first_seen_at": "2026-09-30T09:36:25.230609+00:00",
+    "last_seen_at": "2026-09-30T09:36:25.230609+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 750000,
+        "date": "2026-09-30T09:36:25.230609+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6499225",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F28%2F16%2F23%2F58%2Ff87797a8-f3f6-454a-b8f0-5c8c29f174cb%2F64955_p26HGm909-6yhwyo_6kXhQ.jpg",
+    "price": 240000,
+    "location": "Memar Əcəmi m.",
+    "area_m2": "116 m²",
+    "lat": 40.4122609448194,
+    "lng": 49.8235453040604,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6499225",
+    "first_seen_at": "2026-09-30T09:36:25.271511+00:00",
+    "last_seen_at": "2026-09-30T09:36:25.271511+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 240000,
+        "date": "2026-09-30T09:36:25.271511+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6176358",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F01%2F18%2F35%2F33%2F28e52b6c-f984-4f5a-bb8d-3ea6787ef442%2F69408_AIKKmK4n5nncd46nJ-mE1Q.jpg",
+    "price": 905000,
+    "location": "Nizami m.",
+    "area_m2": "226.1 m²",
+    "lat": 40.38055543487863,
+    "lng": 49.82827708916371,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6176358",
+    "first_seen_at": "2026-09-30T09:36:25.313805+00:00",
+    "last_seen_at": "2026-09-30T09:36:25.313805+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 905000,
+        "date": "2026-09-30T09:36:25.313805+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5971388",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F03%2F16%2F14%2F52%2F48%2F2ce8d76a-dc88-4ff8-a962-ec00404ecdb8%2F40125_nqYQZ-NHngU1pqwnse6Xsg.jpg",
+    "price": 900000,
+    "location": "Nizami m.",
+    "area_m2": "190 m²",
+    "lat": 40.38505077011277,
+    "lng": 49.82864218267117,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5971388",
+    "first_seen_at": "2026-09-30T09:36:25.355459+00:00",
+    "last_seen_at": "2026-09-30T09:36:25.355459+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 900000,
+        "date": "2026-09-30T09:36:25.355459+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6496861",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F27%2F19%2F08%2F26%2Fc5a4f0e3-5919-4b05-8423-6c167300c102%2F94003_HaTmWgahzU_4LEdAM-eQDw.jpg",
+    "price": 630000,
+    "location": "Ağ şəhər q.",
+    "area_m2": "116 m²",
+    "lat": 40.37925744377256,
+    "lng": 49.89326232168897,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6496861",
+    "first_seen_at": "2026-09-30T09:36:25.396646+00:00",
+    "last_seen_at": "2026-09-30T09:36:25.396646+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 630000,
+        "date": "2026-09-30T09:36:25.396646+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6495725",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F27%2F12%2F47%2F54%2F8af78ff4-44d2-4907-8b9c-317b99a4490f%2F59346_FlbNut6mCoDBzBUDV_MzFQ.jpg",
+    "price": 430000,
+    "location": "Nərimanov r.",
+    "area_m2": "127 m²",
+    "lat": 40.39790547490332,
+    "lng": 49.83869027573541,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6495725",
+    "first_seen_at": "2026-09-30T09:36:25.440429+00:00",
+    "last_seen_at": "2026-09-30T09:36:25.440429+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 430000,
+        "date": "2026-09-30T09:36:25.440429+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5678213",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F11%2F20%2F14%2F37%2F08%2Ff0521d1e-562f-4cdd-b827-ee3b2c531e11%2F24455_7sQ34QAhyH9eAKv9mG1o0g.jpg",
+    "price": 650000,
+    "location": "Şah İsmayıl Xətai m.",
+    "area_m2": "220 m²",
+    "lat": 40.38283559419443,
+    "lng": 49.87109396151714,
+    "has_repair": true,
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5678213",
+    "first_seen_at": "2026-09-30T09:36:25.484615+00:00",
+    "last_seen_at": "2026-09-30T09:36:25.484615+00:00",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 650000,
+        "date": "2026-09-30T09:36:25.484615+00:00"
+      }
+    ]
+  }
+]
