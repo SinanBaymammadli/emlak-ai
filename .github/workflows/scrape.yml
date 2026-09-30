@@ -80,7 +80,15 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Cache Camoufox browser
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/camoufox
+          key: camoufox-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
+
       - name: Fetch Camoufox browser
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
         run: python -m camoufox fetch
 
       - name: Install Xvfb
