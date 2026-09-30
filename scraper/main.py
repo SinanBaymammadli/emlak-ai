@@ -146,10 +146,7 @@ async def scrape_category(page, cfg: dict) -> None:
     if SCRAPE_LIMIT:
         print(f"  limit={SCRAPE_LIMIT} (test mode — skipping full scroll)")
     else:
-        # Only use early-stop once we have a substantial baseline (>= 500 known listings).
-        # Before that, do a full scroll so the first run captures everything.
-        known = set(existing.keys()) if len(existing) >= 500 else None
-        await scroll_load_all(page, known_ids=known)
+        await scroll_load_all(page)
     raw_cards = await extract_cards(page)
     if SCRAPE_LIMIT:
         raw_cards = raw_cards[:SCRAPE_LIMIT]
@@ -177,6 +174,14 @@ async def scrape_category(page, cfg: dict) -> None:
                 "has_repair": rec.get("has_repair"),
                 "area_m2_gql": rec.get("area_m2"),
                 "land_area_sot": rec.get("land_area_sot"),
+                "floor_number": rec.get("floor_number"),
+                "updated_at_site": rec.get("updated_at_site"),
+                "is_featured": rec.get("is_featured"),
+                "title": rec.get("title"),
+                "description": rec.get("description"),
+                "building_type": rec.get("building_type"),
+                "location_id": rec.get("location_id"),
+                "location_name": rec.get("location_name"),
             }
 
         listing = {
@@ -186,6 +191,14 @@ async def scrape_category(page, cfg: dict) -> None:
             "lat": gql.get("lat"),
             "lng": gql.get("lng"),
             "has_repair": gql.get("has_repair"),
+            "floor_number": gql.get("floor_number"),
+            "updated_at_site": gql.get("updated_at_site"),
+            "is_featured": gql.get("is_featured"),
+            "title": gql.get("title"),
+            "description": gql.get("description"),
+            "building_type": gql.get("building_type"),
+            "location_id": gql.get("location_id"),
+            "location_name": gql.get("location_name"),
         }
         if gql.get("area_m2_gql") and not listing.get("area_m2"):
             listing["area_m2"] = gql["area_m2_gql"]
