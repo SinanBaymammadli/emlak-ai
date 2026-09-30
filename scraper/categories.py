@@ -1,43 +1,51 @@
 _BASE = "items_view=list&sorting=bumped_at+desc"
 _ROOMS = ["1", "2", "3", "4", "5%2B"]  # 5%2B = "5+" URL-encoded
 _BUILDING_TYPES = ["yeni-tikili", "kohne-tikili"]
+_KUPCA = [True, False]  # has_bill_of_sale
 
 
-def _room_url(base_path: str, room: str) -> str:
-    return f"{base_path}?{_BASE}&room_ids%5B%5D={room}"
+def _room_url(base_path: str, room: str, kupca: bool | None = None) -> str:
+    url = f"{base_path}?{_BASE}&room_ids%5B%5D={room}"
+    if kupca is not None:
+        url += f"&has_bill_of_sale={'true' if kupca else 'false'}"
+    return url
 
 
 def _plain_url(base_path: str) -> str:
     return f"{base_path}?{_BASE}"
 
 
-# Apartments split by building type (yeni/kohne) AND room count.
+# Apartments split by: building type (yeni/kohne) × bill-of-sale (kupca/nokupca) × room count
 # Houses split by room count only.
 # After scraping, main.py merges sub-files into the final category file.
 CATEGORIES = [
-    # ── Apartments (sale) — yeni + kohne × 5 room counts ─────────────────────
+    # ── Apartments (sale) — yeni/kohne × kupca/nokupca × 5 rooms ─────────────
     *[
         {
             "category": "apartment",
             "deal_type": "sale",
-            "building": btype.replace("-tikili", ""),  # "yeni" or "kohne"
+            "building": btype.replace("-tikili", ""),
+            "kupca": kupca,
             "room": room,
-            "url": _room_url(f"https://bina.az/baki/alqi-satqi/menziller/{btype}", room),
+            "url": _room_url(f"https://bina.az/baki/alqi-satqi/menziller/{btype}", room, kupca),
         }
         for btype in _BUILDING_TYPES
+        for kupca in _KUPCA
         for room in _ROOMS
     ],
 
-    # ── Apartments (rental) — yeni + kohne × 5 room counts ───────────────────
+    # ── Apartments (rental) — yeni/kohne × kupca/nokupca × 5 rooms ───────────
     *[
         {
             "category": "apartment",
             "deal_type": "rental",
             "building": btype.replace("-tikili", ""),
+            "kupca": kupca,
             "room": room,
-            "url": _room_url(f"https://bina.az/baki/kiraye/menziller/{btype}", room),
+            "url": _room_url(f"https://bina.az/baki/kiraye/menziller/{btype}", room, kupca),
         }
         for btype in _BUILDING_TYPES
+        for kupca in _KUPCA
         for room in _ROOMS
     ],
 
