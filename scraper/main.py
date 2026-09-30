@@ -32,6 +32,8 @@ load_dotenv()
 DATA_DIR = Path(os.getenv("DATA_DIR", "data"))
 # Set SCRAPE_LIMIT=20 to test with first N listings per category (skips full scroll)
 SCRAPE_LIMIT = int(os.getenv("SCRAPE_LIMIT", "0")) or None
+# How many categories to scrape simultaneously (each gets its own browser)
+CONCURRENCY = int(os.getenv("SCRAPER_CONCURRENCY", "3"))
 
 
 def telegram_notify(text: str) -> None:
@@ -218,21 +220,30 @@ async def scrape_category(page, cfg: dict) -> None:
     )
 
 
+async def scrape_category_isolated(cfg: dict, sem: asyncio.Semaphore, errors: list) -> None:
+    """Open a dedicated browser for one category, scrape it, then close."""
+    async with sem:
+        try:
+            async with open_browser(headless=False) as browser:
+                page = await browser.new_page()
+                await scrape_category(page, cfg)
+        except Exception as exc:
+            msg = f"{cfg['category']}/{cfg['deal_type']}: {exc}"
+            print(f"  ERROR {msg}")
+            errors.append(msg)
+
+
 async def main() -> None:
     DATA_DIR.mkdir(exist_ok=True)
     errors: list[str] = []
 
+    print(f"Scraping {len(CATEGORIES)} categories with concurrency={CONCURRENCY}")
+    sem = asyncio.Semaphore(CONCURRENCY)
+
     try:
-        async with open_browser(headless=False) as browser:
-            page = await browser.new_page()
-            for cfg in CATEGORIES:
-                try:
-                    await scrape_category(page, cfg)
-                except Exception as exc:
-                    msg = f"{cfg['category']}/{cfg['deal_type']}: {exc}"
-                    print(f"  ERROR {msg}")
-                    errors.append(msg)
-                    continue
+        await asyncio.gather(
+            *[scrape_category_isolated(cfg, sem, errors) for cfg in CATEGORIES]
+        )
     except Exception as exc:
         telegram_notify(f"❌ <b>emlak-ai scrape failed</b>\n{exc}")
         raise
