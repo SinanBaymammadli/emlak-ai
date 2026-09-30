@@ -20,11 +20,27 @@
       align-items: center;
       flex-shrink: 0;
     }
-    .map-stats { margin-left: auto; font-size: .78rem; color: #6b7280; white-space: nowrap; }
+    .map-stats { font-size: .78rem; color: #6b7280; white-space: nowrap; }
+
+    .view-toggle {
+      display: flex; gap: 4px; margin-left: auto;
+    }
+    .view-btn {
+      padding: 5px 14px;
+      border-radius: 7px;
+      border: 1.5px solid #d1d5db;
+      background: #fff;
+      font-size: .78rem;
+      cursor: pointer;
+      font-weight: 500;
+      color: #374151;
+      transition: all .15s;
+    }
+    .view-btn.active { background: #6366f1; border-color: #6366f1; color: #fff; }
 
     #map { flex: 1; width: 100%; }
 
-    /* Leaflet popup */
+    /* Popup */
     .popup-photo { width: 200px; height: 130px; object-fit: cover; border-radius: 6px; margin-bottom: 8px; display: block; }
     .popup-price { font-size: 1rem; font-weight: 700; color: #1a1a2e; }
     .popup-ppm2  { font-size: .75rem; color: #6366f1; font-weight: 600; }
@@ -36,7 +52,7 @@
     .popup-link { display: block; margin-top: 8px; font-size: .78rem; color: #6366f1; text-decoration: none; }
     .popup-link:hover { text-decoration: underline; }
 
-    /* Legend */
+    /* Marker legend */
     .map-legend {
       position: absolute; bottom: 24px; right: 10px; z-index: 1000;
       background: #fff; border-radius: 8px; padding: 10px 14px;
@@ -46,6 +62,30 @@
     .legend-item { display: flex; align-items: center; gap: 7px; margin-bottom: 5px; }
     .legend-item:last-child { margin-bottom: 0; }
     .legend-dot { width: 12px; height: 12px; border-radius: 50%; flex-shrink: 0; }
+
+    /* Choropleth legend */
+    .choropleth-legend {
+      position: absolute; bottom: 24px; right: 10px; z-index: 1000;
+      background: #fff; border-radius: 8px; padding: 10px 14px;
+      box-shadow: 0 2px 8px rgba(0,0,0,.12);
+      font-size: .75rem; color: #374151;
+      display: none;
+    }
+    .choropleth-legend.visible { display: block; }
+    .choropleth-legend-title { font-weight: 700; margin-bottom: 6px; }
+    .choro-item { display: flex; align-items: center; gap: 8px; margin-bottom: 4px; }
+    .choro-swatch { width: 20px; height: 12px; border-radius: 2px; flex-shrink: 0; border: 1px solid rgba(0,0,0,.1); }
+
+    /* District tooltip */
+    .district-tooltip {
+      background: rgba(26,26,46,.88);
+      color: #fff;
+      border: none;
+      border-radius: 6px;
+      padding: 6px 10px;
+      font-size: .78rem;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    }
   </style>
 </head>
 <body>
@@ -75,17 +115,33 @@
     <button class="chip" data-type="rental">Kirayə</button>
   </div>
   <span class="map-stats" id="map-stats">Yüklənir…</span>
+  <div class="view-toggle">
+    <button class="view-btn active" id="btn-markers">Markerlər</button>
+    <button class="view-btn" id="btn-choropleth">Qiymət xəritəsi</button>
+  </div>
 </div>
 
 <div id="map"></div>
 
-<div class="map-legend">
+<!-- Marker legend -->
+<div class="map-legend" id="marker-legend">
   <div class="legend-item"><div class="legend-dot" style="background:#6366f1"></div> Mənzil</div>
   <div class="legend-item"><div class="legend-dot" style="background:#4ade80"></div> Həyət evi</div>
   <div class="legend-item"><div class="legend-dot" style="background:#f59e0b"></div> Torpaq</div>
   <div class="legend-item"><div class="legend-dot" style="background:#ef4444"></div> Kommersiya</div>
   <div class="legend-item"><div class="legend-dot" style="background:#06b6d4"></div> Ofis</div>
   <div class="legend-item"><div class="legend-dot" style="background:#8b5cf6"></div> Qaraj</div>
+</div>
+
+<!-- Choropleth legend (hidden by default) -->
+<div class="choropleth-legend" id="choropleth-legend">
+  <div class="choropleth-legend-title">Orta ₼/m²</div>
+  <div class="choro-item"><div class="choro-swatch" style="background:#dcfce7"></div><span id="choro-l1">—</span></div>
+  <div class="choro-item"><div class="choro-swatch" style="background:#86efac"></div><span id="choro-l2">—</span></div>
+  <div class="choro-item"><div class="choro-swatch" style="background:#fef08a"></div><span id="choro-l3">—</span></div>
+  <div class="choro-item"><div class="choro-swatch" style="background:#fdba74"></div><span id="choro-l4">—</span></div>
+  <div class="choro-item"><div class="choro-swatch" style="background:#f87171"></div><span id="choro-l5">—</span></div>
+  <div class="choro-item"><div class="choro-swatch" style="background:#e5e7eb"></div><span>Məlumat yoxdur</span></div>
 </div>
 
 <script>
@@ -98,6 +154,7 @@ const FILES = {
   land: ['sale'], commercial: ['sale','rental'],
   office: ['sale','rental'], garage: ['sale','rental'],
 };
+const CHORO_COLORS = ['#dcfce7','#86efac','#fef08a','#fdba74','#f87171'];
 
 function fmt(n) { return Math.round(n).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ' '); }
 function ppm2(l) {
@@ -105,15 +162,21 @@ function ppm2(l) {
   if (!l.price || !a || a <= 0) return null;
   return l.price / a;
 }
-function formatPrice(p, dt) {
-  return dt === 'rental' ? `${fmt(p)} ₼/ay` : `${fmt(p)} ₼`;
+function formatPrice(p, dt) { return dt === 'rental' ? `${fmt(p)} ₼/ay` : `${fmt(p)} ₼`; }
+
+// Normalize district name for fuzzy matching
+function normName(s) {
+  return (s || '').toLowerCase()
+    .replace(/rayonu?/g, '').replace(/\br\./g, '')
+    .replace(/nəriman\s+nərimanov/g, 'nərimanov')
+    .replace(/[^a-zəığüöçşı]/g, ' ')
+    .trim().replace(/\s+/g, ' ');
 }
 
 // Init map
 const map = L.map('map').setView([40.4093, 49.8671], 11);
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-  attribution: '© OpenStreetMap',
-  maxZoom: 19,
+  attribution: '© OpenStreetMap', maxZoom: 19,
 }).addTo(map);
 
 const cache = {};
@@ -129,35 +192,143 @@ async function loadFile(cat, type) {
 
 let allListings = [];
 let selCat = 'all', selType = 'all';
+let viewMode = 'markers'; // 'markers' | 'choropleth'
 let markerLayer = L.layerGroup().addTo(map);
+let choroLayer = null;
+let districtGeoJson = null;
 
+// ── Load data ─────────────────────────────────────────────────────────────────
 async function loadAll() {
   const pairs = [];
   Object.entries(FILES).forEach(([c, types]) => types.forEach(t => pairs.push([c, t])));
-  allListings = (await Promise.all(pairs.map(([c,t]) => loadFile(c,t)))).flat();
-  updateMarkers();
+  const [listingsArr, geoJsonData] = await Promise.all([
+    Promise.all(pairs.map(([c,t]) => loadFile(c,t))).then(r => r.flat()),
+    fetch('data/districts.geojson').then(r => r.ok ? r.json() : null).catch(() => null),
+  ]);
+  allListings = listingsArr;
+  districtGeoJson = geoJsonData;
+  render();
 }
 
-function updateMarkers() {
-  markerLayer.clearLayers();
+// ── Choropleth helpers ────────────────────────────────────────────────────────
+function computeDistrictPpm2(listings) {
+  // Build map: normalised district name → [ppm2 values]
+  const buckets = {};
+  listings.forEach(l => {
+    const v = ppm2(l);
+    if (!v) return;
+    const key = normName(l.location_name || l.location);
+    if (!key) return;
+    if (!buckets[key]) buckets[key] = [];
+    buckets[key].push(v);
+  });
+  const avgs = {};
+  Object.entries(buckets).forEach(([k, vals]) => {
+    if (vals.length >= 2) avgs[k] = vals.reduce((a,b) => a+b, 0) / vals.length;
+  });
+  return avgs;
+}
 
-  const list = allListings.filter(l =>
+function quintileColor(value, sorted) {
+  if (!value || !sorted.length) return '#e5e7eb';
+  const pct = sorted.filter(v => v <= value).length / sorted.length;
+  if (pct <= 0.2) return CHORO_COLORS[0];
+  if (pct <= 0.4) return CHORO_COLORS[1];
+  if (pct <= 0.6) return CHORO_COLORS[2];
+  if (pct <= 0.8) return CHORO_COLORS[3];
+  return CHORO_COLORS[4];
+}
+
+function matchDistrict(featureName, districtAvgs) {
+  const fn = normName(featureName);
+  // Exact match
+  if (districtAvgs[fn] !== undefined) return districtAvgs[fn];
+  // Partial match
+  for (const [key, val] of Object.entries(districtAvgs)) {
+    if (fn.includes(key) || key.includes(fn)) return val;
+  }
+  return null;
+}
+
+function buildChoroLayer(listings) {
+  if (!districtGeoJson) return null;
+
+  const active = listings.filter(l => !l.deleted_at);
+  const districtAvgs = computeDistrictPpm2(active);
+  const sortedVals = Object.values(districtAvgs).sort((a,b) => a-b);
+
+  // Update legend labels
+  const q = (p) => {
+    const idx = Math.floor(p * sortedVals.length);
+    return sortedVals[Math.min(idx, sortedVals.length - 1)];
+  };
+  if (sortedVals.length >= 5) {
+    document.getElementById('choro-l1').textContent = `≤ ${fmt(q(0.2))} ₼/m²`;
+    document.getElementById('choro-l2').textContent = `≤ ${fmt(q(0.4))} ₼/m²`;
+    document.getElementById('choro-l3').textContent = `≤ ${fmt(q(0.6))} ₼/m²`;
+    document.getElementById('choro-l4').textContent = `≤ ${fmt(q(0.8))} ₼/m²`;
+    document.getElementById('choro-l5').textContent = `> ${fmt(q(0.8))} ₼/m²`;
+  }
+
+  return L.geoJSON(districtGeoJson, {
+    style: (feature) => {
+      const avg = matchDistrict(feature.properties.name, districtAvgs);
+      return {
+        fillColor: avg ? quintileColor(avg, sortedVals) : '#e5e7eb',
+        fillOpacity: 0.65,
+        color: '#94a3b8',
+        weight: 1.5,
+      };
+    },
+    onEachFeature: (feature, layer) => {
+      const avg = matchDistrict(feature.properties.name, districtAvgs);
+      const label = avg
+        ? `<b>${feature.properties.name}</b><br>Orta ₼/m²: ${fmt(avg)} ₼`
+        : `<b>${feature.properties.name}</b><br>Məlumat yoxdur`;
+
+      layer.on({
+        mouseover: (e) => {
+          e.target.setStyle({ fillOpacity: 0.85, weight: 2.5, color: '#1a1a2e' });
+          layer.bindTooltip(label, { className: 'district-tooltip', sticky: true }).openTooltip(e.latlng);
+        },
+        mouseout: (e) => {
+          choroLayer.resetStyle(e.target);
+          layer.closeTooltip();
+        },
+      });
+    },
+  });
+}
+
+// ── Render ────────────────────────────────────────────────────────────────────
+function getFilteredListings() {
+  return allListings.filter(l =>
     !l.deleted_at &&
-    l.lat != null && l.lng != null &&
     (selCat === 'all' || l.category === selCat) &&
     (selType === 'all' || l.deal_type === selType)
   );
+}
 
-  list.forEach(l => {
+function render() {
+  const filtered = getFilteredListings();
+  if (viewMode === 'markers') renderMarkers(filtered);
+  else renderChoropleth(filtered);
+}
+
+function renderMarkers(list) {
+  // Remove choropleth
+  if (choroLayer) { map.removeLayer(choroLayer); choroLayer = null; }
+  document.getElementById('choropleth-legend').classList.remove('visible');
+  document.getElementById('marker-legend').style.display = '';
+
+  markerLayer.clearLayers();
+  const withCoords = list.filter(l => l.lat != null && l.lng != null);
+
+  withCoords.forEach(l => {
     const color = CAT_COLORS[l.category] || '#6366f1';
     const marker = L.circleMarker([l.lat, l.lng], {
-      radius: 7,
-      fillColor: color,
-      fillOpacity: 0.85,
-      color: '#fff',
-      weight: 1.5,
+      radius: 7, fillColor: color, fillOpacity: 0.85, color: '#fff', weight: 1.5,
     });
-
     const m2 = ppm2(l);
     const area = typeof l.area_m2 === 'number' ? l.area_m2
       : parseFloat(String(l.area_m2||'').match(/[\d.]+/)?.[0]) || null;
@@ -165,8 +336,7 @@ function updateMarkers() {
       .filter(Boolean).join(' · ');
     const agencyBadge = l.is_agency === true
       ? '<span class="popup-badge popup-agency">Agentlik</span>'
-      : l.is_agency === false
-      ? '<span class="popup-badge popup-owner">Mülkiyyətçi</span>' : '';
+      : l.is_agency === false ? '<span class="popup-badge popup-owner">Mülkiyyətçi</span>' : '';
 
     marker.bindPopup(`
       ${l.photo_url ? `<img class="popup-photo" src="${l.photo_url}" onerror="this.style.display='none'">` : ''}
@@ -177,27 +347,58 @@ function updateMarkers() {
       ${agencyBadge}
       <a class="popup-link" href="${l.url}" target="_blank" rel="noopener">bina.az-da aç →</a>
     `, { maxWidth: 220 });
-
     markerLayer.addLayer(marker);
   });
 
-  document.getElementById('map-stats').textContent = `${list.length.toLocaleString()} elan xəritədə`;
+  document.getElementById('map-stats').textContent = `${withCoords.length.toLocaleString()} elan xəritədə`;
 }
 
-// Events
+function renderChoropleth(list) {
+  // Remove markers
+  markerLayer.clearLayers();
+  document.getElementById('marker-legend').style.display = 'none';
+  document.getElementById('choropleth-legend').classList.add('visible');
+
+  if (choroLayer) { map.removeLayer(choroLayer); choroLayer = null; }
+  if (!districtGeoJson) {
+    document.getElementById('map-stats').textContent = 'GeoJSON yüklənmədi';
+    return;
+  }
+
+  choroLayer = buildChoroLayer(list);
+  if (choroLayer) choroLayer.addTo(map);
+
+  const withPpm2 = list.filter(l => ppm2(l) !== null);
+  document.getElementById('map-stats').textContent = `${list.length.toLocaleString()} elan, ${districtGeoJson.features.length} rayon`;
+}
+
+// ── Events ────────────────────────────────────────────────────────────────────
 document.getElementById('cat-chips').addEventListener('click', e => {
   const btn = e.target.closest('.chip'); if (!btn) return;
   document.querySelectorAll('#cat-chips .chip').forEach(c => c.classList.remove('active'));
   btn.classList.add('active');
   selCat = btn.dataset.cat;
-  updateMarkers();
+  render();
 });
 document.getElementById('type-chips').addEventListener('click', e => {
   const btn = e.target.closest('.chip'); if (!btn) return;
   document.querySelectorAll('#type-chips .chip').forEach(c => c.classList.remove('active'));
   btn.classList.add('active');
   selType = btn.dataset.type;
-  updateMarkers();
+  render();
+});
+
+document.getElementById('btn-markers').addEventListener('click', () => {
+  viewMode = 'markers';
+  document.getElementById('btn-markers').classList.add('active');
+  document.getElementById('btn-choropleth').classList.remove('active');
+  render();
+});
+document.getElementById('btn-choropleth').addEventListener('click', () => {
+  viewMode = 'choropleth';
+  document.getElementById('btn-choropleth').classList.add('active');
+  document.getElementById('btn-markers').classList.remove('active');
+  render();
 });
 
 loadAll();
