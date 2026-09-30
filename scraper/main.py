@@ -211,12 +211,24 @@ def make_stop_check(existing: dict[str, dict], parser, threshold: int = 50):
     return check
 
 
-def mark_deleted(existing: dict[str, dict], seen_ids: set[str]) -> int:
-    now = _now()
+def mark_deleted(existing: dict[str, dict], seen_ids: set[str], stale_days: int = 7) -> int:
+    """Mark listings as deleted if not seen in this scrape AND not updated on bina.az
+    for more than stale_days. This handles incremental scrapes where unseen IDs are
+    simply listings we didn't reach (not necessarily removed from the site).
+    """
+    from datetime import datetime, timezone, timedelta
+    now = datetime.now(timezone.utc)
+    cutoff = (now - timedelta(days=stale_days)).isoformat()
     count = 0
     for item_id, record in existing.items():
-        if item_id not in seen_ids and record.get("deleted_at") is None:
-            record["deleted_at"] = now
+        if record.get("deleted_at") is not None:
+            continue
+        if item_id in seen_ids:
+            continue
+        # Only mark deleted if updated_at_site is older than cutoff (stale listing)
+        updated = record.get("updated_at_site") or record.get("last_seen_at", "")
+        if updated < cutoff:
+            record["deleted_at"] = now.isoformat()
             count += 1
     return count
 

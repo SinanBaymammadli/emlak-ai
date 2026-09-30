@@ -158,7 +158,7 @@ function applyFilters() {
 
   list = [...list].sort((a, b) => {
     switch (sort) {
-      case 'newest':     return new Date(b.last_seen_at) - new Date(a.last_seen_at);
+      case 'newest':     return new Date(b.updated_at_site || b.last_seen_at) - new Date(a.updated_at_site || a.last_seen_at);
       case 'price_asc':  return (a.price||0) - (b.price||0);
       case 'price_desc': return (b.price||0) - (a.price||0);
       case 'ppm2_asc':   return (ppm2(a)||0) - (ppm2(b)||0);
