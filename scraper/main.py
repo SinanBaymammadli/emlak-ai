@@ -146,7 +146,10 @@ async def scrape_category(page, cfg: dict) -> None:
     if SCRAPE_LIMIT:
         print(f"  limit={SCRAPE_LIMIT} (test mode — skipping full scroll)")
     else:
-        await scroll_load_all(page, known_ids=set(existing.keys()))
+        # Only use early-stop once we have a substantial baseline (>= 500 known listings).
+        # Before that, do a full scroll so the first run captures everything.
+        known = set(existing.keys()) if len(existing) >= 500 else None
+        await scroll_load_all(page, known_ids=known)
     raw_cards = await extract_cards(page)
     if SCRAPE_LIMIT:
         raw_cards = raw_cards[:SCRAPE_LIMIT]
