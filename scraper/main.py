@@ -65,23 +65,26 @@ def _room_label(room: str) -> str:
     return m.group(1) if m else room
 
 
-def _file_stem(category: str, deal_type: str, room: str | None = None) -> str:
+def _file_stem(category: str, deal_type: str, room: str | None = None, building: str | None = None) -> str:
+    parts = [category, deal_type]
+    if building:
+        parts.append(building)
     if room:
-        return f"{category}_{deal_type}_{_room_label(room)}"
-    return f"{category}_{deal_type}"
+        parts.append(_room_label(room))
+    return "_".join(parts)
 
 
-def load_existing(category: str, deal_type: str, room: str | None = None) -> dict[str, dict]:
-    path = DATA_DIR / f"{_file_stem(category, deal_type, room)}.json"
+def load_existing(category: str, deal_type: str, room: str | None = None, building: str | None = None) -> dict[str, dict]:
+    path = DATA_DIR / f"{_file_stem(category, deal_type, room, building)}.json"
     if not path.exists():
         return {}
     listings = json.loads(path.read_text(encoding="utf-8"))
     return {l["id"]: l for l in listings}
 
 
-def save_listings(category: str, deal_type: str, listings: dict[str, dict], room: str | None = None) -> None:
+def save_listings(category: str, deal_type: str, listings: dict[str, dict], room: str | None = None, building: str | None = None) -> None:
     DATA_DIR.mkdir(exist_ok=True)
-    path = DATA_DIR / f"{_file_stem(category, deal_type, room)}.json"
+    path = DATA_DIR / f"{_file_stem(category, deal_type, room, building)}.json"
     sorted_listings = sorted(
         listings.values(),
         key=lambda l: (l["deleted_at"] is not None, l.get("last_seen_at", "")),
@@ -95,18 +98,24 @@ def save_listings(category: str, deal_type: str, listings: dict[str, dict], room
 
 
 def merge_room_files(category: str, deal_type: str) -> None:
-    """Merge all room sub-files into the combined category file, deduped by listing ID."""
-    from scraper.categories import _ROOMS
+    """Merge all sub-files into the combined category file, deduped by listing ID."""
+    from scraper.categories import _ROOMS, _BUILDING_TYPES
     merged: dict[str, dict] = {}
-    for room in _ROOMS:
-        path = DATA_DIR / f"{_file_stem(category, deal_type, room)}.json"
-        if not path.exists():
-            continue
-        for listing in json.loads(path.read_text(encoding="utf-8")):
-            lid = listing["id"]
-            # Keep the most recently seen version if duplicate
-            if lid not in merged or listing.get("last_seen_at", "") > merged[lid].get("last_seen_at", ""):
-                merged[lid] = listing
+
+    # Determine which building variants to merge
+    buildings: list[str | None] = [None]
+    if category == "apartment":
+        buildings = [b.replace("-tikili", "") for b in _BUILDING_TYPES]
+
+    for building in buildings:
+        for room in _ROOMS:
+            path = DATA_DIR / f"{_file_stem(category, deal_type, room, building)}.json"
+            if not path.exists():
+                continue
+            for listing in json.loads(path.read_text(encoding="utf-8")):
+                lid = listing["id"]
+                if lid not in merged or listing.get("last_seen_at", "") > merged[lid].get("last_seen_at", ""):
+                    merged[lid] = listing
 
     if merged:
         save_listings(category, deal_type, merged)
@@ -175,10 +184,13 @@ async def scrape_category(page, cfg: dict) -> None:
     url = cfg["url"]
 
     room = cfg.get("room")
-    label = f"{category}/{deal_type}" + (f"/{room}otaq" if room else "")
-    print(f"\n→ {label}")
+    building = cfg.get("building")
+    parts = [category, deal_type]
+    if building: parts.append(building)
+    if room: parts.append(f"{_room_label(room)}otaq")
+    print(f"\n→ {'/'.join(parts)}")
 
-    existing = load_existing(category, deal_type, room)
+    existing = load_existing(category, deal_type, room, building)
 
     total = await load_category_page(page, url)
     print(f"  total on site: {total}")
@@ -226,7 +238,7 @@ async def scrape_category(page, cfg: dict) -> None:
         counts[result] += 1
 
     deleted = mark_deleted(existing, seen_ids)
-    save_listings(category, deal_type, existing, room)
+    save_listings(category, deal_type, existing, room, building)
 
     print(
         f"  new={counts['new']} updated={counts['updated']} "
@@ -290,9 +302,10 @@ if __name__ == "__main__":
     import sys
 
     def _cfg_key(c: dict) -> str:
-        base = f"{c['category']}_{c['deal_type']}"
-        room = c.get("room")
-        return f"{base}_{_room_label(room)}" if room else base
+        parts = [c["category"], c["deal_type"]]
+        if c.get("building"): parts.append(c["building"])
+        if c.get("room"): parts.append(_room_label(c["room"]))
+        return "_".join(parts)
 
     if len(sys.argv) > 1:
         keys = set(sys.argv[1:])
