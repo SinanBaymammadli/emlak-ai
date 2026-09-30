@@ -44,7 +44,7 @@ async def scroll_and_extract(page) -> list[dict]:
 
     await page.set_viewport_size({"width": 1280, "height": 900})
     all_cards: list[dict] = []
-    prev, stalls, last_pos = 0, 0, 0
+    prev_total, stalls, last_pos = 0, 0, 0
 
     while stalls < 3:
         scroll_height = await page.evaluate("() => document.body.scrollHeight")
@@ -56,11 +56,12 @@ async def scroll_and_extract(page) -> list[dict]:
         last_pos = pos
         await page.wait_for_timeout(1_500)
 
-        count = await page.evaluate(
-            "() => document.querySelectorAll('.item-card:not([data-x])').length"
+        # Count ALL cards (including already-extracted ones) for stall detection
+        total = await page.evaluate(
+            "() => document.querySelectorAll('.item-card').length"
         )
 
-        if count > prev:
+        if total > prev_total:
             # Extract newly visible cards (not yet marked as extracted)
             new_cards = await page.evaluate("""() => {
                 const results = [];
@@ -78,7 +79,7 @@ async def scroll_and_extract(page) -> list[dict]:
             }""")
 
             all_cards.extend(new_cards)
-            print(f"  scroll: {len(all_cards)} extracted")
+            print(f"  scroll: {total} loaded, {len(all_cards)} extracted")
 
             # Collapse processed cards every COLLAPSE_EVERY to keep DOM lean
             if len(all_cards) % COLLAPSE_EVERY < len(new_cards):
@@ -90,7 +91,7 @@ async def scroll_and_extract(page) -> list[dict]:
                     });
                 }""")
 
-            prev, stalls = count, 0
+            prev_total, stalls = total, 0
         else:
             stalls += 1
 
