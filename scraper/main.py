@@ -326,7 +326,7 @@ async def scrape_category_isolated(cfg: dict, sem: asyncio.Semaphore, errors: li
             errors.append(msg)
 
 
-async def main(categories: list | None = None) -> None:
+async def main(categories: list | None = None, skip_merge: bool = False) -> None:
     DATA_DIR.mkdir(exist_ok=True)
     errors: list[str] = []
     targets = categories or CATEGORIES
@@ -355,10 +355,10 @@ async def main(categories: list | None = None) -> None:
         lines.append("\n⚠️ Errors:")
         lines.extend(f"  • {e}" for e in errors)
 
-    # Merge room sub-files into combined category files
-    print("\nMerging room sub-files…")
-    for category, deal_type in MERGE_TARGETS:
-        merge_room_files(category, deal_type)
+    if not skip_merge:
+        print("\nMerging room sub-files…")
+        for category, deal_type in MERGE_TARGETS:
+            merge_room_files(category, deal_type)
 
     telegram_notify("\n".join(lines))
     print("\nDone.")
@@ -393,6 +393,7 @@ if __name__ == "__main__":
             sys.exit(1)
         # Match by full key (e.g. apartment_sale_1room) or base (e.g. apartment_sale → all rooms)
         selected = [c for c in CATEGORIES if _cfg_key(c) in keys or f"{c['category']}_{c['deal_type']}" in keys]
-        asyncio.run(main(selected))
+        # Skip merge when running specific batches — merge job handles it separately
+        asyncio.run(main(selected, skip_merge=True))
     else:
         asyncio.run(main())
