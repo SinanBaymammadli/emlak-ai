@@ -1,3 +1,4 @@
+import time
 from camoufox.async_api import AsyncCamoufox
 
 
@@ -35,49 +36,64 @@ async def load_category_page(page, url: str) -> int:
     return total
 
 
+STALL_TIMEOUT = 10  # seconds of no scrollHeight change → listings finished
+
+
 async def scroll_and_extract(page) -> list[dict]:
-    """Scroll and extract cards incrementally, marking each with data-x to avoid duplicates.
-    Returns the full list of extracted cards.
+    """Scroll and extract cards incrementally.
+    Stops when page scrollHeight hasn't grown for STALL_TIMEOUT seconds.
     """
     await page.set_viewport_size({"width": 1280, "height": 900})
     all_cards: list[dict] = []
-    prev_total, stalls, last_pos = 0, 0, 0
+    last_height = 0
+    last_change_t = time.time()
+    last_pos = 0
 
-    while stalls < 3:
+    while True:
         scroll_height = await page.evaluate("() => document.body.scrollHeight")
+
+        if scroll_height > last_height:
+            last_height = scroll_height
+            last_change_t = time.time()
+        elif time.time() - last_change_t >= STALL_TIMEOUT:
+            print(f"  page height stable for {STALL_TIMEOUT}s → listings finished ({len(all_cards)} total)")
+            break
+
+        # Scroll down, but abort the inner loop if the stall timeout fires
         pos = last_pos
         while pos < scroll_height:
+            if time.time() - last_change_t >= STALL_TIMEOUT:
+                break
             pos += 800
             await page.evaluate(f"window.scrollTo(0, {pos})")
-            await page.wait_for_timeout(200)
+            await page.wait_for_timeout(150)
         last_pos = pos
-        await page.wait_for_timeout(1_500)
+        await page.wait_for_timeout(800)
 
-        total = await page.evaluate(
-            "() => document.querySelectorAll('.item-card').length"
-        )
+        # Re-check timeout here in case inner loop exited early
+        if time.time() - last_change_t >= STALL_TIMEOUT:
+            print(f"  page height stable for {STALL_TIMEOUT}s → listings finished ({len(all_cards)} total)")
+            break
 
-        if total > prev_total:
-            new_cards = await page.evaluate("""() => {
-                const results = [];
-                document.querySelectorAll('.item-card:not([data-x])').forEach(card => {
-                    const a = card.querySelector('a[href*="/items/"]');
-                    if (!a) return;
-                    const m = a.getAttribute('href').match(/\\/items\\/(\\d+)/);
-                    if (!m) return;
-                    const img = card.querySelector('img');
-                    const photo_url = img ? (img.src || img.dataset.src || null) : null;
-                    card.setAttribute('data-x', '1');
-                    results.push({id: m[1], text: card.innerText.trim(), photo_url});
-                });
-                return results;
-            }""")
+        # Extract any new unprocessed cards
+        new_cards = await page.evaluate("""() => {
+            const results = [];
+            document.querySelectorAll('.item-card:not([data-x])').forEach(card => {
+                const a = card.querySelector('a[href*="/items/"]');
+                if (!a) return;
+                const m = a.getAttribute('href').match(/\\/items\\/(\\d+)/);
+                if (!m) return;
+                const img = card.querySelector('img');
+                const photo_url = img ? (img.src || img.dataset.src || null) : null;
+                card.setAttribute('data-x', '1');
+                results.push({id: m[1], text: card.innerText.trim(), photo_url});
+            });
+            return results;
+        }""")
 
+        if new_cards:
             all_cards.extend(new_cards)
-            print(f"  scroll: {total} loaded, {len(all_cards)} extracted")
-            prev_total, stalls = total, 0
-        else:
-            stalls += 1
+            print(f"  scroll: {last_height}px, {len(all_cards)} extracted")
 
     return all_cards
 
