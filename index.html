@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Emlak AI — Bakı Əmlak Bazarı</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: #f0f2f5;
+      color: #1a1a2e;
+      min-height: 100vh;
+    }
+
+    /* ── Header ── */
+    header {
+      background: #1a1a2e;
+      color: #fff;
+      padding: 18px 24px;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 2px 8px rgba(0,0,0,.4);
+    }
+    header h1 { font-size: 1.2rem; font-weight: 700; letter-spacing: .5px; }
+    header h1 span { color: #4ade80; }
+    #global-stats { font-size: .8rem; color: #94a3b8; margin-left: auto; white-space: nowrap; }
+
+    /* ── Controls ── */
+    .controls {
+      background: #fff;
+      border-bottom: 1px solid #e2e8f0;
+      padding: 14px 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .chips { display: flex; flex-wrap: wrap; gap: 6px; }
+    .chip {
+      padding: 5px 14px;
+      border-radius: 999px;
+      border: 1.5px solid #d1d5db;
+      background: #fff;
+      font-size: .8rem;
+      cursor: pointer;
+      transition: all .15s;
+      color: #374151;
+      font-weight: 500;
+    }
+    .chip:hover { border-color: #6366f1; color: #6366f1; }
+    .chip.active { background: #6366f1; border-color: #6366f1; color: #fff; }
+
+    .filters {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: center;
+    }
+    .filters input[type=text] {
+      flex: 1;
+      min-width: 180px;
+      padding: 7px 12px;
+      border: 1.5px solid #d1d5db;
+      border-radius: 8px;
+      font-size: .85rem;
+      outline: none;
+    }
+    .filters input[type=text]:focus { border-color: #6366f1; }
+    .filters select {
+      padding: 7px 10px;
+      border: 1.5px solid #d1d5db;
+      border-radius: 8px;
+      font-size: .85rem;
+      background: #fff;
+      cursor: pointer;
+      outline: none;
+    }
+    .filters label {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: .8rem;
+      color: #6b7280;
+      cursor: pointer;
+      white-space: nowrap;
+    }
+
+    /* ── Stats bar ── */
+    .stats-bar {
+      padding: 10px 24px;
+      font-size: .8rem;
+      color: #6b7280;
+      background: #f0f2f5;
+    }
+
+    /* ── Grid ── */
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 16px;
+      padding: 0 24px 24px;
+    }
+    @media (max-width: 900px) { .grid { grid-template-columns: repeat(2, 1fr); } }
+    @media (max-width: 560px) { .grid { grid-template-columns: 1fr; padding: 0 12px 16px; } }
+
+    /* ── Card ── */
+    .card {
+      background: #fff;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 1px 3px rgba(0,0,0,.08);
+      transition: transform .15s, box-shadow .15s;
+      display: flex;
+      flex-direction: column;
+    }
+    .card:hover { transform: translateY(-2px); box-shadow: 0 4px 16px rgba(0,0,0,.12); }
+    .card.deleted { opacity: .55; }
+
+    .card-photo-wrap {
+      position: relative;
+      aspect-ratio: 4/3;
+      overflow: hidden;
+      background: #e5e7eb;
+      display: block;
+    }
+    .card-photo-wrap img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform .2s;
+    }
+    .card:hover .card-photo-wrap img { transform: scale(1.03); }
+
+    .card-photo-placeholder {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: #e5e7eb;
+      color: #9ca3af;
+      font-size: 2rem;
+    }
+
+    .card-body { padding: 12px; flex: 1; display: flex; flex-direction: column; gap: 6px; }
+
+    .card-price-row { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+    .card-price { font-size: 1.05rem; font-weight: 700; color: #1a1a2e; }
+    .price-drop { font-size: .72rem; font-weight: 600; color: #16a34a; background: #dcfce7; padding: 2px 7px; border-radius: 999px; }
+    .price-rise { font-size: .72rem; font-weight: 600; color: #dc2626; background: #fee2e2; padding: 2px 7px; border-radius: 999px; }
+
+    .card-location { font-size: .82rem; color: #4b5563; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .card-details { font-size: .8rem; color: #6b7280; }
+
+    .card-badges { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 2px; }
+    .badge {
+      font-size: .68rem;
+      font-weight: 600;
+      padding: 2px 8px;
+      border-radius: 999px;
+    }
+    .badge-repair { background: #ede9fe; color: #7c3aed; }
+    .badge-deleted { background: #f3f4f6; color: #9ca3af; }
+    .badge-cat { background: #e0f2fe; color: #0369a1; }
+
+    .card-link { text-decoration: none; color: inherit; }
+
+    /* ── Pagination ── */
+    .pagination {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
+      padding: 20px 24px 32px;
+    }
+    .pagination button {
+      padding: 8px 20px;
+      border: 1.5px solid #d1d5db;
+      border-radius: 8px;
+      background: #fff;
+      cursor: pointer;
+      font-size: .85rem;
+      font-weight: 500;
+      transition: all .15s;
+    }
+    .pagination button:hover:not(:disabled) { border-color: #6366f1; color: #6366f1; }
+    .pagination button:disabled { opacity: .4; cursor: default; }
+    .pagination span { font-size: .85rem; color: #6b7280; }
+
+    /* ── Loading / Empty ── */
+    .state-msg {
+      grid-column: 1 / -1;
+      text-align: center;
+      padding: 60px 20px;
+      color: #9ca3af;
+      font-size: .95rem;
+    }
+    .spinner {
+      width: 36px; height: 36px;
+      border: 3px solid #e5e7eb;
+      border-top-color: #6366f1;
+      border-radius: 50%;
+      animation: spin .7s linear infinite;
+      margin: 0 auto 16px;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Emlak <span>AI</span></h1>
+  <div id="global-stats">Yüklənir…</div>
+</header>
+
+<div class="controls">
+  <div class="chips" id="cat-chips">
+    <button class="chip active" data-cat="all">Hamısı</button>
+    <button class="chip" data-cat="apartment">Mənzil</button>
+    <button class="chip" data-cat="house">Həyət evi</button>
+    <button class="chip" data-cat="land">Torpaq</button>
+    <button class="chip" data-cat="commercial">Kommersiya</button>
+    <button class="chip" data-cat="office">Ofis</button>
+    <button class="chip" data-cat="garage">Qaraj</button>
+  </div>
+  <div class="chips" id="type-chips">
+    <button class="chip active" data-type="all">Hamısı</button>
+    <button class="chip" data-type="sale">Satış</button>
+    <button class="chip" data-type="rental">Kirayə</button>
+  </div>
+  <div class="filters">
+    <input type="text" id="search" placeholder="Məkan axtar…">
+    <select id="sort">
+      <option value="newest">Ən yeni</option>
+      <option value="price_asc">Qiymət ↑</option>
+      <option value="price_desc">Qiymət ↓</option>
+      <option value="area_asc">Sahə ↑</option>
+      <option value="area_desc">Sahə ↓</option>
+    </select>
+    <label><input type="checkbox" id="show-deleted"> Silinmişləri göstər</label>
+  </div>
+</div>
+
+<div class="stats-bar" id="stats-bar">Yüklənir…</div>
+
+<div class="grid" id="grid"></div>
+<div class="pagination" id="pagination" style="display:none"></div>
+
+<script>
+const FILES = {
+  apartment: ['sale','rental'],
+  house:     ['sale','rental'],
+  land:      ['sale'],
+  commercial:['sale','rental'],
+  office:    ['sale','rental'],
+  garage:    ['sale','rental'],
+};
+
+const CATS = Object.keys(FILES);
+const PAGE_SIZE = 50;
+
+// State
+let selCat  = 'all';
+let selType = 'all';
+let search  = '';
+let sort    = 'newest';
+let showDel = false;
+let page    = 1;
+
+// Cache: key = "cat_type" → array
+const cache = {};
+let allListings = [];
+let filtered    = [];
+let loading     = false;
+
+// ── Helpers ──────────────────────────────────────────────────────────────────
+
+function formatPrice(price, dealType) {
+  if (!price && price !== 0) return '—';
+  const s = Math.round(price).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ' ');
+  return dealType === 'rental' ? `${s} ₼/ay` : `${s} ₼`;
+}
+
+function areaVal(l) {
+  if (!l.area_m2) return null;
+  if (typeof l.area_m2 === 'number') return l.area_m2;
+  const m = String(l.area_m2).match(/[\d.]+/);
+  return m ? parseFloat(m[0]) : null;
+}
+
+function priceChange(l) {
+  const h = l.price_history;
+  if (!h || h.length < 2) return null;
+  const prev = h[h.length - 2].price;
+  const curr = h[h.length - 1].price;
+  if (prev === curr) return null;
+  return curr - prev; // negative = drop
+}
+
+function cacheKey(cat, type) { return `${cat}_${type}`; }
+
+async function loadFile(cat, type) {
+  const key = cacheKey(cat, type);
+  if (cache[key]) return cache[key];
+  const url = `data/${cat}_${type}.json`;
+  try {
+    const res = await fetch(url);
+    if (!res.ok) throw new Error(`${res.status}`);
+    const data = await res.json();
+    cache[key] = data;
+    return data;
+  } catch(e) {
+    cache[key] = [];
+    return [];
+  }
+}
+
+async function loadAll() {
+  loading = true;
+  renderGrid();
+
+  const pairs = [];
+  if (selCat === 'all') {
+    CATS.forEach(c => FILES[c].forEach(t => {
+      if (selType === 'all' || selType === t) pairs.push([c, t]);
+    }));
+  } else {
+    const types = FILES[selCat] || [];
+    types.forEach(t => {
+      if (selType === 'all' || selType === t) pairs.push([selCat, t]);
+    });
+  }
+
+  const results = await Promise.all(pairs.map(([c, t]) => loadFile(c, t)));
+  allListings = results.flat();
+  loading = false;
+
+  applyFilters();
+}
+
+function applyFilters() {
+  let list = allListings;
+
+  if (!showDel) list = list.filter(l => !l.deleted_at);
+
+  if (search.trim()) {
+    const q = search.toLowerCase();
+    list = list.filter(l => (l.location || '').toLowerCase().includes(q));
+  }
+
+  // Sort
+  list = [...list].sort((a, b) => {
+    if (sort === 'newest') return new Date(b.last_seen_at) - new Date(a.last_seen_at);
+    if (sort === 'price_asc') return (a.price || 0) - (b.price || 0);
+    if (sort === 'price_desc') return (b.price || 0) - (a.price || 0);
+    if (sort === 'area_asc') return (areaVal(a) || 0) - (areaVal(b) || 0);
+    if (sort === 'area_desc') return (areaVal(b) || 0) - (areaVal(a) || 0);
+    return 0;
+  });
+
+  filtered = list;
+  page = 1;
+  updateStats();
+  renderGrid();
+  renderPagination();
+}
+
+// ── Render ────────────────────────────────────────────────────────────────────
+
+function renderGrid() {
+  const grid = document.getElementById('grid');
+
+  if (loading) {
+    grid.innerHTML = `<div class="state-msg"><div class="spinner"></div>Yüklənir…</div>`;
+    return;
+  }
+
+  const start = (page - 1) * PAGE_SIZE;
+  const slice = filtered.slice(start, start + PAGE_SIZE);
+
+  if (!slice.length) {
+    grid.innerHTML = `<div class="state-msg">Nəticə tapılmadı</div>`;
+    return;
+  }
+
+  grid.innerHTML = slice.map(cardHTML).join('');
+}
+
+function cardHTML(l) {
+  const change = priceChange(l);
+  let changeBadge = '';
+  if (change !== null) {
+    const abs = Math.abs(change).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ' ');
+    if (change < 0) changeBadge = `<span class="price-drop">↓ ${abs} ₼</span>`;
+    else changeBadge = `<span class="price-rise">↑ ${abs} ₼</span>`;
+  }
+
+  const photo = l.photo_url
+    ? `<img src="${esc(l.photo_url)}" alt="Şəkil" loading="lazy" onerror="this.parentElement.innerHTML='<div class=card-photo-placeholder>🏠</div>'">`
+    : `<div class="card-photo-placeholder">🏠</div>`;
+
+  const area = areaVal(l);
+  const details = [
+    l.rooms || '',
+    area ? `${area} m²` : '',
+    l.land_area_sot ? `${l.land_area_sot} sot` : '',
+  ].filter(Boolean).join(' · ');
+
+  const badges = [
+    l.has_repair ? `<span class="badge badge-repair">✓ Təmirli</span>` : '',
+    l.deleted_at ? `<span class="badge badge-deleted">Silinib</span>` : '',
+    (selCat === 'all') ? `<span class="badge badge-cat">${catLabel(l.category)}</span>` : '',
+  ].filter(Boolean).join('');
+
+  return `
+<div class="card${l.deleted_at ? ' deleted' : ''}">
+  <a class="card-photo-wrap" href="${esc(l.url)}" target="_blank" rel="noopener">${photo}</a>
+  <div class="card-body">
+    <div class="card-price-row">
+      <span class="card-price">${formatPrice(l.price, l.deal_type)}</span>
+      ${changeBadge}
+    </div>
+    ${l.location ? `<div class="card-location">${esc(l.location)}</div>` : ''}
+    ${details ? `<div class="card-details">${esc(details)}</div>` : ''}
+    ${badges ? `<div class="card-badges">${badges}</div>` : ''}
+  </div>
+</div>`;
+}
+
+function esc(s) {
+  if (!s) return '';
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+function catLabel(cat) {
+  return {apartment:'Mənzil',house:'Həyət evi',land:'Torpaq',commercial:'Kommersiya',office:'Ofis',garage:'Qaraj'}[cat] || cat;
+}
+
+function updateStats() {
+  const active = filtered.filter(l => !l.deleted_at).length;
+  const total  = filtered.length;
+  document.getElementById('stats-bar').textContent =
+    showDel
+      ? `${total} nəticə (${active} aktiv, ${total - active} silinmiş)`
+      : `${total} aktiv elan`;
+
+  // Global stats in header
+  const allActive = allListings.filter(l => !l.deleted_at).length;
+  document.getElementById('global-stats').textContent = `${allListings.length.toLocaleString()} elan yükləndi`;
+}
+
+function renderPagination() {
+  const total = Math.ceil(filtered.length / PAGE_SIZE);
+  const pag = document.getElementById('pagination');
+  if (total <= 1) { pag.style.display = 'none'; return; }
+  pag.style.display = 'flex';
+  pag.innerHTML = `
+    <button id="btn-prev" ${page === 1 ? 'disabled' : ''}>← Əvvəlki</button>
+    <span>${page} / ${total}</span>
+    <button id="btn-next" ${page === total ? 'disabled' : ''}>Növbəti →</button>
+  `;
+  document.getElementById('btn-prev').onclick = () => { page--; renderGrid(); renderPagination(); window.scrollTo({top:0,behavior:'smooth'}); };
+  document.getElementById('btn-next').onclick = () => { page++; renderGrid(); renderPagination(); window.scrollTo({top:0,behavior:'smooth'}); };
+}
+
+// ── Event wiring ──────────────────────────────────────────────────────────────
+
+document.getElementById('cat-chips').addEventListener('click', e => {
+  const btn = e.target.closest('.chip'); if (!btn) return;
+  document.querySelectorAll('#cat-chips .chip').forEach(c => c.classList.remove('active'));
+  btn.classList.add('active');
+  selCat = btn.dataset.cat;
+  loadAll();
+});
+
+document.getElementById('type-chips').addEventListener('click', e => {
+  const btn = e.target.closest('.chip'); if (!btn) return;
+  document.querySelectorAll('#type-chips .chip').forEach(c => c.classList.remove('active'));
+  btn.classList.add('active');
+  selType = btn.dataset.type;
+  loadAll();
+});
+
+document.getElementById('search').addEventListener('input', e => {
+  search = e.target.value;
+  applyFilters();
+});
+
+document.getElementById('sort').addEventListener('change', e => {
+  sort = e.target.value;
+  applyFilters();
+});
+
+document.getElementById('show-deleted').addEventListener('change', e => {
+  showDel = e.target.checked;
+  applyFilters();
+});
+
+// ── Boot ──────────────────────────────────────────────────────────────────────
+loadAll();
+</script>
+</body>
+</html>
