@@ -11,6 +11,13 @@ Each JSON file is both the persistent store and the output. On every run:
 import asyncio
 import json
 import os
+try:
+    import orjson as _orjson
+    def _json_loads(s): return _orjson.loads(s)
+    def _json_dumps(obj): return _orjson.dumps(obj, option=_orjson.OPT_INDENT_2 | _orjson.OPT_NON_STR_KEYS).decode()
+except ImportError:
+    def _json_loads(s): return json.loads(s)
+    def _json_dumps(obj): return json.dumps(obj, ensure_ascii=False, indent=2)
 import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
@@ -84,7 +91,7 @@ def load_existing(category: str, deal_type: str, room: str | None = None, buildi
     path = DATA_DIR / f"{_file_stem(category, deal_type, room, building, kupca, price_band)}.json"
     if not path.exists():
         return {}
-    listings = json.loads(path.read_text(encoding="utf-8"))
+    listings = _json_loads(path.read_text(encoding="utf-8"))
     return {l["id"]: l for l in listings}
 
 
@@ -98,7 +105,7 @@ def save_listings(category: str, deal_type: str, listings: dict[str, dict], room
     )
     # Escape U+2028 / U+2029 — Python's json module leaves them unescaped but
     # they are invalid unescaped inside JSON strings per the spec.
-    output = json.dumps(sorted_listings, ensure_ascii=False, indent=2)
+    output = _json_dumps(sorted_listings)
     output = output.replace("\u2028", "\\u2028").replace("\u2029", "\\u2029")
     path.write_text(output, encoding="utf-8")
 
@@ -122,7 +129,7 @@ def merge_room_files(category: str, deal_type: str) -> None:
                     path = DATA_DIR / f"{_file_stem(category, deal_type, room, building, kupca, price_band)}.json"
                     if not path.exists():
                         continue
-                    for listing in json.loads(path.read_text(encoding="utf-8")):
+                    for listing in _json_loads(path.read_text(encoding="utf-8")):
                         lid = listing["id"]
                         if lid not in merged or listing.get("last_seen_at", "") > merged[lid].get("last_seen_at", ""):
                             merged[lid] = listing
@@ -221,13 +228,19 @@ async def scrape_category(page, cfg: dict) -> None:
     seen_ids: set[str] = set()
     counts = {"new": 0, "updated": 0, "unchanged": 0}
 
-    for card in raw_cards:
+    # Fetch all GraphQL data concurrently in batches of 20
+    GQL_BATCH = 20
+    gql_results: list[dict] = []
+    for i in range(0, len(raw_cards), GQL_BATCH):
+        batch = raw_cards[i:i + GQL_BATCH]
+        batch_gql = await asyncio.gather(*[fetch_item_graphql(page, c["id"]) for c in batch])
+        gql_results.extend(batch_gql)
+
+    for card, gql in zip(raw_cards, gql_results):
         item_id = card["id"]
         seen_ids.add(item_id)
 
         parsed = parser(card["text"])
-        gql = await fetch_item_graphql(page, item_id)
-
         listing = {
             "id": item_id,
             "photo_url": card.get("photo_url"),
@@ -297,7 +310,7 @@ async def main(categories: list | None = None) -> None:
     lines = ["✅ <b>emlak-ai scrape complete</b>"]
     for f in sorted(DATA_DIR.glob("*.json")):
         try:
-            listings = json.loads(f.read_text(encoding="utf-8"))
+            listings = _json_loads(f.read_text(encoding="utf-8"))
             active = sum(1 for l in listings if l.get("deleted_at") is None)
             lines.append(f"  {f.stem}: {active} active")
         except Exception:
