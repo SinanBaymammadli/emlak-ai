@@ -3,22 +3,32 @@
     "id": "6337806",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F31%2F19%2F58%2F38%2F8c1080bb-18e1-4946-9be4-a187b9e60c92%2F20413_cJ_Nn0XZzryP26SMpTHbVg.jpg",
     "price": 350,
-    "location": "",
+    "location": "Şah İsmayıl Xətai m.",
     "rooms": "",
     "area_m2": "16 m²",
+    "floor": null,
+    "is_agency": false,
     "lat": 40.37911760599208,
     "lng": 49.86217389297381,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-29T20:26:26+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 16 m²",
+    "description": "Port baku walka yanashi(bitishik)heyetde 3 eded qaraj biri 350 azn-e kiraye verilir.",
+    "building_type": "Qaraj",
+    "location_id": "36",
+    "location_name": "Şah İsmayıl Xətai",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6337806",
-    "first_seen_at": "2026-09-30T09:37:00.643451+00:00",
-    "last_seen_at": "2026-09-30T13:37:35.414595+00:00",
+    "first_seen_at": "2026-09-30T14:19:57.354403+00:00",
+    "last_seen_at": "2026-09-30T14:19:57.354403+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 350,
-        "date": "2026-09-30T09:37:00.643451+00:00"
+        "date": "2026-09-30T14:19:57.354403+00:00"
       }
     ]
   },
@@ -26,7 +36,7 @@
     "id": "6504704",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F14%2F43%2F01%2Fc9d560b8-dafd-4538-a75c-5429948fdcb4%2F16177_ys50EPJUqQeMo8SLK_ElpQ.jpg",
     "price": 200,
-    "location": "",
+    "location": "Memar Əcəmi m.",
     "rooms": "",
     "area_m2": "24 m²",
     "floor": null,
@@ -34,16 +44,24 @@
     "lat": 40.41466025047666,
     "lng": 49.80423528274063,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-30T14:45:50+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 24 m²",
+    "description": "Daş qaraj arendaya(kirayə) verilir. 9 a mikrorayonda.  Leyla mərasim evinin yanında. Fərid marketin arxasında. \r\n200 manat. ",
+    "building_type": "Qaraj",
+    "location_id": "59",
+    "location_name": "Memar Əcəmi",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6504704",
-    "first_seen_at": "2026-09-30T12:27:26.811176+00:00",
-    "last_seen_at": "2026-09-30T13:37:35.460249+00:00",
+    "first_seen_at": "2026-09-30T14:19:57.397318+00:00",
+    "last_seen_at": "2026-09-30T14:19:57.397318+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 200,
-        "date": "2026-09-30T12:27:26.811176+00:00"
+        "date": "2026-09-30T14:19:57.397318+00:00"
       }
     ]
   },
@@ -51,22 +69,32 @@
     "id": "6503673",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F10%2F57%2F51%2Fe595791b-c884-44d3-b591-0ff6a0e0f2df%2F75487_R0YP21SSABtos-Sj-h24yQ.jpg",
     "price": 400,
-    "location": "",
+    "location": "Nəsimi r.",
     "rooms": "",
     "area_m2": "20 m²",
+    "floor": null,
+    "is_agency": true,
     "lat": 40.40152611257541,
     "lng": 49.83996348950198,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-30T11:03:09+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 20 m²",
+    "description": "Nesimi Rayonu Azadliq Praspekti \r\nHesen Eliyev Kucesi Kesismesinde \r\nQaraj Kiraye Verilir Anbar Kimide \r\nİstifade Etmek Olar Sahesi 20Kv.m \r\nQazi Suyu İsiqi Var ",
+    "building_type": "Qaraj",
+    "location_id": "190",
+    "location_name": "Nəsimi",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6503673",
-    "first_seen_at": "2026-09-30T09:37:00.685509+00:00",
-    "last_seen_at": "2026-09-30T13:37:35.504993+00:00",
+    "first_seen_at": "2026-09-30T14:19:57.440928+00:00",
+    "last_seen_at": "2026-09-30T14:19:57.440928+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 400,
-        "date": "2026-09-30T09:37:00.685509+00:00"
+        "date": "2026-09-30T14:19:57.440928+00:00"
       }
     ]
   },
@@ -74,22 +102,32 @@
     "id": "6503339",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F29%2F23%2F26%2F26%2F7fd44135-2299-4257-b093-5f34a66f1345%2F38964_mebiYCOiwzylqG3IAct9sw.jpg",
     "price": 400,
-    "location": "",
+    "location": "Sulutəpə q.",
     "rooms": "",
     "area_m2": "35 m²",
+    "floor": null,
+    "is_agency": false,
     "lat": 40.43735765945881,
     "lng": 49.7498544053811,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-29T23:35:27+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 35 m²",
+    "description": "Çiçək qəsəbəsi, binalara girişdə hansı ki bütün binalara giriş və çıxış bu obyektin qarşısından keçir, hər şəraiti olan sex icarəyə verilir. Real istəyən olsa qiymətdə razılaşma olar. Xahiş olunur real, işini bilən şəxslər maraqlansın.",
+    "building_type": "Qaraj",
+    "location_id": "64",
+    "location_name": "Sulutəpə",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6503339",
-    "first_seen_at": "2026-09-30T09:37:00.727856+00:00",
-    "last_seen_at": "2026-09-30T13:37:35.553268+00:00",
+    "first_seen_at": "2026-09-30T14:19:57.483460+00:00",
+    "last_seen_at": "2026-09-30T14:19:57.483460+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 400,
-        "date": "2026-09-30T09:37:00.727856+00:00"
+        "date": "2026-09-30T14:19:57.483460+00:00"
       }
     ]
   },
@@ -97,22 +135,32 @@
     "id": "6503004",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F29%2F19%2F32%2F50%2F4e94c601-47d8-4a6b-8d7d-7d7b1bd7df6d%2F35336_oCD871Z4qiSbRy103B2MDw.jpg",
     "price": 2100,
-    "location": "",
+    "location": "Binəqədi r.",
     "rooms": "",
     "area_m2": "300 m²",
+    "floor": null,
+    "is_agency": false,
     "lat": 40.43723825091347,
     "lng": 49.79545167308565,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-29T19:37:00+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 300 m²",
+    "description": "Bileceride Avto servis qaraji  kiraye verilir icindeki avadanlarla birlikde herbir seraiti var 300kv sahesi var  luku dangrati ve’s elave avadanliqlarda yerlesdire biler rea musteriler zeng etsin.Ofis haqqi 30%",
+    "building_type": "Qaraj",
+    "location_id": "58",
+    "location_name": "Binəqədi",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6503004",
-    "first_seen_at": "2026-09-30T09:37:00.766453+00:00",
-    "last_seen_at": "2026-09-30T13:37:35.601826+00:00",
+    "first_seen_at": "2026-09-30T14:19:57.527338+00:00",
+    "last_seen_at": "2026-09-30T14:19:57.527338+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 2100,
-        "date": "2026-09-30T09:37:00.766453+00:00"
+        "date": "2026-09-30T14:19:57.527338+00:00"
       }
     ]
   },
@@ -120,22 +168,32 @@
     "id": "6502535",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F29%2F17%2F29%2F27%2F9b3288fc-e701-46e0-a545-c0e053e73553%2F37967_jviGVaELSBcKXJPR_qnS_Q.jpg",
     "price": 190,
-    "location": "",
+    "location": "Memar Əcəmi m.",
     "rooms": "",
     "area_m2": "16 m²",
+    "floor": null,
+    "is_agency": false,
     "lat": 40.41806267800465,
     "lng": 49.81403457495502,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-29T17:32:36+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 16 m²",
+    "description": "Obyekt və ambar kimi istifadə üçün tam yararlıdır.",
+    "building_type": "Qaraj",
+    "location_id": "59",
+    "location_name": "Memar Əcəmi",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6502535",
-    "first_seen_at": "2026-09-30T09:37:00.805816+00:00",
-    "last_seen_at": "2026-09-30T13:37:35.649274+00:00",
+    "first_seen_at": "2026-09-30T14:19:57.570135+00:00",
+    "last_seen_at": "2026-09-30T14:19:57.570135+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 190,
-        "date": "2026-09-30T09:37:00.805816+00:00"
+        "date": "2026-09-30T14:19:57.570135+00:00"
       }
     ]
   },
@@ -143,22 +201,32 @@
     "id": "6499479",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F28%2F17%2F20%2F49%2F1f425401-071e-4e52-ba07-00c4a17235ff%2F35388_m8wG4Njmu7Z6n-ne1UzAAQ.jpg",
     "price": 250,
-    "location": "",
+    "location": "Qaraçuxur q.",
     "rooms": "",
     "area_m2": "25 m²",
+    "floor": null,
+    "is_agency": false,
     "lat": 40.40375744419703,
     "lng": 49.97461000204313,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-28T17:22:35+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 25 m²",
+    "description": "25 kv.m sahə kirayə verilir. Yeri çox əlverişlidir. Anbar, qaraj, saxlama yeri və digər məqsədlər üçün istifadəyə uyğundur.",
+    "building_type": "Qaraj",
+    "location_id": "75",
+    "location_name": "Qaraçuxur",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6499479",
-    "first_seen_at": "2026-09-30T09:37:00.847805+00:00",
-    "last_seen_at": "2026-09-30T13:37:35.703222+00:00",
+    "first_seen_at": "2026-09-30T14:19:57.615530+00:00",
+    "last_seen_at": "2026-09-30T14:19:57.615530+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 250,
-        "date": "2026-09-30T09:37:00.847805+00:00"
+        "date": "2026-09-30T14:19:57.615530+00:00"
       }
     ]
   },
@@ -166,22 +234,32 @@
     "id": "6431438",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F03%2F19%2F54%2F45%2F82ea20fd-631e-4da1-8578-2f46f4b47645%2F72342_rVPHJH-b3qq4FU6qrsZxBA.jpg",
     "price": 350,
-    "location": "",
+    "location": "Nəriman Nərimanov m.",
     "rooms": "",
     "area_m2": "27 m²",
+    "floor": null,
+    "is_agency": false,
     "lat": 40.40392397832986,
     "lng": 49.86670274050441,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-28T15:46:09+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 27 m²",
+    "description": "\"27 kvm’lik səliqəli qaraj icarəyə verilir. Nərimanov metrosuna 5 dəqiqəlik piyada məsafədə yerləşir. \r\n\r\n- yama var\r\n- işıq var\r\n- su var\r\n- kanalizasiya var\r\n- tualet var\r\n\r\nQiymət sondu. \r\n\r\nNömrədə whatsapp var. 21:00’a qədər əlaqə saxlaya bilərsiniz.\"",
+    "building_type": "Qaraj",
+    "location_id": "1",
+    "location_name": "Nəriman Nərimanov",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6431438",
-    "first_seen_at": "2026-09-30T09:37:00.885268+00:00",
-    "last_seen_at": "2026-09-30T13:37:35.760152+00:00",
+    "first_seen_at": "2026-09-30T14:19:57.707136+00:00",
+    "last_seen_at": "2026-09-30T14:19:57.707136+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 350,
-        "date": "2026-09-30T09:37:00.885268+00:00"
+        "date": "2026-09-30T14:19:57.707136+00:00"
       }
     ]
   },
@@ -189,22 +267,32 @@
     "id": "6497293",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F28%2F10%2F24%2F15%2Fd083adae-3019-449d-b1fd-09fc82a40cf2%2F71649_F5S3oMH7u0KsTpDGLiB6Lg.jpg",
     "price": 550,
-    "location": "",
+    "location": "NZS q.",
     "rooms": "",
     "area_m2": "50 m²",
+    "floor": null,
+    "is_agency": false,
     "lat": 40.38721150080609,
     "lng": 49.89850338812425,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-28T10:24:24+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 50 m²",
+    "description": "Qaraj 55 kv her cure sheraiti var istilik su isiq \r\nYamasida var 8metr uzunlugu 2metr derini \r\nKompressor ve pilesos kimi avadanliqlarda ishlek veziyyetde verilir 3il malyar isleyib ",
+    "building_type": "Qaraj",
+    "location_id": "233",
+    "location_name": "NZS",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6497293",
-    "first_seen_at": "2026-09-30T09:37:00.924379+00:00",
-    "last_seen_at": "2026-09-30T13:37:35.815236+00:00",
+    "first_seen_at": "2026-09-30T14:19:57.750725+00:00",
+    "last_seen_at": "2026-09-30T14:19:57.750725+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 550,
-        "date": "2026-09-30T09:37:00.924379+00:00"
+        "date": "2026-09-30T14:19:57.750725+00:00"
       }
     ]
   },
@@ -212,22 +300,32 @@
     "id": "6497117",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F27%2F22%2F13%2F34%2F263a95ee-6726-4135-9801-6a483b034711%2F71636_fBingjoGYNXF2G6N1BDLNQ.jpg",
     "price": 200,
-    "location": "",
+    "location": "8-ci kilometr q.",
     "rooms": "",
     "area_m2": "28 m²",
+    "floor": null,
+    "is_agency": false,
     "lat": 40.40442045354583,
     "lng": 49.96304698713388,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-27T22:16:36+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 28 m²",
+    "description": "Anbar ve mawin saxlamaqa ucun istifade oluna biler",
+    "building_type": "Qaraj",
+    "location_id": "74",
+    "location_name": "8-ci kilometr",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6497117",
-    "first_seen_at": "2026-09-30T09:37:00.966169+00:00",
-    "last_seen_at": "2026-09-30T13:37:35.865114+00:00",
+    "first_seen_at": "2026-09-30T14:19:57.797166+00:00",
+    "last_seen_at": "2026-09-30T14:19:57.797166+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 200,
-        "date": "2026-09-30T09:37:00.966169+00:00"
+        "date": "2026-09-30T14:19:57.797166+00:00"
       }
     ]
   },
@@ -235,22 +333,32 @@
     "id": "6496267",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F27%2F15%2F43%2F15%2Ffbc24df5-2457-41cc-9f9b-929001b26809%2F71674_wKfZQesnk44rhQTQKnSskw.jpg",
     "price": 300,
-    "location": "",
+    "location": "Səbail r.",
     "rooms": "",
     "area_m2": "24 m²",
+    "floor": null,
+    "is_agency": false,
     "lat": 40.35916080333109,
     "lng": 49.823718095701,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-27T15:45:26+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 24 m²",
+    "description": "Milli məclisin böyründə, Alov güllələrinin qarşısında qaraj icarəyə verilir. Yolu və qarşısı tam asfalt olunub. Ətrafında müşahidə kameraları.\r\nSahə 24 kv/m (ölçüsü 7.50*3.20 m).\r\nQiyməti 300 AZN.",
+    "building_type": "Qaraj",
+    "location_id": "12",
+    "location_name": "Səbail",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6496267",
-    "first_seen_at": "2026-09-30T09:37:01.009552+00:00",
-    "last_seen_at": "2026-09-30T13:37:35.911775+00:00",
+    "first_seen_at": "2026-09-30T14:19:57.850454+00:00",
+    "last_seen_at": "2026-09-30T14:19:57.850454+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 300,
-        "date": "2026-09-30T09:37:01.009552+00:00"
+        "date": "2026-09-30T14:19:57.850454+00:00"
       }
     ]
   },
@@ -258,22 +366,32 @@
     "id": "6494969",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F26%2F19%2F40%2F07%2F4a751e89-0b9e-4650-ae40-f1152b9fee9d%2F71680_DjhtLUORL7dHO3mkcO8kmQ.jpg",
     "price": 3000,
-    "location": "",
+    "location": "Xətai r.",
     "rooms": "",
     "area_m2": "300 m²",
+    "floor": null,
+    "is_agency": true,
     "lat": 40.37886056427671,
     "lng": 49.92509577863667,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-26T19:46:04+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 300 m²",
+    "description": "🏢 XƏTAİ | NOBEL PROSPEKTİ | 300 KV.M OBYEKT\r\n\r\n📍 Xətai rayonu, Nobel prospektində yerləşən 300 kv.m sahəsi olan obyekt icarəyə verilir.\r\n\r\n🔹 Sahə: 300 kv.m\r\n🔹 Market, anbar və digər kommersiya fəaliyyətləri üçün əlverişlidir\r\n🔹 Əlverişli və işlək ərazidə yerləşir\r\n🔹 Müxtəlif biznes istiqamətləri üçün uyğundur\r\n\r\n💰 Aylıq icarə haqqı: 3 000 AZN\r\n\r\n📞 Ətraflı məlumat və baxış üçün əlaqə saxlaya bilərsiniz.",
+    "building_type": "Qaraj",
+    "location_id": "16",
+    "location_name": "Xətai",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6494969",
-    "first_seen_at": "2026-09-30T09:37:01.052429+00:00",
-    "last_seen_at": "2026-09-30T13:37:35.962467+00:00",
+    "first_seen_at": "2026-09-30T14:19:57.902881+00:00",
+    "last_seen_at": "2026-09-30T14:19:57.902881+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 3000,
-        "date": "2026-09-30T09:37:01.052429+00:00"
+        "date": "2026-09-30T14:19:57.902881+00:00"
       }
     ]
   },
@@ -281,22 +399,32 @@
     "id": "6296207",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F16%2F14%2F12%2F47%2F0e9bf019-f35e-436c-b17c-b4042954c661%2F55164_OPCyJ-9bFsGFE9wVha_PEA.jpg",
     "price": 400,
-    "location": "",
+    "location": "Memar Əcəmi m.",
     "rooms": "",
     "area_m2": "24 m²",
+    "floor": null,
+    "is_agency": false,
     "lat": 40.4096599,
     "lng": 49.82330999999999,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-29T16:08:51+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 24 m²",
+    "description": "Uzun illerdi maşin,moto,ve,s  temir sexi kimi fealiyyetde olan yer icareye verilir işini bilen uzun muddet işlemek isteyen usta elaqe saxlasin her növ fealiyyete uygundu watsapda yaza bilersiz unvan 3 mikr bazari ile uzuze binalarin arasi",
+    "building_type": "Qaraj",
+    "location_id": "59",
+    "location_name": "Memar Əcəmi",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6296207",
-    "first_seen_at": "2026-09-30T09:37:01.092828+00:00",
-    "last_seen_at": "2026-09-30T13:37:36.012201+00:00",
+    "first_seen_at": "2026-09-30T14:19:57.948238+00:00",
+    "last_seen_at": "2026-09-30T14:19:57.948238+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 400,
-        "date": "2026-09-30T09:37:01.092828+00:00"
+        "date": "2026-09-30T14:19:57.948238+00:00"
       }
     ]
   },
@@ -304,22 +432,32 @@
     "id": "6493093",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F26%2F11%2F35%2F01%2Fda0f4b54-6f7d-414a-a73f-2be99ee175a8%2F71659_Cy2Z6SBXDJPKpSIOC5wFSw.jpg",
     "price": 220,
-    "location": "",
+    "location": "Azadlıq Prospekti m.",
     "rooms": "",
     "area_m2": "30 m²",
+    "floor": null,
+    "is_agency": false,
     "lat": 40.4339581,
     "lng": 49.83662379999998,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-26T11:38:28+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 30 m²",
+    "description": "Maşın saxlama/qaraj sahəsi\r\n\r\n- Dəmir darvazalı, tam qapalı qaraj\r\n- Geniş giriş, yüngül və orta ölçülü avtomobillər üçün uyğundur\r\n- Beton döşəmə, su axarı (trapa) mövcuddur\r\n- Elektrik sayğacı və işıqlandırma\r\n- İçəridə rəf və kiçik iş masası üçün yer ayrılıb\r\n- Hündürlüyü və uzunluğu daxili keçidə imkan verir, iki tərəfli çıxışlı planlama (ön darvaza, arxa tərəfdə pəncərə/qapı keçidi)\r\n- Möhkəm dalğalı metal dam örtüyü, yağışdan qorunma\r\n- Ünvan göstəricisi: 131 nömrəli sahə (şəkildə lövhə görsənir)\r\n\r\nMaşın saxlama, alət və ehtiyat hissələri üçün anbar, kiçik təmir işləri və ya məişət saxlanması məqsədlərinə yararlıdır.",
+    "building_type": "Qaraj",
+    "location_id": "6",
+    "location_name": "Azadlıq Prospekti",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6493093",
-    "first_seen_at": "2026-09-30T09:37:01.136198+00:00",
-    "last_seen_at": "2026-09-30T13:37:36.084989+00:00",
+    "first_seen_at": "2026-09-30T14:19:58.002024+00:00",
+    "last_seen_at": "2026-09-30T14:19:58.002024+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 220,
-        "date": "2026-09-30T09:37:01.136198+00:00"
+        "date": "2026-09-30T14:19:58.002024+00:00"
       }
     ]
   },
@@ -327,22 +465,32 @@
     "id": "6493028",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F26%2F11%2F19%2F24%2F44894101-cb44-476f-84ab-61cd81c05238%2F76352_qNhvMV0n4mDiEMFwDQQKYQ.jpg",
     "price": 200,
-    "location": "",
+    "location": "28 May m.",
     "rooms": "",
     "area_m2": "20 m²",
+    "floor": null,
+    "is_agency": false,
     "lat": 40.37608595309878,
     "lng": 49.8591943234571,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-29T20:45:05+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 20 m²",
+    "description": "Port Baku Residence elit yaşayış kompleksində yeraltı parkinq yeri icarəyə verilir.\r\nJ3.",
+    "building_type": "Qaraj",
+    "location_id": "8",
+    "location_name": "28 May",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6493028",
-    "first_seen_at": "2026-09-30T09:37:01.175767+00:00",
-    "last_seen_at": "2026-09-30T13:37:36.136259+00:00",
+    "first_seen_at": "2026-09-30T14:19:58.056508+00:00",
+    "last_seen_at": "2026-09-30T14:19:58.056508+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 200,
-        "date": "2026-09-30T09:37:01.175767+00:00"
+        "date": "2026-09-30T14:19:58.056508+00:00"
       }
     ]
   },
@@ -350,22 +498,32 @@
     "id": "6487417",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F24%2F12%2F40%2F30%2F828fd81a-363f-48cc-a1ee-7e1e66a7656b%2F59365_7mPNyqHVuJ2d6cbipwNdHQ.jpg",
     "price": 500,
-    "location": "",
+    "location": "Badamdar q.",
     "rooms": "",
     "area_m2": "38 m²",
+    "floor": null,
+    "is_agency": false,
     "lat": 40.33842587246051,
     "lng": 49.80765197990605,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-24T12:40:41+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 38 m²",
+    "description": "Badamdarda Araz marketin yanindaki mehlede yeni temirden cixmis qaraj icareye verilir. Temirden sonra istifade olunmayib. Suyu, ishiqi ataplenniyasi var. Sanuzel ve metbexi var. Lazim olsa wi fi cekmek olar. Zeng catmasa whatsapa yazin cavablandiracam.",
+    "building_type": "Qaraj",
+    "location_id": "46",
+    "location_name": "Badamdar",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6487417",
-    "first_seen_at": "2026-09-30T09:37:01.222348+00:00",
-    "last_seen_at": "2026-09-30T13:37:36.189282+00:00",
+    "first_seen_at": "2026-09-30T14:19:58.102265+00:00",
+    "last_seen_at": "2026-09-30T14:19:58.102265+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 500,
-        "date": "2026-09-30T09:37:01.222348+00:00"
+        "date": "2026-09-30T14:19:58.102265+00:00"
       }
     ]
   },
@@ -373,22 +531,32 @@
     "id": "6486378",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F23%2F20%2F16%2F59%2F8f6d5930-abd5-4380-be7b-a5cff5bdff65%2F68576__34baUVwcNftB95rWxq5qw.jpg",
     "price": 200,
-    "location": "",
+    "location": "Memar Əcəmi m.",
     "rooms": "",
     "area_m2": "20 m²",
+    "floor": null,
+    "is_agency": false,
     "lat": 40.42034889981844,
     "lng": 49.81487767750192,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-23T20:21:16+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 20 m²",
+    "description": "Qaraj 20kv ibaretdi suyu işıqı və sanitar qovşağı var",
+    "building_type": "Qaraj",
+    "location_id": "59",
+    "location_name": "Memar Əcəmi",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6486378",
-    "first_seen_at": "2026-09-30T09:37:01.266917+00:00",
-    "last_seen_at": "2026-09-30T13:37:36.235668+00:00",
+    "first_seen_at": "2026-09-30T14:19:58.150047+00:00",
+    "last_seen_at": "2026-09-30T14:19:58.150047+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 200,
-        "date": "2026-09-30T09:37:01.266917+00:00"
+        "date": "2026-09-30T14:19:58.150047+00:00"
       }
     ]
   },
@@ -396,22 +564,32 @@
     "id": "6354991",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F07%2F08%2F57%2F59%2F52286aed-4bdb-4c76-b5d4-cf0c7ed67fbc%2F88537_iqo5jojBxuVQYeqBv3w5mA.jpg",
     "price": 100,
-    "location": "",
+    "location": "Xalqlar Dostluğu m.",
     "rooms": "",
     "area_m2": "18 m²",
+    "floor": null,
+    "is_agency": false,
     "lat": 40.39167759769676,
     "lng": 49.95304151883972,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-23T10:03:59+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 18 m²",
+    "description": "",
+    "building_type": "Qaraj",
+    "location_id": "54",
+    "location_name": "Xalqlar Dostluğu",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6354991",
-    "first_seen_at": "2026-09-30T09:37:01.311077+00:00",
-    "last_seen_at": "2026-09-30T13:37:36.282999+00:00",
+    "first_seen_at": "2026-09-30T14:19:58.261390+00:00",
+    "last_seen_at": "2026-09-30T14:19:58.261390+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 100,
-        "date": "2026-09-30T09:37:01.311077+00:00"
+        "date": "2026-09-30T14:19:58.261390+00:00"
       }
     ]
   },
@@ -419,22 +597,32 @@
     "id": "6482926",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F17%2F47%2F24%2F0589a862-becc-4046-9024-26a301f7b85f%2F22769_K-zRJVf3lfKodPna8I-c5A.jpg",
     "price": 150,
-    "location": "",
+    "location": "Ağ şəhər q.",
     "rooms": "",
     "area_m2": "18 m²",
+    "floor": null,
+    "is_agency": false,
     "lat": 40.38327139372294,
     "lng": 49.88395553706333,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-22T17:53:19+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 18 m²",
+    "description": "BAKU SİTY REZİDENCE\r\n Qaraj 3 və 4 cı blokun çıxışındadır.\r\n5 ci  bloka da yaxındır..\r\nƏlavə olaraq 1 və 2 ci blokun çıxışında da parkinq yeri var....",
+    "building_type": "Qaraj",
+    "location_id": "314",
+    "location_name": "Ağ şəhər",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6482926",
-    "first_seen_at": "2026-09-30T09:37:01.374664+00:00",
-    "last_seen_at": "2026-09-30T13:37:41.454744+00:00",
+    "first_seen_at": "2026-09-30T14:19:58.313935+00:00",
+    "last_seen_at": "2026-09-30T14:19:58.313935+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 150,
-        "date": "2026-09-30T09:37:01.374664+00:00"
+        "date": "2026-09-30T14:19:58.313935+00:00"
       }
     ]
   },
@@ -442,22 +630,32 @@
     "id": "6481738",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F13%2F33%2F00%2Ff0ff1721-df6f-4bd3-af00-93aa2884b75d%2F22656_IQsvrYV2Qu125Lfsknq4bA.jpg",
     "price": 150,
-    "location": "",
+    "location": "Azadlıq Prospekti m.",
     "rooms": "",
     "area_m2": "24 m²",
+    "floor": null,
+    "is_agency": false,
     "lat": 40.4339581,
     "lng": 49.83662379999998,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-22T13:34:51+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 24 m²",
+    "description": "Yeni temir edilib.sahibi terefinden icareye verilir.",
+    "building_type": "Qaraj",
+    "location_id": "6",
+    "location_name": "Azadlıq Prospekti",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6481738",
-    "first_seen_at": "2026-09-30T09:37:01.416838+00:00",
-    "last_seen_at": "2026-09-30T13:37:41.500444+00:00",
+    "first_seen_at": "2026-09-30T14:19:58.371475+00:00",
+    "last_seen_at": "2026-09-30T14:19:58.371475+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 150,
-        "date": "2026-09-30T09:37:01.416838+00:00"
+        "date": "2026-09-30T14:19:58.371475+00:00"
       }
     ]
   },
@@ -465,22 +663,32 @@
     "id": "6481531",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F12%2F44%2F53%2F6161edc9-a353-46e3-9922-4ed6ad4b2969%2F55875_sN0jrNEZbyvAjmNeoelb1w.jpg",
     "price": 300,
-    "location": "",
+    "location": "Azadlıq Prospekti m.",
     "rooms": "",
     "area_m2": "36 m²",
+    "floor": null,
+    "is_agency": false,
     "lat": 40.42104446836915,
     "lng": 49.84253986447843,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-22T12:49:40+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 36 m²",
+    "description": "Yola yaxın, qarşısı geniş, orta təmirli geniş obyekt anbar və ya qaraj kimi icarəyə verilir. Obyekt binaların həyətində yerləşmir.",
+    "building_type": "Qaraj",
+    "location_id": "6",
+    "location_name": "Azadlıq Prospekti",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6481531",
-    "first_seen_at": "2026-09-30T09:37:01.457897+00:00",
-    "last_seen_at": "2026-09-30T13:37:41.546839+00:00",
+    "first_seen_at": "2026-09-30T14:19:58.422775+00:00",
+    "last_seen_at": "2026-09-30T14:19:58.422775+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 300,
-        "date": "2026-09-30T09:37:01.457897+00:00"
+        "date": "2026-09-30T14:19:58.422775+00:00"
       }
     ]
   },
@@ -488,7 +696,7 @@
     "id": "6480564",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F21%2F21%2F23%2F00%2Fbbb14221-d6d8-4d8f-a16b-924438fac2c9%2F90931_S2KkDNNRF4N12MDbbfaq5g.jpg",
     "price": 230,
-    "location": "",
+    "location": "Nəriman Nərimanov m.",
     "rooms": "",
     "area_m2": "55 m²",
     "floor": null,
@@ -496,16 +704,24 @@
     "lat": 40.40872300920793,
     "lng": 49.86429162951374,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-21T21:28:16+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 55 m²",
+    "description": "Aga Neymetulla kucesinde qaraj\r\nNerimanovda icare qaraj\r\nAnbar\r\nNerimanovda anbar\r\n5mertebeli binanin 1ci mertebesinin artirmanin altidi\r\nAnbar kimi icareye verilir yeni anbar kimi istifadeye uygundu\r\nIsiq var\r\nVasiteci deyilem\r\nAsagi faizle vasiteci ile isleye bilerem\r\nSahesi 55kvdi \r\nSekilde diger balaca otaq yoxdu\r\nNerimanovda Qaraj icare\r\nQiymet sondur",
+    "building_type": "Qaraj",
+    "location_id": "1",
+    "location_name": "Nəriman Nərimanov",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6480564",
-    "first_seen_at": "2026-09-30T12:27:26.969587+00:00",
-    "last_seen_at": "2026-09-30T13:37:41.591123+00:00",
+    "first_seen_at": "2026-09-30T14:19:58.475440+00:00",
+    "last_seen_at": "2026-09-30T14:19:58.475440+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 230,
-        "date": "2026-09-30T12:27:26.969587+00:00"
+        "date": "2026-09-30T14:19:58.475440+00:00"
       }
     ]
   },
@@ -513,7 +729,7 @@
     "id": "6479504",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F21%2F15%2F58%2F39%2Ffdb2bee9-3d99-46b8-8f93-5f6244c550d1%2F63759_8M2RUdHwuOIePwffl3htnQ.jpg",
     "price": 250,
-    "location": "",
+    "location": "Elmlər Akademiyası m.",
     "rooms": "",
     "area_m2": "38 m²",
     "floor": null,
@@ -521,16 +737,24 @@
     "lat": 40.379828,
     "lng": 49.808782,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-21T16:00:56+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 38 m²",
+    "description": "Təmirli garaj kirayə verilir. Çıxarış və texniki pasportu var.  \r\n Sahəsi: 38 kv.m\r\n2 maşın yerləşir. qaraj satıla bilər \r\nYerləşir Mother Care Binasının zirzəmində ( FLO ve German mağazalarının yanında )\r\n24 saat kamera nezareti var.\r\n\r\nСдается гараж С ремонтом\r\nЕсть купчая и техпаспорт\r\nПлощадь: 38 кв. м\r\nВмещает 2 автомобиля; гараж также выставлен на продажу\r\nРасположен под зданием Mothercare (рядом с магазинами FLO и German)\r\nКруглосуточное видеонаблюдение\r\n250 AZN\r\n\r\nRenovated Garage for rent\r\nRegistration docs and technical passport are available\r\nArea: 38 sq. m\r\nFits 2 cars; the garage is also available for sale\r\nLocated in the basement of the Mothercare building (next to the FLO and German stores)\r\n24-hour video surveillance\r\n250 AZN\r\n",
+    "building_type": "Qaraj",
+    "location_id": "34",
+    "location_name": "Elmlər Akademiyası",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6479504",
-    "first_seen_at": "2026-09-30T12:27:27.127214+00:00",
-    "last_seen_at": "2026-09-30T13:37:41.635663+00:00",
+    "first_seen_at": "2026-09-30T14:19:58.537736+00:00",
+    "last_seen_at": "2026-09-30T14:19:58.537736+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 250,
-        "date": "2026-09-30T12:27:27.127214+00:00"
+        "date": "2026-09-30T14:19:58.537736+00:00"
       }
     ]
   },
@@ -538,7 +762,7 @@
     "id": "6474192",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F19%2F14%2F03%2F49%2Fbeefa196-e6c3-4036-af19-459281095957%2F68276_nWKuzTWaHOWByigO-GLiLA.jpg",
     "price": 250,
-    "location": "",
+    "location": "8 Noyabr m.",
     "rooms": "",
     "area_m2": "30 m²",
     "floor": null,
@@ -546,16 +770,24 @@
     "lat": 40.39789706964218,
     "lng": 49.8213382251913,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-28T15:23:24+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 30 m²",
+    "description": "⚜️Qaraj kirayə verilir! Anbar və ya sklad kimi yararlıdır!\n⚜️ Həsən Əliyev küç., ilə Tbilisi dairəsinin kəsişməsində, Çıraq Plaza ilə Qafqaz otelin yaxınlığında, Rahat market arxa həyətində, Azər Əliyev 7a ünvanında yerləşır.\n⚜️ İşığı, suyu və kanalizasiya sistemi var (qeyri yaşayış kimi qeydə alınıb)!\n⚜️ Yeni tikili binanın arxasındakı məhəllədə yerləşir, anbar kimi firmalara, və ya sklad kimi tam uyğundur.\n⚜️Ümumi sahəsi 30 kv.m. Hündürliyi 3 metr. \n⚜️ 24 saat kamera müşahidə sistemi və mühafizəsi var.\n      #anbar #sklad #arendasklad",
+    "building_type": "Qaraj",
+    "location_id": "279",
+    "location_name": "8 Noyabr",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6474192",
-    "first_seen_at": "2026-09-30T12:27:27.284611+00:00",
-    "last_seen_at": "2026-09-30T13:37:41.680454+00:00",
+    "first_seen_at": "2026-09-30T14:19:58.589195+00:00",
+    "last_seen_at": "2026-09-30T14:19:58.589195+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 250,
-        "date": "2026-09-30T12:27:27.284611+00:00"
+        "date": "2026-09-30T14:19:58.589195+00:00"
       }
     ]
   },
@@ -563,7 +795,7 @@
     "id": "6472788",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F18%2F20%2F33%2F09%2Feedc16e1-ca5a-45ad-95db-c05ae44895f3%2F67004_l0XjuUeS_o2zPH09B3Xh9g.jpg",
     "price": 140,
-    "location": "",
+    "location": "Həzi Aslanov m.",
     "rooms": "",
     "area_m2": "15 m²",
     "floor": null,
@@ -571,16 +803,24 @@
     "lat": 40.37214759708212,
     "lng": 49.96124826506902,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-18T20:34:32+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 15 m²",
+    "description": "Qaraj 101 kafenin arxasındakı 9 mərtəbəli binanın həyətində yerləşir. Anbar kimi istifadəyə yararlıdır. Uzun olmayan avtomobillər üçün qaraj kimi də istifadə edilə bilər. Qiymətdə razılaşmaq olar.",
+    "building_type": "Qaraj",
+    "location_id": "33",
+    "location_name": "Həzi Aslanov",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6472788",
-    "first_seen_at": "2026-09-30T12:27:27.441840+00:00",
-    "last_seen_at": "2026-09-30T13:37:41.725017+00:00",
+    "first_seen_at": "2026-09-30T14:19:58.647704+00:00",
+    "last_seen_at": "2026-09-30T14:19:58.647704+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 140,
-        "date": "2026-09-30T12:27:27.441840+00:00"
+        "date": "2026-09-30T14:19:58.647704+00:00"
       }
     ]
   },
@@ -588,7 +828,7 @@
     "id": "6469189",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F17%2F17%2F01%2F47%2Fb4264f0d-e548-4ca7-96a9-2ce3b344d08f%2F71272_oKb9kXeHfA2xOe6d1uDzkA.jpg",
     "price": 100,
-    "location": "",
+    "location": "Şah İsmayıl Xətai m.",
     "rooms": "",
     "area_m2": "18 m²",
     "floor": null,
@@ -596,16 +836,24 @@
     "lat": 40.38438337805815,
     "lng": 49.88066357420326,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-17T17:54:15+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 18 m²",
+    "description": "AQ SEHERDE , cox asan giris-cixisli yerde yerlesirler. AQP 2 binanin altidir,cox seliqeli yerdir, 24 saat kamera nezareti var.\r\nXeritede yeri deqiqdir.",
+    "building_type": "Qaraj",
+    "location_id": "36",
+    "location_name": "Şah İsmayıl Xətai",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6469189",
-    "first_seen_at": "2026-09-30T12:27:27.600672+00:00",
-    "last_seen_at": "2026-09-30T13:37:41.770561+00:00",
+    "first_seen_at": "2026-09-30T14:19:58.701676+00:00",
+    "last_seen_at": "2026-09-30T14:19:58.701676+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 100,
-        "date": "2026-09-30T12:27:27.600672+00:00"
+        "date": "2026-09-30T14:19:58.701676+00:00"
       }
     ]
   },
@@ -613,7 +861,7 @@
     "id": "6344994",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F03%2F16%2F47%2F46%2Fbce3244c-300a-4c50-a6bf-f4b589be2e7c%2F32158_-Psz9MI3xYI8-UWwdEU9tA.jpg",
     "price": 200,
-    "location": "",
+    "location": "Yasamal q.",
     "rooms": "",
     "area_m2": "15 m²",
     "floor": null,
@@ -621,16 +869,24 @@
     "lat": 40.38857750778858,
     "lng": 49.82131931548786,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-16T10:22:27+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 15 m²",
+    "description": "Dream Tower\" RK-da yeraltı qaraj yeri icarəyə verilir. Giriş Eldar Ağayev və Mehman Bünyadzadə küçələrinin kəsişməsi tərəfdəndir.\n\n24/7 mühafizə olunan və təhlükəsizlik kameraları ilə təmin edilmiş rahat parkinq yeridir.",
+    "building_type": "Qaraj",
+    "location_id": "103",
+    "location_name": "Yasamal",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6344994",
-    "first_seen_at": "2026-09-30T12:27:27.757729+00:00",
-    "last_seen_at": "2026-09-30T13:37:41.814571+00:00",
+    "first_seen_at": "2026-09-30T14:19:58.752724+00:00",
+    "last_seen_at": "2026-09-30T14:19:58.752724+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 200,
-        "date": "2026-09-30T12:27:27.757729+00:00"
+        "date": "2026-09-30T14:19:58.752724+00:00"
       }
     ]
   },
@@ -638,7 +894,7 @@
     "id": "6463852",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F15%2F21%2F03%2F48%2Ffbe082b7-a267-4697-a3f5-b1a2a1e731e3%2F63805_N5bo3afz98mHXhPdweVdhQ.jpg",
     "price": 200,
-    "location": "",
+    "location": "8 Noyabr m.",
     "rooms": "",
     "area_m2": "24 m²",
     "floor": null,
@@ -646,16 +902,24 @@
     "lat": 40.3956224103331,
     "lng": 49.82892301865388,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-15T21:04:10+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 24 m²",
+    "description": "Şəhərin ən prestijli yerimdə, azadlıq prospektində, Naki sağlaçləq mərkəzi ilə üzbəüz, 9 mərtəbənin həyətində yerləşən dəmir garaj aremdaya verilir. Qarajin yeri və gabağı asfaltdır, avtomat jalyuz qapılar, işıq, Qarajın ici səliqəlidir, həm avtomobil saxlamaq, həm anbar və şəxsi emalatxana kimi istifadə oluna bilər",
+    "building_type": "Qaraj",
+    "location_id": "279",
+    "location_name": "8 Noyabr",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6463852",
-    "first_seen_at": "2026-09-30T12:27:27.914299+00:00",
-    "last_seen_at": "2026-09-30T13:37:41.872028+00:00",
+    "first_seen_at": "2026-09-30T14:19:58.799753+00:00",
+    "last_seen_at": "2026-09-30T14:19:58.799753+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 200,
-        "date": "2026-09-30T12:27:27.914299+00:00"
+        "date": "2026-09-30T14:19:58.799753+00:00"
       }
     ]
   },
@@ -663,7 +927,7 @@
     "id": "6307907",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F20%2F21%2F51%2F25%2F46956563-1e55-4360-8d8d-f8441b3be788%2F6499_oivABhGr23iK-3TJTdHTFA.jpg",
     "price": 150,
-    "location": "",
+    "location": "Ağ şəhər q.",
     "rooms": "",
     "area_m2": "15 m²",
     "floor": null,
@@ -671,16 +935,24 @@
     "lat": 40.38170489490725,
     "lng": 49.88836681352232,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-15T19:28:32+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 15 m²",
+    "description": "Yeraltı Parking İcarəyə Verilir\r\nBinanın 1-ci blokunda yerləşən, 15 kv.m sahəyə malik yeraltı parking uzunmüddətli icarəyə verilir.\r\n✅ 1 avtomobil üçün geniş və rahat yer\r\n✅ Liftə çox yaxın yerləşir\r\n✅ Müasir və təhlükəsiz yeraltı parking\r\n✅ 24/7 mühafizə və videomüşahidə sistemi\r\n✅ Elektrikli avtomobillər üçün şarj (enerjidoldurma) avadanlığı mövcuddur\r\n✅ Rahat giriş-çıxış və premium yaşayış mühiti\r\nMaraqlanan şəxslər əlaqə saxlaya bilərlər.\r\n📞 Əlaqə: (telefon nömrənizi yazın)",
+    "building_type": "Qaraj",
+    "location_id": "314",
+    "location_name": "Ağ şəhər",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6307907",
-    "first_seen_at": "2026-09-30T12:27:28.132247+00:00",
-    "last_seen_at": "2026-09-30T13:37:41.942883+00:00",
+    "first_seen_at": "2026-09-30T14:19:58.845036+00:00",
+    "last_seen_at": "2026-09-30T14:19:58.845036+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 150,
-        "date": "2026-09-30T12:27:28.132247+00:00"
+        "date": "2026-09-30T14:19:58.845036+00:00"
       }
     ]
   },
@@ -688,7 +960,7 @@
     "id": "6463278",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F15%2F17%2F39%2F35%2F8cbc0502-0d71-42b7-b853-4864d6d2f2b8%2F70707_VsqzmT-jibq6QyUaS4X2ig.jpg",
     "price": 15,
-    "location": "",
+    "location": "Xətai r.",
     "rooms": "",
     "area_m2": "3 m²",
     "floor": null,
@@ -696,16 +968,24 @@
     "lat": 40.3675533990853,
     "lng": 49.93996262068251,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-15T17:44:04+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 3 m²",
+    "description": "Sklad (kladovka) kirayə verilir. Yeni tikili binanın -1 mərtəbəsində 2 kv-dan 5 kv-a qeder ölçüləri var. Qiyməti ölçüdən asılı olaraq 15 manatdan - 35 manata qədərdir. Ünvan Zığ yolu 3a (Nargilə kafesi ilə üzbəüz, Rahat marketin binası)",
+    "building_type": "Qaraj",
+    "location_id": "16",
+    "location_name": "Xətai",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6463278",
-    "first_seen_at": "2026-09-30T12:27:28.290482+00:00",
-    "last_seen_at": "2026-09-30T13:37:41.992023+00:00",
+    "first_seen_at": "2026-09-30T14:19:58.893351+00:00",
+    "last_seen_at": "2026-09-30T14:19:58.893351+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 15,
-        "date": "2026-09-30T12:27:28.290482+00:00"
+        "date": "2026-09-30T14:19:58.893351+00:00"
       }
     ]
   },
@@ -713,7 +993,7 @@
     "id": "6460916",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F14%2F19%2F53%2F00%2Fd9a52e9d-c499-451f-bb74-d48d98a88c8a%2F63806_o5cLCZh0qweyzDw9zo90BQ.jpg",
     "price": 150,
-    "location": "",
+    "location": "İçəri Şəhər m.",
     "rooms": "",
     "area_m2": "24 m²",
     "floor": null,
@@ -721,16 +1001,24 @@
     "lat": 40.3672456201755,
     "lng": 49.82546341453418,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-14T19:56:59+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 24 m²",
+    "description": "Muhafize olunan heyetde 24kv dash garaj kiraye verilir! Garaj anbar kimi istifade oluna biler",
+    "building_type": "Qaraj",
+    "location_id": "37",
+    "location_name": "İçəri Şəhər",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6460916",
-    "first_seen_at": "2026-09-30T12:27:28.445325+00:00",
-    "last_seen_at": "2026-09-30T13:37:42.038682+00:00",
+    "first_seen_at": "2026-09-30T14:19:58.962579+00:00",
+    "last_seen_at": "2026-09-30T14:19:58.962579+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 150,
-        "date": "2026-09-30T12:27:28.445325+00:00"
+        "date": "2026-09-30T14:19:58.962579+00:00"
       }
     ]
   },
@@ -738,7 +1026,7 @@
     "id": "6457727",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F13%2F17%2F44%2F47%2F29a059ce-217f-4ec6-93b7-68180a020f21%2F59919_zYElPmtj6JmTLr7TTQHSnQ.jpg",
     "price": 500,
-    "location": "",
+    "location": "Memar Əcəmi m.",
     "rooms": "",
     "area_m2": "16 m²",
     "floor": null,
@@ -746,16 +1034,24 @@
     "lat": 40.42015326498552,
     "lng": 49.81217733853197,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-13T17:45:36+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 16 m²",
+    "description": "Daş tikili qaraj. Sahəsi 16kv. Çado ilə üzbəüz binanın həyət hissəsinə düşür. Araz marketin arxası. Ətrafı yaşayış sahələridir. Gəliş gedişli yerdir. Təmiri zəifdir. İstənilən iş üçün istəyə görə təmir olunada bilər. Təmir mən tərəfdən olunsa icarə haqqı 500 manat. Olunmasa 400 manat. ",
+    "building_type": "Qaraj",
+    "location_id": "59",
+    "location_name": "Memar Əcəmi",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6457727",
-    "first_seen_at": "2026-09-30T12:27:28.604769+00:00",
-    "last_seen_at": "2026-09-30T13:37:42.086145+00:00",
+    "first_seen_at": "2026-09-30T14:19:59.019404+00:00",
+    "last_seen_at": "2026-09-30T14:19:59.019404+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 500,
-        "date": "2026-09-30T12:27:28.604769+00:00"
+        "date": "2026-09-30T14:19:59.019404+00:00"
       }
     ]
   },
@@ -763,7 +1059,7 @@
     "id": "6450178",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F10%2F17%2F45%2F40%2F53fe9824-d43f-42fd-ae58-9eccd327401c%2F63787_QmTefZ1y_BB_D44r3-zlJw.jpg",
     "price": 180,
-    "location": "",
+    "location": "Bakıxanov q.",
     "rooms": "",
     "area_m2": "40 m²",
     "floor": null,
@@ -771,16 +1067,24 @@
     "lat": 40.42305150626961,
     "lng": 49.95903041595515,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-10T17:49:19+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 40 m²",
+    "description": "",
+    "building_type": "Qaraj",
+    "location_id": "69",
+    "location_name": "Bakıxanov",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6450178",
-    "first_seen_at": "2026-09-30T12:27:28.760541+00:00",
-    "last_seen_at": "2026-09-30T13:37:42.159757+00:00",
+    "first_seen_at": "2026-09-30T14:19:59.067920+00:00",
+    "last_seen_at": "2026-09-30T14:19:59.067920+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 180,
-        "date": "2026-09-30T12:27:28.760541+00:00"
+        "date": "2026-09-30T14:19:59.067920+00:00"
       }
     ]
   },
@@ -788,7 +1092,7 @@
     "id": "6448211",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F10%2F10%2F09%2F07%2F357cf61b-bc17-4475-ad2a-04c3f5cf295a%2F59951_cfTz-sbSffd3BnlZ_cNsJw.jpg",
     "price": 170,
-    "location": "",
+    "location": "Şah İsmayıl Xətai m.",
     "rooms": "",
     "area_m2": "20 m²",
     "floor": null,
@@ -796,16 +1100,24 @@
     "lat": 40.38748332905946,
     "lng": 49.87788076660702,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-10T10:12:18+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 20 m²",
+    "description": "AĞ ŞƏHƏR, BAKU CITY RESIDENCE, Qaraj kiraye verilir (-3 mertebesinde, 8-ci girise yaxin) ",
+    "building_type": "Qaraj",
+    "location_id": "36",
+    "location_name": "Şah İsmayıl Xətai",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6448211",
-    "first_seen_at": "2026-09-30T12:27:28.982337+00:00",
-    "last_seen_at": "2026-09-30T13:37:42.228879+00:00",
+    "first_seen_at": "2026-09-30T14:19:59.118128+00:00",
+    "last_seen_at": "2026-09-30T14:19:59.118128+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 170,
-        "date": "2026-09-30T12:27:28.982337+00:00"
+        "date": "2026-09-30T14:19:59.118128+00:00"
       }
     ]
   },
@@ -813,7 +1125,7 @@
     "id": "6201888",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F10%2F23%2F17%2F48%2F7a4f45fe-7850-4e0f-ab74-9a5bf3386db1%2F66011_zWdmff3LfwQ05xqDZHCGnw.jpg",
     "price": 350,
-    "location": "",
+    "location": "Şah İsmayıl Xətai m.",
     "rooms": "",
     "area_m2": "30 m²",
     "floor": null,
@@ -821,16 +1133,24 @@
     "lat": 40.37894400165318,
     "lng": 49.86289719425496,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-10T04:01:55+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 30 m²",
+    "description": "Şəhərin tam mərkəzində port baku walk-ın arxasıda 30 kv qaraj icarəyə verilir. Anbar və sex kimi istifadə etmək mümkündü. Hər bir tərəfi betondu, dəmir qapısı, ayrıca sayğacla işığı və havalandırma var. Qaraj binanın ayrıca həyətində yerləşir. Maşınla giriş çıxış üçün rahatdır.",
+    "building_type": "Qaraj",
+    "location_id": "36",
+    "location_name": "Şah İsmayıl Xətai",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6201888",
-    "first_seen_at": "2026-09-30T12:27:29.150809+00:00",
-    "last_seen_at": "2026-09-30T13:37:42.275141+00:00",
+    "first_seen_at": "2026-09-30T14:19:59.174364+00:00",
+    "last_seen_at": "2026-09-30T14:19:59.174364+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 350,
-        "date": "2026-09-30T12:27:29.150809+00:00"
+        "date": "2026-09-30T14:19:59.174364+00:00"
       }
     ]
   },
@@ -838,7 +1158,7 @@
     "id": "6447985",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F09%2F22%2F57%2F09%2F4b1b71ba-935e-4640-a6bb-c08e641c1e2a%2F63797_MDLgpZ0oZ8VtVw5he4Uu2w.jpg",
     "price": 100,
-    "location": "",
+    "location": "Nərimanov r.",
     "rooms": "",
     "area_m2": "40 m²",
     "floor": null,
@@ -846,16 +1166,24 @@
     "lat": 40.39990449641488,
     "lng": 49.83939119195931,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-09T23:00:48+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 40 m²",
+    "description": "ARENDAYA VERILIR!!!Öz şəxsi qarajımdı.2 maşın rahatlığnan yerləşir.Ümumi sahə təxminən 5x8 ölçüsündədir.Aylıq arendaya verilir.İstəyə görə qaraj satılada bilər bütöv.",
+    "building_type": "Qaraj",
+    "location_id": "10",
+    "location_name": "Nərimanov",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6447985",
-    "first_seen_at": "2026-09-30T12:27:29.313185+00:00",
-    "last_seen_at": "2026-09-30T13:37:42.323629+00:00",
+    "first_seen_at": "2026-09-30T14:19:59.224306+00:00",
+    "last_seen_at": "2026-09-30T14:19:59.224306+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 100,
-        "date": "2026-09-30T12:27:29.313185+00:00"
+        "date": "2026-09-30T14:19:59.224306+00:00"
       }
     ]
   },
@@ -863,7 +1191,7 @@
     "id": "6446446",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F09%2F14%2F43%2F13%2F0ec63c99-e3c1-4804-9184-5dba1a6da899%2F63785_uIvOBpJo1rKudIX1j4IYqw.jpg",
     "price": 250,
-    "location": "",
+    "location": "İnşaatçılar m.",
     "rooms": "",
     "area_m2": "36 m²",
     "floor": null,
@@ -871,16 +1199,24 @@
     "lat": 40.38414276738512,
     "lng": 49.80180495048958,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-10T09:21:19+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 36 m²",
+    "description": "Abbas Mirzə Şərifzadə küçəsində 36 kv.m sahəsi olan geniş və rahat qaraj uzunmüddətli kirayəyə verilir. Qaraj həm avtomobil saxlamaq, həm də müxtəlif məqsədlər üçün istifadə etmək üçün əlverişlidir.\r\n\r\nQarajın içərisində əl-üz yumaq üçün çanaq mövcuddur. Həmçinin ayrıca sayğacı var. Səliqəli və istifadəyə yararlı vəziyyətdədir.\r\n\r\nƏtraflı məlumat və baxış üçün əlaqə saxlaya bilərsiniz. ",
+    "building_type": "Qaraj",
+    "location_id": "7",
+    "location_name": "İnşaatçılar",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6446446",
-    "first_seen_at": "2026-09-30T12:27:29.472186+00:00",
-    "last_seen_at": "2026-09-30T13:37:42.381084+00:00",
+    "first_seen_at": "2026-09-30T14:19:59.270985+00:00",
+    "last_seen_at": "2026-09-30T14:19:59.270985+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 250,
-        "date": "2026-09-30T12:27:29.472186+00:00"
+        "date": "2026-09-30T14:19:59.270985+00:00"
       }
     ]
   },
@@ -888,7 +1224,7 @@
     "id": "6444228",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F08%2F16%2F59%2F28%2Fe6a43b5d-6642-415e-ae47-75b6c84bfc91%2F63804_wWyfToausXOYqpHdDwuPmg.jpg",
     "price": 65,
-    "location": "",
+    "location": "Lökbatan q.",
     "rooms": "",
     "area_m2": "18 m²",
     "floor": null,
@@ -896,16 +1232,24 @@
     "lat": 40.33098478505667,
     "lng": 49.71906202040479,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-08T17:00:10+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 18 m²",
+    "description": "Öz qarajimdi maşın saxlamaq ya depo kimi istifadə üçün yararlıdır 15-20 kv dir whatsapp var.unvan Lökbatan qəs,2 çi massiv 233 məktəb yaxınlığında real,ciddi fikri olan əlaqə saxlasın vp var cox uzun muddet istiyene qiymetde endirim olacaq\r\n2 ay-130m\r\n3ay-190m",
+    "building_type": "Qaraj",
+    "location_id": "20",
+    "location_name": "Lökbatan",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6444228",
-    "first_seen_at": "2026-09-30T12:27:29.638510+00:00",
-    "last_seen_at": "2026-09-30T13:37:42.476653+00:00",
+    "first_seen_at": "2026-09-30T14:19:59.323213+00:00",
+    "last_seen_at": "2026-09-30T14:19:59.323213+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 65,
-        "date": "2026-09-30T12:27:29.638510+00:00"
+        "date": "2026-09-30T14:19:59.323213+00:00"
       }
     ]
   },
@@ -913,7 +1257,7 @@
     "id": "6434775",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F05%2F09%2F58%2F55%2F415bf921-be82-4b5a-90eb-e6162fe7e754%2F72335_ApC5ZqAly-fr0ouL0C_ZxQ.jpg",
     "price": 110,
-    "location": "",
+    "location": "Ağ şəhər q.",
     "rooms": "",
     "area_m2": "18 m²",
     "floor": null,
@@ -921,16 +1265,24 @@
     "lat": 40.38530679018758,
     "lng": 49.88540651181899,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-05T09:59:03+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 18 m²",
+    "description": "Suşi by fərəhlə üzbəüz. Lamilandın yanl",
+    "building_type": "Qaraj",
+    "location_id": "314",
+    "location_name": "Ağ şəhər",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6434775",
-    "first_seen_at": "2026-09-30T12:27:29.795399+00:00",
-    "last_seen_at": "2026-09-30T13:37:42.517528+00:00",
+    "first_seen_at": "2026-09-30T14:19:59.371624+00:00",
+    "last_seen_at": "2026-09-30T14:19:59.371624+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 110,
-        "date": "2026-09-30T12:27:29.795399+00:00"
+        "date": "2026-09-30T14:19:59.371624+00:00"
       }
     ]
   },
@@ -938,7 +1290,7 @@
     "id": "6434747",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F05%2F09%2F18%2F47%2F69f603bc-d205-434d-b87f-34866b83fc40%2F72335_l-aiw7batFVZm6Sjv-kodQ.jpg",
     "price": 170,
-    "location": "",
+    "location": "Nəriman Nərimanov m.",
     "rooms": "",
     "area_m2": "35 m²",
     "floor": null,
@@ -946,16 +1298,24 @@
     "lat": 40.40631166886877,
     "lng": 49.87555840838381,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-05T09:22:53+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 35 m²",
+    "description": "Nərimanov rayonu, \" Azenco \" yeni \r\ntikili binanın zirzəmisində 35 kv.metr sahədə ÇIXARIŞLİ obyekt icarəyə verilir.\r\nİstifadə imkanları:\r\n- Anbar/saxlama sahəsi\r\n- Emalatxana və ya xırda istehsal\r\n- Ofis və ya xidməti otaq kimi uyğunlaşdırma imkanı\r\n- Ev-eşya, konservləşdirilmiş məhsullar və digər materialların toplanması üçün əlverişlidir.",
+    "building_type": "Qaraj",
+    "location_id": "1",
+    "location_name": "Nəriman Nərimanov",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6434747",
-    "first_seen_at": "2026-09-30T12:27:29.951929+00:00",
-    "last_seen_at": "2026-09-30T13:37:42.563711+00:00",
+    "first_seen_at": "2026-09-30T14:19:59.428788+00:00",
+    "last_seen_at": "2026-09-30T14:19:59.428788+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 170,
-        "date": "2026-09-30T12:27:29.951929+00:00"
+        "date": "2026-09-30T14:19:59.428788+00:00"
       }
     ]
   },
@@ -963,7 +1323,7 @@
     "id": "6434735",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F05%2F09%2F02%2F40%2F79614ab0-0904-4663-9416-bfacb8d56149%2F63812_dbzHuDKGrbzkK9v0GhE-Iw.jpg",
     "price": 600,
-    "location": "",
+    "location": "Nəriman Nərimanov m.",
     "rooms": "",
     "area_m2": "160 m²",
     "floor": null,
@@ -971,16 +1331,24 @@
     "lat": 40.40622591821091,
     "lng": 49.87557276955359,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-22T14:40:33+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 160 m²",
+    "description": "Nərimanov rayonu, \" Azenco \" yeni \ntikili binanın zirzəmisində 160 kv.metr sahədə ÇIXARIŞLİ qaraj icarəyə verilir.\nİstifadə imkanları:\n- Moyka \n- Anbar/saxlama sahəsi\n- Emalatxana və ya xırda istehsal\n- Ofis və ya xidməti otaq kimi uyğunlaşdırma imkanı\n- Ev-eşya, konservləşdirilmiş məhsullar və digər materialların toplanması üçün əlverişlidir.",
+    "building_type": "Qaraj",
+    "location_id": "1",
+    "location_name": "Nəriman Nərimanov",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6434735",
-    "first_seen_at": "2026-09-30T12:27:30.109511+00:00",
-    "last_seen_at": "2026-09-30T13:37:42.611122+00:00",
+    "first_seen_at": "2026-09-30T14:19:59.498126+00:00",
+    "last_seen_at": "2026-09-30T14:19:59.498126+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 600,
-        "date": "2026-09-30T12:27:30.109511+00:00"
+        "date": "2026-09-30T14:19:59.498126+00:00"
       }
     ]
   },
@@ -988,7 +1356,7 @@
     "id": "6434731",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F05%2F08%2F57%2F36%2F2b1a6586-8994-4a9b-8a15-88eb75b0ca5d%2F72294_OYWa97czaT42inqB16hz0w.jpg",
     "price": 110,
-    "location": "",
+    "location": "Nəriman Nərimanov m.",
     "rooms": "",
     "area_m2": "21 m²",
     "floor": null,
@@ -996,16 +1364,24 @@
     "lat": 40.4063103240313,
     "lng": 49.87557679653993,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-05T09:01:11+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 21 m²",
+    "description": "Nərimanov rayonu.\n\" Azenco \" yeni \ntikili binanın zirzəmisində 21 kv.metr sahədə ÇIXARIŞLİ qaraj icarəyə verilir.\nİstifadə imkanları:\n- Anbar/saxlama sahəsi\n- Emalatxana və ya xırda istehsal\n- Ofis və ya xidməti otaq kimi uyğunlaşdırma imkanı\n- Ev-eşya, konservləşdirilmiş məhsullar və digər materialların toplanması üçün əlverişlidir.",
+    "building_type": "Qaraj",
+    "location_id": "1",
+    "location_name": "Nəriman Nərimanov",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6434731",
-    "first_seen_at": "2026-09-30T12:27:30.312323+00:00",
-    "last_seen_at": "2026-09-30T13:37:42.662302+00:00",
+    "first_seen_at": "2026-09-30T14:19:59.547721+00:00",
+    "last_seen_at": "2026-09-30T14:19:59.547721+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 110,
-        "date": "2026-09-30T12:27:30.312323+00:00"
+        "date": "2026-09-30T14:19:59.547721+00:00"
       }
     ]
   },
@@ -1013,7 +1389,7 @@
     "id": "6433429",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F04%2F16%2F01%2F16%2F5db2ea4b-5783-4ed4-ae1d-440446c8809d%2F72341_wHlSwha5n6ztXIBJpVxgDg.jpg",
     "price": 550,
-    "location": "",
+    "location": "Yasamal q.",
     "rooms": "",
     "area_m2": "18 m²",
     "floor": null,
@@ -1021,16 +1397,24 @@
     "lat": 40.36489724169412,
     "lng": 49.812329668457,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-04T16:06:41+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 18 m²",
+    "description": "Elimlerde metro çıxışnda mehlede 18kv.m.dən ibarətdir.Eynullayeva Ruhengiz",
+    "building_type": "Qaraj",
+    "location_id": "103",
+    "location_name": "Yasamal",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6433429",
-    "first_seen_at": "2026-09-30T12:27:30.478506+00:00",
-    "last_seen_at": "2026-09-30T13:37:42.710209+00:00",
+    "first_seen_at": "2026-09-30T14:19:59.594422+00:00",
+    "last_seen_at": "2026-09-30T14:19:59.594422+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 550,
-        "date": "2026-09-30T12:27:30.478506+00:00"
+        "date": "2026-09-30T14:19:59.594422+00:00"
       }
     ]
   },
@@ -1038,7 +1422,7 @@
     "id": "6428796",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F03%2F06%2F39%2F56%2F2bace747-ee1e-4efa-9a6c-9b6a0eea1845%2F63812_W2LFmrqrr0gPQB5UUeJ65g.jpg",
     "price": 150,
-    "location": "",
+    "location": "8-ci kilometr q.",
     "rooms": "",
     "area_m2": "18 m²",
     "floor": null,
@@ -1046,16 +1430,24 @@
     "lat": 40.40605631699022,
     "lng": 49.93191279895859,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-03T08:22:09+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 18 m²",
+    "description": "Avtomobil təmiri ilə məşğul olanlar üçün əla fürsət! İllərdi bu ərazidə təmir qarajları fəaliyyət göstərdiyi üçün Nizami rayonunda təmir üçün gəlinən birinci yerlərdəndir. Ay ışığı şadlıq sarayının sağ tərəfində yerləşir. Daş qarajdır. ",
+    "building_type": "Qaraj",
+    "location_id": "74",
+    "location_name": "8-ci kilometr",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6428796",
-    "first_seen_at": "2026-09-30T12:27:30.637814+00:00",
-    "last_seen_at": "2026-09-30T13:37:42.753420+00:00",
+    "first_seen_at": "2026-09-30T14:19:59.660017+00:00",
+    "last_seen_at": "2026-09-30T14:19:59.660017+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 150,
-        "date": "2026-09-30T12:27:30.637814+00:00"
+        "date": "2026-09-30T14:19:59.660017+00:00"
       }
     ]
   },
@@ -1063,7 +1455,7 @@
     "id": "6040714",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F04%2F13%2F12%2F44%2F50%2Ffe649de0-3048-42a5-a684-2c6133953a36%2F73234_Wy46P0b9hE_6OekEAGTCgw.jpg",
     "price": 120,
-    "location": "",
+    "location": "Azadlıq Prospekti m.",
     "rooms": "",
     "area_m2": "18 m²",
     "floor": null,
@@ -1071,16 +1463,24 @@
     "lat": 40.41868132988179,
     "lng": 49.84201599532849,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-02T14:19:13+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 18 m²",
+    "description": "Jalüzlü qarajdır. \r\n\r\n8-ci mikrorayon. Coffemania-nın üstündəki binanın arxası. Deri Zohrevi poliklinikanin yani.\r\n\r\n",
+    "building_type": "Qaraj",
+    "location_id": "6",
+    "location_name": "Azadlıq Prospekti",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6040714",
-    "first_seen_at": "2026-09-30T12:27:30.797679+00:00",
-    "last_seen_at": "2026-09-30T13:37:42.816607+00:00",
+    "first_seen_at": "2026-09-30T14:19:59.718944+00:00",
+    "last_seen_at": "2026-09-30T14:19:59.718944+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 120,
-        "date": "2026-09-30T12:27:30.797679+00:00"
+        "date": "2026-09-30T14:19:59.718944+00:00"
       }
     ]
   },
@@ -1088,7 +1488,7 @@
     "id": "6426490",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F02%2F12%2F43%2F48%2F6025bea7-06cb-4b13-b9f6-6b7941663ba7%2F72343_1gWaPovlUGOBtI6vd6LM3w.jpg",
     "price": 150,
-    "location": "",
+    "location": "Nəriman Nərimanov m.",
     "rooms": "",
     "area_m2": "16 m²",
     "floor": null,
@@ -1096,16 +1496,24 @@
     "lat": 40.40094441106674,
     "lng": 49.86950112783975,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-02T12:47:30+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 16 m²",
+    "description": "",
+    "building_type": "Qaraj",
+    "location_id": "1",
+    "location_name": "Nəriman Nərimanov",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6426490",
-    "first_seen_at": "2026-09-30T12:27:30.956411+00:00",
-    "last_seen_at": "2026-09-30T13:37:42.968805+00:00",
+    "first_seen_at": "2026-09-30T14:19:59.783390+00:00",
+    "last_seen_at": "2026-09-30T14:19:59.783390+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 150,
-        "date": "2026-09-30T12:27:30.956411+00:00"
+        "date": "2026-09-30T14:19:59.783390+00:00"
       }
     ]
   },
@@ -1113,7 +1521,7 @@
     "id": "6426240",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F02%2F11%2F56%2F52%2F4752d37c-bcc2-4c55-a9d9-389ff82e88e5%2F63817_0mg6cEnY_miBqlZzzgRQnA.jpg",
     "price": 150,
-    "location": "",
+    "location": "Ağ şəhər q.",
     "rooms": "",
     "area_m2": "15 m²",
     "floor": null,
@@ -1121,16 +1529,24 @@
     "lat": 40.38038779627989,
     "lng": 49.88342554059277,
     "has_repair": null,
+    "floor_number": null,
+    "updated_at_site": "2026-09-02T11:59:21+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 15 m²",
+    "description": "Ag şəhərdə, yaşıl Ada 1, maşın yeri icarəyə verilir, qiyməti 150 azn",
+    "building_type": "Qaraj",
+    "location_id": "314",
+    "location_name": "Ağ şəhər",
     "category": "garage",
     "deal_type": "rental",
     "url": "https://bina.az/items/6426240",
-    "first_seen_at": "2026-09-30T12:27:31.112983+00:00",
-    "last_seen_at": "2026-09-30T13:37:43.026823+00:00",
+    "first_seen_at": "2026-09-30T14:19:59.836470+00:00",
+    "last_seen_at": "2026-09-30T14:19:59.836470+00:00",
     "deleted_at": null,
     "price_history": [
       {
         "price": 150,
-        "date": "2026-09-30T12:27:31.112983+00:00"
+        "date": "2026-09-30T14:19:59.836470+00:00"
       }
     ]
   }
