@@ -36,13 +36,13 @@ async def load_category_page(page, url: str) -> int:
     return total
 
 
-STALL_TIMEOUT = 10  # seconds of no scrollHeight change → listings finished
-
-
-async def scroll_and_extract(page) -> list[dict]:
+async def scroll_and_extract(page, target: int = 0) -> list[dict]:
     """Scroll and extract cards incrementally.
-    Stops when page scrollHeight hasn't grown for STALL_TIMEOUT seconds.
+
+    Stops when len(extracted) >= target (the count shown in the page header).
+    Falls back to a 10s scrollHeight-stall timeout if target is 0 or unreachable.
     """
+    STALL_TIMEOUT = 10
     await page.set_viewport_size({"width": 1280, "height": 900})
     all_cards: list[dict] = []
     last_height = 0
@@ -50,16 +50,18 @@ async def scroll_and_extract(page) -> list[dict]:
     last_pos = 0
 
     while True:
+        # Stop if we've reached the advertised listing count
+        if target > 0 and len(all_cards) >= target:
+            print(f"  reached target {target} → done ({len(all_cards)} extracted)")
+            break
+
         scroll_height = await page.evaluate("() => document.body.scrollHeight")
 
         if scroll_height > last_height:
             last_height = scroll_height
             last_change_t = time.time()
-        elif time.time() - last_change_t >= STALL_TIMEOUT:
-            print(f"  page height stable for {STALL_TIMEOUT}s → listings finished ({len(all_cards)} total)")
-            break
 
-        # Scroll down, but abort the inner loop if the stall timeout fires
+        # Scroll down, checking stall timeout on every step
         pos = last_pos
         while pos < scroll_height:
             if time.time() - last_change_t >= STALL_TIMEOUT:
@@ -70,12 +72,11 @@ async def scroll_and_extract(page) -> list[dict]:
         last_pos = pos
         await page.wait_for_timeout(800)
 
-        # Re-check timeout here in case inner loop exited early
         if time.time() - last_change_t >= STALL_TIMEOUT:
-            print(f"  page height stable for {STALL_TIMEOUT}s → listings finished ({len(all_cards)} total)")
+            print(f"  page stable for {STALL_TIMEOUT}s → done ({len(all_cards)} extracted)")
             break
 
-        # Extract any new unprocessed cards
+        # Extract newly loaded cards
         new_cards = await page.evaluate("""() => {
             const results = [];
             document.querySelectorAll('.item-card:not([data-x])').forEach(card => {
@@ -93,7 +94,7 @@ async def scroll_and_extract(page) -> list[dict]:
 
         if new_cards:
             all_cards.extend(new_cards)
-            print(f"  scroll: {last_height}px, {len(all_cards)} extracted")
+            print(f"  {len(all_cards)}/{target or '?'} extracted")
 
     return all_cards
 

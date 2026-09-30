@@ -214,7 +214,7 @@ async def scrape_category(page, cfg: dict) -> None:
         raw_cards = await extract_cards(page)
         raw_cards = raw_cards[:SCRAPE_LIMIT]
     else:
-        raw_cards = await scroll_and_extract(page)
+        raw_cards = await scroll_and_extract(page, target=total)
     print(f"  cards extracted: {len(raw_cards)}")
 
     parser = PARSERS.get(category, PARSERS["apartment"])
