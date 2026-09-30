@@ -1,137 +1,5 @@
 [
   {
-    "id": "6419199",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F30%2F19%2F37%2F35%2F1e47c204-8a5f-4fe5-a920-0b474c37a747%2F67996_W0sjj3w-KQbEI-WG-qF4Mw.jpg",
-    "price": 2500,
-    "location": "Sahil m.",
-    "rooms": "3 otaqlı",
-    "area_m2": "100 m²",
-    "floor": "13/20 mərtəbə",
-    "is_agency": true,
-    "lat": 40.3702044529014,
-    "lng": 49.8423978227797,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 13,
-    "updated_at_site": "2026-09-23T21:06:39+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 3 otaqlı yeni tikili 100 m²",
-    "description": "✨ PREMIUM LİVİNQ | SAHİL | BULVAR | DƏNİZ\r\n\r\n🏙️ Şəhərin ən prestijli lokasiyalarından birində — Sahil metrosunun yanında, dəniz kənarında və Bulvara cəmi 3 dəqiqəlik məsafədə yerləşən möhtəşəm mənzil kirayə verilir.\r\n\r\n🏡 3 otaq | 100 m²\r\n🏢 20 mərtəbəli binanın 13-cü mərtəbəsi\r\n✨ Yüksək səviyyədə, zövqlə təmir olunub\r\n🌊 Dəniz və şəhər atmosferini hiss etdirən premium lokasiya\r\n📍 Bulvar, şəhər mərkəzi və bütün infrastruktura ideal çıxış\r\n\r\nMənzil komfort, prestij və şəhər həyatının dinamikliyini bir arada yaşamaq istəyənlər üçün mükəmməl seçimdir.\r\n\r\n💎 Kirayə: 2.500 AZN / ay\r\n\r\n📞baxış və ətraflı məlumat üçün əlaqə saxlayın.",
-    "building_type": "Yeni tikili",
-    "location_id": "38",
-    "location_name": "Sahil",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6419199",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 2500,
-        "date": "2026-09-30T19:47:26.647237+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6486475",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F23%2F21%2F06%2F42%2F29110633-0cc8-490b-8d70-5a136538a850%2F2836_qX7vHIe2GKub-0Xx_eTSDA.jpg",
-    "price": 1500,
-    "location": "İnşaatçılar m.",
-    "rooms": "3 otaqlı",
-    "area_m2": "110 m²",
-    "floor": "21/22 mərtəbə",
-    "is_agency": true,
-    "lat": 40.38602449703857,
-    "lng": 49.80812254597961,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 21,
-    "updated_at_site": "2026-09-23T21:12:54+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 3 otaqlı yeni tikili 110 m²",
-    "description": "🏡 KİRAYƏ VERİLİR!\r\n\r\n📍 Yasamal rayonu qələbə dairesinə yaxin\r\n✨ Tam təmirli\r\n🛋️ Tam əşyalı\r\n👨‍👩‍👧 Ailə üçün daha uyğundur\r\n\r\n💼 Ofis xidmət haqqı: 30%\r\n\r\nƏtraflı məlumat və mənzilə baxış üçün əlaqə saxlaya bilərsiniz.",
-    "building_type": "Yeni tikili",
-    "location_id": "7",
-    "location_name": "İnşaatçılar",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6486475",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1500,
-        "date": "2026-09-30T19:47:26.647227+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6471034",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F18%2F13%2F22%2F53%2F06b9af72-b71f-4797-a043-48eaa67e01eb%2F89552_gYWnWpIIwqWcYZ5N2jbWSQ.jpg",
-    "price": 1200,
-    "location": "Nizami m.",
-    "rooms": "3 otaqlı",
-    "area_m2": "110 m²",
-    "floor": "2/16 mərtəbə",
-    "is_agency": true,
-    "lat": 40.38527651898816,
-    "lng": 49.83303200741364,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 2,
-    "updated_at_site": "2026-09-23T21:22:37+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 3 otaqlı yeni tikili 110 m²",
-    "description": "🏠 KİRAYƏ VERİLİR!\r\n\r\n✨ Əşyalı\r\n✨ Təmirli\r\n📍 Nizami metrosuna yaxın\r\n💰 Depozit tələb olunur\r\n🏢 Komendant ödənişi: 30 AZN\r\n📌 Ofis xidmət haqqı: 30%\r\n\r\nƏtraflı məlumat üçün əlaqə saxlayın.",
-    "building_type": "Yeni tikili",
-    "location_id": "35",
-    "location_name": "Nizami",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6471034",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1200,
-        "date": "2026-09-30T19:47:26.659248+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6486483",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F23%2F21%2F18%2F05%2Fa943d094-db23-4cfb-8c12-7fd704e8b360%2F63792_sWD4N1U6A1aA8y4vSboJgw.jpg",
-    "price": 1350,
-    "location": "Elmlər Akademiyası m.",
-    "rooms": "3 otaqlı",
-    "area_m2": "150 m²",
-    "floor": "13/16 mərtəbə",
-    "is_agency": false,
-    "lat": 40.379828,
-    "lng": 49.808782,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 13,
-    "updated_at_site": "2026-09-23T21:22:56+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 3 otaqlı yeni tikili 150 m²",
-    "description": " Mənzil Elimlər metrosuna 5 dəqiqəlik piyada məsafədə İlahiyyət məsçidinin yanında yerləşir.\r\nŞəkildə göründüyü kimi verilir. Tam əşyalı isə qiymət fərqli olacaq. \r\nXahiş edirəm yalnız ciddi və uzunmüddətli qalacaq şəxslər narahat etsin. Uzunmüddətli müqavilə olduğu təqdirdə isə qiymətdə razılıq olacaq. \r\n",
-    "building_type": "Yeni tikili",
-    "location_id": "34",
-    "location_name": "Elmlər Akademiyası",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6486483",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1350,
-        "date": "2026-09-30T19:47:26.647218+00:00"
-      }
-    ]
-  },
-  {
     "id": "6403556",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F24%2F21%2F14%2F10%2F1294fd36-8a9c-4b14-9a19-1decc40fab6d%2F68127_AZcJcNNg2t917r6vdD6TQQ.jpg",
     "price": 3500,
@@ -252413,6 +252281,138 @@
       {
         "price": 800,
         "date": "2026-09-30T19:47:26.647247+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6419199",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F30%2F19%2F37%2F35%2F1e47c204-8a5f-4fe5-a920-0b474c37a747%2F67996_W0sjj3w-KQbEI-WG-qF4Mw.jpg",
+    "price": 2500,
+    "location": "Sahil m.",
+    "rooms": "3 otaqlı",
+    "area_m2": "100 m²",
+    "floor": "13/20 mərtəbə",
+    "is_agency": true,
+    "lat": 40.3702044529014,
+    "lng": 49.8423978227797,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 13,
+    "updated_at_site": "2026-09-23T21:06:39+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 3 otaqlı yeni tikili 100 m²",
+    "description": "✨ PREMIUM LİVİNQ | SAHİL | BULVAR | DƏNİZ\r\n\r\n🏙️ Şəhərin ən prestijli lokasiyalarından birində — Sahil metrosunun yanında, dəniz kənarında və Bulvara cəmi 3 dəqiqəlik məsafədə yerləşən möhtəşəm mənzil kirayə verilir.\r\n\r\n🏡 3 otaq | 100 m²\r\n🏢 20 mərtəbəli binanın 13-cü mərtəbəsi\r\n✨ Yüksək səviyyədə, zövqlə təmir olunub\r\n🌊 Dəniz və şəhər atmosferini hiss etdirən premium lokasiya\r\n📍 Bulvar, şəhər mərkəzi və bütün infrastruktura ideal çıxış\r\n\r\nMənzil komfort, prestij və şəhər həyatının dinamikliyini bir arada yaşamaq istəyənlər üçün mükəmməl seçimdir.\r\n\r\n💎 Kirayə: 2.500 AZN / ay\r\n\r\n📞baxış və ətraflı məlumat üçün əlaqə saxlayın.",
+    "building_type": "Yeni tikili",
+    "location_id": "38",
+    "location_name": "Sahil",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6419199",
+    "deleted_at": "2026-09-30T21:52:22.247867+00:00",
+    "price_history": [
+      {
+        "price": 2500,
+        "date": "2026-09-30T19:47:26.647237+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6486475",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F23%2F21%2F06%2F42%2F29110633-0cc8-490b-8d70-5a136538a850%2F2836_qX7vHIe2GKub-0Xx_eTSDA.jpg",
+    "price": 1500,
+    "location": "İnşaatçılar m.",
+    "rooms": "3 otaqlı",
+    "area_m2": "110 m²",
+    "floor": "21/22 mərtəbə",
+    "is_agency": true,
+    "lat": 40.38602449703857,
+    "lng": 49.80812254597961,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 21,
+    "updated_at_site": "2026-09-23T21:12:54+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 3 otaqlı yeni tikili 110 m²",
+    "description": "🏡 KİRAYƏ VERİLİR!\r\n\r\n📍 Yasamal rayonu qələbə dairesinə yaxin\r\n✨ Tam təmirli\r\n🛋️ Tam əşyalı\r\n👨‍👩‍👧 Ailə üçün daha uyğundur\r\n\r\n💼 Ofis xidmət haqqı: 30%\r\n\r\nƏtraflı məlumat və mənzilə baxış üçün əlaqə saxlaya bilərsiniz.",
+    "building_type": "Yeni tikili",
+    "location_id": "7",
+    "location_name": "İnşaatçılar",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6486475",
+    "deleted_at": "2026-09-30T21:52:22.247867+00:00",
+    "price_history": [
+      {
+        "price": 1500,
+        "date": "2026-09-30T19:47:26.647227+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6471034",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F18%2F13%2F22%2F53%2F06b9af72-b71f-4797-a043-48eaa67e01eb%2F89552_gYWnWpIIwqWcYZ5N2jbWSQ.jpg",
+    "price": 1200,
+    "location": "Nizami m.",
+    "rooms": "3 otaqlı",
+    "area_m2": "110 m²",
+    "floor": "2/16 mərtəbə",
+    "is_agency": true,
+    "lat": 40.38527651898816,
+    "lng": 49.83303200741364,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 2,
+    "updated_at_site": "2026-09-23T21:22:37+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 3 otaqlı yeni tikili 110 m²",
+    "description": "🏠 KİRAYƏ VERİLİR!\r\n\r\n✨ Əşyalı\r\n✨ Təmirli\r\n📍 Nizami metrosuna yaxın\r\n💰 Depozit tələb olunur\r\n🏢 Komendant ödənişi: 30 AZN\r\n📌 Ofis xidmət haqqı: 30%\r\n\r\nƏtraflı məlumat üçün əlaqə saxlayın.",
+    "building_type": "Yeni tikili",
+    "location_id": "35",
+    "location_name": "Nizami",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6471034",
+    "deleted_at": "2026-09-30T21:52:22.247867+00:00",
+    "price_history": [
+      {
+        "price": 1200,
+        "date": "2026-09-30T19:47:26.659248+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6486483",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F23%2F21%2F18%2F05%2Fa943d094-db23-4cfb-8c12-7fd704e8b360%2F63792_sWD4N1U6A1aA8y4vSboJgw.jpg",
+    "price": 1350,
+    "location": "Elmlər Akademiyası m.",
+    "rooms": "3 otaqlı",
+    "area_m2": "150 m²",
+    "floor": "13/16 mərtəbə",
+    "is_agency": false,
+    "lat": 40.379828,
+    "lng": 49.808782,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 13,
+    "updated_at_site": "2026-09-23T21:22:56+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 3 otaqlı yeni tikili 150 m²",
+    "description": " Mənzil Elimlər metrosuna 5 dəqiqəlik piyada məsafədə İlahiyyət məsçidinin yanında yerləşir.\r\nŞəkildə göründüyü kimi verilir. Tam əşyalı isə qiymət fərqli olacaq. \r\nXahiş edirəm yalnız ciddi və uzunmüddətli qalacaq şəxslər narahat etsin. Uzunmüddətli müqavilə olduğu təqdirdə isə qiymətdə razılıq olacaq. \r\n",
+    "building_type": "Yeni tikili",
+    "location_id": "34",
+    "location_name": "Elmlər Akademiyası",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6486483",
+    "deleted_at": "2026-09-30T21:52:22.247867+00:00",
+    "price_history": [
+      {
+        "price": 1350,
+        "date": "2026-09-30T19:47:26.647218+00:00"
       }
     ]
   }
