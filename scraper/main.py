@@ -215,16 +215,17 @@ async def scrape_category_isolated(cfg: dict, sem: asyncio.Semaphore, errors: li
             errors.append(msg)
 
 
-async def main() -> None:
+async def main(categories: list | None = None) -> None:
     DATA_DIR.mkdir(exist_ok=True)
     errors: list[str] = []
+    targets = categories or CATEGORIES
 
-    print(f"Scraping {len(CATEGORIES)} categories with concurrency={CONCURRENCY}")
-    sem = asyncio.Semaphore(CONCURRENCY)
+    print(f"Scraping {len(targets)} categories with concurrency={min(CONCURRENCY, len(targets))}")
+    sem = asyncio.Semaphore(min(CONCURRENCY, len(targets)))
 
     try:
         await asyncio.gather(
-            *[scrape_category_isolated(cfg, sem, errors) for cfg in CATEGORIES]
+            *[scrape_category_isolated(cfg, sem, errors) for cfg in targets]
         )
     except Exception as exc:
         telegram_notify(f"❌ <b>emlak-ai scrape failed</b>\n{exc}")
@@ -248,4 +249,18 @@ async def main() -> None:
 
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    import sys
+    # Optional: pass category names as args, e.g. apartment_sale house_rental
+    # With no args, all categories run.
+    if len(sys.argv) > 1:
+        keys = set(sys.argv[1:])
+        valid = {f"{c['category']}_{c['deal_type']}" for c in CATEGORIES}
+        unknown = keys - valid
+        if unknown:
+            print(f"Unknown categories: {unknown}")
+            print(f"Valid: {sorted(valid)}")
+            sys.exit(1)
+        selected = [c for c in CATEGORIES if f"{c['category']}_{c['deal_type']}" in keys]
+        asyncio.run(main(selected))
+    else:
+        asyncio.run(main())
