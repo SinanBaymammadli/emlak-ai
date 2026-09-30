@@ -28,6 +28,8 @@ async def load_category_page(page, url: str) -> int:
 
     total = await page.evaluate(r"""() => {
         const m = document.body.innerText.match(/\((\d+)\)/);
+        // Remove footer so scroll stall detection triggers cleanly at last listing
+        document.querySelectorAll('footer, .footer, #footer, .site-footer').forEach(el => el.remove());
         return m ? parseInt(m[1]) : 0;
     }""")
     return total
