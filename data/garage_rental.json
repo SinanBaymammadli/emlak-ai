@@ -3,7 +3,7 @@
     "id": "6337806",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F31%2F19%2F58%2F38%2F8c1080bb-18e1-4946-9be4-a187b9e60c92%2F20413_cJ_Nn0XZzryP26SMpTHbVg.jpg",
     "price": 350,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "16 m²",
     "lat": 40.37911760599208,
@@ -13,7 +13,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6337806",
     "first_seen_at": "2026-09-30T09:37:00.643451+00:00",
-    "last_seen_at": "2026-09-30T12:27:26.653111+00:00",
+    "last_seen_at": "2026-09-30T13:37:35.414595+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -26,7 +26,7 @@
     "id": "6504704",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F14%2F43%2F01%2Fc9d560b8-dafd-4538-a75c-5429948fdcb4%2F16177_ys50EPJUqQeMo8SLK_ElpQ.jpg",
     "price": 200,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "24 m²",
     "floor": null,
@@ -38,7 +38,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6504704",
     "first_seen_at": "2026-09-30T12:27:26.811176+00:00",
-    "last_seen_at": "2026-09-30T12:27:26.811176+00:00",
+    "last_seen_at": "2026-09-30T13:37:35.460249+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -51,7 +51,7 @@
     "id": "6503673",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F10%2F57%2F51%2Fe595791b-c884-44d3-b591-0ff6a0e0f2df%2F75487_R0YP21SSABtos-Sj-h24yQ.jpg",
     "price": 400,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "20 m²",
     "lat": 40.40152611257541,
@@ -61,7 +61,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6503673",
     "first_seen_at": "2026-09-30T09:37:00.685509+00:00",
-    "last_seen_at": "2026-09-30T12:27:26.811236+00:00",
+    "last_seen_at": "2026-09-30T13:37:35.504993+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -74,7 +74,7 @@
     "id": "6503339",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F29%2F23%2F26%2F26%2F7fd44135-2299-4257-b093-5f34a66f1345%2F38964_mebiYCOiwzylqG3IAct9sw.jpg",
     "price": 400,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "35 m²",
     "lat": 40.43735765945881,
@@ -84,7 +84,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6503339",
     "first_seen_at": "2026-09-30T09:37:00.727856+00:00",
-    "last_seen_at": "2026-09-30T12:27:26.811258+00:00",
+    "last_seen_at": "2026-09-30T13:37:35.553268+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -97,7 +97,7 @@
     "id": "6503004",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F29%2F19%2F32%2F50%2F4e94c601-47d8-4a6b-8d7d-7d7b1bd7df6d%2F35336_oCD871Z4qiSbRy103B2MDw.jpg",
     "price": 2100,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "300 m²",
     "lat": 40.43723825091347,
@@ -107,7 +107,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6503004",
     "first_seen_at": "2026-09-30T09:37:00.766453+00:00",
-    "last_seen_at": "2026-09-30T12:27:26.811276+00:00",
+    "last_seen_at": "2026-09-30T13:37:35.601826+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -120,7 +120,7 @@
     "id": "6502535",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F29%2F17%2F29%2F27%2F9b3288fc-e701-46e0-a545-c0e053e73553%2F37967_jviGVaELSBcKXJPR_qnS_Q.jpg",
     "price": 190,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "16 m²",
     "lat": 40.41806267800465,
@@ -130,7 +130,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6502535",
     "first_seen_at": "2026-09-30T09:37:00.805816+00:00",
-    "last_seen_at": "2026-09-30T12:27:26.811293+00:00",
+    "last_seen_at": "2026-09-30T13:37:35.649274+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -143,7 +143,7 @@
     "id": "6499479",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F28%2F17%2F20%2F49%2F1f425401-071e-4e52-ba07-00c4a17235ff%2F35388_m8wG4Njmu7Z6n-ne1UzAAQ.jpg",
     "price": 250,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "25 m²",
     "lat": 40.40375744419703,
@@ -153,7 +153,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6499479",
     "first_seen_at": "2026-09-30T09:37:00.847805+00:00",
-    "last_seen_at": "2026-09-30T12:27:26.811308+00:00",
+    "last_seen_at": "2026-09-30T13:37:35.703222+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -166,7 +166,7 @@
     "id": "6431438",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F03%2F19%2F54%2F45%2F82ea20fd-631e-4da1-8578-2f46f4b47645%2F72342_rVPHJH-b3qq4FU6qrsZxBA.jpg",
     "price": 350,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "27 m²",
     "lat": 40.40392397832986,
@@ -176,7 +176,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6431438",
     "first_seen_at": "2026-09-30T09:37:00.885268+00:00",
-    "last_seen_at": "2026-09-30T12:27:26.811321+00:00",
+    "last_seen_at": "2026-09-30T13:37:35.760152+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -189,7 +189,7 @@
     "id": "6497293",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F28%2F10%2F24%2F15%2Fd083adae-3019-449d-b1fd-09fc82a40cf2%2F71649_F5S3oMH7u0KsTpDGLiB6Lg.jpg",
     "price": 550,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "50 m²",
     "lat": 40.38721150080609,
@@ -199,7 +199,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6497293",
     "first_seen_at": "2026-09-30T09:37:00.924379+00:00",
-    "last_seen_at": "2026-09-30T12:27:26.811335+00:00",
+    "last_seen_at": "2026-09-30T13:37:35.815236+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -212,7 +212,7 @@
     "id": "6497117",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F27%2F22%2F13%2F34%2F263a95ee-6726-4135-9801-6a483b034711%2F71636_fBingjoGYNXF2G6N1BDLNQ.jpg",
     "price": 200,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "28 m²",
     "lat": 40.40442045354583,
@@ -222,7 +222,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6497117",
     "first_seen_at": "2026-09-30T09:37:00.966169+00:00",
-    "last_seen_at": "2026-09-30T12:27:26.811349+00:00",
+    "last_seen_at": "2026-09-30T13:37:35.865114+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -235,7 +235,7 @@
     "id": "6496267",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F27%2F15%2F43%2F15%2Ffbc24df5-2457-41cc-9f9b-929001b26809%2F71674_wKfZQesnk44rhQTQKnSskw.jpg",
     "price": 300,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "24 m²",
     "lat": 40.35916080333109,
@@ -245,7 +245,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6496267",
     "first_seen_at": "2026-09-30T09:37:01.009552+00:00",
-    "last_seen_at": "2026-09-30T12:27:26.811362+00:00",
+    "last_seen_at": "2026-09-30T13:37:35.911775+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -258,7 +258,7 @@
     "id": "6494969",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F26%2F19%2F40%2F07%2F4a751e89-0b9e-4650-ae40-f1152b9fee9d%2F71680_DjhtLUORL7dHO3mkcO8kmQ.jpg",
     "price": 3000,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "300 m²",
     "lat": 40.37886056427671,
@@ -268,7 +268,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6494969",
     "first_seen_at": "2026-09-30T09:37:01.052429+00:00",
-    "last_seen_at": "2026-09-30T12:27:26.811376+00:00",
+    "last_seen_at": "2026-09-30T13:37:35.962467+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -281,7 +281,7 @@
     "id": "6296207",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F16%2F14%2F12%2F47%2F0e9bf019-f35e-436c-b17c-b4042954c661%2F55164_OPCyJ-9bFsGFE9wVha_PEA.jpg",
     "price": 400,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "24 m²",
     "lat": 40.4096599,
@@ -291,7 +291,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6296207",
     "first_seen_at": "2026-09-30T09:37:01.092828+00:00",
-    "last_seen_at": "2026-09-30T12:27:26.811391+00:00",
+    "last_seen_at": "2026-09-30T13:37:36.012201+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -304,7 +304,7 @@
     "id": "6493093",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F26%2F11%2F35%2F01%2Fda0f4b54-6f7d-414a-a73f-2be99ee175a8%2F71659_Cy2Z6SBXDJPKpSIOC5wFSw.jpg",
     "price": 220,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "30 m²",
     "lat": 40.4339581,
@@ -314,7 +314,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6493093",
     "first_seen_at": "2026-09-30T09:37:01.136198+00:00",
-    "last_seen_at": "2026-09-30T12:27:26.811405+00:00",
+    "last_seen_at": "2026-09-30T13:37:36.084989+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -327,7 +327,7 @@
     "id": "6493028",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F26%2F11%2F19%2F24%2F44894101-cb44-476f-84ab-61cd81c05238%2F76352_qNhvMV0n4mDiEMFwDQQKYQ.jpg",
     "price": 200,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "20 m²",
     "lat": 40.37608595309878,
@@ -337,7 +337,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6493028",
     "first_seen_at": "2026-09-30T09:37:01.175767+00:00",
-    "last_seen_at": "2026-09-30T12:27:26.811417+00:00",
+    "last_seen_at": "2026-09-30T13:37:36.136259+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -350,7 +350,7 @@
     "id": "6487417",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F24%2F12%2F40%2F30%2F828fd81a-363f-48cc-a1ee-7e1e66a7656b%2F59365_7mPNyqHVuJ2d6cbipwNdHQ.jpg",
     "price": 500,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "38 m²",
     "lat": 40.33842587246051,
@@ -360,7 +360,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6487417",
     "first_seen_at": "2026-09-30T09:37:01.222348+00:00",
-    "last_seen_at": "2026-09-30T12:27:26.811430+00:00",
+    "last_seen_at": "2026-09-30T13:37:36.189282+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -373,7 +373,7 @@
     "id": "6486378",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F23%2F20%2F16%2F59%2F8f6d5930-abd5-4380-be7b-a5cff5bdff65%2F68576__34baUVwcNftB95rWxq5qw.jpg",
     "price": 200,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "20 m²",
     "lat": 40.42034889981844,
@@ -383,7 +383,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6486378",
     "first_seen_at": "2026-09-30T09:37:01.266917+00:00",
-    "last_seen_at": "2026-09-30T12:27:26.811443+00:00",
+    "last_seen_at": "2026-09-30T13:37:36.235668+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -396,7 +396,7 @@
     "id": "6354991",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F07%2F08%2F57%2F59%2F52286aed-4bdb-4c76-b5d4-cf0c7ed67fbc%2F88537_iqo5jojBxuVQYeqBv3w5mA.jpg",
     "price": 100,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "18 m²",
     "lat": 40.39167759769676,
@@ -406,7 +406,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6354991",
     "first_seen_at": "2026-09-30T09:37:01.311077+00:00",
-    "last_seen_at": "2026-09-30T12:27:26.811456+00:00",
+    "last_seen_at": "2026-09-30T13:37:36.282999+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -419,7 +419,7 @@
     "id": "6482926",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F17%2F47%2F24%2F0589a862-becc-4046-9024-26a301f7b85f%2F22769_K-zRJVf3lfKodPna8I-c5A.jpg",
     "price": 150,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "18 m²",
     "lat": 40.38327139372294,
@@ -429,7 +429,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6482926",
     "first_seen_at": "2026-09-30T09:37:01.374664+00:00",
-    "last_seen_at": "2026-09-30T12:27:26.811471+00:00",
+    "last_seen_at": "2026-09-30T13:37:41.454744+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -442,7 +442,7 @@
     "id": "6481738",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F13%2F33%2F00%2Ff0ff1721-df6f-4bd3-af00-93aa2884b75d%2F22656_IQsvrYV2Qu125Lfsknq4bA.jpg",
     "price": 150,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "24 m²",
     "lat": 40.4339581,
@@ -452,7 +452,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6481738",
     "first_seen_at": "2026-09-30T09:37:01.416838+00:00",
-    "last_seen_at": "2026-09-30T12:27:26.811484+00:00",
+    "last_seen_at": "2026-09-30T13:37:41.500444+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -465,7 +465,7 @@
     "id": "6481531",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F12%2F44%2F53%2F6161edc9-a353-46e3-9922-4ed6ad4b2969%2F55875_sN0jrNEZbyvAjmNeoelb1w.jpg",
     "price": 300,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "36 m²",
     "lat": 40.42104446836915,
@@ -475,7 +475,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6481531",
     "first_seen_at": "2026-09-30T09:37:01.457897+00:00",
-    "last_seen_at": "2026-09-30T12:27:26.811498+00:00",
+    "last_seen_at": "2026-09-30T13:37:41.546839+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -488,7 +488,7 @@
     "id": "6480564",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F21%2F21%2F23%2F00%2Fbbb14221-d6d8-4d8f-a16b-924438fac2c9%2F90931_S2KkDNNRF4N12MDbbfaq5g.jpg",
     "price": 230,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "55 m²",
     "floor": null,
@@ -500,7 +500,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6480564",
     "first_seen_at": "2026-09-30T12:27:26.969587+00:00",
-    "last_seen_at": "2026-09-30T12:27:26.969587+00:00",
+    "last_seen_at": "2026-09-30T13:37:41.591123+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -513,7 +513,7 @@
     "id": "6479504",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F21%2F15%2F58%2F39%2Ffdb2bee9-3d99-46b8-8f93-5f6244c550d1%2F63759_8M2RUdHwuOIePwffl3htnQ.jpg",
     "price": 250,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "38 m²",
     "floor": null,
@@ -525,7 +525,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6479504",
     "first_seen_at": "2026-09-30T12:27:27.127214+00:00",
-    "last_seen_at": "2026-09-30T12:27:27.127214+00:00",
+    "last_seen_at": "2026-09-30T13:37:41.635663+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -538,7 +538,7 @@
     "id": "6474192",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F19%2F14%2F03%2F49%2Fbeefa196-e6c3-4036-af19-459281095957%2F68276_nWKuzTWaHOWByigO-GLiLA.jpg",
     "price": 250,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "30 m²",
     "floor": null,
@@ -550,7 +550,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6474192",
     "first_seen_at": "2026-09-30T12:27:27.284611+00:00",
-    "last_seen_at": "2026-09-30T12:27:27.284611+00:00",
+    "last_seen_at": "2026-09-30T13:37:41.680454+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -563,7 +563,7 @@
     "id": "6472788",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F18%2F20%2F33%2F09%2Feedc16e1-ca5a-45ad-95db-c05ae44895f3%2F67004_l0XjuUeS_o2zPH09B3Xh9g.jpg",
     "price": 140,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "15 m²",
     "floor": null,
@@ -575,7 +575,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6472788",
     "first_seen_at": "2026-09-30T12:27:27.441840+00:00",
-    "last_seen_at": "2026-09-30T12:27:27.441840+00:00",
+    "last_seen_at": "2026-09-30T13:37:41.725017+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -588,7 +588,7 @@
     "id": "6469189",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F17%2F17%2F01%2F47%2Fb4264f0d-e548-4ca7-96a9-2ce3b344d08f%2F71272_oKb9kXeHfA2xOe6d1uDzkA.jpg",
     "price": 100,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "18 m²",
     "floor": null,
@@ -600,7 +600,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6469189",
     "first_seen_at": "2026-09-30T12:27:27.600672+00:00",
-    "last_seen_at": "2026-09-30T12:27:27.600672+00:00",
+    "last_seen_at": "2026-09-30T13:37:41.770561+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -613,7 +613,7 @@
     "id": "6344994",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F03%2F16%2F47%2F46%2Fbce3244c-300a-4c50-a6bf-f4b589be2e7c%2F32158_-Psz9MI3xYI8-UWwdEU9tA.jpg",
     "price": 200,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "15 m²",
     "floor": null,
@@ -625,7 +625,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6344994",
     "first_seen_at": "2026-09-30T12:27:27.757729+00:00",
-    "last_seen_at": "2026-09-30T12:27:27.757729+00:00",
+    "last_seen_at": "2026-09-30T13:37:41.814571+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -638,7 +638,7 @@
     "id": "6463852",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F15%2F21%2F03%2F48%2Ffbe082b7-a267-4697-a3f5-b1a2a1e731e3%2F63805_N5bo3afz98mHXhPdweVdhQ.jpg",
     "price": 200,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "24 m²",
     "floor": null,
@@ -650,7 +650,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6463852",
     "first_seen_at": "2026-09-30T12:27:27.914299+00:00",
-    "last_seen_at": "2026-09-30T12:27:27.914299+00:00",
+    "last_seen_at": "2026-09-30T13:37:41.872028+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -663,7 +663,7 @@
     "id": "6307907",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F20%2F21%2F51%2F25%2F46956563-1e55-4360-8d8d-f8441b3be788%2F6499_oivABhGr23iK-3TJTdHTFA.jpg",
     "price": 150,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "15 m²",
     "floor": null,
@@ -675,7 +675,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6307907",
     "first_seen_at": "2026-09-30T12:27:28.132247+00:00",
-    "last_seen_at": "2026-09-30T12:27:28.132247+00:00",
+    "last_seen_at": "2026-09-30T13:37:41.942883+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -688,7 +688,7 @@
     "id": "6463278",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F15%2F17%2F39%2F35%2F8cbc0502-0d71-42b7-b853-4864d6d2f2b8%2F70707_VsqzmT-jibq6QyUaS4X2ig.jpg",
     "price": 15,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "3 m²",
     "floor": null,
@@ -700,7 +700,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6463278",
     "first_seen_at": "2026-09-30T12:27:28.290482+00:00",
-    "last_seen_at": "2026-09-30T12:27:28.290482+00:00",
+    "last_seen_at": "2026-09-30T13:37:41.992023+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -713,7 +713,7 @@
     "id": "6460916",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F14%2F19%2F53%2F00%2Fd9a52e9d-c499-451f-bb74-d48d98a88c8a%2F63806_o5cLCZh0qweyzDw9zo90BQ.jpg",
     "price": 150,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "24 m²",
     "floor": null,
@@ -725,7 +725,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6460916",
     "first_seen_at": "2026-09-30T12:27:28.445325+00:00",
-    "last_seen_at": "2026-09-30T12:27:28.445325+00:00",
+    "last_seen_at": "2026-09-30T13:37:42.038682+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -738,7 +738,7 @@
     "id": "6457727",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F13%2F17%2F44%2F47%2F29a059ce-217f-4ec6-93b7-68180a020f21%2F59919_zYElPmtj6JmTLr7TTQHSnQ.jpg",
     "price": 500,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "16 m²",
     "floor": null,
@@ -750,7 +750,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6457727",
     "first_seen_at": "2026-09-30T12:27:28.604769+00:00",
-    "last_seen_at": "2026-09-30T12:27:28.604769+00:00",
+    "last_seen_at": "2026-09-30T13:37:42.086145+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -763,7 +763,7 @@
     "id": "6450178",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F10%2F17%2F45%2F40%2F53fe9824-d43f-42fd-ae58-9eccd327401c%2F63787_QmTefZ1y_BB_D44r3-zlJw.jpg",
     "price": 180,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "40 m²",
     "floor": null,
@@ -775,7 +775,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6450178",
     "first_seen_at": "2026-09-30T12:27:28.760541+00:00",
-    "last_seen_at": "2026-09-30T12:27:28.760541+00:00",
+    "last_seen_at": "2026-09-30T13:37:42.159757+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -788,7 +788,7 @@
     "id": "6448211",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F10%2F10%2F09%2F07%2F357cf61b-bc17-4475-ad2a-04c3f5cf295a%2F59951_cfTz-sbSffd3BnlZ_cNsJw.jpg",
     "price": 170,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "20 m²",
     "floor": null,
@@ -800,7 +800,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6448211",
     "first_seen_at": "2026-09-30T12:27:28.982337+00:00",
-    "last_seen_at": "2026-09-30T12:27:28.982337+00:00",
+    "last_seen_at": "2026-09-30T13:37:42.228879+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -813,7 +813,7 @@
     "id": "6201888",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F10%2F23%2F17%2F48%2F7a4f45fe-7850-4e0f-ab74-9a5bf3386db1%2F66011_zWdmff3LfwQ05xqDZHCGnw.jpg",
     "price": 350,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "30 m²",
     "floor": null,
@@ -825,7 +825,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6201888",
     "first_seen_at": "2026-09-30T12:27:29.150809+00:00",
-    "last_seen_at": "2026-09-30T12:27:29.150809+00:00",
+    "last_seen_at": "2026-09-30T13:37:42.275141+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -838,7 +838,7 @@
     "id": "6447985",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F09%2F22%2F57%2F09%2F4b1b71ba-935e-4640-a6bb-c08e641c1e2a%2F63797_MDLgpZ0oZ8VtVw5he4Uu2w.jpg",
     "price": 100,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "40 m²",
     "floor": null,
@@ -850,7 +850,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6447985",
     "first_seen_at": "2026-09-30T12:27:29.313185+00:00",
-    "last_seen_at": "2026-09-30T12:27:29.313185+00:00",
+    "last_seen_at": "2026-09-30T13:37:42.323629+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -863,7 +863,7 @@
     "id": "6446446",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F09%2F14%2F43%2F13%2F0ec63c99-e3c1-4804-9184-5dba1a6da899%2F63785_uIvOBpJo1rKudIX1j4IYqw.jpg",
     "price": 250,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "36 m²",
     "floor": null,
@@ -875,7 +875,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6446446",
     "first_seen_at": "2026-09-30T12:27:29.472186+00:00",
-    "last_seen_at": "2026-09-30T12:27:29.472186+00:00",
+    "last_seen_at": "2026-09-30T13:37:42.381084+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -888,7 +888,7 @@
     "id": "6444228",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F08%2F16%2F59%2F28%2Fe6a43b5d-6642-415e-ae47-75b6c84bfc91%2F63804_wWyfToausXOYqpHdDwuPmg.jpg",
     "price": 65,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "18 m²",
     "floor": null,
@@ -900,7 +900,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6444228",
     "first_seen_at": "2026-09-30T12:27:29.638510+00:00",
-    "last_seen_at": "2026-09-30T12:27:29.638510+00:00",
+    "last_seen_at": "2026-09-30T13:37:42.476653+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -913,7 +913,7 @@
     "id": "6434775",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F05%2F09%2F58%2F55%2F415bf921-be82-4b5a-90eb-e6162fe7e754%2F72335_ApC5ZqAly-fr0ouL0C_ZxQ.jpg",
     "price": 110,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "18 m²",
     "floor": null,
@@ -925,7 +925,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6434775",
     "first_seen_at": "2026-09-30T12:27:29.795399+00:00",
-    "last_seen_at": "2026-09-30T12:27:29.795399+00:00",
+    "last_seen_at": "2026-09-30T13:37:42.517528+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -938,7 +938,7 @@
     "id": "6434747",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F05%2F09%2F18%2F47%2F69f603bc-d205-434d-b87f-34866b83fc40%2F72335_l-aiw7batFVZm6Sjv-kodQ.jpg",
     "price": 170,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "35 m²",
     "floor": null,
@@ -950,7 +950,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6434747",
     "first_seen_at": "2026-09-30T12:27:29.951929+00:00",
-    "last_seen_at": "2026-09-30T12:27:29.951929+00:00",
+    "last_seen_at": "2026-09-30T13:37:42.563711+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -963,7 +963,7 @@
     "id": "6434735",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F05%2F09%2F02%2F40%2F79614ab0-0904-4663-9416-bfacb8d56149%2F63812_dbzHuDKGrbzkK9v0GhE-Iw.jpg",
     "price": 600,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "160 m²",
     "floor": null,
@@ -975,7 +975,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6434735",
     "first_seen_at": "2026-09-30T12:27:30.109511+00:00",
-    "last_seen_at": "2026-09-30T12:27:30.109511+00:00",
+    "last_seen_at": "2026-09-30T13:37:42.611122+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -988,7 +988,7 @@
     "id": "6434731",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F05%2F08%2F57%2F36%2F2b1a6586-8994-4a9b-8a15-88eb75b0ca5d%2F72294_OYWa97czaT42inqB16hz0w.jpg",
     "price": 110,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "21 m²",
     "floor": null,
@@ -1000,7 +1000,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6434731",
     "first_seen_at": "2026-09-30T12:27:30.312323+00:00",
-    "last_seen_at": "2026-09-30T12:27:30.312323+00:00",
+    "last_seen_at": "2026-09-30T13:37:42.662302+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -1013,7 +1013,7 @@
     "id": "6433429",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F04%2F16%2F01%2F16%2F5db2ea4b-5783-4ed4-ae1d-440446c8809d%2F72341_wHlSwha5n6ztXIBJpVxgDg.jpg",
     "price": 550,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "18 m²",
     "floor": null,
@@ -1025,7 +1025,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6433429",
     "first_seen_at": "2026-09-30T12:27:30.478506+00:00",
-    "last_seen_at": "2026-09-30T12:27:30.478506+00:00",
+    "last_seen_at": "2026-09-30T13:37:42.710209+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -1038,7 +1038,7 @@
     "id": "6428796",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F03%2F06%2F39%2F56%2F2bace747-ee1e-4efa-9a6c-9b6a0eea1845%2F63812_W2LFmrqrr0gPQB5UUeJ65g.jpg",
     "price": 150,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "18 m²",
     "floor": null,
@@ -1050,7 +1050,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6428796",
     "first_seen_at": "2026-09-30T12:27:30.637814+00:00",
-    "last_seen_at": "2026-09-30T12:27:30.637814+00:00",
+    "last_seen_at": "2026-09-30T13:37:42.753420+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -1063,7 +1063,7 @@
     "id": "6040714",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F04%2F13%2F12%2F44%2F50%2Ffe649de0-3048-42a5-a684-2c6133953a36%2F73234_Wy46P0b9hE_6OekEAGTCgw.jpg",
     "price": 120,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "18 m²",
     "floor": null,
@@ -1075,7 +1075,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6040714",
     "first_seen_at": "2026-09-30T12:27:30.797679+00:00",
-    "last_seen_at": "2026-09-30T12:27:30.797679+00:00",
+    "last_seen_at": "2026-09-30T13:37:42.816607+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -1088,7 +1088,7 @@
     "id": "6426490",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F02%2F12%2F43%2F48%2F6025bea7-06cb-4b13-b9f6-6b7941663ba7%2F72343_1gWaPovlUGOBtI6vd6LM3w.jpg",
     "price": 150,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "16 m²",
     "floor": null,
@@ -1100,7 +1100,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6426490",
     "first_seen_at": "2026-09-30T12:27:30.956411+00:00",
-    "last_seen_at": "2026-09-30T12:27:30.956411+00:00",
+    "last_seen_at": "2026-09-30T13:37:42.968805+00:00",
     "deleted_at": null,
     "price_history": [
       {
@@ -1113,7 +1113,7 @@
     "id": "6426240",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F02%2F11%2F56%2F52%2F4752d37c-bcc2-4c55-a9d9-389ff82e88e5%2F63817_0mg6cEnY_miBqlZzzgRQnA.jpg",
     "price": 150,
-    "location": "/ay",
+    "location": "",
     "rooms": "",
     "area_m2": "15 m²",
     "floor": null,
@@ -1125,7 +1125,7 @@
     "deal_type": "rental",
     "url": "https://bina.az/items/6426240",
     "first_seen_at": "2026-09-30T12:27:31.112983+00:00",
-    "last_seen_at": "2026-09-30T12:27:31.112983+00:00",
+    "last_seen_at": "2026-09-30T13:37:43.026823+00:00",
     "deleted_at": null,
     "price_history": [
       {

@@ -1,8 +1,14 @@
 import re
 
 
+_RENTAL_PERIOD = re.compile(r"^/?(ay|gün|həftə|il)$", re.IGNORECASE)
+
+
 def _clean_lines(text: str) -> list[str]:
-    return [l.strip().replace("\xa0", " ") for l in text.splitlines() if l.strip()]
+    lines = [l.strip().replace("\xa0", " ") for l in text.splitlines() if l.strip()]
+    # Remove standalone rental period tokens like "/ay" or "gün" that appear as
+    # separate lines on rental cards — they would otherwise be mistaken for location.
+    return [l for l in lines if not _RENTAL_PERIOD.match(l)]
 
 
 def _parse_price(raw: str) -> int | None:
