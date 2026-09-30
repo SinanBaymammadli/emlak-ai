@@ -118,6 +118,8 @@ async def fetch_item_graphql(page, item_id: str) -> dict:
                             landArea { value }
                             area { value }
                             hasRepair
+                            hasBillOfSale
+                            hasMortgage
                             floor
                             updatedAt
                             isFeatured
@@ -141,6 +143,8 @@ async def fetch_item_graphql(page, item_id: str) -> dict:
             "land_area_sot": (item.get("landArea") or {}).get("value"),
             "area_m2_gql": (item.get("area") or {}).get("value"),
             "has_repair": bool(has_repair) if has_repair is not None else None,
+            "has_bill_of_sale": item.get("hasBillOfSale"),
+            "has_mortgage": item.get("hasMortgage"),
             "floor_number": item.get("floor"),
             "updated_at_site": item.get("updatedAt"),
             "is_featured": item.get("isFeatured"),

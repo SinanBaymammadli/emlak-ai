@@ -220,6 +220,8 @@ async def scrape_category(page, cfg: dict) -> None:
             "lat": gql.get("lat"),
             "lng": gql.get("lng"),
             "has_repair": gql.get("has_repair"),
+            "has_bill_of_sale": gql.get("has_bill_of_sale"),
+            "has_mortgage": gql.get("has_mortgage"),
             "floor_number": gql.get("floor_number"),
             "updated_at_site": gql.get("updated_at_site"),
             "is_featured": gql.get("is_featured"),
