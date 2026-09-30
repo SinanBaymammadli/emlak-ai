@@ -1,311 +1,5 @@
 [
   {
-    "id": "6477604",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F20%2F21%2F13%2F30%2Fb54bec30-6053-468c-98c0-cdfca604e7bb%2F20042_pQAZ_jTlCc-Y0V39jT61nA.jpg",
-    "price": 250,
-    "location": "Qara Qarayev m.",
-    "rooms": "1 otaqlı",
-    "area_m2": "27 m²",
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.42372802321386,
-    "lng": 49.93963919233229,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-20T21:37:12+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 1 otaqlı həyət evi/bağ evi 27 m²",
-    "description": "ANCAQ AILEYE VERILƏN BÌR OTAQLI EV.   ",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "52",
-    "location_name": "Qara Qarayev",
-    "land_area_sot": 2,
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6477604",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 250,
-        "date": "2026-09-30T19:54:02.845020+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6477782",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F20%2F23%2F47%2F35%2F3f8280aa-bef1-4917-938d-669703a219fb%2F68783_OT1A1U9EwKS7tdwnNzy4bQ.jpg",
-    "price": 300,
-    "location": "Qaraçuxur q.",
-    "rooms": "1 otaqlı",
-    "area_m2": "25 m²",
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.399836,
-    "lng": 49.978407,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-20T23:52:52+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 1 otaqlı həyət evi/bağ evi 25 m²",
-    "description": "Evde paltaryuyan,qaz,soyuducu, wifi var.Komunal icindedi lakin qaz size aid olur.Ayaq yolu yalniz size aid olur obși deyil",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "75",
-    "location_name": "Qaraçuxur",
-    "land_area_sot": 3,
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6477782",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 300,
-        "date": "2026-09-30T19:54:02.845011+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6478401",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F21%2F12%2F01%2F01%2F778b862a-6b45-44ae-9ce0-8d743e8c499f%2F71462_0crvimp_FQFqI5JN1s5-pQ.jpg",
-    "price": 350,
-    "location": "Bibiheybət q.",
-    "rooms": "1 otaqlı",
-    "area_m2": "35 m²",
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.30801329773462,
-    "lng": 49.82095425505126,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-21T12:02:57+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 1 otaqlı həyət evi/bağ evi 35 m²",
-    "description": "Ev Bibiheybət məscidin arxasında yerləşir.Həyət yoxdur , çöldən bir başa girişdir.İstilik sistemi elektrik radiaotordur.Normal hər kəsə verilir ( 3 nəfərə qədər ) Ciddi şəxslər əlaqə saxlasın.Ofis xidmət haqqı 30%",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "47",
-    "location_name": "Bibiheybət",
-    "land_area_sot": 1,
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6478401",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 350,
-        "date": "2026-09-30T19:54:02.845002+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6478578",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F21%2F12%2F33%2F48%2Ff44da9d3-3d5b-4f3d-b157-cd9024952e73%2F68414_H5UwESFK3IiiD-efs3gTvQ.jpg",
-    "price": 85,
-    "location": "Memar Əcəmi m.",
-    "rooms": "1 otaqlı",
-    "area_m2": "25 m²",
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.4128678,
-    "lng": 49.824515700000006,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-21T12:43:21+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 1 otaqlı həyət evi/bağ evi 25 m²",
-    "description": "1 qız telebe qalır hazırda 1 otaq yoldashi qız telebe ve ya ıshleyen xanım qala bıler tam musteqıl evdı gorıshı cıxıshı ayrı rahat serbes qala bölerler . Ev kombı sıstemı buna Evı kımı sheraıtlı temırlı her shey ıcerde ecemı metrosuna 9 deq pıyada dayanacak 100 metr Bazarstor supermarket yanımda mehle market 10 m sheraıtlı evdı.qıymetde   ",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "59",
-    "location_name": "Memar Əcəmi",
-    "land_area_sot": 1,
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6478578",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 85,
-        "date": "2026-09-30T19:54:02.844993+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6479233",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F21%2F15%2F01%2F20%2F91b9ce9a-4ce0-40bc-ab4d-bcd73b754eb5%2F90553_Sk5UXQI8yLe4f_hoDL8RTw.jpg",
-    "price": 550,
-    "location": "İnşaatçılar m.",
-    "rooms": "1 otaqlı",
-    "area_m2": "45 m²",
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.38635854616415,
-    "lng": 49.80205599598769,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-21T15:04:21+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 1 otaqlı həyət evi/bağ evi 45 m²",
-    "description": "🏡 Hörmətli müştərilər!\r\n\r\n✨ İnşaatçılar metrosunun yaxınlığında, bütün kommunal xərclər daxil olmaqla, cəmi 550 AZN-ə mənzil kirayə verilir!\r\n\r\nSərfəli qiymətə, rahat və büdcəyə uyğun yaşayış yeri axtaranlar üçün əla fürsət! 💎\r\n\r\n🌟 Kirayə haqqına daxildir:\r\n\r\nİşıq\r\nQaz\r\nSu\r\nİnternet\r\nBütün kommunal ödənişlər\r\n\r\n🚇 İnşaatçılar metrosunun yaxınlığında əlverişli yerləşmə.\r\n\r\n💰 Aylıq kirayə: 550 AZN — bütün ödənişlər daxil!\r\n\r\n💼 Ofis haqqı – 30% (165 AZN).\r\n\r\n📞 Ətraflı məlumat və mənzilə baxış üçün əlaqə saxlaya bilərsiniz.",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "7",
-    "location_name": "İnşaatçılar",
-    "land_area_sot": 0.5,
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6479233",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 550,
-        "date": "2026-09-30T19:54:02.844983+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6480680",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F21%2F23%2F16%2F02%2F36a4831f-302c-4b92-b8d2-aaf5629a8c4f%2F68870_k9qhHwUTTosWVFXqTSSSvg.jpg",
-    "price": 350,
-    "location": "Nizami m.",
-    "rooms": "1 otaqlı",
-    "area_m2": "25 m²",
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.38055044270364,
-    "lng": 49.83285593139648,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-21T23:17:19+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 1 otaqlı həyət evi/bağ evi 25 m²",
-    "description": "Salam əleykum.\r\nEv 2 nəfər oğlana verilir! \r\nNizami metrosuna ayaqla 5 dəq məsafədə Şirvanşahlar restoranina yaxin ümumi həyətdə 1 otaqli orta təmirli 25kv.m olan həyət evi əşyali 350 manata kirayə verilir. Hamam tualeti evin içindədir. Ev paltaryuyan, xolodenliq, kombi istilik sistemi, yataq, şkaf və.s əşyalarla təchiz olunub. Qaz, su, işiq daimidir. Əlavə məlumat üçün zəng edin və ya bu nömrənin 898-də vatçap var.\r\nXidmət Haqqimiz \"Kirayə Götürürən\" Tərəfindən 70 Azn Ödəniləcək.",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "35",
-    "location_name": "Nizami",
-    "land_area_sot": 0.1,
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6480680",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 350,
-        "date": "2026-09-30T19:54:02.844974+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6480807",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F07%2F31%2F44%2F5c6f7298-b240-4a26-819a-fd50a6c6a067%2F90553_wdCE-IDl6o3DbpY0PUzU7g.jpg",
-    "price": 120,
-    "location": "Nəriman Nərimanov m.",
-    "rooms": "1 otaqlı",
-    "area_m2": "50 m²",
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.39734938841657,
-    "lng": 49.87974465193614,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-22T08:29:52+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 1 otaqlı həyət evi/bağ evi 50 m²",
-    "description": "Yalniz telebe qizlara verilir ve yaxud iwleyen xanimlara verilir kiraye metroya 10 deq mesafe komunal daxil 120 manata ",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "1",
-    "location_name": "Nəriman Nərimanov",
-    "land_area_sot": 2,
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6480807",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 120,
-        "date": "2026-09-30T19:54:02.844955+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6481349",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F12%2F01%2F13%2Fd8336fa6-0202-4a4b-b0db-15fb8d2b360d%2F70773_i1fXUOtBjMHt3adDa2sLtQ.jpg",
-    "price": 120,
-    "location": "28 May m.",
-    "rooms": "1 otaqlı",
-    "area_m2": "16 m²",
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.38658434411285,
-    "lng": 49.84902621321023,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-22T12:08:56+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 1 otaqlı həyət evi/bağ evi 16 m²",
-    "description": "28 may metrosunun 2 ci cıxışına 5 deqiqelik mesafede yerlesir Tələbələr ucun əlverişli konumdadır ADNSU, ADU, Slavyan universitetlərinə yaxındır 3 kravat var quxna hamam tualet  obşudur 3 tələbə rahat qala bilər adam başı ödənis 120 Azn ",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "8",
-    "location_name": "28 May",
-    "land_area_sot": 1,
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6481349",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 120,
-        "date": "2026-09-30T19:54:02.844946+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6481550",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F12%2F47%2F05%2Fc7903faa-bac7-42d8-8ee9-1e4508e6df73%2F55705_-eaKlMkp-bW46oDRmsvROQ.jpg",
-    "price": 250,
-    "location": "Keşlə q.",
-    "rooms": "1 otaqlı",
-    "area_m2": "25 m²",
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.39085975619394,
-    "lng": 49.89449665860833,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-22T12:51:58+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 1 otaqlı həyət evi/bağ evi 25 m²",
-    "description": "bir otaq orta temir ewyali astanofkaya yaxin. ev yalniz xanimlara verilir . heyet evidi. sahibkaram. wekildeki evdi. kamunal daxil 250 azn.\r\nev+qaz+su+iwiq+wifi= 250 azn",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "105",
-    "location_name": "Keşlə",
-    "land_area_sot": 1,
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6481550",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 250,
-        "date": "2026-09-30T19:54:02.844937+00:00"
-      }
-    ]
-  },
-  {
     "id": "6482279",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F15%2F33%2F07%2F9ed76a5a-4327-47da-a244-311fe06d05fc%2F65381__FgG7oMVHlwN4N_4c8pxqw.jpg",
     "price": 540,
@@ -370,108 +64,6 @@
       {
         "price": 500,
         "date": "2026-09-30T19:54:07.969736+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6483579",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F22%2F30%2F59%2Fcf9fd09e-b750-46c1-bb06-191127b6740f%2F55594_PySFm7WCJ5P24NhuHmIXBw.jpg",
-    "price": 140,
-    "location": "Nərimanov r.",
-    "rooms": "1 otaqlı",
-    "area_m2": "30 m²",
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.39523897090506,
-    "lng": 49.87872521164552,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-22T22:32:44+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 1 otaqlı həyət evi/bağ evi 30 m²",
-    "description": "salam 1 nefer tellebe oglan qalir 1 nefer sakit temizkar tellebe oglan axtaril ",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "10",
-    "location_name": "Nərimanov",
-    "land_area_sot": 2,
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6483579",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 140,
-        "date": "2026-09-30T19:54:02.844928+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6483621",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F23%2F23%2F18%2F07bbd363-a064-4183-931c-183200945ba0%2F19381_ioXW57bcw4yYY0DpUjCJoQ.jpg",
-    "price": 190,
-    "location": "Nizami m.",
-    "rooms": "1 otaqlı",
-    "area_m2": "25 m²",
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.38046611404323,
-    "lng": 49.83262884512661,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-22T23:25:13+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 1 otaqlı həyət evi/bağ evi 25 m²",
-    "description": "Salam əleykum.\r\nQiymətə Komunal Daxildir! Otaq Yoldaşi Axtarilir!\r\nEvdə 1 nəfər bəy qalır, 1 nəfər bəy axtarilir! \r\nNizami metrosuna ayaqla 5 dəq məsafədə Şirvanşahlar restoranina yaxin ümumi həyətdə 1 otaqli orta təmirli 25kv.m olan həyət evi əşyali və komunal daxil 190 manata kirayə verilir. Hamam tualeti evin içindədir. Ev paltaryuyan, xolodenliq, kombi istilik sistemi, yataq, şkaf və.s əşyalarla təchiz olunub. Qaz, su, işiq daimidir. \r\nXidmət Haqqimiz \"Kirayə Götürürən\" Tərəfindən 35 Azn Ödəniləcək.",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "35",
-    "location_name": "Nizami",
-    "land_area_sot": 0.1,
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6483621",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 190,
-        "date": "2026-09-30T19:54:02.844918+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6483766",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F23%2F08%2F42%2F31%2F43f7a52b-7137-4cc6-adef-cd29aaba76d3%2F23234_QdJ7sZXCQP2lbf_gtaM28g.jpg",
-    "price": 320,
-    "location": "Binəqədi q.",
-    "rooms": "1 otaqlı",
-    "area_m2": "35 m²",
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.4764203,
-    "lng": 49.82028760000003,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-23T09:56:22+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 1 otaqlı həyət evi/bağ evi 35 m²",
-    "description": "yola yaxın tam əşyalı kondisioneri paltaryuyan  xalçaya qəder verilir müştəri fərqi yoxdu",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "18",
-    "location_name": "Binəqədi",
-    "land_area_sot": 2,
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6483766",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 320,
-        "date": "2026-09-30T19:54:02.844908+00:00"
       }
     ]
   },
@@ -574,40 +166,6 @@
       {
         "price": 250,
         "date": "2026-09-30T19:54:07.969699+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6485182",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F23%2F15%2F21%2F12%2Fda342df0-5e32-4e4a-ae7c-dba53a6f347e%2F96332_Y9QlHyndU2LrJ4vUMIaqIA.jpg",
-    "price": 170,
-    "location": "Elmlər Akademiyası m.",
-    "rooms": "1 otaqlı",
-    "area_m2": "30 m²",
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.37538769050426,
-    "lng": 49.82172503821859,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-23T15:29:57+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 1 otaqlı həyət evi/bağ evi 30 m²",
-    "description": "Elmler  metirosuna  yaxin  1  otaq  her  sarati  var  komunal  ucunde  170  manat  2  nefer  qala  biler  ",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "34",
-    "location_name": "Elmlər Akademiyası",
-    "land_area_sot": 0.1,
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6485182",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 170,
-        "date": "2026-09-30T19:54:02.844898+00:00"
       }
     ]
   },
@@ -778,40 +336,6 @@
       {
         "price": 100,
         "date": "2026-09-30T19:54:07.969664+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6486487",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F23%2F21%2F21%2F02%2Fe14f44c4-1057-4220-9c98-4a9c9509b30a%2F55877_-EVqdmHhuOeTBHBWvDDx4g.jpg",
-    "price": 1600,
-    "location": "Biləcəri q.",
-    "rooms": "6 otaqlı",
-    "area_m2": "250 m²",
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.44115806900618,
-    "lng": 49.80470057042205,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-23T21:34:55+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 6 otaqlı həyət evi/bağ evi 250 m²",
-    "description": "Tam ideal remont Bilecerinin merkezi kucelerinden gozel mehlesinde yerlewen tam ewyali mebel italya istehsali su qaz iwiq 24/7 col qapi pultnan su filterleri kombi sistemi qisa ozune rahat gözel gir yawa ev isteyen buyursun.",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "17",
-    "location_name": "Biləcəri",
-    "land_area_sot": 7,
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6486487",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1600,
-        "date": "2026-09-30T19:54:41.951757+00:00"
       }
     ]
   },
@@ -88808,6 +88332,40 @@
     ]
   },
   {
+    "id": "6477604",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F20%2F21%2F13%2F30%2Fb54bec30-6053-468c-98c0-cdfca604e7bb%2F20042_pQAZ_jTlCc-Y0V39jT61nA.jpg",
+    "price": 250,
+    "location": "Qara Qarayev m.",
+    "rooms": "1 otaqlı",
+    "area_m2": "27 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.42372802321386,
+    "lng": 49.93963919233229,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-09-20T21:37:12+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 1 otaqlı həyət evi/bağ evi 27 m²",
+    "description": "ANCAQ AILEYE VERILƏN BÌR OTAQLI EV.   ",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "52",
+    "location_name": "Qara Qarayev",
+    "land_area_sot": 2,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6477604",
+    "deleted_at": "2026-09-30T21:53:04.173473+00:00",
+    "price_history": [
+      {
+        "price": 250,
+        "date": "2026-09-30T19:54:02.845020+00:00"
+      }
+    ]
+  },
+  {
     "id": "6472993",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F18%2F22%2F25%2F21%2Fd9244375-068d-4701-9762-263067ec8b59%2F89044_9v8H8H3zvsA3F-FhKTcYpA.jpg",
     "price": 500,
@@ -88838,6 +88396,40 @@
       {
         "price": 500,
         "date": "2026-09-30T19:54:07.969889+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6477782",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F20%2F23%2F47%2F35%2F3f8280aa-bef1-4917-938d-669703a219fb%2F68783_OT1A1U9EwKS7tdwnNzy4bQ.jpg",
+    "price": 300,
+    "location": "Qaraçuxur q.",
+    "rooms": "1 otaqlı",
+    "area_m2": "25 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.399836,
+    "lng": 49.978407,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-09-20T23:52:52+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 1 otaqlı həyət evi/bağ evi 25 m²",
+    "description": "Evde paltaryuyan,qaz,soyuducu, wifi var.Komunal icindedi lakin qaz size aid olur.Ayaq yolu yalniz size aid olur obși deyil",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "75",
+    "location_name": "Qaraçuxur",
+    "land_area_sot": 3,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6477782",
+    "deleted_at": "2026-09-30T21:53:04.173473+00:00",
+    "price_history": [
+      {
+        "price": 300,
+        "date": "2026-09-30T19:54:02.845011+00:00"
       }
     ]
   },
@@ -89624,6 +89216,40 @@
     ]
   },
   {
+    "id": "6478401",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F21%2F12%2F01%2F01%2F778b862a-6b45-44ae-9ce0-8d743e8c499f%2F71462_0crvimp_FQFqI5JN1s5-pQ.jpg",
+    "price": 350,
+    "location": "Bibiheybət q.",
+    "rooms": "1 otaqlı",
+    "area_m2": "35 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.30801329773462,
+    "lng": 49.82095425505126,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-09-21T12:02:57+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 1 otaqlı həyət evi/bağ evi 35 m²",
+    "description": "Ev Bibiheybət məscidin arxasında yerləşir.Həyət yoxdur , çöldən bir başa girişdir.İstilik sistemi elektrik radiaotordur.Normal hər kəsə verilir ( 3 nəfərə qədər ) Ciddi şəxslər əlaqə saxlasın.Ofis xidmət haqqı 30%",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "47",
+    "location_name": "Bibiheybət",
+    "land_area_sot": 1,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6478401",
+    "deleted_at": "2026-09-30T21:53:04.173473+00:00",
+    "price_history": [
+      {
+        "price": 350,
+        "date": "2026-09-30T19:54:02.845002+00:00"
+      }
+    ]
+  },
+  {
     "id": "6478499",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F21%2F12%2F20%2F01%2Fa7785a0c-4cb7-4c42-bc31-b856712e0149%2F37969_gKzM_Jw46D9kxAacJxoBaA.jpg",
     "price": 550,
@@ -89654,6 +89280,40 @@
       {
         "price": 550,
         "date": "2026-09-30T19:54:17.828328+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6478578",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F21%2F12%2F33%2F48%2Ff44da9d3-3d5b-4f3d-b157-cd9024952e73%2F68414_H5UwESFK3IiiD-efs3gTvQ.jpg",
+    "price": 85,
+    "location": "Memar Əcəmi m.",
+    "rooms": "1 otaqlı",
+    "area_m2": "25 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.4128678,
+    "lng": 49.824515700000006,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-09-21T12:43:21+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 1 otaqlı həyət evi/bağ evi 25 m²",
+    "description": "1 qız telebe qalır hazırda 1 otaq yoldashi qız telebe ve ya ıshleyen xanım qala bıler tam musteqıl evdı gorıshı cıxıshı ayrı rahat serbes qala bölerler . Ev kombı sıstemı buna Evı kımı sheraıtlı temırlı her shey ıcerde ecemı metrosuna 9 deq pıyada dayanacak 100 metr Bazarstor supermarket yanımda mehle market 10 m sheraıtlı evdı.qıymetde   ",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "59",
+    "location_name": "Memar Əcəmi",
+    "land_area_sot": 1,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6478578",
+    "deleted_at": "2026-09-30T21:53:04.173473+00:00",
+    "price_history": [
+      {
+        "price": 85,
+        "date": "2026-09-30T19:54:02.844993+00:00"
       }
     ]
   },
@@ -90096,6 +89756,40 @@
       {
         "price": 200,
         "date": "2026-09-30T19:54:23.040951+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6479233",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F21%2F15%2F01%2F20%2F91b9ce9a-4ce0-40bc-ab4d-bcd73b754eb5%2F90553_Sk5UXQI8yLe4f_hoDL8RTw.jpg",
+    "price": 550,
+    "location": "İnşaatçılar m.",
+    "rooms": "1 otaqlı",
+    "area_m2": "45 m²",
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.38635854616415,
+    "lng": 49.80205599598769,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-09-21T15:04:21+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 1 otaqlı həyət evi/bağ evi 45 m²",
+    "description": "🏡 Hörmətli müştərilər!\r\n\r\n✨ İnşaatçılar metrosunun yaxınlığında, bütün kommunal xərclər daxil olmaqla, cəmi 550 AZN-ə mənzil kirayə verilir!\r\n\r\nSərfəli qiymətə, rahat və büdcəyə uyğun yaşayış yeri axtaranlar üçün əla fürsət! 💎\r\n\r\n🌟 Kirayə haqqına daxildir:\r\n\r\nİşıq\r\nQaz\r\nSu\r\nİnternet\r\nBütün kommunal ödənişlər\r\n\r\n🚇 İnşaatçılar metrosunun yaxınlığında əlverişli yerləşmə.\r\n\r\n💰 Aylıq kirayə: 550 AZN — bütün ödənişlər daxil!\r\n\r\n💼 Ofis haqqı – 30% (165 AZN).\r\n\r\n📞 Ətraflı məlumat və mənzilə baxış üçün əlaqə saxlaya bilərsiniz.",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "7",
+    "location_name": "İnşaatçılar",
+    "land_area_sot": 0.5,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6479233",
+    "deleted_at": "2026-09-30T21:53:04.173473+00:00",
+    "price_history": [
+      {
+        "price": 550,
+        "date": "2026-09-30T19:54:02.844983+00:00"
       }
     ]
   },
@@ -91052,6 +90746,40 @@
     ]
   },
   {
+    "id": "6480680",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F21%2F23%2F16%2F02%2F36a4831f-302c-4b92-b8d2-aaf5629a8c4f%2F68870_k9qhHwUTTosWVFXqTSSSvg.jpg",
+    "price": 350,
+    "location": "Nizami m.",
+    "rooms": "1 otaqlı",
+    "area_m2": "25 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38055044270364,
+    "lng": 49.83285593139648,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-09-21T23:17:19+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 1 otaqlı həyət evi/bağ evi 25 m²",
+    "description": "Salam əleykum.\r\nEv 2 nəfər oğlana verilir! \r\nNizami metrosuna ayaqla 5 dəq məsafədə Şirvanşahlar restoranina yaxin ümumi həyətdə 1 otaqli orta təmirli 25kv.m olan həyət evi əşyali 350 manata kirayə verilir. Hamam tualeti evin içindədir. Ev paltaryuyan, xolodenliq, kombi istilik sistemi, yataq, şkaf və.s əşyalarla təchiz olunub. Qaz, su, işiq daimidir. Əlavə məlumat üçün zəng edin və ya bu nömrənin 898-də vatçap var.\r\nXidmət Haqqimiz \"Kirayə Götürürən\" Tərəfindən 70 Azn Ödəniləcək.",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "35",
+    "location_name": "Nizami",
+    "land_area_sot": 0.1,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6480680",
+    "deleted_at": "2026-09-30T21:53:04.173473+00:00",
+    "price_history": [
+      {
+        "price": 350,
+        "date": "2026-09-30T19:54:02.844974+00:00"
+      }
+    ]
+  },
+  {
     "id": "6434654",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F05%2F00%2F41%2F59%2F0b99d72f-21f9-4f4d-b4a2-9a2106df6997%2F72343_59OXR1uBUL47iis3qw_vHQ.jpg",
     "price": 3000,
@@ -91218,6 +90946,40 @@
       {
         "price": 5000,
         "date": "2026-09-30T19:54:41.952066+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6480807",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F07%2F31%2F44%2F5c6f7298-b240-4a26-819a-fd50a6c6a067%2F90553_wdCE-IDl6o3DbpY0PUzU7g.jpg",
+    "price": 120,
+    "location": "Nəriman Nərimanov m.",
+    "rooms": "1 otaqlı",
+    "area_m2": "50 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.39734938841657,
+    "lng": 49.87974465193614,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-09-22T08:29:52+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 1 otaqlı həyət evi/bağ evi 50 m²",
+    "description": "Yalniz telebe qizlara verilir ve yaxud iwleyen xanimlara verilir kiraye metroya 10 deq mesafe komunal daxil 120 manata ",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "1",
+    "location_name": "Nəriman Nərimanov",
+    "land_area_sot": 2,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6480807",
+    "deleted_at": "2026-09-30T21:53:04.173473+00:00",
+    "price_history": [
+      {
+        "price": 120,
+        "date": "2026-09-30T19:54:02.844955+00:00"
       }
     ]
   },
@@ -91460,6 +91222,40 @@
     ]
   },
   {
+    "id": "6481349",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F12%2F01%2F13%2Fd8336fa6-0202-4a4b-b0db-15fb8d2b360d%2F70773_i1fXUOtBjMHt3adDa2sLtQ.jpg",
+    "price": 120,
+    "location": "28 May m.",
+    "rooms": "1 otaqlı",
+    "area_m2": "16 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38658434411285,
+    "lng": 49.84902621321023,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-09-22T12:08:56+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 1 otaqlı həyət evi/bağ evi 16 m²",
+    "description": "28 may metrosunun 2 ci cıxışına 5 deqiqelik mesafede yerlesir Tələbələr ucun əlverişli konumdadır ADNSU, ADU, Slavyan universitetlərinə yaxındır 3 kravat var quxna hamam tualet  obşudur 3 tələbə rahat qala bilər adam başı ödənis 120 Azn ",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "8",
+    "location_name": "28 May",
+    "land_area_sot": 1,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6481349",
+    "deleted_at": "2026-09-30T21:53:04.173473+00:00",
+    "price_history": [
+      {
+        "price": 120,
+        "date": "2026-09-30T19:54:02.844946+00:00"
+      }
+    ]
+  },
+  {
     "id": "5556312",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F10%2F02%2F18%2F13%2F11%2Fa6f54005-9d76-4ab0-9736-96345b0d9387%2F89649_IdiJWhN4F5E3SSESYyyqZg.jpg",
     "price": 3200,
@@ -91490,6 +91286,40 @@
       {
         "price": 3200,
         "date": "2026-09-30T19:54:41.952033+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6481550",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F12%2F47%2F05%2Fc7903faa-bac7-42d8-8ee9-1e4508e6df73%2F55705_-eaKlMkp-bW46oDRmsvROQ.jpg",
+    "price": 250,
+    "location": "Keşlə q.",
+    "rooms": "1 otaqlı",
+    "area_m2": "25 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.39085975619394,
+    "lng": 49.89449665860833,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-09-22T12:51:58+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 1 otaqlı həyət evi/bağ evi 25 m²",
+    "description": "bir otaq orta temir ewyali astanofkaya yaxin. ev yalniz xanimlara verilir . heyet evidi. sahibkaram. wekildeki evdi. kamunal daxil 250 azn.\r\nev+qaz+su+iwiq+wifi= 250 azn",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "105",
+    "location_name": "Keşlə",
+    "land_area_sot": 1,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6481550",
+    "deleted_at": "2026-09-30T21:53:04.173473+00:00",
+    "price_history": [
+      {
+        "price": 250,
+        "date": "2026-09-30T19:54:02.844937+00:00"
       }
     ]
   },
@@ -92718,6 +92548,40 @@
     ]
   },
   {
+    "id": "6483579",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F22%2F30%2F59%2Fcf9fd09e-b750-46c1-bb06-191127b6740f%2F55594_PySFm7WCJ5P24NhuHmIXBw.jpg",
+    "price": 140,
+    "location": "Nərimanov r.",
+    "rooms": "1 otaqlı",
+    "area_m2": "30 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.39523897090506,
+    "lng": 49.87872521164552,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-09-22T22:32:44+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 1 otaqlı həyət evi/bağ evi 30 m²",
+    "description": "salam 1 nefer tellebe oglan qalir 1 nefer sakit temizkar tellebe oglan axtaril ",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "10",
+    "location_name": "Nərimanov",
+    "land_area_sot": 2,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6483579",
+    "deleted_at": "2026-09-30T21:53:04.173473+00:00",
+    "price_history": [
+      {
+        "price": 140,
+        "date": "2026-09-30T19:54:02.844928+00:00"
+      }
+    ]
+  },
+  {
     "id": "6483590",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F22%2F39%2F22%2F618750aa-9d25-4730-8ea9-3a022534a0d6%2F67823_ahzNdL7mwzCfbdW0i00hTQ.jpg",
     "price": 500,
@@ -92748,6 +92612,40 @@
       {
         "price": 500,
         "date": "2026-09-30T19:54:23.040785+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6483621",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F23%2F23%2F18%2F07bbd363-a064-4183-931c-183200945ba0%2F19381_ioXW57bcw4yYY0DpUjCJoQ.jpg",
+    "price": 190,
+    "location": "Nizami m.",
+    "rooms": "1 otaqlı",
+    "area_m2": "25 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38046611404323,
+    "lng": 49.83262884512661,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-09-22T23:25:13+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 1 otaqlı həyət evi/bağ evi 25 m²",
+    "description": "Salam əleykum.\r\nQiymətə Komunal Daxildir! Otaq Yoldaşi Axtarilir!\r\nEvdə 1 nəfər bəy qalır, 1 nəfər bəy axtarilir! \r\nNizami metrosuna ayaqla 5 dəq məsafədə Şirvanşahlar restoranina yaxin ümumi həyətdə 1 otaqli orta təmirli 25kv.m olan həyət evi əşyali və komunal daxil 190 manata kirayə verilir. Hamam tualeti evin içindədir. Ev paltaryuyan, xolodenliq, kombi istilik sistemi, yataq, şkaf və.s əşyalarla təchiz olunub. Qaz, su, işiq daimidir. \r\nXidmət Haqqimiz \"Kirayə Götürürən\" Tərəfindən 35 Azn Ödəniləcək.",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "35",
+    "location_name": "Nizami",
+    "land_area_sot": 0.1,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6483621",
+    "deleted_at": "2026-09-30T21:53:04.173473+00:00",
+    "price_history": [
+      {
+        "price": 190,
+        "date": "2026-09-30T19:54:02.844918+00:00"
       }
     ]
   },
@@ -92850,6 +92748,40 @@
       {
         "price": 1850,
         "date": "2026-09-30T19:54:41.952015+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6483766",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F23%2F08%2F42%2F31%2F43f7a52b-7137-4cc6-adef-cd29aaba76d3%2F23234_QdJ7sZXCQP2lbf_gtaM28g.jpg",
+    "price": 320,
+    "location": "Binəqədi q.",
+    "rooms": "1 otaqlı",
+    "area_m2": "35 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.4764203,
+    "lng": 49.82028760000003,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-09-23T09:56:22+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 1 otaqlı həyət evi/bağ evi 35 m²",
+    "description": "yola yaxın tam əşyalı kondisioneri paltaryuyan  xalçaya qəder verilir müştəri fərqi yoxdu",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "18",
+    "location_name": "Binəqədi",
+    "land_area_sot": 2,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6483766",
+    "deleted_at": "2026-09-30T21:53:04.173473+00:00",
+    "price_history": [
+      {
+        "price": 320,
+        "date": "2026-09-30T19:54:02.844908+00:00"
       }
     ]
   },
@@ -94282,6 +94214,40 @@
     ]
   },
   {
+    "id": "6485182",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F23%2F15%2F21%2F12%2Fda342df0-5e32-4e4a-ae7c-dba53a6f347e%2F96332_Y9QlHyndU2LrJ4vUMIaqIA.jpg",
+    "price": 170,
+    "location": "Elmlər Akademiyası m.",
+    "rooms": "1 otaqlı",
+    "area_m2": "30 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.37538769050426,
+    "lng": 49.82172503821859,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-09-23T15:29:57+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 1 otaqlı həyət evi/bağ evi 30 m²",
+    "description": "Elmler  metirosuna  yaxin  1  otaq  her  sarati  var  komunal  ucunde  170  manat  2  nefer  qala  biler  ",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "34",
+    "location_name": "Elmlər Akademiyası",
+    "land_area_sot": 0.1,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6485182",
+    "deleted_at": "2026-09-30T21:53:04.173473+00:00",
+    "price_history": [
+      {
+        "price": 170,
+        "date": "2026-09-30T19:54:02.844898+00:00"
+      }
+    ]
+  },
+  {
     "id": "6273125",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F07%2F18%2F37%2F59%2Fbab63e59-fb36-4619-a7eb-fe817ff5eb57%2F75199_S5MNBwjQssznmbPlh8V7aQ.jpg",
     "price": 2000,
@@ -94924,6 +94890,40 @@
       {
         "price": 700,
         "date": "2026-09-30T19:54:17.828044+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6486487",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F23%2F21%2F21%2F02%2Fe14f44c4-1057-4220-9c98-4a9c9509b30a%2F55877_-EVqdmHhuOeTBHBWvDDx4g.jpg",
+    "price": 1600,
+    "location": "Biləcəri q.",
+    "rooms": "6 otaqlı",
+    "area_m2": "250 m²",
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.44115806900618,
+    "lng": 49.80470057042205,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-09-23T21:34:55+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 6 otaqlı həyət evi/bağ evi 250 m²",
+    "description": "Tam ideal remont Bilecerinin merkezi kucelerinden gozel mehlesinde yerlewen tam ewyali mebel italya istehsali su qaz iwiq 24/7 col qapi pultnan su filterleri kombi sistemi qisa ozune rahat gözel gir yawa ev isteyen buyursun.",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "17",
+    "location_name": "Biləcəri",
+    "land_area_sot": 7,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6486487",
+    "deleted_at": "2026-09-30T21:51:25.437254+00:00",
+    "price_history": [
+      {
+        "price": 1600,
+        "date": "2026-09-30T19:54:41.951757+00:00"
       }
     ]
   }
