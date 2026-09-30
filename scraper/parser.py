@@ -1,7 +1,46 @@
 import re
-
+from datetime import datetime, timezone, timedelta
 
 _RENTAL_PERIOD = re.compile(r"^/?(ay|gün|həftə|il)$", re.IGNORECASE)
+
+_AZ_MONTHS = {
+    "yanvar":1,"fevral":2,"mart":3,"aprel":4,"may":5,"iyun":6,
+    "iyul":7,"avqust":8,"sentyabr":9,"oktyabr":10,"noyabr":11,"dekabr":12,
+}
+
+def _parse_bumped_at(lines: list[str]) -> str | None:
+    """Parse the bumped-at date from bina.az card lines.
+    Formats: 'Bakı, bugün 11:47'  'Bakı, dünən 20:27'  'Bakı, 28 sentyabr 14:30'
+    Returns ISO datetime string in UTC or None.
+    """
+    now = datetime.now(timezone.utc)
+    for line in reversed(lines):
+        line_l = line.lower()
+        # Match time HH:MM
+        t = re.search(r"(\d{1,2}):(\d{2})", line)
+        if not t:
+            continue
+        h, m = int(t.group(1)), int(t.group(2))
+        if "bugün" in line_l:
+            d = now.replace(hour=h, minute=m, second=0, microsecond=0)
+        elif "dünən" in line_l:
+            d = (now - timedelta(days=1)).replace(hour=h, minute=m, second=0, microsecond=0)
+        else:
+            # Try "28 sentyabr 14:30"
+            dm = re.search(r"(\d{1,2})\s+([a-züəışöğç]+)", line_l)
+            if not dm:
+                continue
+            month = _AZ_MONTHS.get(dm.group(2))
+            if not month:
+                continue
+            day = int(dm.group(1))
+            year = now.year if month <= now.month else now.year - 1
+            try:
+                d = datetime(year, month, day, h, m, tzinfo=timezone.utc)
+            except ValueError:
+                continue
+        return d.isoformat()
+    return None
 
 
 def _clean_lines(text: str) -> list[str]:
@@ -45,6 +84,7 @@ def parse_card_text(text: str) -> dict:
         "area_m2": area_m2,
         "floor": floor or None,
         "is_agency": is_agency,
+        "bumped_at": _parse_bumped_at(lines),
     }
 
 
@@ -71,6 +111,7 @@ def parse_land_card_text(text: str) -> dict:
         "land_area_sot": land_area_sot,
         "floor": None,
         "is_agency": is_agency,
+        "bumped_at": _parse_bumped_at(lines),
     }
 
 
@@ -95,6 +136,7 @@ def parse_commercial_card_text(text: str) -> dict:
         "area_m2": area_m2,
         "floor": floor or None,
         "is_agency": is_agency,
+        "bumped_at": _parse_bumped_at(lines),
     }
 
 

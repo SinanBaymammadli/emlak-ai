@@ -169,7 +169,7 @@ function applyFilters() {
 
   list = [...list].sort((a, b) => {
     switch (sort) {
-      case 'newest':     return new Date(b.updated_at_site || b.last_seen_at) - new Date(a.updated_at_site || a.last_seen_at);
+      case 'newest':     return new Date(b.bumped_at || b.updated_at_site) - new Date(a.bumped_at || a.updated_at_site);
       case 'price_asc':  return (a.price||0) - (b.price||0);
       case 'price_desc': return (b.price||0) - (a.price||0);
       case 'ppm2_asc':   return (ppm2(a)||0) - (ppm2(b)||0);
@@ -254,7 +254,7 @@ function cardHTML(l) {
     ${specs    ? `<div class="card-details">${esc(specs)}</div>` : ''}
     ${l.location ? `<div class="card-location">${esc(l.location)}</div>` : ''}
     <div class="card-meta">
-      <span class="card-date">${l.updated_at_site ? fmtDate(l.updated_at_site) : ''}</span>
+      <span class="card-date">${l.bumped_at || l.updated_at_site ? fmtDate(l.bumped_at || l.updated_at_site) : ''}</span>
       ${badges ? `<div class="card-badges">${badges}</div>` : ''}
     </div>
   </div>
