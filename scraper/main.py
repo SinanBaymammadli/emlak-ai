@@ -164,29 +164,7 @@ async def scrape_category(page, cfg: dict) -> None:
         seen_ids.add(item_id)
 
         parsed = parser(card["text"])
-        is_new = item_id not in existing
-        rec = existing.get(item_id, {})
-
-        # Call GraphQL for new listings, or existing ones missing fields added later
-        needs_gql = is_new or rec.get("description") is None or rec.get("building_type") is None
-        if needs_gql:
-            gql = await fetch_item_graphql(page, item_id)
-        else:
-            gql = {
-                "lat": rec.get("lat"),
-                "lng": rec.get("lng"),
-                "has_repair": rec.get("has_repair"),
-                "area_m2_gql": rec.get("area_m2"),
-                "land_area_sot": rec.get("land_area_sot"),
-                "floor_number": rec.get("floor_number"),
-                "updated_at_site": rec.get("updated_at_site"),
-                "is_featured": rec.get("is_featured"),
-                "title": rec.get("title"),
-                "description": rec.get("description"),
-                "building_type": rec.get("building_type"),
-                "location_id": rec.get("location_id"),
-                "location_name": rec.get("location_name"),
-            }
+        gql = await fetch_item_graphql(page, item_id)
 
         listing = {
             "id": item_id,
