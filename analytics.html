@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Emlak AI — Analitika</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
+  <style>
+    .page-content { padding: 20px 24px; }
+
+    /* Stat tiles */
+    .stat-tiles { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; margin-bottom: 20px; }
+    @media (max-width: 900px) { .stat-tiles { grid-template-columns: repeat(2, 1fr); } }
+    @media (max-width: 500px) { .stat-tiles { grid-template-columns: 1fr; } }
+    .stat-tile {
+      background: #fff; border-radius: 10px;
+      padding: 18px 20px;
+      box-shadow: 0 1px 3px rgba(0,0,0,.08);
+    }
+    .stat-tile .label { font-size: .75rem; color: #6b7280; margin-bottom: 6px; }
+    .stat-tile .value { font-size: 1.4rem; font-weight: 700; color: #1a1a2e; }
+
+    /* Filter row */
+    .filter-row { display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 20px; }
+
+    /* Charts grid */
+    .charts-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
+    @media (max-width: 800px) { .charts-grid { grid-template-columns: 1fr; } }
+
+    .chart-card {
+      background: #fff; border-radius: 10px;
+      padding: 18px 20px;
+      box-shadow: 0 1px 3px rgba(0,0,0,.08);
+    }
+    .chart-card h3 { font-size: .88rem; font-weight: 600; color: #374151; margin-bottom: 14px; }
+    .chart-card.full-width { grid-column: 1 / -1; }
+    .chart-wrap { position: relative; }
+    .no-data { text-align: center; padding: 40px 0; color: #9ca3af; font-size: .85rem; }
+
+    /* Spinner */
+    .spinner {
+      width: 32px; height: 32px;
+      border: 3px solid #e5e7eb; border-top-color: #6366f1;
+      border-radius: 50%; animation: spin .7s linear infinite;
+      margin: 60px auto;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Emlak <span>AI</span></h1>
+  <nav class="header-nav">
+    <a href="index.html" class="nav-link">Elanlar</a>
+    <a href="analytics.html" class="nav-link active">Analitika</a>
+    <a href="map.html" class="nav-link">Xəritə</a>
+  </nav>
+</header>
+
+<div class="page-content" id="page-content">
+  <div class="spinner"></div>
+</div>
+
+<script>
+const FILES = {
+  apartment: ['sale','rental'], house: ['sale','rental'],
+  land: ['sale'], commercial: ['sale','rental'],
+  office: ['sale','rental'], garage: ['sale','rental'],
+};
+const PALETTE = ['#6366f1','#4ade80','#f59e0b','#ef4444','#06b6d4','#8b5cf6','#ec4899'];
+
+function fmt(n) { return Math.round(n).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ' '); }
+function ppm2(l) {
+  const a = typeof l.area_m2 === 'number' ? l.area_m2 : parseFloat(String(l.area_m2||'').match(/[\d.]+/)?.[0]);
+  if (!l.price || !a || a <= 0) return null;
+  return l.price / a;
+}
+function locLabel(l) { return l.location_name || l.location || ''; }
+function catLabel(c) {
+  return {apartment:'Mənzil',house:'Həyət evi',land:'Torpaq',commercial:'Kommersiya',office:'Ofis',garage:'Qaraj'}[c]||c;
+}
+
+const cache = {};
+async function loadFile(cat, type) {
+  const key = `${cat}_${type}`;
+  if (cache[key]) return cache[key];
+  try {
+    const res = await fetch(`data/${key}.json`);
+    cache[key] = res.ok ? await res.json() : [];
+  } catch { cache[key] = []; }
+  return cache[key];
+}
+
+let allListings = [];
+let selCat = 'all';
+const charts = {};
+
+async function loadAll() {
+  const pairs = [];
+  Object.entries(FILES).forEach(([c, types]) => types.forEach(t => pairs.push([c,t])));
+  allListings = (await Promise.all(pairs.map(([c,t]) => loadFile(c,t)))).flat();
+  render();
+}
+
+function filtered() {
+  let list = allListings.filter(l => !l.deleted_at);
+  if (selCat !== 'all') list = list.filter(l => l.category === selCat);
+  return list;
+}
+
+function render() {
+  const list = filtered();
+  document.getElementById('page-content').innerHTML = buildHTML();
+  wireFilters();
+  renderStats(list);
+  renderCharts(list);
+}
+
+function buildHTML() {
+  return `
+    <div class="filter-row" id="cat-filter">
+      ${['all','apartment','house','land','commercial','office','garage'].map(c => `
+        <button class="chip ${selCat===c?'active':''}" data-cat="${c}">${c==='all'?'Hamısı':catLabel(c)}</button>
+      `).join('')}
+    </div>
+    <div class="stat-tiles" id="stat-tiles">
+      <div class="stat-tile"><div class="label">Aktiv elanlar</div><div class="value" id="s-total">—</div></div>
+      <div class="stat-tile"><div class="label">Orta qiymət</div><div class="value" id="s-avg-price">—</div></div>
+      <div class="stat-tile"><div class="label">Orta ₼/m²</div><div class="value" id="s-avg-ppm2">—</div></div>
+      <div class="stat-tile"><div class="label">Unikal məkanlar</div><div class="value" id="s-locs">—</div></div>
+    </div>
+    <div class="charts-grid">
+      <div class="chart-card"><h3>Məkana görə elan sayı (top 15)</h3><div class="chart-wrap" style="height:300px"><canvas id="c-loc-count"></canvas></div></div>
+      <div class="chart-card"><h3>Məkana görə orta ₼/m² (top 15)</h3><div class="chart-wrap" style="height:300px"><canvas id="c-loc-ppm2"></canvas></div></div>
+      <div class="chart-card"><h3>Kateqoriyaya görə</h3><div class="chart-wrap" style="height:240px"><canvas id="c-cat"></canvas></div></div>
+      <div class="chart-card"><h3>Satış vs Kirayə</h3><div class="chart-wrap" style="height:240px"><canvas id="c-deal"></canvas></div></div>
+      <div class="chart-card"><h3>Yeni vs Köhnə tikili</h3><div class="chart-wrap" style="height:240px"><canvas id="c-build"></canvas></div></div>
+      <div class="chart-card"><h3>Agentlik vs Mülkiyyətçi</h3><div class="chart-wrap" style="height:240px"><canvas id="c-agency"></canvas></div></div>
+      <div class="chart-card full-width"><h3>Qiymət paylanması (satış)</h3><div class="chart-wrap" style="height:240px"><canvas id="c-price-dist"></canvas></div></div>
+    </div>`;
+}
+
+function wireFilters() {
+  document.getElementById('cat-filter').addEventListener('click', e => {
+    const btn = e.target.closest('.chip'); if (!btn) return;
+    selCat = btn.dataset.cat;
+    render();
+  });
+}
+
+function renderStats(list) {
+  document.getElementById('s-total').textContent = list.length.toLocaleString();
+
+  const prices = list.filter(l => l.price).map(l => l.price);
+  document.getElementById('s-avg-price').textContent = prices.length
+    ? `${fmt(prices.reduce((a,b)=>a+b,0)/prices.length)} ₼` : '—';
+
+  const pm2vals = list.map(ppm2).filter(Boolean);
+  document.getElementById('s-avg-ppm2').textContent = pm2vals.length
+    ? `${fmt(pm2vals.reduce((a,b)=>a+b,0)/pm2vals.length)} ₼/m²` : '—';
+
+  const locs = new Set(list.map(locLabel).filter(Boolean));
+  document.getElementById('s-locs').textContent = locs.size;
+}
+
+function makeBar(id, labels, data, color = PALETTE[0], horizontal = true) {
+  const ctx = document.getElementById(id);
+  if (!ctx) return;
+  if (charts[id]) { charts[id].destroy(); }
+  if (!data.length) { ctx.parentElement.innerHTML = '<div class="no-data">Məlumat yoxdur</div>'; return; }
+  charts[id] = new Chart(ctx, {
+    type: 'bar',
+    data: { labels, datasets: [{ data, backgroundColor: color, borderRadius: 4 }] },
+    options: {
+      indexAxis: horizontal ? 'y' : 'x',
+      responsive: true, maintainAspectRatio: false,
+      plugins: { legend: { display: false } },
+      scales: {
+        x: { grid: { color: '#f0f2f5' }, ticks: { font: { size: 11 } } },
+        y: { grid: { display: false }, ticks: { font: { size: 11 } } },
+      },
+    },
+  });
+}
+
+function makeDoughnut(id, labels, data) {
+  const ctx = document.getElementById(id);
+  if (!ctx) return;
+  if (charts[id]) { charts[id].destroy(); }
+  if (!data.some(d => d > 0)) { ctx.parentElement.innerHTML = '<div class="no-data">Məlumat yoxdur</div>'; return; }
+  charts[id] = new Chart(ctx, {
+    type: 'doughnut',
+    data: { labels, datasets: [{ data, backgroundColor: PALETTE, borderWidth: 2, borderColor: '#fff' }] },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: { legend: { position: 'bottom', labels: { font: { size: 11 }, boxWidth: 12 } } },
+    },
+  });
+}
+
+function renderCharts(list) {
+  // 1. Count by location
+  const locCount = {};
+  list.forEach(l => { const k = locLabel(l); if (k) locCount[k] = (locCount[k]||0) + 1; });
+  const topLocs = Object.entries(locCount).sort((a,b)=>b[1]-a[1]).slice(0,15);
+  makeBar('c-loc-count', topLocs.map(x=>x[0]), topLocs.map(x=>x[1]), PALETTE[0]);
+
+  // 2. Avg ppm2 by location
+  const locPpm2 = {};
+  list.forEach(l => {
+    const k = locLabel(l); const v = ppm2(l);
+    if (k && v) { if (!locPpm2[k]) locPpm2[k] = []; locPpm2[k].push(v); }
+  });
+  const topPpm2 = Object.entries(locPpm2)
+    .filter(([,v]) => v.length >= 3)
+    .map(([k,v]) => [k, v.reduce((a,b)=>a+b,0)/v.length])
+    .sort((a,b)=>b[1]-a[1]).slice(0,15);
+  makeBar('c-loc-ppm2', topPpm2.map(x=>x[0]), topPpm2.map(x=>Math.round(x[1])), PALETTE[2]);
+
+  // 3. By category
+  const cats = ['apartment','house','land','commercial','office','garage'];
+  const catCounts = cats.map(c => list.filter(l => l.category === c).length);
+  makeDoughnut('c-cat', cats.map(catLabel), catCounts);
+
+  // 4. Sale vs Rental
+  makeDoughnut('c-deal', ['Satış','Kirayə'], [
+    list.filter(l=>l.deal_type==='sale').length,
+    list.filter(l=>l.deal_type==='rental').length,
+  ]);
+
+  // 5. New vs Old building (apartments + houses only)
+  const resid = list.filter(l => l.category==='apartment'||l.category==='house');
+  makeDoughnut('c-build', ['Yeni tikili','Köhnə tikili','Məlum deyil'], [
+    resid.filter(l=>l.building_type==='Yeni tikili').length,
+    resid.filter(l=>l.building_type==='Köhnə tikili').length,
+    resid.filter(l=>!l.building_type).length,
+  ]);
+
+  // 6. Agency vs Owner
+  makeDoughnut('c-agency', ['Agentlik','Mülkiyyətçi','Məlum deyil'], [
+    list.filter(l=>l.is_agency===true).length,
+    list.filter(l=>l.is_agency===false).length,
+    list.filter(l=>l.is_agency==null).length,
+  ]);
+
+  // 7. Price distribution (sale only)
+  const sale = list.filter(l => l.deal_type==='sale' && l.price);
+  const buckets = [[0,50000,'0–50k'],[50000,100000,'50–100k'],[100000,150000,'100–150k'],
+    [150000,200000,'150–200k'],[200000,300000,'200–300k'],[300000,Infinity,'300k+']];
+  const bCounts = buckets.map(([lo,hi]) => sale.filter(l=>l.price>=lo&&l.price<hi).length);
+  makeBar('c-price-dist', buckets.map(b=>b[2]), bCounts, PALETTE[0], false);
+}
+
+loadAll();
+</script>
+</body>
+</html>

@@ -24,6 +24,15 @@ header h1 { font-size: 1.1rem; font-weight: 700; letter-spacing: .5px; }
 header h1 span { color: #4ade80; }
 #global-stats { font-size: .78rem; color: #94a3b8; margin-left: auto; white-space: nowrap; }
 
+.header-nav { display: flex; gap: 4px; margin-left: 20px; }
+.nav-link {
+  padding: 5px 12px; border-radius: 6px;
+  color: #94a3b8; text-decoration: none;
+  font-size: .8rem; font-weight: 500; transition: all .15s;
+}
+.nav-link:hover { color: #fff; background: rgba(255,255,255,.1); }
+.nav-link.active { color: #fff; background: rgba(255,255,255,.15); }
+
 /* ── Controls ── */
 .controls {
   background: #fff;

@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Emlak AI — Xəritə</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9/dist/leaflet.css">
+  <script src="https://unpkg.com/leaflet@1.9/dist/leaflet.js"></script>
+  <style>
+    body { display: flex; flex-direction: column; height: 100vh; overflow: hidden; }
+
+    .map-controls {
+      background: #fff;
+      border-bottom: 1px solid #e2e8f0;
+      padding: 10px 20px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+      flex-shrink: 0;
+    }
+    .map-stats { margin-left: auto; font-size: .78rem; color: #6b7280; white-space: nowrap; }
+
+    #map { flex: 1; width: 100%; }
+
+    /* Leaflet popup */
+    .popup-photo { width: 200px; height: 130px; object-fit: cover; border-radius: 6px; margin-bottom: 8px; display: block; }
+    .popup-price { font-size: 1rem; font-weight: 700; color: #1a1a2e; }
+    .popup-ppm2  { font-size: .75rem; color: #6366f1; font-weight: 600; }
+    .popup-loc   { font-size: .78rem; color: #4b5563; margin-top: 3px; }
+    .popup-det   { font-size: .75rem; color: #6b7280; margin-top: 2px; }
+    .popup-badge { display: inline-block; font-size: .65rem; font-weight: 600; padding: 1px 7px; border-radius: 999px; margin-top: 4px; }
+    .popup-agency { background: #fef3c7; color: #b45309; }
+    .popup-owner  { background: #dcfce7; color: #15803d; }
+    .popup-link { display: block; margin-top: 8px; font-size: .78rem; color: #6366f1; text-decoration: none; }
+    .popup-link:hover { text-decoration: underline; }
+
+    /* Legend */
+    .map-legend {
+      position: absolute; bottom: 24px; right: 10px; z-index: 1000;
+      background: #fff; border-radius: 8px; padding: 10px 14px;
+      box-shadow: 0 2px 8px rgba(0,0,0,.12);
+      font-size: .75rem; color: #374151;
+    }
+    .legend-item { display: flex; align-items: center; gap: 7px; margin-bottom: 5px; }
+    .legend-item:last-child { margin-bottom: 0; }
+    .legend-dot { width: 12px; height: 12px; border-radius: 50%; flex-shrink: 0; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Emlak <span>AI</span></h1>
+  <nav class="header-nav">
+    <a href="index.html" class="nav-link">Elanlar</a>
+    <a href="analytics.html" class="nav-link">Analitika</a>
+    <a href="map.html" class="nav-link active">Xəritə</a>
+  </nav>
+</header>
+
+<div class="map-controls">
+  <div class="chips" id="cat-chips">
+    <button class="chip active" data-cat="all">Hamısı</button>
+    <button class="chip" data-cat="apartment">Mənzil</button>
+    <button class="chip" data-cat="house">Həyət evi</button>
+    <button class="chip" data-cat="land">Torpaq</button>
+    <button class="chip" data-cat="commercial">Kommersiya</button>
+    <button class="chip" data-cat="office">Ofis</button>
+    <button class="chip" data-cat="garage">Qaraj</button>
+  </div>
+  <div class="chips" id="type-chips">
+    <button class="chip active" data-type="all">Satış + Kirayə</button>
+    <button class="chip" data-type="sale">Satış</button>
+    <button class="chip" data-type="rental">Kirayə</button>
+  </div>
+  <span class="map-stats" id="map-stats">Yüklənir…</span>
+</div>
+
+<div id="map"></div>
+
+<div class="map-legend">
+  <div class="legend-item"><div class="legend-dot" style="background:#6366f1"></div> Mənzil</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#4ade80"></div> Həyət evi</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#f59e0b"></div> Torpaq</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#ef4444"></div> Kommersiya</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#06b6d4"></div> Ofis</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#8b5cf6"></div> Qaraj</div>
+</div>
+
+<script>
+const CAT_COLORS = {
+  apartment: '#6366f1', house: '#4ade80', land: '#f59e0b',
+  commercial: '#ef4444', office: '#06b6d4', garage: '#8b5cf6',
+};
+const FILES = {
+  apartment: ['sale','rental'], house: ['sale','rental'],
+  land: ['sale'], commercial: ['sale','rental'],
+  office: ['sale','rental'], garage: ['sale','rental'],
+};
+
+function fmt(n) { return Math.round(n).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ' '); }
+function ppm2(l) {
+  const a = typeof l.area_m2 === 'number' ? l.area_m2 : parseFloat(String(l.area_m2||'').match(/[\d.]+/)?.[0]);
+  if (!l.price || !a || a <= 0) return null;
+  return l.price / a;
+}
+function formatPrice(p, dt) {
+  return dt === 'rental' ? `${fmt(p)} ₼/ay` : `${fmt(p)} ₼`;
+}
+
+// Init map
+const map = L.map('map').setView([40.4093, 49.8671], 11);
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution: '© OpenStreetMap',
+  maxZoom: 19,
+}).addTo(map);
+
+const cache = {};
+async function loadFile(cat, type) {
+  const key = `${cat}_${type}`;
+  if (cache[key]) return cache[key];
+  try {
+    const res = await fetch(`data/${key}.json`);
+    cache[key] = res.ok ? await res.json() : [];
+  } catch { cache[key] = []; }
+  return cache[key];
+}
+
+let allListings = [];
+let selCat = 'all', selType = 'all';
+let markerLayer = L.layerGroup().addTo(map);
+
+async function loadAll() {
+  const pairs = [];
+  Object.entries(FILES).forEach(([c, types]) => types.forEach(t => pairs.push([c, t])));
+  allListings = (await Promise.all(pairs.map(([c,t]) => loadFile(c,t)))).flat();
+  updateMarkers();
+}
+
+function updateMarkers() {
+  markerLayer.clearLayers();
+
+  const list = allListings.filter(l =>
+    !l.deleted_at &&
+    l.lat != null && l.lng != null &&
+    (selCat === 'all' || l.category === selCat) &&
+    (selType === 'all' || l.deal_type === selType)
+  );
+
+  list.forEach(l => {
+    const color = CAT_COLORS[l.category] || '#6366f1';
+    const marker = L.circleMarker([l.lat, l.lng], {
+      radius: 7,
+      fillColor: color,
+      fillOpacity: 0.85,
+      color: '#fff',
+      weight: 1.5,
+    });
+
+    const m2 = ppm2(l);
+    const area = typeof l.area_m2 === 'number' ? l.area_m2
+      : parseFloat(String(l.area_m2||'').match(/[\d.]+/)?.[0]) || null;
+    const det = [l.rooms, area ? `${area} m²` : '', l.land_area_sot ? `${l.land_area_sot} sot` : '']
+      .filter(Boolean).join(' · ');
+    const agencyBadge = l.is_agency === true
+      ? '<span class="popup-badge popup-agency">Agentlik</span>'
+      : l.is_agency === false
+      ? '<span class="popup-badge popup-owner">Mülkiyyətçi</span>' : '';
+
+    marker.bindPopup(`
+      ${l.photo_url ? `<img class="popup-photo" src="${l.photo_url}" onerror="this.style.display='none'">` : ''}
+      <div class="popup-price">${l.price ? formatPrice(l.price, l.deal_type) : '—'}</div>
+      ${m2 ? `<div class="popup-ppm2">${fmt(m2)} ₼/m²</div>` : ''}
+      ${l.location ? `<div class="popup-loc">${l.location}</div>` : ''}
+      ${det ? `<div class="popup-det">${det}</div>` : ''}
+      ${agencyBadge}
+      <a class="popup-link" href="${l.url}" target="_blank" rel="noopener">bina.az-da aç →</a>
+    `, { maxWidth: 220 });
+
+    markerLayer.addLayer(marker);
+  });
+
+  document.getElementById('map-stats').textContent = `${list.length.toLocaleString()} elan xəritədə`;
+}
+
+// Events
+document.getElementById('cat-chips').addEventListener('click', e => {
+  const btn = e.target.closest('.chip'); if (!btn) return;
+  document.querySelectorAll('#cat-chips .chip').forEach(c => c.classList.remove('active'));
+  btn.classList.add('active');
+  selCat = btn.dataset.cat;
+  updateMarkers();
+});
+document.getElementById('type-chips').addEventListener('click', e => {
+  const btn = e.target.closest('.chip'); if (!btn) return;
+  document.querySelectorAll('#type-chips .chip').forEach(c => c.classList.remove('active'));
+  btn.classList.add('active');
+  selType = btn.dataset.type;
+  updateMarkers();
+});
+
+loadAll();
+</script>
+</body>
+</html>
