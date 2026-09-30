@@ -1,38 +1,5 @@
 [
   {
-    "id": "6472180",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F18%2F17%2F53%2F00%2F5de4120d-3e57-45eb-8137-e85450526f37%2F89594_RithlXwM9ehtrs_7xV9Jmg.jpg",
-    "price": 728000,
-    "location": "Elmlər Akademiyası m.",
-    "rooms": "3 otaqlı",
-    "area_m2": "182 m²",
-    "floor": "16/17 mərtəbə",
-    "is_agency": true,
-    "lat": 40.36667163360809,
-    "lng": 49.81878506290435,
-    "has_repair": false,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 16,
-    "updated_at_site": "2026-09-23T21:46:29+04:00",
-    "is_featured": false,
-    "title": "Satılır 3 otaqlı yeni tikili 182 m²",
-    "description": "Premium yaşayış kompleksi. LUX RESİDENCE. Panoram dəniz mənzərəli. \r\nBU MƏNZİLİ ALİB YENİDƏN 2 MƏNZİLƏ ÇEVİRƏ BİLƏRSİZ\r\n3 otaqlı yeni tikili 182 kv.m. ( 2 mənzilin birləşməsi:  2 otaqlı 112 kv.m+1 otaqlı 70 kv.m). N.Nərimanov heykəlinin arxası, Space TV və Altes Plazanın yanı.( İsmayıl bəy Qutqaşınlı,Mikayıl Müşfiq və Ələsgər Ələkbərov küçələrinin kəsişməsi)\r\n16-cı mərtəbə.Lift qalxır mənzildir üstü də mansartdi yaşayış üçün Barmaq tanıma izi ilə giriş qapısı. Bütün otaqlar təbii işıqlı. Hazır minimalism dizayn proyekt və hörgü(suvaq)hədiyyə. Geniş eyvanlar.  Mənzil təhvil alınıb. Bütün ödənişlər olunub. Təmirə tam hazırdır.",
-    "building_type": "Yeni tikili",
-    "location_id": "34",
-    "location_name": "Elmlər Akademiyası",
-    "category": "apartment",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6472180",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 728000,
-        "date": "2026-09-30T19:24:31.853971+00:00"
-      }
-    ]
-  },
-  {
     "id": "6486570",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F23%2F22%2F35%2F20%2F826cfcbf-7afc-49c8-b6d0-78ac1b14a193%2F3222_TLAhKZk2XTlQJVEFEUTNFg.jpg",
     "price": 410000,
@@ -72662,6 +72629,39 @@
       {
         "price": 345000,
         "date": "2026-09-30T19:24:31.853980+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6472180",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F18%2F17%2F53%2F00%2F5de4120d-3e57-45eb-8137-e85450526f37%2F89594_RithlXwM9ehtrs_7xV9Jmg.jpg",
+    "price": 728000,
+    "location": "Elmlər Akademiyası m.",
+    "rooms": "3 otaqlı",
+    "area_m2": "182 m²",
+    "floor": "16/17 mərtəbə",
+    "is_agency": true,
+    "lat": 40.36667163360809,
+    "lng": 49.81878506290435,
+    "has_repair": false,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 16,
+    "updated_at_site": "2026-09-23T21:46:29+04:00",
+    "is_featured": false,
+    "title": "Satılır 3 otaqlı yeni tikili 182 m²",
+    "description": "Premium yaşayış kompleksi. LUX RESİDENCE. Panoram dəniz mənzərəli. \r\nBU MƏNZİLİ ALİB YENİDƏN 2 MƏNZİLƏ ÇEVİRƏ BİLƏRSİZ\r\n3 otaqlı yeni tikili 182 kv.m. ( 2 mənzilin birləşməsi:  2 otaqlı 112 kv.m+1 otaqlı 70 kv.m). N.Nərimanov heykəlinin arxası, Space TV və Altes Plazanın yanı.( İsmayıl bəy Qutqaşınlı,Mikayıl Müşfiq və Ələsgər Ələkbərov küçələrinin kəsişməsi)\r\n16-cı mərtəbə.Lift qalxır mənzildir üstü də mansartdi yaşayış üçün Barmaq tanıma izi ilə giriş qapısı. Bütün otaqlar təbii işıqlı. Hazır minimalism dizayn proyekt və hörgü(suvaq)hədiyyə. Geniş eyvanlar.  Mənzil təhvil alınıb. Bütün ödənişlər olunub. Təmirə tam hazırdır.",
+    "building_type": "Yeni tikili",
+    "location_id": "34",
+    "location_name": "Elmlər Akademiyası",
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6472180",
+    "deleted_at": "2026-09-30T21:49:55.854608+00:00",
+    "price_history": [
+      {
+        "price": 728000,
+        "date": "2026-09-30T19:24:31.853971+00:00"
       }
     ]
   }
