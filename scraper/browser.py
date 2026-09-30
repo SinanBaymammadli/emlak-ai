@@ -34,14 +34,9 @@ async def load_category_page(page, url: str) -> int:
 
 
 async def scroll_and_extract(page) -> list[dict]:
-    """Scroll and extract cards incrementally.
-
-    After every COLLAPSE_EVERY new cards, collapses already-processed cards to
-    keep the DOM lean and prevent the page slowing down past 10k+ items.
+    """Scroll and extract cards incrementally, marking each with data-x to avoid duplicates.
     Returns the full list of extracted cards.
     """
-    COLLAPSE_EVERY = 200
-
     await page.set_viewport_size({"width": 1280, "height": 900})
     all_cards: list[dict] = []
     prev_total, stalls, last_pos = 0, 0, 0
@@ -56,13 +51,11 @@ async def scroll_and_extract(page) -> list[dict]:
         last_pos = pos
         await page.wait_for_timeout(1_500)
 
-        # Count ALL cards (including already-extracted ones) for stall detection
         total = await page.evaluate(
             "() => document.querySelectorAll('.item-card').length"
         )
 
         if total > prev_total:
-            # Extract newly visible cards (not yet marked as extracted)
             new_cards = await page.evaluate("""() => {
                 const results = [];
                 document.querySelectorAll('.item-card:not([data-x])').forEach(card => {
@@ -80,20 +73,6 @@ async def scroll_and_extract(page) -> list[dict]:
 
             all_cards.extend(new_cards)
             print(f"  scroll: {total} loaded, {len(all_cards)} extracted")
-
-            # Collapse processed cards every COLLAPSE_EVERY to keep DOM lean
-            if len(all_cards) % COLLAPSE_EVERY < len(new_cards):
-                await page.evaluate("""() => {
-                    document.querySelectorAll('.item-card[data-x]').forEach(c => {
-                        c.innerHTML = '';
-                        c.style.height = '4px';
-                        c.style.overflow = 'hidden';
-                    });
-                }""")
-                # Reset last_pos: collapse shrank the page height so we must
-                # re-scroll from the new bottom to trigger more lazy loading.
-                last_pos = 0
-
             prev_total, stalls = total, 0
         else:
             stalls += 1
