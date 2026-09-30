@@ -75,9 +75,11 @@ def save_listings(category: str, deal_type: str, listings: dict[str, dict]) -> N
         key=lambda l: (l["deleted_at"] is not None, l.get("last_seen_at", "")),
         reverse=False,
     )
-    path.write_text(
-        json.dumps(sorted_listings, ensure_ascii=False, indent=2), encoding="utf-8"
-    )
+    # Escape U+2028 / U+2029 — Python's json module leaves them unescaped but
+    # they are invalid unescaped inside JSON strings per the spec.
+    output = json.dumps(sorted_listings, ensure_ascii=False, indent=2)
+    output = output.replace("\u2028", "\\u2028").replace("\u2029", "\\u2029")
+    path.write_text(output, encoding="utf-8")
 
 
 def upsert(
