@@ -35,9 +35,12 @@ async def load_category_page(page, url: str) -> int:
     return total
 
 
-async def scroll_and_extract(page, target: int = 0) -> list[dict]:
+async def scroll_and_extract(page, target: int = 0, stop_check=None) -> list[dict]:
     """Scroll and extract cards incrementally.
-    Stops when len(extracted) >= target (the Elanlar count shown in the page header).
+
+    Stops when:
+    - len(extracted) >= target (the Elanlar count from the page header), OR
+    - stop_check(all_cards) returns True (incremental mode: consecutive known listings)
     """
     await page.set_viewport_size({"width": 1280, "height": 900})
     all_cards: list[dict] = []
@@ -76,6 +79,9 @@ async def scroll_and_extract(page, target: int = 0) -> list[dict]:
         if new_cards:
             all_cards.extend(new_cards)
             print(f"  {len(all_cards)}/{target or '?'} extracted")
+
+            if stop_check and stop_check(all_cards):
+                break
 
     return all_cards
 

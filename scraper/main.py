@@ -189,6 +189,28 @@ def upsert(
     return "unchanged"
 
 
+def make_stop_check(existing: dict[str, dict], parser, threshold: int = 50):
+    """Returns a callback for scroll_and_extract that stops once the last
+    `threshold` extracted cards are all known listings with unchanged prices.
+    bina.az is sorted newest-first, so reaching this point means we've scrolled
+    past all new/changed content.
+    """
+    def check(all_cards: list[dict]) -> bool:
+        if len(all_cards) < threshold:
+            return False
+        tail = all_cards[-threshold:]
+        known_unchanged = sum(
+            1 for c in tail
+            if (rec := existing.get(c["id"])) is not None
+            and rec.get("price") == parser(c["text"]).get("price")
+        )
+        if known_unchanged >= threshold:
+            print(f"  {threshold} consecutive known+unchanged → incremental stop")
+            return True
+        return False
+    return check
+
+
 def mark_deleted(existing: dict[str, dict], seen_ids: set[str]) -> int:
     now = _now()
     count = 0
@@ -225,7 +247,9 @@ async def scrape_category(page, cfg: dict) -> None:
         raw_cards = await extract_cards(page)
         raw_cards = raw_cards[:SCRAPE_LIMIT]
     else:
-        raw_cards = await scroll_and_extract(page, target=total)
+        # Use incremental stop when we have enough existing data (not a first-time full scrape)
+        stop_fn = make_stop_check(existing, parser) if len(existing) >= 100 else None
+        raw_cards = await scroll_and_extract(page, target=total, stop_check=stop_fn)
     print(f"  cards extracted: {len(raw_cards)}")
 
     parser = PARSERS.get(category, PARSERS["apartment"])
