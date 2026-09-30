@@ -9,6 +9,8 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     timeout-minutes: 60
+    permissions:
+      contents: write   # needed to push data files back to the repo
 
     steps:
       - uses: actions/checkout@v4
