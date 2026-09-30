@@ -42,7 +42,7 @@ async def scroll_and_extract(page, target: int = 0) -> list[dict]:
     Stops when len(extracted) >= target (the count shown in the page header).
     Falls back to a 10s scrollHeight-stall timeout if target is 0 or unreachable.
     """
-    STALL_TIMEOUT = 10
+    STALL_TIMEOUT = 20
     await page.set_viewport_size({"width": 1280, "height": 900})
     all_cards: list[dict] = []
     last_height = 0
