@@ -388,5 +388,68 @@ document.getElementById('rooms-filter').addEventListener('change', applyFilters)
 document.getElementById('repair-filter').addEventListener('change', applyFilters);
 document.getElementById('agency-filter').addEventListener('change', applyFilters);
 
+// ── URL search param sync ─────────────────────────────────────────────────────
+
+function pushState() {
+  const p = new URLSearchParams();
+  if (selCat  !== 'all')  p.set('cat',    selCat);
+  if (selType !== 'all')  p.set('type',   selType);
+  if (sort    !== 'newest') p.set('sort', sort);
+  if (showDel)            p.set('del',    '1');
+  if (priceMin != null)   p.set('pmin',   priceMin);
+  if (priceMax != null)   p.set('pmax',   priceMax);
+  if (areaMin  != null)   p.set('amin',   areaMin);
+  if (areaMax  != null)   p.set('amax',   areaMax);
+  if (sotMin   != null)   p.set('smin',   sotMin);
+  if (sotMax   != null)   p.set('smax',   sotMax);
+  if (ppm2Min  != null)   p.set('mmin',   ppm2Min);
+  if (ppm2Max  != null)   p.set('mmax',   ppm2Max);
+  if (roomsF)             p.set('rooms',  roomsF);
+  if (repairF)            p.set('repair', repairF);
+  if (agencyF)            p.set('agency', agencyF);
+  if (selLocs.size)       p.set('locs',   [...selLocs].join('|'));
+  const str = p.toString();
+  history.replaceState(null, '', str ? `?${str}` : location.pathname);
+}
+
+function restoreFromUrl() {
+  const p = new URLSearchParams(location.search);
+  if (p.has('cat'))    selCat  = p.get('cat');
+  if (p.has('type'))   selType = p.get('type');
+  if (p.has('sort'))   sort    = p.get('sort');
+  if (p.has('del'))    showDel = p.get('del') === '1';
+  if (p.has('pmin'))   document.getElementById('price-min').value  = p.get('pmin');
+  if (p.has('pmax'))   document.getElementById('price-max').value  = p.get('pmax');
+  if (p.has('amin'))   document.getElementById('area-min').value   = p.get('amin');
+  if (p.has('amax'))   document.getElementById('area-max').value   = p.get('amax');
+  if (p.has('smin'))   document.getElementById('sot-min').value    = p.get('smin');
+  if (p.has('smax'))   document.getElementById('sot-max').value    = p.get('smax');
+  if (p.has('mmin'))   document.getElementById('ppm2-min').value   = p.get('mmin');
+  if (p.has('mmax'))   document.getElementById('ppm2-max').value   = p.get('mmax');
+  if (p.has('rooms'))  document.getElementById('rooms-filter').value  = p.get('rooms');
+  if (p.has('repair')) document.getElementById('repair-filter').value = p.get('repair');
+  if (p.has('agency')) document.getElementById('agency-filter').value = p.get('agency');
+  if (p.has('del'))    document.getElementById('show-deleted').checked = showDel;
+  if (p.has('locs'))   p.get('locs').split('|').filter(Boolean).forEach(l => selLocs.add(l));
+
+  // Reflect cat/type chips
+  document.querySelectorAll('#cat-chips .chip').forEach(c => {
+    c.classList.toggle('active', c.dataset.cat === selCat);
+  });
+  document.querySelectorAll('#type-chips .chip').forEach(c => {
+    c.classList.toggle('active', c.dataset.type === selType);
+  });
+  document.getElementById('sort').value = sort;
+  updateMsLabel();
+}
+
+// Patch loadAll and applyFilters to also push state
+const _origLoadAll = loadAll;
+loadAll = async function() { await _origLoadAll(); pushState(); };
+
+const _origApply = applyFilters;
+applyFilters = function() { _origApply(); pushState(); };
+
 // ── Boot ──────────────────────────────────────────────────────────────────────
+restoreFromUrl();
 loadAll();
