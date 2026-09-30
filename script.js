@@ -39,13 +39,12 @@ function fmt(n) {
 function fmtDate(iso) {
   if (!iso) return '';
   const d = new Date(iso);
-  const now = new Date();
-  const diffMs = now - d;
-  const diffDays = Math.floor(diffMs / 86400000);
-  if (diffDays === 0) return 'Bugün';
-  if (diffDays === 1) return 'Dünən';
-  if (diffDays < 7)  return `${diffDays} gün əvvəl`;
-  return d.toLocaleDateString('az-AZ', { day: 'numeric', month: 'short', year: 'numeric' });
+  const dd = String(d.getDate()).padStart(2, '0');
+  const mm = String(d.getMonth() + 1).padStart(2, '0');
+  const yyyy = d.getFullYear();
+  const hh = String(d.getHours()).padStart(2, '0');
+  const min = String(d.getMinutes()).padStart(2, '0');
+  return `${dd}.${mm}.${yyyy} ${hh}:${min}`;
 }
 
 function formatPrice(price, dealType) {
