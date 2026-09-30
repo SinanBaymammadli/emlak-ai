@@ -1,38 +1,5 @@
 [
   {
-    "id": "6477129",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F20%2F17%2F36%2F31%2F0fa117a5-461f-4001-8ac5-9932c6d9390f%2F22769_motQIDZkuUQz3rZryiukJQ.jpg",
-    "price": 190000,
-    "location": "Yeni Günəşli q.",
-    "rooms": "4 otaqlı",
-    "area_m2": "95 m²",
-    "floor": "5/9 mərtəbə",
-    "is_agency": false,
-    "lat": 40.383017,
-    "lng": 49.981377,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": 5,
-    "updated_at_site": "2026-09-23T21:33:42+04:00",
-    "is_featured": false,
-    "title": "Satılır 4 otaqlı köhnə tikili 95 m²",
-    "description": "🔑 QANUNİ 4 OTAQLI MƏNZİL SATILIR\r\n\r\n📍 Yeni Günəşli qəsəbəsi, V massivi\r\n🛣️ Samir Cəfərov küçəsi\r\n\r\n🏢 9 mərtəbəli Leninqrad layihəli bina\r\n📌 5-ci mərtəbə\r\n🧭 Orta blok, orta mərtəbə\r\n🧱 Binanın fasadı yenidir\r\n🌳 Abad məhəllədə yerləşir\r\n\r\nMənzil geniş ailə üçün əlverişli planlamaya və rahat yaşayış mühitinə sahibdir. Ərazi baxımından da əlverişli mövqedə yerləşir.\r\n",
-    "building_type": "Köhnə tikili",
-    "location_id": "92",
-    "location_name": "Yeni Günəşli",
-    "category": "apartment",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6477129",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 190000,
-        "date": "2026-09-30T18:41:46.535610+00:00"
-      }
-    ]
-  },
-  {
     "id": "5596527",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F10%2F18%2F14%2F48%2F41%2Fb42f82ff-d240-4516-914f-465ce0336a11%2F89649_IdiJWhN4F5E3SSESYyyqZg.jpg",
     "price": 400000,
@@ -53357,6 +53324,39 @@
       {
         "price": 160000,
         "date": "2026-09-30T18:41:46.603332+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6477129",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F20%2F17%2F36%2F31%2F0fa117a5-461f-4001-8ac5-9932c6d9390f%2F22769_motQIDZkuUQz3rZryiukJQ.jpg",
+    "price": 190000,
+    "location": "Yeni Günəşli q.",
+    "rooms": "4 otaqlı",
+    "area_m2": "95 m²",
+    "floor": "5/9 mərtəbə",
+    "is_agency": false,
+    "lat": 40.383017,
+    "lng": 49.981377,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": 5,
+    "updated_at_site": "2026-09-23T21:33:42+04:00",
+    "is_featured": false,
+    "title": "Satılır 4 otaqlı köhnə tikili 95 m²",
+    "description": "🔑 QANUNİ 4 OTAQLI MƏNZİL SATILIR\r\n\r\n📍 Yeni Günəşli qəsəbəsi, V massivi\r\n🛣️ Samir Cəfərov küçəsi\r\n\r\n🏢 9 mərtəbəli Leninqrad layihəli bina\r\n📌 5-ci mərtəbə\r\n🧭 Orta blok, orta mərtəbə\r\n🧱 Binanın fasadı yenidir\r\n🌳 Abad məhəllədə yerləşir\r\n\r\nMənzil geniş ailə üçün əlverişli planlamaya və rahat yaşayış mühitinə sahibdir. Ərazi baxımından da əlverişli mövqedə yerləşir.\r\n",
+    "building_type": "Köhnə tikili",
+    "location_id": "92",
+    "location_name": "Yeni Günəşli",
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6477129",
+    "deleted_at": "2026-09-30T21:49:49.729413+00:00",
+    "price_history": [
+      {
+        "price": 190000,
+        "date": "2026-09-30T18:41:46.535610+00:00"
       }
     ]
   }
