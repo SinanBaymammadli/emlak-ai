@@ -114,6 +114,22 @@
     <button class="chip" data-type="sale">Satış</button>
     <button class="chip" data-type="rental">Kirayə</button>
   </div>
+  <div class="filters" style="margin:2px 0">
+    <div class="ms-wrap" id="m-ms-wrap">
+      <button class="ms-btn" id="m-ms-btn"><span id="m-ms-label">Bütün məkanlar</span><span class="ms-caret">▼</span></button>
+      <div class="ms-dropdown" id="m-ms-dropdown">
+        <input class="ms-search" id="m-ms-search" placeholder="Axtar…" autocomplete="off">
+        <div class="ms-actions"><button id="m-ms-all">Hamısını seç</button><button id="m-ms-none">Sıfırla</button></div>
+        <div class="ms-list" id="m-ms-list"></div>
+      </div>
+    </div>
+    <div class="filter-group"><span class="filter-label">Qiymət:</span><input type="number" id="m-pmin" placeholder="Min ₼" style="width:80px"><span class="sep">–</span><input type="number" id="m-pmax" placeholder="Max ₼" style="width:80px"></div>
+    <div class="filter-group"><span class="filter-label">Sahə:</span><input type="number" id="m-amin" placeholder="Min m²" style="width:70px"><span class="sep">–</span><input type="number" id="m-amax" placeholder="Max m²" style="width:70px"></div>
+    <div class="filter-group"><span class="filter-label">₼/m²:</span><input type="number" id="m-mmin" placeholder="Min" style="width:65px"><span class="sep">–</span><input type="number" id="m-mmax" placeholder="Max" style="width:65px"></div>
+    <div class="filter-group"><span class="filter-label">Otaq:</span><select id="m-rooms"><option value="">Hamısı</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5+</option></select></div>
+    <div class="filter-group"><span class="filter-label">Təmir:</span><select id="m-repair"><option value="">Hamısı</option><option value="yes">Var</option><option value="no">Yox</option></select></div>
+    <div class="filter-group"><span class="filter-label">Elan sahibi:</span><select id="m-agency"><option value="">Hamısı</option><option value="owner">Mülkiyyətçi</option><option value="agency">Agentlik</option></select></div>
+  </div>
   <span class="map-stats" id="map-stats">Yüklənir…</span>
   <div class="view-toggle">
     <button class="view-btn active" id="btn-markers">Markerlər</button>
@@ -192,6 +208,9 @@ async function loadFile(cat, type) {
 
 let allListings = [];
 let selCat = 'all', selType = 'all';
+let selLocs = new Set();
+let mPriceMin = null, mPriceMax = null, mAreaMin = null, mAreaMax = null;
+let mPpm2Min = null, mPpm2Max = null, mRooms = '', mRepair = '', mAgency = '';
 let viewMode = 'markers'; // 'markers' | 'choropleth'
 let markerLayer = L.layerGroup().addTo(map);
 let choroLayer = null;
@@ -207,6 +226,7 @@ async function loadAll() {
   ]);
   allListings = listingsArr;
   districtGeoJson = geoJsonData;
+  buildMapLocDropdown();
   render();
 }
 
@@ -301,12 +321,41 @@ function buildChoroLayer(listings) {
 }
 
 // ── Render ────────────────────────────────────────────────────────────────────
+function numV(id) { const v = parseFloat(document.getElementById(id)?.value); return isNaN(v) ? null : v; }
+
 function getFilteredListings() {
-  return allListings.filter(l =>
-    !l.deleted_at &&
-    (selCat === 'all' || l.category === selCat) &&
-    (selType === 'all' || l.deal_type === selType)
-  );
+  mPriceMin = numV('m-pmin'); mPriceMax = numV('m-pmax');
+  mAreaMin  = numV('m-amin'); mAreaMax  = numV('m-amax');
+  mPpm2Min  = numV('m-mmin'); mPpm2Max  = numV('m-mmax');
+  mRooms  = document.getElementById('m-rooms')?.value  || '';
+  mRepair = document.getElementById('m-repair')?.value || '';
+  mAgency = document.getElementById('m-agency')?.value || '';
+
+  return allListings.filter(l => {
+    if (l.deleted_at) return false;
+    if (selCat  !== 'all' && l.category  !== selCat)  return false;
+    if (selType !== 'all' && l.deal_type !== selType)  return false;
+    if (selLocs.size && !selLocs.has(l.location_name || l.location || '')) return false;
+    if (mPriceMin != null && (l.price == null || l.price < mPriceMin)) return false;
+    if (mPriceMax != null && (l.price == null || l.price > mPriceMax)) return false;
+    const a = typeof l.area_m2==='number'?l.area_m2:parseFloat(String(l.area_m2||'').match(/[\d.]+/)?.[0]);
+    if (mAreaMin  != null && (a == null || a < mAreaMin)) return false;
+    if (mAreaMax  != null && (a == null || a > mAreaMax)) return false;
+    const pp = ppm2(l);
+    if (mPpm2Min  != null && (pp == null || pp < mPpm2Min)) return false;
+    if (mPpm2Max  != null && (pp == null || pp > mPpm2Max)) return false;
+    if (mRooms) {
+      const rm = String(l.rooms||'').match(/\d+/);
+      const n = rm ? parseInt(rm[0]) : null;
+      if (mRooms === '5') { if (n == null || n < 5) return false; }
+      else if (n !== parseInt(mRooms)) return false;
+    }
+    if (mRepair === 'yes' && l.has_repair !== true)  return false;
+    if (mRepair === 'no'  && l.has_repair !== false) return false;
+    if (mAgency === 'agency' && l.is_agency !== true)  return false;
+    if (mAgency === 'owner'  && l.is_agency !== false) return false;
+    return true;
+  });
 }
 
 function render() {
@@ -388,6 +437,49 @@ document.getElementById('type-chips').addEventListener('click', e => {
   render();
 });
 
+// Range + select filters
+['m-pmin','m-pmax','m-amin','m-amax','m-mmin','m-mmax'].forEach(id =>
+  document.getElementById(id)?.addEventListener('input', render));
+['m-rooms','m-repair','m-agency'].forEach(id =>
+  document.getElementById(id)?.addEventListener('change', render));
+
+// Location multiselect
+const MAP_ALL_LOCATIONS = ['20 Yanvar m.','20-ci sahə q.','28 May m.','9-cu mikrorayon q.','Azadlıq Prospekti m.','Ağ şəhər q.','Badamdar q.','Bakıxanov q.','Bayıl q.','Bilgəh q.','Biləcəri q.','Binə q.','Binəqədi q.','Binəqədi r.','Buzovna q.','Dübəndi q.','Elmlər Akademiyası m.','Görədil q.','Gənclik m.','Hökməli q.','Hövsan q.','Həzi Aslanov m.','Həzi Aslanov q.','Koroğlu m.','Lökbatan q.','M.Ə.Rəsulzadə q.','Masazır q.','Mehdiabad q.','Memar Əcəmi m.','Məmmədli q.','Mərdəkan q.','Nardaran q.','Neftçilər m.','Nizami m.','Nizami r.','Novxanı q.','Nəriman Nərimanov m.','Nərimanov r.','Nəsimi r.','Qala q.','Qara Qarayev m.','Qaraçuxur q.','Qobu q.','Sahil q.','Saray q.','Sea Breeze q.','Türkan q.','Yasamal q.','Yasamal r.','Yeni Ramana q.','Yeni Yasamal q.','Zabrat q.','Zığ q.','İnşaatçılar m.','İçəri Şəhər m.','Şah İsmayıl Xətai m.','Şağan q.','Şüvəlan q.','Əhmədli m.','Ələt q.','Əmircan q.'];
+
+function buildMapLocDropdown(q = '') {
+  const el = document.getElementById('m-ms-list'); if (!el) return;
+  const fromData = allListings.map(l => l.location_name || l.location || '').filter(Boolean);
+  const locs = [...new Set([...MAP_ALL_LOCATIONS, ...fromData])].sort();
+  const vis = q ? locs.filter(l => l.toLowerCase().includes(q.toLowerCase())) : locs;
+  if (!vis.length) { el.innerHTML = '<div class="ms-empty">Nəticə yoxdur</div>'; return; }
+  el.innerHTML = vis.map(loc => `<label class="ms-item"><input type="checkbox" value="${loc.replace(/"/g,'&quot;')}" ${selLocs.has(loc)?'checked':''}><span>${loc}</span></label>`).join('');
+  el.querySelectorAll('input[type=checkbox]').forEach(cb => {
+    cb.addEventListener('change', () => { if (cb.checked) selLocs.add(cb.value); else selLocs.delete(cb.value); updateMapMsLabel(); render(); });
+  });
+}
+function updateMapMsLabel() {
+  const btn = document.getElementById('m-ms-btn'); const lbl = document.getElementById('m-ms-label');
+  if (!btn || !lbl) return;
+  if (selLocs.size === 0) { lbl.textContent = 'Bütün məkanlar'; btn.classList.remove('has-selection'); }
+  else { lbl.textContent = `${selLocs.size} məkan seçildi`; btn.classList.add('has-selection'); }
+}
+document.getElementById('m-ms-btn').addEventListener('click', e => {
+  e.stopPropagation();
+  document.getElementById('m-ms-dropdown').classList.toggle('open');
+  if (document.getElementById('m-ms-dropdown').classList.contains('open')) document.getElementById('m-ms-search').focus();
+});
+document.addEventListener('click', e => {
+  if (!document.getElementById('m-ms-wrap')?.contains(e.target)) document.getElementById('m-ms-dropdown')?.classList.remove('open');
+});
+document.getElementById('m-ms-search').addEventListener('input', e => buildMapLocDropdown(e.target.value));
+document.getElementById('m-ms-all').addEventListener('click', () => {
+  allListings.map(l => l.location_name||l.location||'').filter(Boolean).forEach(l => selLocs.add(l));
+  buildMapLocDropdown(); updateMapMsLabel(); render();
+});
+document.getElementById('m-ms-none').addEventListener('click', () => {
+  selLocs.clear(); buildMapLocDropdown(); updateMapMsLabel(); render();
+});
+
 document.getElementById('btn-markers').addEventListener('click', () => {
   viewMode = 'markers';
   document.getElementById('btn-markers').classList.add('active');
@@ -416,9 +508,19 @@ function updateNavLinks() {
 
 function pushState() {
   const p = new URLSearchParams();
-  if (selCat  !== 'all')     p.set('cat',  selCat);
-  if (selType !== 'all')     p.set('type', selType);
-  if (viewMode !== 'markers') p.set('view', viewMode);
+  if (selCat  !== 'all')      p.set('cat',    selCat);
+  if (selType !== 'all')      p.set('type',   selType);
+  if (viewMode !== 'markers') p.set('view',   viewMode);
+  if (selLocs.size)           p.set('locs',   [...selLocs].join('|'));
+  if (mPriceMin != null)      p.set('pmin',   mPriceMin);
+  if (mPriceMax != null)      p.set('pmax',   mPriceMax);
+  if (mAreaMin  != null)      p.set('amin',   mAreaMin);
+  if (mAreaMax  != null)      p.set('amax',   mAreaMax);
+  if (mPpm2Min  != null)      p.set('mmin',   mPpm2Min);
+  if (mPpm2Max  != null)      p.set('mmax',   mPpm2Max);
+  if (mRooms)                 p.set('rooms',  mRooms);
+  if (mRepair)                p.set('repair', mRepair);
+  if (mAgency)                p.set('agency', mAgency);
   const str = p.toString();
   history.replaceState(null, '', str ? `?${str}` : location.pathname);
 }
