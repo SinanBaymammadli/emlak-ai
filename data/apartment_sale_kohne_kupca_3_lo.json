@@ -1,104 +1,5 @@
 [
   {
-    "id": "6486226",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F23%2F19%2F03%2F26%2Fca54e7b3-9376-490b-b4be-f79ffabe96c4%2F89593_gmpTG_suoHPifWLAS73iYQ.jpg",
-    "price": 280000,
-    "location": "Nəriman Nərimanov m.",
-    "rooms": "3 otaqlı",
-    "area_m2": "90 m²",
-    "floor": "4/5 mərtəbə",
-    "is_agency": true,
-    "lat": 40.41161389223019,
-    "lng": 49.86795997092746,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": 4,
-    "updated_at_site": "2026-09-23T21:09:29+04:00",
-    "is_featured": false,
-    "title": "Satılır 3 otaqlı köhnə tikili 90 m²",
-    "description": "🏡 NƏRİMANOVDA QANUNİ 3 OTAQLI MƏNZİL SATILIR!\r\n\r\n📍 Ünvan: Nərimanov rayonu, Sübhən Ələsgərov küçəsi\r\n🏢 Leninqrad layihəli 5 mərtəbəli binanın 4-cü mərtəbəsi\r\n📐 90 m²\r\n🛏 Qanuni 3 otaq\r\n🛋 Əşyalı satılır\r\n\r\n🚇 Nərimanov metrosuna təxminən 10 dəqiqəlik məsafədə yerləşir.\r\n🎓 İqtisad, Avrasiya və Pedaqoji universitetlərə də təxminən 10 dəqiqəlik məsafədədir.\r\n\r\n✅ Yaşayış və investisiya üçün əlverişli lokasiya\r\n✅ Qanuni 3 otaq\r\n✅ Əşyalı satış\r\n✅ Ətraflı məlumat və video üçün əlaqə saxlayın.\r\n\r\n📞 Real alıcılar zəng etsin.\r\n🎥 Video və ətraflı məlumat telefonla təqdim olunacaq.\r\n\r\n💼 Ofis haqqı: 1%",
-    "building_type": "Köhnə tikili",
-    "location_id": "1",
-    "location_name": "Nəriman Nərimanov",
-    "category": "apartment",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6486226",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 280000,
-        "date": "2026-09-30T18:46:20.842403+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6447947",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F09%2F22%2F25%2F57%2F7db27817-58eb-4137-98ca-6899c015181c%2F60130_Rz4ehYi31q3MXWWTDhEH6Q.jpg",
-    "price": 169500,
-    "location": "7-ci mikrorayon q.",
-    "rooms": "3 otaqlı",
-    "area_m2": "59.3 m²",
-    "floor": "3/5 mərtəbə",
-    "is_agency": false,
-    "lat": 40.43139083888183,
-    "lng": 49.8518620879294,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": 3,
-    "updated_at_site": "2026-09-23T21:29:19+04:00",
-    "is_featured": false,
-    "title": "Satılır 3 otaqlı köhnə tikili 59.3 m²",
-    "description": "7 ci mkr 244 nomre mektebe yaxin 5/3 3 otaqa duzelme teze temir 33 lerden orta blok skvaznoy menzil satisa cixib qaz isiq su merkezi istilik daimi yalniz real alici ile qiymet baresinde razilaqa gelmek olar  xidmet haqqi 1% ",
-    "building_type": "Köhnə tikili",
-    "location_id": "129",
-    "location_name": "7-ci mikrorayon",
-    "category": "apartment",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6447947",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 169500,
-        "date": "2026-09-30T18:49:50.256854+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6435470",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F05%2F13%2F04%2F21%2F92931c07-93d8-4247-abe4-de109798f385%2F72347_xWYmLNYMUWiw_iw4Y-PO5g.jpg",
-    "price": 155000,
-    "location": "Memar Əcəmi m.",
-    "rooms": "3 otaqlı",
-    "area_m2": "65 m²",
-    "floor": "5/5 mərtəbə",
-    "is_agency": true,
-    "lat": 40.41226200793578,
-    "lng": 49.81393132392913,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": 5,
-    "updated_at_site": "2026-09-23T21:34:37+04:00",
-    "is_featured": false,
-    "title": "Satılır 3 otaqlı köhnə tikili 65 m²",
-    "description": "         ‘’TƏCİLİ SATİLİR ‘’\r\nMEMAR ƏCƏMİ METROSUNUN YAXİNLİGİNDA RADOY 3 OTAĞDAN İBARƏT TƏCİLİ MƏNZİL SATİLİR MƏNZİL YENİ TƏMİRDƏN CİXMİSDİR.MƏNZİLDƏ TƏMİRDƏN SONRA YAŞAYİŞ OLMAYİBDİ . MƏNZİL ABAD BİNA VƏ ABAD MƏHLƏDƏ YERLƏSİR ƏTAFİNDA MƏKTƏB BAĞCA VƏ DİGƏR İAŞƏ ABİYTLERİ MÖVCUDUR \r\nQİYMET 155 min AZN\r\nOFİS HAQQİ 1 FAİZ \r\nBU VƏ DİGƏR MƏNZİLLƏR ÜCÜN ƏLƏQƏ SAXLAYA BİLƏRSİZ ",
-    "building_type": "Köhnə tikili",
-    "location_id": "59",
-    "location_name": "Memar Əcəmi",
-    "category": "apartment",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6435470",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 155000,
-        "date": "2026-09-30T18:46:19.173398+00:00"
-      }
-    ]
-  },
-  {
     "id": "6486547",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F23%2F22%2F08%2F44%2Ff746a6dc-cb9f-4957-8c46-0195361d5403%2F22656_MR15ktck9hEJDS_wDBxf3Q.jpg",
     "price": 200000,
@@ -194927,6 +194828,105 @@
       {
         "price": 235000,
         "date": "2026-09-30T18:46:19.246243+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6486226",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F23%2F19%2F03%2F26%2Fca54e7b3-9376-490b-b4be-f79ffabe96c4%2F89593_gmpTG_suoHPifWLAS73iYQ.jpg",
+    "price": 280000,
+    "location": "Nəriman Nərimanov m.",
+    "rooms": "3 otaqlı",
+    "area_m2": "90 m²",
+    "floor": "4/5 mərtəbə",
+    "is_agency": true,
+    "lat": 40.41161389223019,
+    "lng": 49.86795997092746,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": 4,
+    "updated_at_site": "2026-09-23T21:09:29+04:00",
+    "is_featured": false,
+    "title": "Satılır 3 otaqlı köhnə tikili 90 m²",
+    "description": "🏡 NƏRİMANOVDA QANUNİ 3 OTAQLI MƏNZİL SATILIR!\r\n\r\n📍 Ünvan: Nərimanov rayonu, Sübhən Ələsgərov küçəsi\r\n🏢 Leninqrad layihəli 5 mərtəbəli binanın 4-cü mərtəbəsi\r\n📐 90 m²\r\n🛏 Qanuni 3 otaq\r\n🛋 Əşyalı satılır\r\n\r\n🚇 Nərimanov metrosuna təxminən 10 dəqiqəlik məsafədə yerləşir.\r\n🎓 İqtisad, Avrasiya və Pedaqoji universitetlərə də təxminən 10 dəqiqəlik məsafədədir.\r\n\r\n✅ Yaşayış və investisiya üçün əlverişli lokasiya\r\n✅ Qanuni 3 otaq\r\n✅ Əşyalı satış\r\n✅ Ətraflı məlumat və video üçün əlaqə saxlayın.\r\n\r\n📞 Real alıcılar zəng etsin.\r\n🎥 Video və ətraflı məlumat telefonla təqdim olunacaq.\r\n\r\n💼 Ofis haqqı: 1%",
+    "building_type": "Köhnə tikili",
+    "location_id": "1",
+    "location_name": "Nəriman Nərimanov",
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6486226",
+    "deleted_at": "2026-09-30T21:51:18.293550+00:00",
+    "price_history": [
+      {
+        "price": 280000,
+        "date": "2026-09-30T18:46:20.842403+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6447947",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F09%2F22%2F25%2F57%2F7db27817-58eb-4137-98ca-6899c015181c%2F60130_Rz4ehYi31q3MXWWTDhEH6Q.jpg",
+    "price": 169500,
+    "location": "7-ci mikrorayon q.",
+    "rooms": "3 otaqlı",
+    "area_m2": "59.3 m²",
+    "floor": "3/5 mərtəbə",
+    "is_agency": false,
+    "lat": 40.43139083888183,
+    "lng": 49.8518620879294,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": 3,
+    "updated_at_site": "2026-09-23T21:29:19+04:00",
+    "is_featured": false,
+    "title": "Satılır 3 otaqlı köhnə tikili 59.3 m²",
+    "description": "7 ci mkr 244 nomre mektebe yaxin 5/3 3 otaqa duzelme teze temir 33 lerden orta blok skvaznoy menzil satisa cixib qaz isiq su merkezi istilik daimi yalniz real alici ile qiymet baresinde razilaqa gelmek olar  xidmet haqqi 1% ",
+    "building_type": "Köhnə tikili",
+    "location_id": "129",
+    "location_name": "7-ci mikrorayon",
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6447947",
+    "deleted_at": "2026-09-30T21:51:18.293550+00:00",
+    "price_history": [
+      {
+        "price": 169500,
+        "date": "2026-09-30T18:49:50.256854+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6435470",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F05%2F13%2F04%2F21%2F92931c07-93d8-4247-abe4-de109798f385%2F72347_xWYmLNYMUWiw_iw4Y-PO5g.jpg",
+    "price": 155000,
+    "location": "Memar Əcəmi m.",
+    "rooms": "3 otaqlı",
+    "area_m2": "65 m²",
+    "floor": "5/5 mərtəbə",
+    "is_agency": true,
+    "lat": 40.41226200793578,
+    "lng": 49.81393132392913,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": 5,
+    "updated_at_site": "2026-09-23T21:34:37+04:00",
+    "is_featured": false,
+    "title": "Satılır 3 otaqlı köhnə tikili 65 m²",
+    "description": "         ‘’TƏCİLİ SATİLİR ‘’\r\nMEMAR ƏCƏMİ METROSUNUN YAXİNLİGİNDA RADOY 3 OTAĞDAN İBARƏT TƏCİLİ MƏNZİL SATİLİR MƏNZİL YENİ TƏMİRDƏN CİXMİSDİR.MƏNZİLDƏ TƏMİRDƏN SONRA YAŞAYİŞ OLMAYİBDİ . MƏNZİL ABAD BİNA VƏ ABAD MƏHLƏDƏ YERLƏSİR ƏTAFİNDA MƏKTƏB BAĞCA VƏ DİGƏR İAŞƏ ABİYTLERİ MÖVCUDUR \r\nQİYMET 155 min AZN\r\nOFİS HAQQİ 1 FAİZ \r\nBU VƏ DİGƏR MƏNZİLLƏR ÜCÜN ƏLƏQƏ SAXLAYA BİLƏRSİZ ",
+    "building_type": "Köhnə tikili",
+    "location_id": "59",
+    "location_name": "Memar Əcəmi",
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6435470",
+    "deleted_at": "2026-09-30T21:51:18.293550+00:00",
+    "price_history": [
+      {
+        "price": 155000,
+        "date": "2026-09-30T18:46:19.173398+00:00"
       }
     ]
   }
