@@ -225,13 +225,16 @@ function cardHTML(l) {
   if (m2)       unitPrice = `<div class="card-unit-price">${fmt(m2)} ₼/m²</div>`;
   else if (sot) unitPrice = `<div class="card-unit-price">${fmt(sot)} ₼/sot</div>`;
 
+  // Specs: rooms · area · floor on one compact line
   const area = areaVal(l);
-  const details = [
+  const specs = [
     l.rooms || '',
     area ? `${area} m²` : '',
     l.land_area_sot ? `${l.land_area_sot} sot` : '',
+    l.floor ? `${l.floor} mərt.` : '',
   ].filter(Boolean).join(' · ');
 
+  // Badges for meta row (right side)
   const badges = [
     l.has_repair ? `<span class="badge badge-repair">✓ Təmirli</span>` : '',
     l.is_agency  ? `<span class="badge badge-agency">Agentlik</span>` : `<span class="badge badge-owner">Mülkiyyətçi</span>`,
@@ -248,14 +251,16 @@ function cardHTML(l) {
       ${changeBadge}
     </div>
     ${unitPrice}
+    ${specs    ? `<div class="card-details">${esc(specs)}</div>` : ''}
     ${l.location ? `<div class="card-location">${esc(l.location)}</div>` : ''}
-    ${details    ? `<div class="card-details">${esc(details)}</div>` : ''}
-    ${l.updated_at_site ? `<div class="card-date">${fmtDate(l.updated_at_site)}</div>` : ''}
-    ${badges     ? `<div class="card-badges">${badges}</div>` : ''}
+    <div class="card-meta">
+      <span class="card-date">${l.updated_at_site ? fmtDate(l.updated_at_site) : ''}</span>
+      ${badges ? `<div class="card-badges">${badges}</div>` : ''}
+    </div>
   </div>
   <div class="card-footer">
-    <a href="${esc(l.url)}" target="_blank" rel="noopener">🔗 bina.az</a>
-    ${l.lat && l.lng ? `<a href="https://www.google.com/maps?q=${l.lat},${l.lng}" target="_blank" rel="noopener">📍 Xəritə</a>` : ''}
+    <a href="${esc(l.url)}" target="_blank" rel="noopener">bina.az</a>
+    ${l.lat && l.lng ? `<a href="https://www.google.com/maps?q=${l.lat},${l.lng}" target="_blank" rel="noopener">Xəritə</a>` : ''}
   </div>
 </div>`;
 }
