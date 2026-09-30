@@ -110,6 +110,12 @@ async def fetch_item_graphql(page, item_id: str) -> dict:
             item_id,
         )
         item = (data.get("data") or {}).get("item") or {}
+
+        def clean(s):
+            if not isinstance(s, str):
+                return s
+            return s.replace(" ", "\n").replace(" ", "\n")
+
         has_repair = item.get("hasRepair")
         return {
             "lat": item.get("latitude"),
@@ -120,8 +126,8 @@ async def fetch_item_graphql(page, item_id: str) -> dict:
             "floor_number": item.get("floor"),
             "updated_at_site": item.get("updatedAt"),
             "is_featured": item.get("isFeatured"),
-            "title": item.get("title"),
-            "description": item.get("description"),
+            "title": clean(item.get("title")),
+            "description": clean(item.get("description")),
             "building_type": (item.get("category") or {}).get("name"),
             "location_id": (item.get("location") or {}).get("id"),
             "location_name": (item.get("location") or {}).get("name"),
