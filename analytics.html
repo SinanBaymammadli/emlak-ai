@@ -378,6 +378,55 @@ function renderCharts(list) {
   makeBar('c-price-dist', buckets.map(b=>b[2]), bCounts, PALETTE[0], false);
 }
 
+// ── URL search param sync ─────────────────────────────────────────────────────
+
+function pushState() {
+  const p = new URLSearchParams();
+  if (selCat  !== 'all')  p.set('cat',    selCat);
+  if (selType !== 'all')  p.set('type',   selType);
+  if (showDel)            p.set('del',    '1');
+  if (priceMin != null)   p.set('pmin',   priceMin);
+  if (priceMax != null)   p.set('pmax',   priceMax);
+  if (areaMin  != null)   p.set('amin',   areaMin);
+  if (areaMax  != null)   p.set('amax',   areaMax);
+  if (sotMin   != null)   p.set('smin',   sotMin);
+  if (sotMax   != null)   p.set('smax',   sotMax);
+  if (ppm2Min  != null)   p.set('mmin',   ppm2Min);
+  if (ppm2Max  != null)   p.set('mmax',   ppm2Max);
+  if (roomsF)             p.set('rooms',  roomsF);
+  if (repairF)            p.set('repair', repairF);
+  if (agencyF)            p.set('agency', agencyF);
+  if (selLocs.size)       p.set('locs',   [...selLocs].join('|'));
+  const str = p.toString();
+  history.replaceState(null, '', str ? `?${str}` : location.pathname);
+}
+
+function restoreFromUrl() {
+  const p = new URLSearchParams(location.search);
+  if (p.has('cat'))    selCat  = p.get('cat');
+  if (p.has('type'))   selType = p.get('type');
+  if (p.has('del'))    showDel = p.get('del') === '1';
+  if (p.has('locs'))   p.get('locs').split('|').filter(Boolean).forEach(l => selLocs.add(l));
+  // Range inputs restored after render() creates them — handled in render() below
+  window._urlParams = p;
+}
+
+const _origRender = render;
+render = function() {
+  _origRender();
+  // Restore input values from URL after DOM is rebuilt
+  const p = window._urlParams;
+  if (!p) { pushState(); return; }
+  const map = {pmin:'f-pmin',pmax:'f-pmax',amin:'f-amin',amax:'f-amax',
+               smin:'f-smin',smax:'f-smax',mmin:'f-mmin',mmax:'f-mmax',
+               rooms:'f-rooms',repair:'f-repair',agency:'f-agency'};
+  Object.entries(map).forEach(([key, id]) => { if (p.has(key)) { const el = document.getElementById(id); if (el) el.value = p.get(key); } });
+  if (p.has('del')) { const el = document.getElementById('f-del'); if (el) el.checked = showDel; }
+  updateAnalyticsMsLabel();
+  pushState();
+};
+
+restoreFromUrl();
 loadAll();
 </script>
 </body>
