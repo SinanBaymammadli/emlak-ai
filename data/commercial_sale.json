@@ -1,33 +1,33 @@
 [
   {
-    "id": "6437260",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F06%2F00%2F54%2F12%2F09b79815-dc2c-4ad2-9416-d8f5268f9b77%2F63808_59ms_NBPp3rENSDK-3SVJg.jpg",
-    "price": 350000,
-    "location": "Nizami m.",
-    "area_m2": "40 m²",
+    "id": "6279596",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F10%2F10%2F30%2F42%2Fbdf66842-dc92-452e-b46a-53581d90fd61%2F60820_LPBy4SAVXhTupWGGEi0YgQ.jpg",
+    "price": 1650000,
+    "location": "Sahil m.",
+    "area_m2": "125 m²",
     "floor": null,
     "is_agency": true,
-    "lat": 40.37990127152589,
-    "lng": 49.82977357642997,
+    "lat": 40.37372650583561,
+    "lng": 49.84915500611274,
     "has_repair": true,
     "has_bill_of_sale": true,
     "has_mortgage": true,
     "floor_number": null,
-    "updated_at_site": "2026-09-23T20:38:17+04:00",
+    "updated_at_site": "2026-09-02T21:53:34+04:00",
     "is_featured": false,
-    "title": "Satılır obyekt 40 m²",
-    "description": "Mərkəzdə! \nNizami metrosundan 5-dəq məsafədə Hündürmərtəbəli binada yerləşən yüksək təmirli hündürmərtəbəli binanın 2-ci mərtəbəsində yerləşən vitraj pəncərələri çox gedişi küçəyə baxan əsas otaq, gözləmə otağı, mətbəx, hamam-tualet, kladovkası və 3 fazalı elektrik xətti olan 40 kv/m obyekt satılır. \nLiçenziyası var !!!\n_______________________________________\n\n📞Əlavə məlumat almaq və obyektə baxış keçirmək  üçün buyurub əlaqə saxlaya bilərsiz\n",
+    "title": "Satılır obyekt 125 m²",
+    "description": "⛔️ XAHİŞ OLUNUR VASİTƏÇİLƏR NARAHAT ETMƏSİNLƏR! ⛔️\r\n\r\n📍\"Sahil\" və \"28 May\" metro st.-nın yaxınlığı, \"HİLTON HOTEL\" və \"LANDMARK BAKU\"-nun yanı, \"HÖKÜMƏT EVİ\"-nin arxası, Üzeyir Hacıbəyov küçəsində yerləşən ümumi sahəsi 125 m² olan OBYEKT SATILIR.\r\n\r\n▪️Geniş və işıqlı vitrin pəncərələr\r\n▪️Hündür tavan.\r\n▪️Əhalinin gur gediş-gəlişli ərazisi\r\n▪️Prestijli və strateji yerləşim.\r\n▪️Ticarət və biznes üçün ideal seçim: Brend butiklər, lüks mağazalar və eksklüziv restoran üçün mükəmməl məkandır!\r\n\r\n🔴Sənədlər tam qaydasındadır.\r\n\r\n▪️Qeyri-yaşayış təyinatlı özəl mülkiyyət çıxarışı (Kupça).\r\n\r\n☎️ Ətraflı məlumat və baxış keçirmək üçün qeyd olunan nömrə ilə əlaqə saxlaya bilərsiniz.\r\n\r\n📲 WhatsApp aktivdir – yazılı və səsli müraciətlər qəbul olunur.",
     "building_type": "Obyekt",
-    "location_id": "35",
-    "location_name": "Nizami",
+    "location_id": "38",
+    "location_name": "Sahil",
     "category": "commercial",
     "deal_type": "sale",
-    "url": "https://bina.az/items/6437260",
+    "url": "https://bina.az/items/6279596",
     "deleted_at": null,
     "price_history": [
       {
-        "price": 350000,
-        "date": "2026-09-30T19:58:12.280810+00:00"
+        "price": 1650000,
+        "date": "2026-09-30T19:58:12.294899+00:00"
       }
     ]
   },
@@ -31552,6 +31552,38 @@
     ]
   },
   {
+    "id": "6233640",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F23%2F00%2F05%2F50%2Fe2b1e3dc-e3d3-4f22-85f6-556fca8b413e%2F71943_OTMjUepAitxiU6EI4j0qXg.jpg",
+    "price": 5000000,
+    "location": "Qaradağ r.",
+    "area_m2": "20000 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.28687243222492,
+    "lng": 49.73926389656395,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-01T00:54:10+04:00",
+    "is_featured": false,
+    "title": "Satılır obyekt 20000 m²",
+    "description": "",
+    "building_type": "Obyekt",
+    "location_id": "57",
+    "location_name": "Qaradağ",
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6233640",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 5000000,
+        "date": "2026-09-30T21:07:46.417388+00:00"
+      }
+    ]
+  },
+  {
     "id": "6256975",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F01%2F18%2F25%2F38%2F649ffbbc-1ff9-4b2b-a03d-7827da9de62a%2F30672_4Ej2-OlZ7bqxQNymaZDr4g.jpg",
     "price": 360000,
@@ -34940,38 +34972,6 @@
       {
         "price": 670000,
         "date": "2026-09-30T19:58:12.294907+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6279596",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F10%2F10%2F30%2F42%2Fbdf66842-dc92-452e-b46a-53581d90fd61%2F60820_LPBy4SAVXhTupWGGEi0YgQ.jpg",
-    "price": 1650000,
-    "location": "Sahil m.",
-    "area_m2": "125 m²",
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.37372650583561,
-    "lng": 49.84915500611274,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": null,
-    "updated_at_site": "2026-09-02T21:53:34+04:00",
-    "is_featured": false,
-    "title": "Satılır obyekt 125 m²",
-    "description": "⛔️ XAHİŞ OLUNUR VASİTƏÇİLƏR NARAHAT ETMƏSİNLƏR! ⛔️\r\n\r\n📍\"Sahil\" və \"28 May\" metro st.-nın yaxınlığı, \"HİLTON HOTEL\" və \"LANDMARK BAKU\"-nun yanı, \"HÖKÜMƏT EVİ\"-nin arxası, Üzeyir Hacıbəyov küçəsində yerləşən ümumi sahəsi 125 m² olan OBYEKT SATILIR.\r\n\r\n▪️Geniş və işıqlı vitrin pəncərələr\r\n▪️Hündür tavan.\r\n▪️Əhalinin gur gediş-gəlişli ərazisi\r\n▪️Prestijli və strateji yerləşim.\r\n▪️Ticarət və biznes üçün ideal seçim: Brend butiklər, lüks mağazalar və eksklüziv restoran üçün mükəmməl məkandır!\r\n\r\n🔴Sənədlər tam qaydasındadır.\r\n\r\n▪️Qeyri-yaşayış təyinatlı özəl mülkiyyət çıxarışı (Kupça).\r\n\r\n☎️ Ətraflı məlumat və baxış keçirmək üçün qeyd olunan nömrə ilə əlaqə saxlaya bilərsiniz.\r\n\r\n📲 WhatsApp aktivdir – yazılı və səsli müraciətlər qəbul olunur.",
-    "building_type": "Obyekt",
-    "location_id": "38",
-    "location_name": "Sahil",
-    "category": "commercial",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6279596",
-    "deleted_at": "2026-09-30T20:36:50.769759+00:00",
-    "price_history": [
-      {
-        "price": 1650000,
-        "date": "2026-09-30T19:58:12.294899+00:00"
       }
     ]
   },
@@ -79644,6 +79644,38 @@
       {
         "price": 1200000,
         "date": "2026-09-30T19:58:12.289997+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6437260",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F06%2F00%2F54%2F12%2F09b79815-dc2c-4ad2-9416-d8f5268f9b77%2F63808_59ms_NBPp3rENSDK-3SVJg.jpg",
+    "price": 350000,
+    "location": "Nizami m.",
+    "area_m2": "40 m²",
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.37990127152589,
+    "lng": 49.82977357642997,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": null,
+    "updated_at_site": "2026-09-23T20:38:17+04:00",
+    "is_featured": false,
+    "title": "Satılır obyekt 40 m²",
+    "description": "Mərkəzdə! \nNizami metrosundan 5-dəq məsafədə Hündürmərtəbəli binada yerləşən yüksək təmirli hündürmərtəbəli binanın 2-ci mərtəbəsində yerləşən vitraj pəncərələri çox gedişi küçəyə baxan əsas otaq, gözləmə otağı, mətbəx, hamam-tualet, kladovkası və 3 fazalı elektrik xətti olan 40 kv/m obyekt satılır. \nLiçenziyası var !!!\n_______________________________________\n\n📞Əlavə məlumat almaq və obyektə baxış keçirmək  üçün buyurub əlaqə saxlaya bilərsiz\n",
+    "building_type": "Obyekt",
+    "location_id": "35",
+    "location_name": "Nizami",
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6437260",
+    "deleted_at": "2026-09-30T21:07:46.418960+00:00",
+    "price_history": [
+      {
+        "price": 350000,
+        "date": "2026-09-30T19:58:12.280810+00:00"
       }
     ]
   }
