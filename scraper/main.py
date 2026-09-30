@@ -146,7 +146,7 @@ async def scrape_category(page, cfg: dict) -> None:
     if SCRAPE_LIMIT:
         print(f"  limit={SCRAPE_LIMIT} (test mode — skipping full scroll)")
     else:
-        await scroll_load_all(page)
+        await scroll_load_all(page, known_ids=set(existing.keys()))
     raw_cards = await extract_cards(page)
     if SCRAPE_LIMIT:
         raw_cards = raw_cards[:SCRAPE_LIMIT]
@@ -161,7 +161,20 @@ async def scrape_category(page, cfg: dict) -> None:
         seen_ids.add(item_id)
 
         parsed = parser(card["text"])
-        gql = await fetch_item_graphql(page, item_id)
+        is_new = item_id not in existing
+
+        # Only call GraphQL for new listings — reuse stored coords for existing ones
+        if is_new:
+            gql = await fetch_item_graphql(page, item_id)
+        else:
+            rec = existing[item_id]
+            gql = {
+                "lat": rec.get("lat"),
+                "lng": rec.get("lng"),
+                "has_repair": rec.get("has_repair"),
+                "area_m2_gql": rec.get("area_m2"),
+                "land_area_sot": rec.get("land_area_sot"),
+            }
 
         listing = {
             "id": item_id,

@@ -33,10 +33,17 @@ async def load_category_page(page, url: str) -> int:
     return total
 
 
-async def scroll_load_all(page) -> int:
-    """Scroll viewport-by-viewport to trigger IntersectionObserver lazy loading."""
+async def scroll_load_all(page, known_ids: set | None = None, stop_after_known: int = 20) -> int:
+    """Scroll viewport-by-viewport to trigger IntersectionObserver lazy loading.
+
+    If known_ids is provided, stops early once stop_after_known consecutive
+    already-known listing IDs have been seen — meaning we've scrolled past all
+    new content and into listings we already have from a prior scrape.
+    """
     await page.set_viewport_size({"width": 1280, "height": 900})
     prev, stalls = 0, 0
+    seen_ids: set[str] = set()
+
     while stalls < 3:
         scroll_height = await page.evaluate("() => document.body.scrollHeight")
         pos = 0
@@ -45,14 +52,31 @@ async def scroll_load_all(page) -> int:
             await page.evaluate(f"window.scrollTo(0, {pos})")
             await page.wait_for_timeout(200)
         await page.wait_for_timeout(1_500)
+
         count = await page.evaluate(
             "() => document.querySelectorAll('.item-card').length"
         )
         if count > prev:
             print(f"  scroll: {count} cards")
             prev, stalls = count, 0
+
+            # Early-stop: check if newly loaded cards are all known
+            if known_ids:
+                current_ids = await page.evaluate("""() => {
+                    return Array.from(document.querySelectorAll('a[href*="/items/"]'))
+                        .map(a => { const m = a.href.match(/\\/items\\/(\\d+)/); return m ? m[1] : null; })
+                        .filter(Boolean);
+                }""")
+                new_in_batch = [i for i in current_ids if i not in seen_ids]
+                seen_ids.update(current_ids)
+                if new_in_batch:
+                    known_in_batch = sum(1 for i in new_in_batch if i in known_ids)
+                    if known_in_batch >= stop_after_known:
+                        print(f"  early stop: {known_in_batch} known IDs in last batch")
+                        break
         else:
             stalls += 1
+
     return prev
 
 
