@@ -368,6 +368,13 @@ async def main(categories: list | None = None) -> None:
 if __name__ == "__main__":
     import sys
 
+    if "--merge-only" in sys.argv:
+        # Just merge sub-files into combined category files, no scraping
+        print("Merge-only mode")
+        for category, deal_type in MERGE_TARGETS:
+            merge_room_files(category, deal_type)
+        sys.exit(0)
+
     def _cfg_key(c: dict) -> str:
         parts = [c["category"], c["deal_type"]]
         if c.get("building"): parts.append(c["building"])
