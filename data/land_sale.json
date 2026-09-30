@@ -1,38 +1,5 @@
 [
   {
-    "id": "6452709",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F11%2F16%2F11%2F24%2F540d37ed-cdb5-4c97-bcb0-3f6163cd9fb3%2F63810_6IrDW90c5h1Wbb1Oj4NV9g.jpg",
-    "price": 250000,
-    "location": "Qara Qarayev m.",
-    "land_area_sot": 3.0,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.42013313164002,
-    "lng": 49.93034386543864,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-23T21:32:41+04:00",
-    "is_featured": false,
-    "title": "Satılır torpaq 3 sot",
-    "description": "Nizami rayonu Qara Qarayev metroya yaxinligi.Erazide olan tikiliye kupca  isiq su qaz internet xettdi var .Torpaq kohlu seneddir cixaris alina biler.icerisinde olan tikilinin kupcasi var elave melumat ucun zeng vurun.",
-    "building_type": "Torpaq",
-    "location_id": "52",
-    "location_name": "Qara Qarayev",
-    "area_m2": 3,
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6452709",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 250000,
-        "date": "2026-09-30T19:59:33.539390+00:00"
-      }
-    ]
-  },
-  {
     "id": "6317747",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F24%2F13%2F22%2F24%2Fdeda3fe1-0d31-4f93-abaa-9ecb4d83baa2%2F75566_QkTiGK_hZgnnN1PaiArQvw.jpg",
     "price": 144000,
@@ -140807,6 +140774,39 @@
       {
         "price": 330000,
         "date": "2026-09-30T19:59:33.523537+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6452709",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F11%2F16%2F11%2F24%2F540d37ed-cdb5-4c97-bcb0-3f6163cd9fb3%2F63810_6IrDW90c5h1Wbb1Oj4NV9g.jpg",
+    "price": 250000,
+    "location": "Qara Qarayev m.",
+    "land_area_sot": 3.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.42013313164002,
+    "lng": 49.93034386543864,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-09-23T21:32:41+04:00",
+    "is_featured": false,
+    "title": "Satılır torpaq 3 sot",
+    "description": "Nizami rayonu Qara Qarayev metroya yaxinligi.Erazide olan tikiliye kupca  isiq su qaz internet xettdi var .Torpaq kohlu seneddir cixaris alina biler.icerisinde olan tikilinin kupcasi var elave melumat ucun zeng vurun.",
+    "building_type": "Torpaq",
+    "location_id": "52",
+    "location_name": "Qara Qarayev",
+    "area_m2": 3,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6452709",
+    "deleted_at": "2026-09-30T21:51:31.212615+00:00",
+    "price_history": [
+      {
+        "price": 250000,
+        "date": "2026-09-30T19:59:33.539390+00:00"
       }
     ]
   }
