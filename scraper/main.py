@@ -282,17 +282,24 @@ async def main(categories: list | None = None) -> None:
 
 if __name__ == "__main__":
     import sys
-    # Optional: pass category names as args, e.g. apartment_sale house_rental
-    # With no args, all categories run.
+
+    def _cfg_key(c: dict) -> str:
+        base = f"{c['category']}_{c['deal_type']}"
+        room = c.get("room")
+        if room:
+            return f"{base}_{room.replace('+', 'plus')}room"
+        return base
+
     if len(sys.argv) > 1:
         keys = set(sys.argv[1:])
-        valid = {f"{c['category']}_{c['deal_type']}" for c in CATEGORIES}
+        valid = {_cfg_key(c) for c in CATEGORIES} | {f"{c['category']}_{c['deal_type']}" for c in CATEGORIES}
         unknown = keys - valid
         if unknown:
-            print(f"Unknown categories: {unknown}")
+            print(f"Unknown: {unknown}")
             print(f"Valid: {sorted(valid)}")
             sys.exit(1)
-        selected = [c for c in CATEGORIES if f"{c['category']}_{c['deal_type']}" in keys]
+        # Match by full key (e.g. apartment_sale_1room) or base (e.g. apartment_sale → all rooms)
+        selected = [c for c in CATEGORIES if _cfg_key(c) in keys or f"{c['category']}_{c['deal_type']}" in keys]
         asyncio.run(main(selected))
     else:
         asyncio.run(main())

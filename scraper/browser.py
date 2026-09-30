@@ -90,6 +90,9 @@ async def scroll_and_extract(page) -> list[dict]:
                         c.style.overflow = 'hidden';
                     });
                 }""")
+                # Reset last_pos: collapse shrank the page height so we must
+                # re-scroll from the new bottom to trigger more lazy loading.
+                last_pos = 0
 
             prev_total, stalls = total, 0
         else:
