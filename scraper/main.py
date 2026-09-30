@@ -33,7 +33,8 @@ DATA_DIR = Path(os.getenv("DATA_DIR", "data"))
 # Set SCRAPE_LIMIT=20 to test with first N listings per category (skips full scroll)
 SCRAPE_LIMIT = int(os.getenv("SCRAPE_LIMIT", "0")) or None
 # How many categories to scrape simultaneously (each gets its own browser)
-CONCURRENCY = int(os.getenv("SCRAPER_CONCURRENCY", "3"))
+# Defaults to all categories at once; lower if machine runs out of RAM
+CONCURRENCY = int(os.getenv("SCRAPER_CONCURRENCY", str(len(CATEGORIES))))
 
 
 def telegram_notify(text: str) -> None:
