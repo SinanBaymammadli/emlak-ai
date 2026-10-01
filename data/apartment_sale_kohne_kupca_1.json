@@ -31539,7 +31539,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6422495",
-    "deleted_at": "2026-09-30T21:06:31.136960+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 130000,
@@ -31572,7 +31572,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6384153",
-    "deleted_at": "2026-09-30T21:06:31.136960+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 89000,

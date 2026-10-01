@@ -924,39 +924,6 @@
     ]
   },
   {
-    "id": "6354991",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F07%2F08%2F57%2F59%2F52286aed-4bdb-4c76-b5d4-cf0c7ed67fbc%2F88537_iqo5jojBxuVQYeqBv3w5mA.jpg",
-    "price": 100,
-    "location": "Xalqlar Dostluğu m.",
-    "rooms": "",
-    "area_m2": "18 m²",
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.39167759769676,
-    "lng": 49.95304151883972,
-    "has_repair": null,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-23T10:03:59+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir qaraj 18 m²",
-    "description": "",
-    "building_type": "Qaraj",
-    "location_id": "54",
-    "location_name": "Xalqlar Dostluğu",
-    "category": "garage",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6354991",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 100,
-        "date": "2026-09-30T19:56:33.654810+00:00"
-      }
-    ]
-  },
-  {
     "id": "6486378",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F23%2F20%2F16%2F59%2F8f6d5930-abd5-4380-be7b-a5cff5bdff65%2F68576__34baUVwcNftB95rWxq5qw.jpg",
     "price": 200,
@@ -1547,6 +1514,76 @@
       {
         "price": 350,
         "date": "2026-09-30T19:56:33.654370+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6412302",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F27%2F21%2F38%2F14%2F1fa10358-d55e-47af-bd08-7dd40ce2c991%2F68086_Viq6HFYYjb7fTjfD_tN09w.jpg",
+    "price": 120,
+    "location": "Ağ şəhər q.",
+    "rooms": "",
+    "area_m2": "20 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.3827041886021,
+    "lng": 49.89588196268573,
+    "has_repair": null,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-01T09:43:32+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 20 m²",
+    "description": "Hünər qərbdə 1 maşınlıq qaraj icarəyə verilir! 21:00dan narahat etməyin.",
+    "building_type": "Qaraj",
+    "location_id": "314",
+    "location_name": "Ağ şəhər",
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6412302",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 120,
+        "date": "2026-10-01T12:04:35.771630+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6354991",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F07%2F08%2F57%2F59%2F52286aed-4bdb-4c76-b5d4-cf0c7ed67fbc%2F88537_iqo5jojBxuVQYeqBv3w5mA.jpg",
+    "price": 200,
+    "location": "Xalqlar Dostluğu m.",
+    "rooms": "",
+    "area_m2": "38 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.39167759769676,
+    "lng": 49.95304151883972,
+    "has_repair": null,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-01T10:47:37+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 38 m²",
+    "description": "",
+    "building_type": "Qaraj",
+    "location_id": "54",
+    "location_name": "Xalqlar Dostluğu",
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6354991",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 100,
+        "date": "2026-09-30T19:56:33.654810+00:00"
+      },
+      {
+        "price": 200,
+        "date": "2026-10-01T12:04:35.771662+00:00"
       }
     ]
   }

@@ -943,7 +943,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6426161",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 23000,
@@ -977,7 +977,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6428380",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 83000,
@@ -1011,7 +1011,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6429559",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 83000,
@@ -1045,7 +1045,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6320941",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 30000,
@@ -1079,7 +1079,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6348028",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 68000,
@@ -1113,7 +1113,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6436545",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 45000,
@@ -1147,7 +1147,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6438407",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 225000,
@@ -1181,7 +1181,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6235439",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 39000,
@@ -1215,7 +1215,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6106047",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 530000,
@@ -1249,7 +1249,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6352995",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 40000,
@@ -1283,7 +1283,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6227975",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 295000,
@@ -1317,7 +1317,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6444226",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 212000,
@@ -1351,7 +1351,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/5970773",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 263000,
@@ -1385,7 +1385,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6445783",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 22000,
@@ -1419,7 +1419,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6447171",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 39000,
@@ -1453,7 +1453,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6436322",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 54000,
@@ -1487,7 +1487,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6451889",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 21500,
@@ -1521,7 +1521,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6454761",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 35000,
@@ -1555,7 +1555,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6455485",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 129000,
@@ -1589,7 +1589,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/5857773",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 221000,
@@ -1623,7 +1623,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6455905",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 34000,
@@ -1657,7 +1657,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6456377",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 27000,
@@ -1691,7 +1691,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/5855210",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 37500,
@@ -1725,7 +1725,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6461192",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 44500,
@@ -1759,7 +1759,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6372729",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 39000,
@@ -1793,7 +1793,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6428416",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 70000,
@@ -1827,7 +1827,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6464953",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 29000,
@@ -1861,7 +1861,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6297048",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 50000,
@@ -1895,7 +1895,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6341966",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 25500,
@@ -1929,7 +1929,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/5913600",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 21000,
@@ -1963,7 +1963,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6466746",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 54000,
@@ -1997,7 +1997,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6469819",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 81000,
@@ -2031,7 +2031,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6470097",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 45000,
@@ -2065,7 +2065,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6458271",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 64000,
@@ -2099,7 +2099,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6475710",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 40000,
@@ -2133,7 +2133,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/5366856",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 300000,
@@ -2167,7 +2167,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/5970169",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 255000,
@@ -2201,7 +2201,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6216780",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 255000,
@@ -2235,7 +2235,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6480291",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 25000,
@@ -2269,7 +2269,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6438976",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 250000,
@@ -2303,7 +2303,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6322427",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 27000,
@@ -2337,7 +2337,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6483000",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 85000,
@@ -2371,7 +2371,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6340319",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 32500,
@@ -2405,7 +2405,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6037742",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 221000,
@@ -2439,7 +2439,7 @@
     "category": "house",
     "deal_type": "sale",
     "url": "https://bina.az/items/6447518",
-    "deleted_at": "2026-09-30T21:52:04.924170+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 80000,

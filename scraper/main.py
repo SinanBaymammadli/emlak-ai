@@ -1,11 +1,11 @@
 """
-Entry point: scrape all bina.az categories → persist to per-category JSON files.
+Entry point: scrape today's bina.az listings → persist to per-category JSON files.
 
 Each JSON file is both the persistent store and the output. On every run:
   1. Load existing JSON (if any) into memory keyed by listing ID
-  2. Scrape fresh listings from bina.az
-  3. Upsert in memory: new listings added, price changes appended to price_history,
-     listings no longer on site get deleted_at set
+  2. Scrape fresh listings from bina.az, stopping once past today's listings
+  3. Upsert only listings updated today: new listings added, price changes appended
+     to price_history, listings no longer on site get deleted_at set
   4. Save back to JSON — all listings including deleted ones are kept
 """
 import asyncio
@@ -19,7 +19,7 @@ except ImportError:
     def _json_loads(s): return json.loads(s)
     def _json_dumps(obj): return json.dumps(obj, ensure_ascii=False, indent=2)
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 from dotenv import load_dotenv
@@ -31,7 +31,7 @@ from scraper.browser import (
     open_browser,
     scroll_and_extract,
 )
-from scraper.categories import CATEGORIES, MERGE_TARGETS
+from scraper.categories import CATEGORIES
 from scraper.parser import PARSERS
 
 load_dotenv()
@@ -40,8 +40,25 @@ DATA_DIR = Path(os.getenv("DATA_DIR", "data"))
 # Set SCRAPE_LIMIT=20 to test with first N listings per category (skips full scroll)
 SCRAPE_LIMIT = int(os.getenv("SCRAPE_LIMIT", "0")) or None
 # How many categories to scrape simultaneously (each gets its own browser)
-# Defaults to all categories at once; lower if machine runs out of RAM
 CONCURRENCY = int(os.getenv("SCRAPER_CONCURRENCY", str(len(CATEGORIES))))
+
+
+def make_today_stop_check(threshold: int = 20):
+    """Stop scrolling once the last `threshold` cards contain no today listings,
+    but only after we've seen at least one today listing (avoids stopping before
+    today's listings have even loaded)."""
+    def check(all_cards: list[dict]) -> bool:
+        if len(all_cards) < threshold:
+            return False
+        seen_any_today = any("bugün" in c["text"].lower() or "bu gün" in c["text"].lower() for c in all_cards)
+        if not seen_any_today:
+            return False
+        tail = all_cards[-threshold:]
+        if not any("bugün" in c["text"].lower() or "bu gün" in c["text"].lower() for c in tail):
+            print(f"  no today listings in last {threshold} cards → stopping")
+            return True
+        return False
+    return check
 
 
 def telegram_notify(text: str) -> None:
@@ -65,83 +82,29 @@ def _now() -> str:
     return datetime.now(timezone.utc).isoformat()
 
 
-def _room_label(room: str) -> str:
-    """Extract just the leading digit from a room string: '5%2B' → '5', '3' → '3'."""
-    import re
-    m = re.match(r"(\d+)", room)
-    return m.group(1) if m else room
+def _file_stem(category: str, deal_type: str) -> str:
+    return f"{category}_{deal_type}"
 
 
-def _file_stem(category: str, deal_type: str, room: str | None = None, building: str | None = None, kupca: bool | None = None, price_band: str | None = None) -> str:
-    parts = [category, deal_type]
-    if building:
-        parts.append(building)
-    if kupca is True:
-        parts.append("kupca")
-    elif kupca is False:
-        parts.append("nokupca")
-    if room:
-        parts.append(_room_label(room))
-    if price_band:
-        parts.append(price_band)
-    return "_".join(parts)
-
-
-def load_existing(category: str, deal_type: str, room: str | None = None, building: str | None = None, kupca: bool | None = None, price_band: str | None = None) -> dict[str, dict]:
-    path = DATA_DIR / f"{_file_stem(category, deal_type, room, building, kupca, price_band)}.json"
+def load_existing(category: str, deal_type: str) -> dict[str, dict]:
+    path = DATA_DIR / f"{_file_stem(category, deal_type)}.json"
     if not path.exists():
         return {}
     listings = _json_loads(path.read_text(encoding="utf-8"))
     return {l["id"]: l for l in listings}
 
 
-def save_listings(category: str, deal_type: str, listings: dict[str, dict], room: str | None = None, building: str | None = None, kupca: bool | None = None, price_band: str | None = None) -> None:
+def save_listings(category: str, deal_type: str, listings: dict[str, dict]) -> None:
     DATA_DIR.mkdir(exist_ok=True)
-    path = DATA_DIR / f"{_file_stem(category, deal_type, room, building, kupca, price_band)}.json"
+    path = DATA_DIR / f"{_file_stem(category, deal_type)}.json"
     sorted_listings = sorted(
         listings.values(),
         key=lambda l: (l["deleted_at"] is not None, l.get("updated_at_site") or ""),
         reverse=False,
     )
-    # Escape U+2028 / U+2029 — Python's json module leaves them unescaped but
-    # they are invalid unescaped inside JSON strings per the spec.
     output = _json_dumps(sorted_listings)
     output = output.replace("\u2028", "\\u2028").replace("\u2029", "\\u2029")
     path.write_text(output, encoding="utf-8")
-
-
-def merge_room_files(category: str, deal_type: str) -> None:
-    """Merge all sub-files into the combined category file, deduped by listing ID."""
-    from scraper.categories import _ROOMS, _BUILDING_TYPES, _KUPCA, _PRICE_BANDS, _PRICE_SPLIT_ROOMS
-    merged: dict[str, dict] = {}
-
-    buildings: list[str | None] = [None]
-    kupca_list: list[bool | None] = [None]
-    use_price_bands = False
-
-    if category == "apartment":
-        buildings = [b.replace("-tikili", "") for b in _BUILDING_TYPES]
-        if deal_type == "sale":
-            kupca_list = _KUPCA
-            use_price_bands = True
-
-    for building in buildings:
-        for kupca in kupca_list:
-            for room in _ROOMS:
-                bands: list[str | None] = [b[0] for b in _PRICE_BANDS] if (use_price_bands and room in _PRICE_SPLIT_ROOMS) else [None]
-                for price_band in bands:
-                    path = DATA_DIR / f"{_file_stem(category, deal_type, room, building, kupca, price_band)}.json"
-                    if not path.exists():
-                        continue
-                    for listing in _json_loads(path.read_text(encoding="utf-8")):
-                        lid = listing["id"]
-                        if lid not in merged or (listing.get("updated_at_site") or "") > (merged[lid].get("updated_at_site") or ""):
-                            merged[lid] = listing
-
-    if merged:
-        save_listings(category, deal_type, merged)
-        active = sum(1 for l in merged.values() if not l.get("deleted_at"))
-        print(f"  merged {len(merged)} listings ({active} active) → {category}_{deal_type}.json")
 
 
 def upsert(
@@ -168,7 +131,6 @@ def upsert(
 
     record = existing[item_id]
 
-    # Resurrect listing if it was previously deleted
     if record.get("deleted_at"):
         record["deleted_at"] = None
 
@@ -186,68 +148,14 @@ def upsert(
     return "unchanged"
 
 
-def make_stop_check(existing: dict[str, dict], parser, threshold: int = 50):
-    """Returns a callback for scroll_and_extract that stops once the last
-    `threshold` extracted cards are all known listings with unchanged prices.
-    bina.az is sorted newest-first, so reaching this point means we've scrolled
-    past all new/changed content.
-    """
-    def check(all_cards: list[dict]) -> bool:
-        if len(all_cards) < threshold:
-            return False
-        tail = all_cards[-threshold:]
-        known_unchanged = sum(
-            1 for c in tail
-            if (rec := existing.get(c["id"])) is not None
-            and rec.get("price") == parser(c["text"]).get("price")
-        )
-        if known_unchanged >= threshold:
-            print(f"  {threshold} consecutive known+unchanged → incremental stop")
-            return True
-        return False
-    return check
-
-
-def mark_deleted(existing: dict[str, dict], seen_ids: set[str], stale_days: int = 7) -> int:
-    """Mark listings as deleted if not seen in this scrape AND not updated on bina.az
-    for more than stale_days. This handles incremental scrapes where unseen IDs are
-    simply listings we didn't reach (not necessarily removed from the site).
-    """
-    from datetime import datetime, timezone, timedelta
-    now = datetime.now(timezone.utc)
-    cutoff = (now - timedelta(days=stale_days)).isoformat()
-    count = 0
-    for item_id, record in existing.items():
-        if record.get("deleted_at") is not None:
-            continue
-        if item_id in seen_ids:
-            continue
-        # Only mark deleted if updated_at_site is older than cutoff (stale listing)
-        updated = record.get("updated_at_site", "")
-        if updated < cutoff:
-            record["deleted_at"] = now.isoformat()
-            count += 1
-    return count
-
 
 async def scrape_category(page, cfg: dict) -> None:
     category = cfg["category"]
     deal_type = cfg["deal_type"]
     url = cfg["url"]
+    print(f"\n→ {category}/{deal_type}")
 
-    room = cfg.get("room")
-    building = cfg.get("building")
-    kupca = cfg.get("kupca")
-    price_band = cfg.get("price_band")
-    parts = [category, deal_type]
-    if building: parts.append(building)
-    if kupca is True: parts.append("kupca")
-    elif kupca is False: parts.append("nokupca")
-    if room: parts.append(f"{_room_label(room)}otaq")
-    if price_band: parts.append(price_band)
-    print(f"\n→ {'/'.join(parts)}")
-
-    existing = load_existing(category, deal_type, room, building, kupca, price_band)
+    existing = load_existing(category, deal_type)
     parser = PARSERS.get(category, PARSERS["apartment"])
 
     total = await load_category_page(page, url)
@@ -257,24 +165,35 @@ async def scrape_category(page, cfg: dict) -> None:
         raw_cards = await extract_cards(page)
         raw_cards = raw_cards[:SCRAPE_LIMIT]
     else:
-        raw_cards = await scroll_and_extract(page, target=total)
-    print(f"  cards extracted: {len(raw_cards)}")
-    seen_ids: set[str] = set()
-    counts = {"new": 0, "updated": 0, "unchanged": 0}
+        raw_cards = await scroll_and_extract(
+            page, target=total, stop_check=make_today_stop_check()
+        )
+    today_cards = [c for c in raw_cards if "bugün" in c["text"].lower() or "bu gün" in c["text"].lower()]
+    print(f"  cards extracted: {len(raw_cards)}  today: {len(today_cards)}")
 
-    # Fetch all GraphQL data concurrently in batches of 20
+    # Split: new listings need GQL; known listings skip GQL unless price changed
+    new_cards = [c for c in today_cards if c["id"] not in existing]
+    known_cards = [c for c in today_cards if c["id"] in existing]
+    price_changed_cards = [
+        c for c in known_cards
+        if parser(c["text"]).get("price") != existing[c["id"]].get("price")
+    ]
+    gql_cards = new_cards + price_changed_cards
+
     GQL_BATCH = 20
     gql_results: list[dict] = []
-    for i in range(0, len(raw_cards), GQL_BATCH):
-        batch = raw_cards[i:i + GQL_BATCH]
+    for i in range(0, len(gql_cards), GQL_BATCH):
+        batch = gql_cards[i:i + GQL_BATCH]
         batch_gql = await asyncio.gather(*[fetch_item_graphql(page, c["id"]) for c in batch])
         gql_results.extend(batch_gql)
 
-    for card, gql in zip(raw_cards, gql_results):
-        item_id = card["id"]
-        seen_ids.add(item_id)
+    gql_map = {card["id"]: gql for card, gql in zip(gql_cards, gql_results)}
+    counts = {"new": 0, "updated": 0, "unchanged": 0}
 
+    for card in today_cards:
+        item_id = card["id"]
         parsed = parser(card["text"])
+        gql = gql_map.get(item_id, {})
         listing = {
             "id": item_id,
             "photo_url": card.get("photo_url"),
@@ -301,13 +220,11 @@ async def scrape_category(page, cfg: dict) -> None:
         result = upsert(existing, listing, category, deal_type)
         counts[result] += 1
 
-    deleted = mark_deleted(existing, seen_ids)
-    save_listings(category, deal_type, existing, room, building, kupca, price_band)
+    save_listings(category, deal_type, existing)
 
     print(
         f"  new={counts['new']} updated={counts['updated']} "
-        f"unchanged={counts['unchanged']} deleted={deleted} "
-        f"→ saved {len(existing)} total"
+        f"unchanged={counts['unchanged']} → saved {len(existing)} total"
     )
 
 
@@ -324,7 +241,7 @@ async def scrape_category_isolated(cfg: dict, sem: asyncio.Semaphore, errors: li
             errors.append(msg)
 
 
-async def main(categories: list | None = None, skip_merge: bool = False) -> None:
+async def main(categories: list | None = None) -> None:
     DATA_DIR.mkdir(exist_ok=True)
     errors: list[str] = []
     targets = categories or CATEGORIES
@@ -340,7 +257,6 @@ async def main(categories: list | None = None, skip_merge: bool = False) -> None
         telegram_notify(f"❌ <b>emlak-ai scrape failed</b>\n{exc}")
         raise
 
-    # Build summary for Telegram
     lines = ["✅ <b>emlak-ai scrape complete</b>"]
     for f in sorted(DATA_DIR.glob("*.json")):
         try:
@@ -353,54 +269,25 @@ async def main(categories: list | None = None, skip_merge: bool = False) -> None
         lines.append("\n⚠️ Errors:")
         lines.extend(f"  • {e}" for e in errors)
 
-    if not skip_merge:
-        print("\nMerging room sub-files…")
-        for category, deal_type in MERGE_TARGETS:
-            merge_room_files(category, deal_type)
-        telegram_notify("\n".join(lines))
-
+    telegram_notify("\n".join(lines))
     print("\nDone.")
 
 
 if __name__ == "__main__":
     import sys
 
-    if "--merge-only" in sys.argv:
-        print("Merge-only mode")
-        for category, deal_type in MERGE_TARGETS:
-            merge_room_files(category, deal_type)
-        # Send Telegram summary after all CI jobs are merged
-        lines = ["✅ <b>emlak-ai scrape complete</b>"]
-        for f in sorted(DATA_DIR.glob("*.json")):
-            try:
-                listings = _json_loads(f.read_text(encoding="utf-8"))
-                active = sum(1 for l in listings if l.get("deleted_at") is None)
-                lines.append(f"  {f.stem}: {active:,} active")
-            except Exception:
-                pass
-        telegram_notify("\n".join(lines))
-        sys.exit(0)
-
     def _cfg_key(c: dict) -> str:
-        parts = [c["category"], c["deal_type"]]
-        if c.get("building"): parts.append(c["building"])
-        if c.get("kupca") is True: parts.append("kupca")
-        elif c.get("kupca") is False: parts.append("nokupca")
-        if c.get("room"): parts.append(_room_label(c["room"]))
-        if c.get("price_band"): parts.append(c["price_band"])
-        return "_".join(parts)
+        return f"{c['category']}_{c['deal_type']}"
 
     if len(sys.argv) > 1:
         keys = set(sys.argv[1:])
-        valid = {_cfg_key(c) for c in CATEGORIES} | {f"{c['category']}_{c['deal_type']}" for c in CATEGORIES}
+        valid = {_cfg_key(c) for c in CATEGORIES}
         unknown = keys - valid
         if unknown:
             print(f"Unknown: {unknown}")
             print(f"Valid: {sorted(valid)}")
             sys.exit(1)
-        # Match by full key (e.g. apartment_sale_1room) or base (e.g. apartment_sale → all rooms)
-        selected = [c for c in CATEGORIES if _cfg_key(c) in keys or f"{c['category']}_{c['deal_type']}" in keys]
-        # Skip merge when running specific batches — merge job handles it separately
-        asyncio.run(main(selected, skip_merge=True))
+        selected = [c for c in CATEGORIES if _cfg_key(c) in keys]
+        asyncio.run(main(selected))
     else:
         asyncio.run(main())

@@ -11970,7 +11970,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6354791",
-    "deleted_at": "2026-09-30T21:05:43.021673+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 420000,

@@ -18702,7 +18702,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6334541",
-    "deleted_at": "2026-09-30T21:05:51.465127+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 275000,

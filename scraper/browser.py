@@ -28,7 +28,9 @@ async def load_category_page(page, url: str) -> int:
 
     total = await page.evaluate(r"""() => {
         const m = document.body.innerText.match(/\((\d+)\)/);
-        // Remove footer so scroll stall detection triggers cleanly at last listing
+        // Remove vipped/featured block and footer so they don't pollute card extraction
+        const vipped = document.getElementById('search-page-vipped');
+        if (vipped) vipped.remove();
         document.querySelectorAll('footer, .footer, #footer, .site-footer').forEach(el => el.remove());
         return m ? parseInt(m[1]) : 0;
     }""")

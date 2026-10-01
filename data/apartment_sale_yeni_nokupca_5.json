@@ -1172,7 +1172,7 @@
     "updated_at_site": "2026-09-25T14:19:13+04:00",
     "is_featured": false,
     "title": "Satılır 5 otaqlı yeni tikili 320 m²",
-    "description": "Nəsimi rayonu Mirəli Qaşqay küçəsində yerləşən Sea Park yaşayış binasında mənzil satılır. \r\n• Təmirsiz \u2028\r\n• 320 m²\u2028\r\n• 11\\16\r\n• 5 otaq\r\n• 1 Mətbəx \r\n• 3 Eyvan\u2028\r\n• Büyük vitraj pəncərələr var\r\n• Yarımyelçəkən\r\n\r\nBinanın üstünlükləri:\u2028\r\n• Ekoloji cəhətdən təmiz ərazi\u2028\r\n• Yeraltı qaraj\u2028\r\n• Ticarət və xidmət obyektləri\u2028\r\n• 24 saat mühafizə\u2028\r\n• Şifrəli giriş və çıxış\u2028\u2028\r\n• Yanğın təhlükəsizliyi sistemi\u2028\r\n• Müasir tələblərə cavab verən geniş liftlər\u2028\r\n• Daimi qaz, işıq\r\n\r\n180178",
+    "description": "Nəsimi rayonu Mirəli Qaşqay küçəsində yerləşən Sea Park yaşayış binasında mənzil satılır. \r\n• Təmirsiz  \r\n• 320 m² \r\n• 11\\16\r\n• 5 otaq\r\n• 1 Mətbəx \r\n• 3 Eyvan \r\n• Büyük vitraj pəncərələr var\r\n• Yarımyelçəkən\r\n\r\nBinanın üstünlükləri: \r\n• Ekoloji cəhətdən təmiz ərazi \r\n• Yeraltı qaraj \r\n• Ticarət və xidmət obyektləri \r\n• 24 saat mühafizə \r\n• Şifrəli giriş və çıxış  \r\n• Yanğın təhlükəsizliyi sistemi \r\n• Müasir tələblərə cavab verən geniş liftlər \r\n• Daimi qaz, işıq\r\n\r\n180178",
     "building_type": "Yeni tikili",
     "location_id": "190",
     "location_name": "Nəsimi",
@@ -1271,7 +1271,7 @@
     "updated_at_site": "2026-09-26T11:24:38+04:00",
     "is_featured": false,
     "title": "Satılır 6 otaqlı yeni tikili 323 m²",
-    "description": "Nərimanov rayonu Nazim Hacıyev küçəsində yerləşən Park Nərimanov Residencedə mənzil satılır. \n\nMənzilin təsviri:\n• Təmirsiz\u2028\n• 323 m²\u2028\n• 15\\17\u2028\n• 6 otaq\u2028\n• 1 mətbəx\u2028\n•  Eyvan\n\n\nBinanın üstünlükləri:\u2028\n• Ekoloji təmiz rayon\u2028\n• Ticarət va xidmət obyektləri\u2028\n• Qapalı həyət\u2028\n• Kodlaşdırılmış giriş-çıxış\u2028\n• Kamera nəzarəti\u2028\n• Yanğın təhlükəsizlik sistemi\u2028\n• Müasir tələblərə uyğun geniş liftlər\u2028\n• Daimi qaz, işıq və su\u2028\n• Kabel Tv\u2028\n• Kombi sistemi\n\n120411",
+    "description": "Nərimanov rayonu Nazim Hacıyev küçəsində yerləşən Park Nərimanov Residencedə mənzil satılır. \n\nMənzilin təsviri:\n• Təmirsiz \n• 323 m² \n• 15\\17 \n• 6 otaq \n• 1 mətbəx \n•  Eyvan\n\n\nBinanın üstünlükləri: \n• Ekoloji təmiz rayon \n• Ticarət va xidmət obyektləri \n• Qapalı həyət \n• Kodlaşdırılmış giriş-çıxış \n• Kamera nəzarəti \n• Yanğın təhlükəsizlik sistemi \n• Müasir tələblərə uyğun geniş liftlər \n• Daimi qaz, işıq və su \n• Kabel Tv \n• Kombi sistemi\n\n120411",
     "building_type": "Yeni tikili",
     "location_id": "1",
     "location_name": "Nəriman Nərimanov",
@@ -2730,7 +2730,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6043953",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 495000,
@@ -2763,7 +2763,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/5925022",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1016000,
@@ -2796,7 +2796,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/5936973",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 975000,
@@ -2829,7 +2829,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/5805151",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1750000,
@@ -2862,7 +2862,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6429876",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 904400,
@@ -2895,7 +2895,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/5499339",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 4427000,
@@ -2928,7 +2928,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/5923024",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1400000,
@@ -2961,7 +2961,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/4516138",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 5100000,
@@ -2994,7 +2994,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6346443",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1360000,
@@ -3027,7 +3027,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/5583959",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1299000,
@@ -3060,7 +3060,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/5921883",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1050000,
@@ -3093,7 +3093,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/5845747",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1782000,
@@ -3126,7 +3126,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/5940130",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1236000,
@@ -3159,7 +3159,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/5936969",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 980000,
@@ -3192,7 +3192,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/4935626",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1350000,
@@ -3225,7 +3225,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6433626",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 878700,
@@ -3258,7 +3258,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6433741",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 479000,
@@ -3291,7 +3291,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6007997",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1128000,
@@ -3324,7 +3324,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6183685",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1000000,
@@ -3357,7 +3357,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6436508",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1090000,
@@ -3390,7 +3390,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6271549",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1090000,
@@ -3423,7 +3423,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6005110",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1350000,
@@ -3456,7 +3456,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6340167",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1118600,
@@ -3489,7 +3489,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/5242480",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1250000,
@@ -3522,7 +3522,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6434483",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 500000,
@@ -3555,7 +3555,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6249494",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 989000,
@@ -3588,7 +3588,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/5529239",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 750000,
@@ -3621,7 +3621,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6031821",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1200000,
@@ -3654,7 +3654,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/5840347",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 2000000,
@@ -3687,7 +3687,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6441131",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1350000,
@@ -3720,7 +3720,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6344510",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1256000,
@@ -3753,7 +3753,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6242420",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1700000,
@@ -3786,7 +3786,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6098777",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1025000,
@@ -3819,7 +3819,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6186537",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1014800,
@@ -3852,7 +3852,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6448545",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1015000,
@@ -3885,7 +3885,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6025705",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1080000,
@@ -3918,7 +3918,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/5574203",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1700000,
@@ -3951,7 +3951,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6452083",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 760000,
@@ -3984,7 +3984,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6067448",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 2222000,
@@ -4017,7 +4017,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6064529",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 968000,
@@ -4050,7 +4050,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/4015856",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 780000,
@@ -4083,7 +4083,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/5330538",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1000000,
@@ -4116,7 +4116,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/5592272",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1700000,
@@ -4149,7 +4149,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6263572",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 824000,
@@ -4182,7 +4182,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6272179",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 689999,
@@ -4215,7 +4215,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6190146",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1300000,
@@ -4248,7 +4248,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/5963734",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1428000,
@@ -4281,7 +4281,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/5711656",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1700000,
@@ -4314,7 +4314,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/5778679",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1012000,
@@ -4347,7 +4347,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6008026",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1190000,
@@ -4380,7 +4380,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6462574",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 615600,
@@ -4413,7 +4413,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6459645",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 450000,
@@ -4446,7 +4446,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6464025",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 403000,
@@ -4479,7 +4479,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6380068",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 120000,
@@ -4512,7 +4512,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6465083",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 480000,
@@ -4545,7 +4545,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6296233",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 871000,
@@ -4578,7 +4578,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6420436",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1780000,
@@ -4611,7 +4611,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6144888",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1000000,
@@ -4644,7 +4644,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6129177",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 904000,
@@ -4677,7 +4677,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6411566",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 855000,
@@ -4710,7 +4710,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6411683",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1012000,
@@ -4743,7 +4743,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6120506",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 850000,
@@ -4776,7 +4776,7 @@
     "category": "apartment",
     "deal_type": "sale",
     "url": "https://bina.az/items/6379068",
-    "deleted_at": "2026-09-30T21:04:49.036444+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 69000,

@@ -6,69 +6,28 @@ on:
   workflow_dispatch:
 
 jobs:
-  # ── 51 parallel scrape jobs, one per batch ──────────────────────────────────
   scrape:
-    name: Scrape ${{ matrix.batch }}
+    name: Scrape ${{ matrix.category }}
     runs-on: ubuntu-latest
     timeout-minutes: 60
     permissions:
       contents: write
 
     strategy:
-      fail-fast: false   # keep running other batches if one fails
+      fail-fast: false   # keep running other categories if one fails
       matrix:
-        batch:
-          - apartment_sale_yeni_kupca_1
-          - apartment_sale_yeni_kupca_2
-          - apartment_sale_yeni_kupca_3_lo
-          - apartment_sale_yeni_kupca_3_hi
-          - apartment_sale_yeni_kupca_4
-          - apartment_sale_yeni_kupca_5
-          - apartment_sale_yeni_nokupca_1
-          - apartment_sale_yeni_nokupca_2
-          - apartment_sale_yeni_nokupca_3_lo
-          - apartment_sale_yeni_nokupca_3_hi
-          - apartment_sale_yeni_nokupca_4
-          - apartment_sale_yeni_nokupca_5
-          - apartment_sale_kohne_kupca_1
-          - apartment_sale_kohne_kupca_2
-          - apartment_sale_kohne_kupca_3_lo
-          - apartment_sale_kohne_kupca_3_hi
-          - apartment_sale_kohne_kupca_4
-          - apartment_sale_kohne_kupca_5
-          - apartment_sale_kohne_nokupca_1
-          - apartment_sale_kohne_nokupca_2
-          - apartment_sale_kohne_nokupca_3_lo
-          - apartment_sale_kohne_nokupca_3_hi
-          - apartment_sale_kohne_nokupca_4
-          - apartment_sale_kohne_nokupca_5
-          - apartment_rental_yeni_1
-          - apartment_rental_yeni_2
-          - apartment_rental_yeni_3
-          - apartment_rental_yeni_4
-          - apartment_rental_yeni_5
-          - apartment_rental_kohne_1
-          - apartment_rental_kohne_2
-          - apartment_rental_kohne_3
-          - apartment_rental_kohne_4
-          - apartment_rental_kohne_5
-          - house_sale_1
-          - house_sale_2
-          - house_sale_3
-          - house_sale_4
-          - house_sale_5
-          - house_rental_1
-          - house_rental_2
-          - house_rental_3
-          - house_rental_4
-          - house_rental_5
-          - land_sale
+        category:
+          - apartment_sale
+          - apartment_rental
+          - house_sale
+          - house_rental
           - commercial_sale
           - commercial_rental
           - office_sale
           - office_rental
           - garage_sale
           - garage_rental
+          - land_sale
 
     steps:
       - uses: actions/checkout@v7
@@ -94,56 +53,20 @@ jobs:
       - name: Install Xvfb
         run: sudo apt-get install -y xvfb
 
-      - name: Scrape ${{ matrix.batch }}
+      - name: Scrape ${{ matrix.category }}
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: xvfb-run --auto-servernum python -m scraper.main ${{ matrix.batch }}
+        run: xvfb-run --auto-servernum python -m scraper.main ${{ matrix.category }}
 
-      - name: Commit batch data
+      - name: Commit data
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/
           git diff --cached --quiet && exit 0
-          git commit -m "chore: scrape ${{ matrix.batch }} $(date -u +%Y-%m-%d)"
+          git commit -m "chore: scrape ${{ matrix.category }} $(date -u +%Y-%m-%d)"
           # Retry push with rebase — each job touches a different file so rebases are clean
           for i in 1 2 3 4 5; do
             git pull --rebase origin main && git push && break || sleep $((i * 10))
           done
-
-  # ── Merge sub-files into combined category files after all batches done ──────
-  merge:
-    name: Merge and notify
-    runs-on: ubuntu-latest
-    needs: scrape
-    if: always()   # run even if some batches failed
-    permissions:
-      contents: write
-
-    steps:
-      - uses: actions/checkout@v7
-        with:
-          ref: main   # get latest including all batch commits
-
-      - uses: actions/setup-python@v7
-        with:
-          python-version: "3.11"
-
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-
-      - name: Merge sub-files and notify
-        env:
-          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python -m scraper.main --merge-only
-
-      - name: Commit merged files
-        run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/
-          git diff --cached --quiet || git commit -m "chore: merge $(date -u +%Y-%m-%d)"
-          git pull --rebase origin main
-          git push

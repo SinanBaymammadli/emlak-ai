@@ -2847,7 +2847,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6422651",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 380,
@@ -2881,7 +2881,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6422550",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 350,
@@ -2915,7 +2915,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6422896",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 300,
@@ -2949,7 +2949,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6422902",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 170,
@@ -2983,7 +2983,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6423346",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 500,
@@ -3017,7 +3017,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6423441",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 500,
@@ -3051,7 +3051,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6423895",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 10,
@@ -3085,7 +3085,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6424177",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 500,
@@ -3119,7 +3119,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6424823",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 150,
@@ -3153,7 +3153,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6424861",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 450,
@@ -3187,7 +3187,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6425033",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 250,
@@ -3221,7 +3221,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6425314",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 300,
@@ -3255,7 +3255,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6425349",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 310,
@@ -3289,7 +3289,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6425698",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 100,
@@ -3323,7 +3323,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6426868",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 200,
@@ -3357,7 +3357,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/5910812",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 300,
@@ -3391,7 +3391,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6428500",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 400,
@@ -3425,7 +3425,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6428418",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 400,
@@ -3459,7 +3459,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6428618",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 130,
@@ -3493,7 +3493,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6430027",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 400,
@@ -3527,7 +3527,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6430799",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 399,
@@ -3561,7 +3561,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6430975",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 300,
@@ -3595,7 +3595,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6431538",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 400,
@@ -3629,7 +3629,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6431640",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 200,
@@ -3663,7 +3663,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6431719",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 350,
@@ -3697,7 +3697,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6431991",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 230,
@@ -3731,7 +3731,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6432435",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 400,
@@ -3765,7 +3765,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6434244",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 650,
@@ -3799,7 +3799,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6434319",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 150,
@@ -3833,7 +3833,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6263222",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 500,
@@ -3867,7 +3867,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6434418",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 150,
@@ -3901,7 +3901,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6434552",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 350,
@@ -3935,7 +3935,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6434567",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 500,
@@ -3969,7 +3969,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6435640",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 600,
@@ -4003,7 +4003,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6435827",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 450,
@@ -4037,7 +4037,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6435922",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 400,
@@ -4071,7 +4071,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6435790",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 505,
@@ -4105,7 +4105,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6436293",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 450,
@@ -4139,7 +4139,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6436736",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 280,
@@ -4173,7 +4173,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6248342",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 300,
@@ -4207,7 +4207,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6432889",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 350,
@@ -4241,7 +4241,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6424996",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 400,
@@ -4275,7 +4275,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6434256",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 500,
@@ -4309,7 +4309,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6436802",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 600,
@@ -4343,7 +4343,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6435424",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 750,
@@ -4377,7 +4377,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6438296",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 450,
@@ -4411,7 +4411,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6439229",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 500,
@@ -4445,7 +4445,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6440045",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 700,
@@ -4479,7 +4479,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6440103",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 160,
@@ -4513,7 +4513,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6324497",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 450,
@@ -4547,7 +4547,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6441917",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 200,
@@ -4581,7 +4581,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6442006",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 200,
@@ -4615,7 +4615,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6441954",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 450,
@@ -4649,7 +4649,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6442108",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 500,
@@ -4683,7 +4683,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6442280",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 750,
@@ -4717,7 +4717,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6442407",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 400,
@@ -4751,7 +4751,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6442117",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 350,
@@ -4785,7 +4785,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6439067",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 150,
@@ -4819,7 +4819,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6442783",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 450,
@@ -4853,7 +4853,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6443065",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 400,
@@ -4887,7 +4887,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/5263476",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 800,
@@ -4921,7 +4921,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6441612",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 700,
@@ -4955,7 +4955,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6437392",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 400,
@@ -4989,7 +4989,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6444824",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 300,
@@ -5023,7 +5023,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6444988",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 150,
@@ -5057,7 +5057,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6445324",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 150,
@@ -5091,7 +5091,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6445108",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 400,
@@ -5125,7 +5125,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6423431",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 700,
@@ -5159,7 +5159,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6443581",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 450,
@@ -5193,7 +5193,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6428391",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 250,
@@ -5227,7 +5227,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6447179",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 200,
@@ -5261,7 +5261,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6447269",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 300,
@@ -5295,7 +5295,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6447522",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 700,
@@ -5329,7 +5329,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6447689",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 600,
@@ -5363,7 +5363,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6448257",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 450,
@@ -5397,7 +5397,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6448239",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 200,
@@ -5431,7 +5431,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6448380",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 450,
@@ -5465,7 +5465,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6438390",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 170,
@@ -5499,7 +5499,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6448968",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 450,
@@ -5533,7 +5533,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6449091",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 400,
@@ -5567,7 +5567,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6449770",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 450,
@@ -5601,7 +5601,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6449921",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 500,
@@ -5635,7 +5635,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6450424",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 450,
@@ -5669,7 +5669,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6450789",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 400,
@@ -5703,7 +5703,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6429136",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 400,
@@ -5737,7 +5737,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6451216",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 400,
@@ -5771,7 +5771,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6451741",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 300,
@@ -5805,7 +5805,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6451839",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 500,
@@ -5839,7 +5839,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6452912",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 4250,
@@ -5873,7 +5873,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6453257",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 500,
@@ -5907,7 +5907,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6453479",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 450,
@@ -5941,7 +5941,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6453487",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 350,
@@ -5975,7 +5975,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6453488",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 300,
@@ -6009,7 +6009,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6453536",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 450,
@@ -6043,7 +6043,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6453788",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 100,
@@ -6077,7 +6077,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6453611",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 400,
@@ -6111,7 +6111,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6436772",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 380,
@@ -6145,7 +6145,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6454833",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 800,
@@ -6179,7 +6179,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6455176",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 230,
@@ -6213,7 +6213,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6455402",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 300,
@@ -6247,7 +6247,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6455443",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 400,
@@ -6281,7 +6281,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6456165",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 350,
@@ -6315,7 +6315,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6455688",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 400,
@@ -6349,7 +6349,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6456321",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 350,
@@ -6383,7 +6383,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6456484",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 420,
@@ -6417,7 +6417,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6456922",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 500,
@@ -6451,7 +6451,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6458029",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 360,
@@ -6485,7 +6485,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6458250",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 150,
@@ -6519,7 +6519,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6458335",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 390,
@@ -6553,7 +6553,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6458524",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 600,
@@ -6587,7 +6587,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6458414",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 330,
@@ -6621,7 +6621,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6458592",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 537,
@@ -6655,7 +6655,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6459008",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 600,
@@ -6689,7 +6689,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6459847",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 500,
@@ -6723,7 +6723,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6269011",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 500,
@@ -6757,7 +6757,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6460194",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 550,
@@ -6791,7 +6791,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6460210",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 350,
@@ -6825,7 +6825,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6457044",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 370,
@@ -6859,7 +6859,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6460478",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 350,
@@ -6893,7 +6893,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6340578",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 300,
@@ -6927,7 +6927,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6460983",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 450,
@@ -6961,7 +6961,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6460951",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 500,
@@ -6995,7 +6995,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6461386",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 170,
@@ -7029,7 +7029,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6462383",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1500,
@@ -7063,7 +7063,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6462829",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 470,
@@ -7097,7 +7097,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6462951",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 599,
@@ -7131,7 +7131,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6463527",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 117,
@@ -7165,7 +7165,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6463860",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 350,
@@ -7199,7 +7199,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6463864",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 500,
@@ -7233,7 +7233,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6463964",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 90,
@@ -7267,7 +7267,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6448742",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 600,
@@ -7301,7 +7301,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6360194",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 350,
@@ -7335,7 +7335,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6464756",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 500,
@@ -7369,7 +7369,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6464946",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 496,
@@ -7403,7 +7403,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6462792",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 500,
@@ -7437,7 +7437,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6465338",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 400,
@@ -7471,7 +7471,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6458406",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 540,
@@ -7505,7 +7505,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6465363",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 370,
@@ -7539,7 +7539,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6465697",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 180,
@@ -7573,7 +7573,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6466251",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 130,
@@ -7607,7 +7607,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6466184",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 350,
@@ -7641,7 +7641,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6466369",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 65,
@@ -7675,7 +7675,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6466379",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 550,
@@ -7709,7 +7709,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6464544",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 397,
@@ -7743,7 +7743,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/5727633",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 500,
@@ -7777,7 +7777,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6467164",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 500,
@@ -7811,7 +7811,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6467189",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 130,
@@ -7845,7 +7845,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6467404",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 350,
@@ -7879,7 +7879,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6446005",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 170,
@@ -7913,7 +7913,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6468313",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 400,
@@ -7947,7 +7947,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6468853",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 400,
@@ -7981,7 +7981,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6468856",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 600,
@@ -8015,7 +8015,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6469114",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 530,
@@ -8049,7 +8049,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6469236",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 450,
@@ -8083,7 +8083,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6469774",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 500,
@@ -8117,7 +8117,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6470096",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 400,
@@ -8151,7 +8151,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/5958461",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1000,
@@ -8185,7 +8185,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6464530",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 130,
@@ -8219,7 +8219,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6460585",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 500,
@@ -8253,7 +8253,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6471722",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 500,
@@ -8287,7 +8287,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6471861",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 550,
@@ -8321,7 +8321,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6472274",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 450,
@@ -8355,7 +8355,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6472434",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 140,
@@ -8389,7 +8389,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6388532",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 650,
@@ -8423,7 +8423,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6472888",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 500,
@@ -8457,7 +8457,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6472982",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 350,
@@ -8491,7 +8491,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6473271",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 250,
@@ -8525,7 +8525,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6473345",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 400,
@@ -8559,7 +8559,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6473487",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 300,
@@ -8593,7 +8593,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6475046",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 350,
@@ -8627,7 +8627,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6475616",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 550,
@@ -8661,7 +8661,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6469210",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 650,
@@ -8695,7 +8695,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6476150",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 370,
@@ -8729,7 +8729,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6446789",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 37000,
@@ -8763,7 +8763,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6476430",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 650,
@@ -8797,7 +8797,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6019528",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 1500,
@@ -8831,7 +8831,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6477217",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 400,
@@ -8865,7 +8865,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6472993",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 500,
@@ -8899,7 +8899,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6478672",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 400,
@@ -8933,7 +8933,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6478972",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 400,
@@ -8967,7 +8967,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6457864",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 470,
@@ -9001,7 +9001,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6479177",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 500,
@@ -9035,7 +9035,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6479291",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 280,
@@ -9069,7 +9069,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6479827",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 500,
@@ -9103,7 +9103,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6455680",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 499,
@@ -9137,7 +9137,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6479968",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 550,
@@ -9171,7 +9171,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6459025",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 470,
@@ -9205,7 +9205,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6439415",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 450,
@@ -9239,7 +9239,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6476541",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 230,
@@ -9273,7 +9273,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6480420",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 550,
@@ -9307,7 +9307,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6480586",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 350,
@@ -9341,7 +9341,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6481330",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 550,
@@ -9375,7 +9375,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6481665",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 550,
@@ -9409,7 +9409,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6348875",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 500,
@@ -9443,7 +9443,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6353168",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 400,
@@ -9477,7 +9477,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6364881",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 750,
@@ -9511,7 +9511,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6471200",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 499,
@@ -9545,7 +9545,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6435180",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 500,
@@ -9579,7 +9579,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6458137",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 650,
@@ -9613,7 +9613,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6450752",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 300,
@@ -9647,7 +9647,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6480471",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 370,
@@ -9681,7 +9681,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6364700",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 100,
@@ -9715,7 +9715,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6463015",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 300,
@@ -9749,7 +9749,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6471955",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 550,
@@ -9783,7 +9783,7 @@
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6464519",
-    "deleted_at": "2026-09-30T21:05:04.883259+00:00",
+    "deleted_at": null,
     "price_history": [
       {
         "price": 69,
