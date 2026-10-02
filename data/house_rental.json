@@ -100716,5 +100716,39 @@
         "date": "2026-10-02T14:51:29.246909+00:00"
       }
     ]
+  },
+  {
+    "id": "6511872",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F18%2F50%2F31%2F57c4ba23-9234-4354-a9e6-69597e1b6d5d%2F32856__bpEOYuzWgnJ8EWAH7kROA.jpg",
+    "price": 180,
+    "location": "Şüvəlan q.",
+    "rooms": "4 otaqlı",
+    "area_m2": "150 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.50180363116737,
+    "lng": 50.20156079148127,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-02T18:51:09+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 4 otaqlı həyət evi/bağ evi 150 m²",
+    "description": "Şüvəlanda Bağ evi Günlük kirayə verilir\r\n3 yataq 1 zal mətbəxt 2s/q\r\nFilterli isti hovuz,söhbətgah,manqal,\r\n",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "110",
+    "location_name": "Şüvəlan",
+    "land_area_sot": 3.5,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6511872",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 180,
+        "date": "2026-10-02T14:57:48.109768+00:00"
+      }
+    ]
   }
 ]
