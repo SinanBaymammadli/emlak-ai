@@ -64480,38 +64480,6 @@
     ]
   },
   {
-    "id": "6466412",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F16%2F17%2F36%2F49%2Fa42040c9-0570-46ca-a1c2-96be3e7698e3%2F63812_Ot5HVFHFmalhHvjYjVRx0w.jpg",
-    "price": 119000,
-    "location": "Elmlər Akademiyası m.",
-    "area_m2": "6 m²",
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.376369957037,
-    "lng": 49.81981831252553,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-29T08:46:31+04:00",
-    "is_featured": false,
-    "title": "Satılır obyekt 6 m²",
-    "description": "ÇOX ÇOX TƏCİLİ SATILIR. \nVasitəçilər narahat etməsin !!!\nObyekt kupçada 6 kv , mövcud 10 kv ta yaxındır. Yatırım üçün çox əla variantdır. 900 azn Uzun müddətli icarədərir.\nObyekt piyada keçidinin üzərində yerləşir, avtomillərin və piyadaların çox intensiv oldugu yerdir,yaxın ətrafda banklar dövlət və özəl xəstəxanaları nazirliklər  yaşayış binaları yerləşir. ",
-    "building_type": "Obyekt",
-    "location_id": "34",
-    "location_name": "Elmlər Akademiyası",
-    "category": "commercial",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6466412",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 119000,
-        "date": "2026-09-30T19:58:12.276307+00:00"
-      }
-    ]
-  },
-  {
     "id": "5531425",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F12%2F10%2F46%2F35%2F496da8f4-be39-4384-8bae-561337d8e56a%2F1195_ohc1Gfp3dgWAx-z_mfBmSw.jpg",
     "price": 240000,
@@ -84632,6 +84600,42 @@
       {
         "price": 290000,
         "date": "2026-10-02T14:35:49.041328+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6466412",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F16%2F17%2F36%2F49%2Fa42040c9-0570-46ca-a1c2-96be3e7698e3%2F63812_Ot5HVFHFmalhHvjYjVRx0w.jpg",
+    "price": 109000,
+    "location": "Elmlər Akademiyası m.",
+    "area_m2": "6.3 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.376369957037,
+    "lng": 49.81981831252553,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-02T18:52:17+04:00",
+    "is_featured": false,
+    "title": "Satılır obyekt 6.3 m²",
+    "description": "ÇOX ÇOX TƏCİLİ SATILIR. \nVasitəçilər narahat etməsin !!!\nObyekt kupçada 6 .3 kv , mövcud 10 kv ta yaxındır. Yatırım üçün çox əla variantdır. 900 azn Uzun müddətli icarəyə vermək mümkündür.\nObyekt piyada keçidinin üzərində yerləşir, avtomillərin və piyadaların çox intensiv oldugu yerdir,yaxın ətrafda banklar dövlət və özəl xəstəxanaları nazirliklər  yaşayış binaları yerləşir. ",
+    "building_type": "Obyekt",
+    "location_id": "34",
+    "location_name": "Elmlər Akademiyası",
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6466412",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 119000,
+        "date": "2026-09-30T19:58:12.276307+00:00"
+      },
+      {
+        "price": 109000,
+        "date": "2026-10-02T14:57:34.342507+00:00"
       }
     ]
   }
