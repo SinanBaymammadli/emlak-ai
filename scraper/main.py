@@ -43,19 +43,23 @@ SCRAPE_LIMIT = int(os.getenv("SCRAPE_LIMIT", "0")) or None
 CONCURRENCY = int(os.getenv("SCRAPER_CONCURRENCY", str(len(CATEGORIES))))
 
 
-def make_today_stop_check(threshold: int = 20):
-    """Stop scrolling once the last `threshold` cards contain no today listings,
-    but only after we've seen at least one today listing (avoids stopping before
-    today's listings have even loaded)."""
+def _is_recent(text: str) -> bool:
+    t = text.lower()
+    return "bugün" in t or "bu gün" in t or "dünən" in t
+
+
+def make_recent_stop_check(threshold: int = 20):
+    """Stop scrolling once the last `threshold` cards contain no today/yesterday listings,
+    but only after we've seen at least one recent listing (avoids stopping before
+    recent listings have even loaded)."""
     def check(all_cards: list[dict]) -> bool:
         if len(all_cards) < threshold:
             return False
-        seen_any_today = any("bugün" in c["text"].lower() or "bu gün" in c["text"].lower() for c in all_cards)
-        if not seen_any_today:
+        if not any(_is_recent(c["text"]) for c in all_cards):
             return False
         tail = all_cards[-threshold:]
-        if not any("bugün" in c["text"].lower() or "bu gün" in c["text"].lower() for c in tail):
-            print(f"  no today listings in last {threshold} cards → stopping")
+        if not any(_is_recent(c["text"]) for c in tail):
+            print(f"  no recent listings in last {threshold} cards → stopping")
             return True
         return False
     return check
@@ -166,14 +170,14 @@ async def scrape_category(page, cfg: dict) -> None:
         raw_cards = raw_cards[:SCRAPE_LIMIT]
     else:
         raw_cards = await scroll_and_extract(
-            page, target=total, stop_check=make_today_stop_check()
+            page, target=total, stop_check=make_recent_stop_check()
         )
-    today_cards = [c for c in raw_cards if "bugün" in c["text"].lower() or "bu gün" in c["text"].lower()]
-    print(f"  cards extracted: {len(raw_cards)}  today: {len(today_cards)}")
+    recent_cards = [c for c in raw_cards if _is_recent(c["text"])]
+    print(f"  cards extracted: {len(raw_cards)}  recent: {len(recent_cards)}")
 
     # Split: new listings need GQL; known listings skip GQL unless price changed
-    new_cards = [c for c in today_cards if c["id"] not in existing]
-    known_cards = [c for c in today_cards if c["id"] in existing]
+    new_cards = [c for c in recent_cards if c["id"] not in existing]
+    known_cards = [c for c in recent_cards if c["id"] in existing]
     price_changed_cards = [
         c for c in known_cards
         if parser(c["text"]).get("price") != existing[c["id"]].get("price")
@@ -190,7 +194,7 @@ async def scrape_category(page, cfg: dict) -> None:
     gql_map = {card["id"]: gql for card, gql in zip(gql_cards, gql_results)}
     counts = {"new": 0, "updated": 0, "unchanged": 0}
 
-    for card in today_cards:
+    for card in recent_cards:
         item_id = card["id"]
         parsed = parser(card["text"])
         gql = gql_map.get(item_id, {})
