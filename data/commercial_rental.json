@@ -26048,38 +26048,6 @@
     ]
   },
   {
-    "id": "6314049",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F29%2F19%2F07%2F48%2Fc1ffdceb-3476-43dc-8375-cb2202923805%2F22917_zkZbCDC7BsSOUxMGMZqj3g.jpg",
-    "price": 900,
-    "location": "1-ci mikrorayon q.",
-    "area_m2": "60 m²",
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.39598121502465,
-    "lng": 49.83992908067967,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-13T20:13:47+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir obyekt 60 m²",
-    "description": "İcarəyə verilir!\r\n\r\nİşlək Azadlıq prospektində (Koala Parkına çatmamış), köhnə ünvan: Azadlıq 84, yeni ünvan: Azadlıq 152 yerləşən zirzəmi (podval).\r\n\r\nObyekt tamamilə sıfırdan yüksək keyfiyyətlə təmir olunub. İçəridəki hər şey yenidir - indiyədək heç kim istifadə etməyib və icarəyə götürməyib.\r\n\r\n✅ Tam yeni və keyfiyyətli təmir\r\n✅ Yeni havalandırma sistemi quraşdırılıb\r\n✅ Tamamilə yeni sanitar qovşaq\r\n✅ Yeni Ariston su qızdırıcısı quraşdırılıb\r\n✅ Bütün elektrik sistemi yenilənib\r\n✅ Döşəmə və pilləkənlər yeni keramoqranitlə üzlənib\r\n✅ Divarlar yeni rənglənib\r\n✅ Bütün su və kanalizasiya xətləri yenilənib\r\n✅ Elektrik və su sayğacları quraşdırılıb\r\n\r\nHazır obyekt - dərhal fəaliyyətə başlaya bilərsiniz!",
-    "building_type": "Obyekt",
-    "location_id": "123",
-    "location_name": "1-ci mikrorayon",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6314049",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 900,
-        "date": "2026-09-30T19:58:27.692118+00:00"
-      }
-    ]
-  },
-  {
     "id": "6372827",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F13%2F14%2F23%2F55%2F972adea8-31fc-41da-97df-2aababe3a586%2F49671_ZHQWjETe62k0WdYZ1xXXJg.jpg",
     "price": 2000,
@@ -95664,6 +95632,42 @@
       {
         "price": 1900,
         "date": "2026-10-02T14:51:35.955827+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6314049",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F29%2F19%2F07%2F48%2Fc1ffdceb-3476-43dc-8375-cb2202923805%2F22917_zkZbCDC7BsSOUxMGMZqj3g.jpg",
+    "price": 850,
+    "location": "1-ci mikrorayon q.",
+    "area_m2": "60 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.39598121502465,
+    "lng": 49.83992908067967,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-02T18:54:16+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir obyekt 60 m²",
+    "description": "İcarəyə verilir!\r\n\r\nİşlək Azadlıq prospektində (Koala Parkına çatmamış), köhnə ünvan: Azadlıq 84, yeni ünvan: Azadlıq 152 yerləşən zirzəmi (podval).\r\n\r\nObyekt tamamilə sıfırdan yüksək keyfiyyətlə təmir olunub. İçəridəki hər şey yenidir - indiyədək heç kim istifadə etməyib və icarəyə götürməyib.\r\n\r\n✅ Tam yeni və keyfiyyətli təmir\r\n✅ Yeni havalandırma sistemi quraşdırılıb\r\n✅ Tamamilə yeni sanitar qovşaq\r\n✅ Yeni Ariston su qızdırıcısı quraşdırılıb\r\n✅ Bütün elektrik sistemi yenilənib\r\n✅ Döşəmə və pilləkənlər yeni keramoqranitlə üzlənib\r\n✅ Divarlar yeni rənglənib\r\n✅ Bütün su və kanalizasiya xətləri yenilənib\r\n✅ Elektrik və su sayğacları quraşdırılıb\r\n\r\nHazır obyekt - dərhal fəaliyyətə başlaya bilərsiniz!",
+    "building_type": "Obyekt",
+    "location_id": "123",
+    "location_name": "1-ci mikrorayon",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6314049",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 900,
+        "date": "2026-09-30T19:58:27.692118+00:00"
+      },
+      {
+        "price": 850,
+        "date": "2026-10-02T14:57:37.912541+00:00"
       }
     ]
   }
