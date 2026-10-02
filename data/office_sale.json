@@ -2944,38 +2944,6 @@
     ]
   },
   {
-    "id": "6364121",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F10%2F15%2F43%2F59%2Fdf6131a1-d568-4921-bdd8-1f8987c7e47a%2F29205_bwJz5ug6lbowP2WEO5pUqw.jpg",
-    "price": 1950000,
-    "location": "28 May m.",
-    "area_m2": "264 m²",
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.37585034162222,
-    "lng": 49.85798793408206,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": null,
-    "updated_at_site": "2026-09-28T11:58:19+04:00",
-    "is_featured": false,
-    "title": "Satılır 4 otaqlı ofis 264 m²",
-    "description": "🏢 RE/MAX-IN EKSKLÜZİV TƏKLİFİ\r\n✨ PORT BAKU YAXINLIĞINDA, TAC RESIDENCE-DƏ PREMİUM KOMMERSİYA OBYEKTİ SATIŞDADIR!\r\n📍 Bakı şəhəri, Səbail rayonu, Tac Residence\r\n▫️ Ümumi sahə: 264 m²\r\n▫️ Binanın 3-cü mərtəbəsində yerləşir\r\n▫️ Tam təmirli\r\n▫️ Geniş eyvan (eyvan sahəsi ümumi kvadrata daxil deyil)\r\n▫️ Hər otaqdan eyvana ayrıca çıxış\r\n▫️ Reception (qarşılama) zonası\r\n▫️ Müdir otağı\r\n▫️ Müavin otağı\r\n▫️ İclas otağı\r\n▫️ Ümumi iş otağı\r\n▫️ Mətbəx\r\n▫️ Sanitar qovşaq\r\n▫️ Biznes və investisiya məqsədli istifadə üçün ideal seçim\r\nObyektin üstünlükləri:\r\n✅ Port Baku yaxınlığında, şəhərin ən prestijli və yüksək biznes aktivliyinə malik lokasiyalarından birində yerləşməsi şirkətlər və investorlar üçün böyük üstünlük yaradır.\r\n✅ 264 m² geniş və funksional planlaşdırmaya malik ofis sahəsi müxtəlif fəaliyyət istiqamətləri üçün rahat iş mühiti təqdim edir.\r\n✅ Reception, rəhbərlik otaqları, iclas zalı və ümumi iş sahələrinin mövcudluğu korporativ şirkətlər üçün tam hazır ofis infrastrukturu təmin edir.\r\n✅ Hər otaqdan geniş eyvana çıxışın olması təbii işıqlandırmanı artırır, əməkdaşlar üçün daha komfortlu və prestijli iş mühiti yaradır.\r\n✅ Holiday Inn, JW Marriott Absheron Hotel və Bakı Dəniz Vağzalına yaxın yerləşməsi obyektin həm kommersiya dəyərini, həm də uzunmüddətli investisiya potensialını əhəmiyyətli dərəcədə artırır.\r\n-----------------\r\n🏢 ЭКСКЛЮЗИВНОЕ ПРЕДЛОЖЕНИЕ RE/MAX\r\n✨ ПРЕМИАЛЬНОЕ КОММЕРЧЕСКОЕ ПОМЕЩЕНИЕ В TAC RESIDENCE РЯДОМ С PORT BAKU!\r\n📍 г. Баку, Сабаильский район, Tac Residence\r\n▫️ Общая площадь: 264 м²\r\n▫️ Расположено на 3-м этаже здания\r\n▫️ Полностью с ремонтом\r\n▫️ Просторный балкон (не входит в общую площадь)\r\n▫️ Отдельный выход на балкон из каждого кабинета\r\n▫️ Зона ресепшен\r\n▫️ Кабинет руководителя\r\n▫️ Кабинет заместителя\r\n▫️ Переговорная комната\r\n▫️ Общая рабочая зона\r\n▫️ Кухня\r\n▫️ Санузел\r\n▫️ Идеально подходит для ведения бизнеса и инвестиций\r\nПреимущества объекта:\r\n✅ Объект расположен рядом с Port Baku — в одном из самых престижных деловых районов столицы, что обеспечивает высокий статус и удобство для ведения бизнеса.\r\n✅ Просторная площадь 264 м² и функциональная планировка позволяют эффективно организовать работу компании любого уровня.\r\n✅ Наличие зоны ресепшен, кабинетов руководства, переговорной комнаты и общего рабочего пространства делает помещение полностью готовым к эксплуатации без дополнительных вложений.\r\n✅ Отдельный выход на просторный балкон из каждого кабинета обеспечивает естественное освещение, комфортную рабочую атмосферу и дополнительную ценность объекта.\r\n✅ Близость к Holiday Inn, JW Marriott Absheron и Бакинскому морскому вокзалу значительно повышает коммерческую привлекательность и инвестиционный потенциал данного объекта.",
-    "building_type": "Ofis",
-    "location_id": "8",
-    "location_name": "28 May",
-    "category": "office",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6364121",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1950000,
-        "date": "2026-09-30T19:56:43.509822+00:00"
-      }
-    ]
-  },
-  {
     "id": "6176358",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F01%2F18%2F35%2F33%2F28e52b6c-f984-4f5a-bb8d-3ea6787ef442%2F69408_AIKKmK4n5nncd46nJ-mE1Q.jpg",
     "price": 905000,
@@ -3740,6 +3708,42 @@
       {
         "price": 350000,
         "date": "2026-10-02T14:50:59.084772+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6364121",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F10%2F15%2F43%2F59%2Fdf6131a1-d568-4921-bdd8-1f8987c7e47a%2F29205_bwJz5ug6lbowP2WEO5pUqw.jpg",
+    "price": 1880000,
+    "location": "28 May m.",
+    "area_m2": "264 m²",
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.37585034162222,
+    "lng": 49.85798793408206,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": null,
+    "updated_at_site": "2026-10-02T19:34:34+04:00",
+    "is_featured": false,
+    "title": "Satılır 4 otaqlı ofis 264 m²",
+    "description": "🏢 RE/MAX-IN EKSKLÜZİV TƏKLİFİ\r\n✨ PORT BAKU YAXINLIĞINDA, TAC RESIDENCE-DƏ PREMİUM KOMMERSİYA OBYEKTİ SATIŞDADIR!\r\n📍 Bakı şəhəri, Səbail rayonu, Tac Residence\r\n▫️ Ümumi sahə: 264 m²\r\n▫️ Binanın 3-cü mərtəbəsində yerləşir\r\n▫️ Tam təmirli\r\n▫️ Geniş eyvan (eyvan sahəsi ümumi kvadrata daxil deyil)\r\n▫️ Hər otaqdan eyvana ayrıca çıxış\r\n▫️ Reception (qarşılama) zonası\r\n▫️ Müdir otağı\r\n▫️ Müavin otağı\r\n▫️ İclas otağı\r\n▫️ Ümumi iş otağı\r\n▫️ Mətbəx\r\n▫️ Sanitar qovşaq\r\n▫️ Biznes və investisiya məqsədli istifadə üçün ideal seçim\r\nObyektin üstünlükləri:\r\n✅ Port Baku yaxınlığında, şəhərin ən prestijli və yüksək biznes aktivliyinə malik lokasiyalarından birində yerləşməsi şirkətlər və investorlar üçün böyük üstünlük yaradır.\r\n✅ 264 m² geniş və funksional planlaşdırmaya malik ofis sahəsi müxtəlif fəaliyyət istiqamətləri üçün rahat iş mühiti təqdim edir.\r\n✅ Reception, rəhbərlik otaqları, iclas zalı və ümumi iş sahələrinin mövcudluğu korporativ şirkətlər üçün tam hazır ofis infrastrukturu təmin edir.\r\n✅ Hər otaqdan geniş eyvana çıxışın olması təbii işıqlandırmanı artırır, əməkdaşlar üçün daha komfortlu və prestijli iş mühiti yaradır.\r\n✅ Holiday Inn, JW Marriott Absheron Hotel və Bakı Dəniz Vağzalına yaxın yerləşməsi obyektin həm kommersiya dəyərini, həm də uzunmüddətli investisiya potensialını əhəmiyyətli dərəcədə artırır.\r\n-----------------\r\n🏢 ЭКСКЛЮЗИВНОЕ ПРЕДЛОЖЕНИЕ RE/MAX\r\n✨ ПРЕМИАЛЬНОЕ КОММЕРЧЕСКОЕ ПОМЕЩЕНИЕ В TAC RESIDENCE РЯДОМ С PORT BAKU!\r\n📍 г. Баку, Сабаильский район, Tac Residence\r\n▫️ Общая площадь: 264 м²\r\n▫️ Расположено на 3-м этаже здания\r\n▫️ Полностью с ремонтом\r\n▫️ Просторный балкон (не входит в общую площадь)\r\n▫️ Отдельный выход на балкон из каждого кабинета\r\n▫️ Зона ресепшен\r\n▫️ Кабинет руководителя\r\n▫️ Кабинет заместителя\r\n▫️ Переговорная комната\r\n▫️ Общая рабочая зона\r\n▫️ Кухня\r\n▫️ Санузел\r\n▫️ Идеально подходит для ведения бизнеса и инвестиций\r\nПреимущества объекта:\r\n✅ Объект расположен рядом с Port Baku — в одном из самых престижных деловых районов столицы, что обеспечивает высокий статус и удобство для ведения бизнеса.\r\n✅ Просторная площадь 264 м² и функциональная планировка позволяют эффективно организовать работу компании любого уровня.\r\n✅ Наличие зоны ресепшен, кабинетов руководства, переговорной комнаты и общего рабочего пространства делает помещение полностью готовым к эксплуатации без дополнительных вложений.\r\n✅ Отдельный выход на просторный балкон из каждого кабинета обеспечивает естественное освещение, комфортную рабочую атмосферу и дополнительную ценность объекта.\r\n✅ Близость к Holiday Inn, JW Marriott Absheron и Бакинскому морскому вокзалу значительно повышает коммерческую привлекательность и инвестиционный потенциал данного объекта.",
+    "building_type": "Ofis",
+    "location_id": "8",
+    "location_name": "28 May",
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6364121",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1950000,
+        "date": "2026-09-30T19:56:43.509822+00:00"
+      },
+      {
+        "price": 1880000,
+        "date": "2026-10-02T19:32:09.969468+00:00"
       }
     ]
   }
