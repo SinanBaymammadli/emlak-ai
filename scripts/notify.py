@@ -14,6 +14,20 @@ if not token or not chat_id:
 result = os.environ.get("SCRAPE_RESULT", "unknown")
 icon = "✅" if result == "success" else "⚠️" if result == "failure" else "❓"
 
+CATEGORIES = [
+    "apartment_rental",
+    "apartment_sale",
+    "commercial_rental",
+    "commercial_sale",
+    "garage_rental",
+    "garage_sale",
+    "house_rental",
+    "house_sale",
+    "land_sale",
+    "office_rental",
+    "office_sale",
+]
+
 # Find the oldest scrape commit pushed today so we can diff against its parent
 hashes = subprocess.check_output(
     ["git", "log", "--format=%H", "--grep=chore: scrape", "--since=midnight"],
@@ -27,11 +41,16 @@ base = (
     else None
 )
 
-lines = [f"{icon} <b>emlak-ai scrape complete</b> ({result})"]
-for f in sorted(Path("data").glob("*.json")):
+def active_ids(listings):
+    return {l["id"] for l in listings if l.get("deleted_at") is None}
+
+lines = [f"{icon} <b>emlak-ai scrape complete</b> ({result})\n"]
+for cat in CATEGORIES:
+    f = Path("data") / f"{cat}.json"
     try:
         listings = json.loads(f.read_text(encoding="utf-8"))
-        active_ids = {l["id"] for l in listings if l.get("deleted_at") is None}
+        ids = active_ids(listings)
+        total = len(ids)
 
         new_count = 0
         if base:
@@ -41,15 +60,14 @@ for f in sorted(Path("data").glob("*.json")):
                     text=True,
                     stderr=subprocess.DEVNULL,
                 )
-                old_ids = {l["id"] for l in json.loads(old) if l.get("deleted_at") is None}
-                new_count = len(active_ids - old_ids)
+                new_count = len(ids - active_ids(json.loads(old)))
             except subprocess.CalledProcessError:
-                new_count = len(active_ids)  # file is new this run
+                new_count = total  # file is new this run
 
-        new_str = f" <b>+{new_count} new</b>" if new_count else ""
-        lines.append(f"  {f.stem}: {len(active_ids)} active{new_str}")
+        new_str = f"  <b>+{new_count} new</b>" if new_count else ""
+        lines.append(f"  <b>{cat}</b>: {total} total{new_str}")
     except Exception:
-        pass
+        lines.append(f"  <b>{cat}</b>: ⚠️ error")
 
 payload = json.dumps(
     {"chat_id": chat_id, "text": "\n".join(lines), "parse_mode": "HTML"}
