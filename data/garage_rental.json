@@ -1685,5 +1685,38 @@
         "date": "2026-10-02T14:57:07.662013+00:00"
       }
     ]
+  },
+  {
+    "id": "6512516",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F10%2F33%2F42%2F7ff27250-9dd6-46a4-b055-dc13a9bdd9aa%2F49549_x8Qw50lWYf1DW3cWEBkzxg.jpg",
+    "price": 100,
+    "location": "8-ci kilometr q.",
+    "rooms": "",
+    "area_m2": "18 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.40046972688114,
+    "lng": 49.93675871165754,
+    "has_repair": null,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-03T10:35:14+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 18 m²",
+    "description": "Qaraj 8km cobazade kucesi Heydər Əliyev parkin aşagisinda Oskar şadlig sarayinin arxasinda yerlewir yama var",
+    "building_type": "Qaraj",
+    "location_id": "74",
+    "location_name": "8-ci kilometr",
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6512516",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 100,
+        "date": "2026-10-03T20:22:33.503688+00:00"
+      }
+    ]
   }
 ]
