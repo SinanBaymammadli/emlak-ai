@@ -3360,38 +3360,6 @@
     ]
   },
   {
-    "id": "6494959",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F26%2F19%2F54%2F37%2F273e22e6-6985-46ab-b8e3-1d05184e95a2%2F59333_3zYvhGB2UIR1vqvwSthooA.jpg",
-    "price": 495000,
-    "location": "Nərimanov r.",
-    "area_m2": "150 m²",
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.38874348356041,
-    "lng": 49.85271286446527,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": null,
-    "updated_at_site": "2026-09-30T12:00:51+04:00",
-    "is_featured": false,
-    "title": "Satılır 5 otaqlı ofis 150 m²",
-    "description": "🏢 **NƏRİMANOV RAYONU, TƏBRİZ KÜÇƏSİ — OBYEKT SATILIR!**\n\n📍 **Təfəkkür Liseyinin yanında** yerləşən, əlverişli lokasiyaya malik obyekt satışa çıxarılıb.\n\n🔹 Sahəsi: **150 m²**\n🔹 **Tam təmirli**\n🔹 **Çıxarışlı (Kupça)**\n🔹 Hazırda **icarədədir — 2.000 AZN/ay**\n🔹 Gəlir gətirən hazır biznes obyekti üçün ideal seçimdir.\n\n💰 **Ciddi alıcı ilə qiymətdə endirim mümkündür.**\n\n📞 **Ciddi maraqlanan şəxslər əlaqə saxlaya bilər.**\n\n",
-    "building_type": "Ofis",
-    "location_id": "10",
-    "location_name": "Nərimanov",
-    "category": "office",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6494959",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 495000,
-        "date": "2026-09-30T19:56:43.509214+00:00"
-      }
-    ]
-  },
-  {
     "id": "6504194",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F12%2F51%2F00%2F31da5a50-2e51-48af-8652-697ebfea1906%2F92804_EHgXhkk8I_ihOxy1eXFGLg.jpg",
     "price": 365000,
@@ -3744,6 +3712,170 @@
       {
         "price": 1880000,
         "date": "2026-10-02T19:32:09.969468+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6494959",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F26%2F19%2F54%2F37%2F273e22e6-6985-46ab-b8e3-1d05184e95a2%2F59333_3zYvhGB2UIR1vqvwSthooA.jpg",
+    "price": 485000,
+    "location": "Nərimanov r.",
+    "area_m2": "150 m²",
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.38874348356041,
+    "lng": 49.85271286446527,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": null,
+    "updated_at_site": "2026-10-03T12:54:20+04:00",
+    "is_featured": false,
+    "title": "Satılır 5 otaqlı ofis 150 m²",
+    "description": "🏢 **NƏRİMANOV RAYONU, TƏBRİZ KÜÇƏSİ — OBYEKT SATILIR!**\n\n📍 **Təfəkkür Liseyinin yanında** yerləşən, əlverişli lokasiyaya malik obyekt satışa çıxarılıb.\n\n🔹 Sahəsi: **150 m²**\n🔹 **Tam təmirli**\n🔹 **Çıxarışlı (Kupça)**\n🔹 Hazırda **icarədədir — 2.000 AZN/ay**\n🔹 Gəlir gətirən hazır biznes obyekti üçün ideal seçimdir.\n\n💰 **Ciddi alıcı ilə qiymətdə endirim mümkündür.**\n\n📞 **Ciddi maraqlanan şəxslər əlaqə saxlaya bilər.**\n\n",
+    "building_type": "Ofis",
+    "location_id": "10",
+    "location_name": "Nərimanov",
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6494959",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 495000,
+        "date": "2026-09-30T19:56:43.509214+00:00"
+      },
+      {
+        "price": 485000,
+        "date": "2026-10-03T19:31:57.878658+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5352478",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F07%2F14%2F11%2F33%2F26%2Fe196572e-37e2-433e-9110-40df89f9ffe3%2F66008_-f1hpkebL9FYqnHCOa3oWQ.jpg",
+    "price": 595000,
+    "location": "Ağ şəhər q.",
+    "area_m2": "93 m²",
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.3813596,
+    "lng": 49.8843435,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-03T15:16:41+04:00",
+    "is_featured": false,
+    "title": "Satılır 3 otaqlı ofis 93 m²",
+    "description": "Ofis Ağ şəhər Knightsbridge residence yaşayış kompleksində yerləşir.\r\n2 ci fəvvarələr küçəsinə  baxır.\r\nsahə 93 m2.\r\nyoldan 1 ci mərtəbəyə düşür.\r\nofis  hal hazırda icarədədir.",
+    "building_type": "Ofis",
+    "location_id": "314",
+    "location_name": "Ağ şəhər",
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5352478",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 595000,
+        "date": "2026-10-03T19:31:57.878631+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6200853",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F10%2F16%2F34%2F16%2Fd9cf2685-bb98-4f54-9de8-6f87e5e0bc59%2F26244_lt9cXm1J3-mCmyuVWoqzFQ.jpg",
+    "price": 550000,
+    "location": "Şah İsmayıl Xətai m.",
+    "area_m2": "106 m²",
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.38031348864941,
+    "lng": 49.88142525659178,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-03T15:20:10+04:00",
+    "is_featured": false,
+    "title": "Satılır 3 otaqlı ofis 106 m²",
+    "description": "Ofis sahəsi – Ağ Şəhər, Knightsbridge Residence\r\n\r\n- Məkan: Ağ Şəhər, Knightsbridge Residence yaşayış kompleksi\r\n- Ünvana baxış: 2-ci Fəvvarələr küçəsinə panoramik vitrajlarla çıxış\r\n- Mərtəbə: 1-ci mərtəbə (küçə səviyyəsi)\r\n- Ümumi sahə: 106 m²\r\n  - 1-ci mərtəbə: 76 m²\r\n  - Antresol: 30 m²\r\n\r\nPlanlama və xüsusiyyətlər:\r\n- Hündür tavanlı, böyük vitrin pəncərələr\r\n- Antresol səviyyəsi ilə açıq-plan iş zonası\r\n- Loft üslubunda daxili: kərpic dekor divarlar, geniş işıqlanma\r\n- Keyfiyyətli döşəmə örtüyü, mühəndis kommunikasiya xətləri çəkilmiş\r\n- Havanın dövranı üçün havalandırma kanalları və asma işıqlandırma\r\n- Küçədən ayrı giriş\r\n- Sakit, abadlaşdırılmış məkan, geniş yolkənarı parklanma zolaqları\r\n\r\nİstifadə üçün uyğundur:\r\n- Şirkət ofisi, nümayəndəlik\r\n- Dizayn/IT studiyası, yaradıcı məkan\r\n- Konsaltinq, hüquq, maliyyə xidmətləri\r\n- Şourum və ya butik tərzli təqdimat sahəsi\r\n\r\nPremium memarlığı və prestijli qonşuluğu ilə fərqlənən bu məkan Ağ Şəhərdə görünürlük və rahat əlçatanlıq istəyən bizneslər üçün funksional həll təqdim edir.",
+    "building_type": "Ofis",
+    "location_id": "36",
+    "location_name": "Şah İsmayıl Xətai",
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6200853",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 550000,
+        "date": "2026-10-03T19:31:57.878594+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5352501",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F07%2F14%2F11%2F45%2F20%2Fc6a87a51-0089-472d-ab73-e6046a6f1150%2F66008_-f1hpkebL9FYqnHCOa3oWQ.jpg",
+    "price": 590000,
+    "location": "Ağ şəhər q.",
+    "area_m2": "88 m²",
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.3813596,
+    "lng": 49.8843435,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-03T15:20:41+04:00",
+    "is_featured": false,
+    "title": "Satılır 3 otaqlı ofis 88 m²",
+    "description": "Ofis Ağ şəhər Knightsbridge residence yaşayış kompleksində yerləşir.\r\nMərkəzi bulvar küçəsində yerləşir \r\nsahə 88 m2.\r\nyoldan 1 ci mərtəbəyə düşür. liftə daxil olunmur\r\nofis təmirlidir. hal hazırda icarədədir.",
+    "building_type": "Ofis",
+    "location_id": "314",
+    "location_name": "Ağ şəhər",
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5352501",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 590000,
+        "date": "2026-10-03T19:31:57.878564+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6151120",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F22%2F12%2F56%2F58%2F19b27b5d-889e-4b49-9845-f55239cb5b10%2F29391__F-vHlvukD2XRGCr-_CBUQ.jpg",
+    "price": 590000,
+    "location": "Şah İsmayıl Xətai m.",
+    "area_m2": "93 m²",
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.37998657552097,
+    "lng": 49.88133942590331,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-03T15:23:29+04:00",
+    "is_featured": false,
+    "title": "Satılır 3 otaqlı ofis 93 m²",
+    "description": "Ofis Ağ şəhər Knightsbridge residence yaşayış kompleksində yerləşir.\r\n2 ci fəvvarələr küçəsinə baxır.\r\nsahə 93 m2.\r\nyoldan 1 ci mərtəbəyə düşür.\r\nofis hal hazırda icarədədir.",
+    "building_type": "Ofis",
+    "location_id": "36",
+    "location_name": "Şah İsmayıl Xətai",
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6151120",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 590000,
+        "date": "2026-10-03T19:31:57.878530+00:00"
       }
     ]
   }
