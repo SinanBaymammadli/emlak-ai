@@ -11,6 +11,7 @@ Each JSON file is both the persistent store and the output. On every run:
 import asyncio
 import json
 import os
+import random
 try:
     import orjson as _orjson
     def _json_loads(s): return _orjson.loads(s)
@@ -27,6 +28,7 @@ from dotenv import load_dotenv
 from scraper.browser import (
     extract_cards,
     fetch_item_graphql,
+    fetch_item_price,
     load_category_page,
     open_browser,
     scroll_and_extract,
@@ -233,6 +235,35 @@ async def scrape_category(page, cfg: dict) -> None:
 
         result = upsert(existing, listing, category, deal_type)
         counts[result] += 1
+
+    # ── Silent price check ────────────────────────────────────────────────────
+    # Listings that weren't bumped recently won't appear in today's cards, so we
+    # sample a random subset of active non-recent listings and verify their prices
+    # via a lightweight GQL query to catch silent price changes.
+    PRICE_CHECK_SAMPLE = 300
+    recent_ids = {c["id"] for c in recent_cards}
+    candidates = [
+        l for l in existing.values()
+        if not l.get("deleted_at") and l["id"] not in recent_ids and l.get("price")
+    ]
+    sample = random.sample(candidates, min(PRICE_CHECK_SAMPLE, len(candidates)))
+    if sample:
+        print(f"  price-checking {len(sample)} non-recent listings…")
+        price_changed = 0
+        BATCH = 30
+        for i in range(0, len(sample), BATCH):
+            batch = sample[i:i + BATCH]
+            prices = await asyncio.gather(*[fetch_item_price(page, l["id"]) for l in batch])
+            for l, new_price in zip(batch, prices):
+                if new_price is not None and new_price != l["price"]:
+                    existing[l["id"]]["price"] = new_price
+                    existing[l["id"]].setdefault("price_history", []).append(
+                        {"price": new_price, "date": _now()}
+                    )
+                    counts["updated"] += 1
+                    price_changed += 1
+        if price_changed:
+            print(f"  silent price changes detected: {price_changed}")
 
     save_listings(category, deal_type, existing)
 

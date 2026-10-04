@@ -142,6 +142,34 @@ async def extract_cards(page) -> list[dict]:
     }""")
 
 
+async def fetch_item_price(page, item_id: str) -> int | None:
+    """Fetch only the current price for a listing via GraphQL. Returns None on error."""
+    try:
+        data = await page.evaluate(
+            """async (id) => {
+            const controller = new AbortController();
+            const timer = setTimeout(() => controller.abort(), 10000);
+            try {
+                const r = await fetch('https://bina.az/graphql', {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify({
+                        operationName: 'GetItemPrice',
+                        variables: {id},
+                        query: `query GetItemPrice($id: ID!) { item(id: $id) { price { total } } }`
+                    }),
+                    signal: controller.signal
+                });
+                return r.json();
+            } finally { clearTimeout(timer); }
+        }""",
+            item_id,
+        )
+        return ((data.get("data") or {}).get("item") or {}).get("price", {}).get("total")
+    except Exception:
+        return None
+
+
 async def fetch_item_graphql(page, item_id: str) -> dict:
     """Fetch listing details from bina.az GraphQL. Returns {} on any error or timeout."""
     try:
