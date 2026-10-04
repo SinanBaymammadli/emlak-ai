@@ -1,13 +1,33 @@
+import datetime
+import pathlib
+
 from camoufox.async_api import AsyncCamoufox
+
+_BLOCK_TITLES = {"just a moment", "attention required", "access denied", "403 forbidden", "captcha"}
 
 
 def open_browser(headless: bool = False):
     return AsyncCamoufox(headless=headless)
 
 
+def _is_blocked_title(title: str) -> bool:
+    return any(k in title.lower() for k in _BLOCK_TITLES)
+
+
+async def _save_debug_snapshot(page, label: str) -> str:
+    ts = datetime.datetime.utcnow().strftime("%Y%m%d_%H%M%S")
+    debug_dir = pathlib.Path("debug")
+    debug_dir.mkdir(exist_ok=True)
+    stem = debug_dir / f"{label}_{ts}"
+    await page.screenshot(path=str(stem.with_suffix(".png")), full_page=False)
+    stem.with_suffix(".html").write_text(await page.content(), encoding="utf-8")
+    return str(stem)
+
+
 async def load_category_page(page, url: str) -> int:
     """Navigate to bina.az homepage first (session warm-up), then to the search URL.
-    Returns the total listing count shown on the page."""
+    Returns the total listing count shown on the page.
+    Raises RuntimeError if a bot-check / block page is detected."""
     await page.goto("https://bina.az", wait_until="domcontentloaded", timeout=60_000)
     try:
         await page.wait_for_function(
@@ -26,6 +46,11 @@ async def load_category_page(page, url: str) -> int:
         pass
     await page.wait_for_timeout(3_000)
 
+    title = await page.title()
+    if _is_blocked_title(title):
+        snap = await _save_debug_snapshot(page, "blocked")
+        raise RuntimeError(f"Bot-check / block page detected (title={title!r}), snapshot: {snap}")
+
     total = await page.evaluate(r"""() => {
         const m = document.body.innerText.match(/\((\d+)\)/);
         // Remove vipped/featured block and footer so they don't pollute card extraction
@@ -34,15 +59,6 @@ async def load_category_page(page, url: str) -> int:
         document.querySelectorAll('footer, .footer, #footer, .site-footer').forEach(el => el.remove());
         return m ? parseInt(m[1]) : 0;
     }""")
-    if total == 0:
-        title = await page.title()
-        import pathlib, datetime
-        ts = datetime.datetime.utcnow().strftime("%Y%m%d_%H%M%S")
-        debug_dir = pathlib.Path("debug")
-        debug_dir.mkdir(exist_ok=True)
-        await page.screenshot(path=str(debug_dir / f"page_{ts}.png"), full_page=False)
-        (debug_dir / f"page_{ts}.html").write_text(await page.content(), encoding="utf-8")
-        print(f"  WARNING: total=0 (title={title!r}), debug snapshot saved to debug/page_{ts}.*")
     return total
 
 

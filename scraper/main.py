@@ -172,8 +172,18 @@ async def scrape_category(page, cfg: dict) -> None:
         raw_cards = await scroll_and_extract(
             page, target=total, stop_check=make_recent_stop_check()
         )
+    print(f"  cards extracted: {len(raw_cards)}")
+
+    if total == 0 and len(raw_cards) == 0 and not SCRAPE_LIMIT:
+        from scraper.browser import _save_debug_snapshot
+        snap = await _save_debug_snapshot(page, f"zero_{category}_{deal_type}")
+        raise RuntimeError(
+            f"0 listings extracted and total=0 — likely blocked or page structure changed. "
+            f"Snapshot: {snap}"
+        )
+
     recent_cards = [c for c in raw_cards if _is_recent(c["text"])]
-    print(f"  cards extracted: {len(raw_cards)}  recent: {len(recent_cards)}")
+    print(f"  recent: {len(recent_cards)}")
 
     # Split: new listings need GQL; known listings skip GQL unless price changed
     new_cards = [c for c in recent_cards if c["id"] not in existing]
