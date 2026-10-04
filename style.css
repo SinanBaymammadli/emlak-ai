@@ -237,6 +237,11 @@ header h1 span { color: #4ade80; }
   font-size: .62rem; font-weight: 600;
   padding: 1px 6px; border-radius: 999px;
 }
+.badge-score   { font-weight: 700; }
+.score-high    { background: #dcfce7; color: #15803d; }
+.score-mid     { background: #fef9c3; color: #854d0e; }
+.score-low     { background: #fee2e2; color: #dc2626; }
+.badge-score-lg { font-size: .78rem; padding: 3px 10px; }
 .badge-repair  { background: #ede9fe; color: #7c3aed; }
 .badge-agency  { background: #fef3c7; color: #b45309; }
 .badge-owner   { background: #dcfce7; color: #15803d; }

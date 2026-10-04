@@ -154,9 +154,103 @@ function getFiltered() {
   return list;
 }
 
+// ── Deal scoring ──────────────────────────────────────────────────────────────
+const RENOVATION_COST_PER_M2 = 200;
+
+function _pctRank(vals, lowerIsBetter) {
+  const n = vals.length;
+  const valid = vals.map((v, i) => v != null ? [i, v] : null).filter(Boolean);
+  const out = new Array(n).fill(null);
+  if (valid.length <= 1) { valid.forEach(([i]) => out[i] = 0.5); return out; }
+  valid.sort((a, b) => a[1] - b[1]);
+  valid.forEach(([i], rank) => { out[i] = rank / (valid.length - 1); });
+  return lowerIsBetter ? out.map(v => v != null ? 1 - v : null) : out;
+}
+
+function computeScores(listings) {
+  const groups = {};
+  listings.forEach((l, i) => {
+    const key = `${l.category}_${l.deal_type}`;
+    if (!groups[key]) groups[key] = [];
+    groups[key].push(i);
+  });
+
+  Object.values(groups).forEach(idxs => {
+    const group = idxs.map(i => listings[i]);
+
+    const ppm2vals = group.map(l => {
+      const a = areaVal(l);
+      if (!a || !l.price) return null;
+      const reno = l.has_repair === false ? RENOVATION_COST_PER_M2 * a : 0;
+      return (l.price + reno) / a;
+    });
+    const ppsotvars = group.map(l =>
+      l.price && l.land_area_sot ? l.price / l.land_area_sot : null
+    );
+    const ppm2Pct  = _pctRank(ppm2vals,  true);
+    const ppsotPct = _pctRank(ppsotvars, true);
+
+    group.forEach((l, gi) => {
+      let score = 0;
+      const cat    = l.category;
+      const isSale = l.deal_type === 'sale';
+      const ownerPts = l.is_agency === false ? 1.0 : l.is_agency === true ? 0.0 : 0.5;
+      const h = l.price_history || [];
+      const dropped = h.length >= 2 && h[h.length - 1].price < h[0].price;
+
+      if (cat === 'apartment') {
+        if (ppm2Pct[gi]  != null) score += 50 * ppm2Pct[gi];
+        if (l.building_type === 'Yeni tikili') score += 20;
+        else if (l.building_type === 'Köhnə tikili') score += 5;
+        score += 15 * ownerPts;
+        if (dropped) score += 10;
+        if (isSale && l.has_bill_of_sale === true) score += 5;
+
+      } else if (cat === 'house') {
+        if (ppm2Pct[gi]  != null) score += 35 * ppm2Pct[gi];
+        if (ppsotPct[gi] != null) score += 30 * ppsotPct[gi];
+        score += 15 * ownerPts;
+        if (dropped) score += 15;
+        if (isSale && l.has_bill_of_sale === true) score += 5;
+
+      } else if (cat === 'land') {
+        if (ppsotPct[gi] != null) score += 70 * ppsotPct[gi];
+        else if (ppm2Pct[gi] != null) score += 70 * ppm2Pct[gi];
+        score += 15 * ownerPts;
+        if (dropped) score += 10;
+        if (isSale && l.has_bill_of_sale === true) score += 5;
+
+      } else if (cat === 'commercial' || cat === 'office') {
+        if (ppm2Pct[gi]  != null) score += 55 * ppm2Pct[gi];
+        score += 20 * ownerPts;
+        if (dropped) score += 15;
+        if (isSale && l.has_bill_of_sale === true) score += 10;
+
+      } else if (cat === 'garage') {
+        if (ppm2Pct[gi]  != null) score += 65 * ppm2Pct[gi];
+        score += 25 * ownerPts;
+        if (dropped) score += 10;
+      }
+
+      l._score = Math.round(Math.min(100, score));
+    });
+  });
+}
+
+function scoreClass(s) {
+  if (s == null) return '';
+  if (s >= 75) return 'score-high';
+  if (s >= 50) return 'score-mid';
+  return 'score-low';
+}
+
 function applyFilters() {
-  filtered = getFiltered().sort((a, b) => {
+  const list = getFiltered();
+  computeScores(list);
+  filtered = list.sort((a, b) => {
     switch (sort) {
+      case 'score_desc': return (b._score||0) - (a._score||0);
+      case 'score_asc':  return (a._score||0) - (b._score||0);
       case 'newest':     return new Date(b.updated_at_site||0) - new Date(a.updated_at_site||0);
       case 'price_asc':  return (a.price||0) - (b.price||0);
       case 'price_desc': return (b.price||0) - (a.price||0);
@@ -240,7 +334,10 @@ function cardHTML(l, idx) {
   else if (sot) unitPrice = `<div class="card-unit-price">${fmt(sot)} ₼/sot</div>`;
   const area = areaVal(l);
   const specs = [l.rooms||'', area?`${area} m²`:'', l.land_area_sot?`${l.land_area_sot} sot`:'', l.floor?`${l.floor} mərt.`:''].filter(Boolean).join(' · ');
+  const scoreBadge = l._score != null
+    ? `<span class="badge badge-score ${scoreClass(l._score)}">${l._score}</span>` : '';
   const badges = [
+    scoreBadge,
     l.has_repair ? '<span class="badge badge-repair">✓ Təmirli</span>' : '',
     l.is_agency  ? '<span class="badge badge-agency">Agentlik</span>' : '<span class="badge badge-owner">Mülkiyyətçi</span>',
     l.deleted_at ? '<span class="badge badge-deleted">Silinib</span>' : '',
@@ -616,7 +713,10 @@ function openModal(l) {
 
   const specsHTML = specs.map(s => `<span class="modal-spec">${s}</span>`).join('');
 
+  const modalScore = l._score != null
+    ? `<span class="badge badge-score ${scoreClass(l._score)} badge-score-lg">Reytinq: ${l._score}/100</span>` : '';
   const badges = [
+    modalScore,
     l.has_repair         ? '<span class="badge badge-repair">✓ Təmirli</span>'      : '',
     l.is_agency === true ? '<span class="badge badge-agency">Agentlik</span>'        : '',
     l.is_agency === false? '<span class="badge badge-owner">Mülkiyyətçi</span>'     : '',
