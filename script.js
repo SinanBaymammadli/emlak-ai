@@ -8,7 +8,6 @@ const CATS = Object.keys(FILES);
 const PAGE_SIZE = 50;
 const PALETTE = ['#6366f1','#4ade80','#f59e0b','#ef4444','#06b6d4','#8b5cf6','#ec4899'];
 const CAT_COLORS = {apartment:'#6366f1',house:'#4ade80',land:'#f59e0b',commercial:'#ef4444',office:'#06b6d4',garage:'#8b5cf6'};
-const CHORO_COLORS = ['#dcfce7','#86efac','#fef08a','#fdba74','#f87171'];
 
 const ALL_LOCATIONS = ['20 Yanvar m.','20-ci sahə q.','28 May m.','9-cu mikrorayon q.','Azadlıq Prospekti m.','Ağ şəhər q.','Badamdar q.','Bakıxanov q.','Bayıl q.','Bilgəh q.','Biləcəri q.','Binə q.','Binəqədi q.','Binəqədi r.','Buzovna q.','Dübəndi q.','Elmlər Akademiyası m.','Görədil q.','Gənclik m.','Hökməli q.','Hövsan q.','Həzi Aslanov m.','Həzi Aslanov q.','Koroğlu m.','Lökbatan q.','M.Ə.Rəsulzadə q.','Masazır q.','Mehdiabad q.','Memar Əcəmi m.','Məmmədli q.','Mərdəkan q.','Nardaran q.','Neftçilər m.','Nizami m.','Nizami r.','Novxanı q.','Nəriman Nərimanov m.','Nərimanov r.','Nəsimi r.','Qala q.','Qara Qarayev m.','Qaraçuxur q.','Qobu q.','Sahil q.','Saray q.','Sea Breeze q.','Türkan q.','Yasamal q.','Yasamal r.','Yeni Ramana q.','Yeni Yasamal q.','Zabrat q.','Zığ q.','İnşaatçılar m.','İçəri Şəhər m.','Şah İsmayıl Xətai m.','Şağan q.','Şüvəlan q.','Əhmədli m.','Ələt q.','Əmircan q.'];
 
@@ -30,7 +29,6 @@ let repairF  = '';
 let agencyF  = '';
 let kupcaF   = '';
 let activeTab   = 'listings';
-let viewMode    = 'markers';
 let activeModal = null;
 
 const cache = {};
@@ -457,46 +455,20 @@ function renderAnalytics() {
 // ── Map tab ───────────────────────────────────────────────────────────────────
 let leafletMap = null;
 let markerLayer = null;
-let choroLayer = null;
-let districtGeoJson = null;
 
 function initMap() {
   if (leafletMap) return;
   leafletMap = L.map('map').setView([40.4093, 49.8671], 11);
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { attribution:'© OpenStreetMap', maxZoom:19 }).addTo(leafletMap);
   markerLayer = L.layerGroup().addTo(leafletMap);
-
-  // Load GeoJSON
-  fetch('districts.geojson').then(r => r.ok ? r.json() : null).catch(()=>null).then(d => {
-    districtGeoJson = d;
-    if (activeTab === 'map') renderMap();
-  });
-
-  // View mode buttons
-  document.getElementById('btn-markers').addEventListener('click', () => {
-    viewMode = 'markers';
-    document.getElementById('btn-markers').classList.add('active');
-    document.getElementById('btn-choropleth').classList.remove('active');
-    renderMap(); pushState();
-  });
-  document.getElementById('btn-choropleth').addEventListener('click', () => {
-    viewMode = 'choropleth';
-    document.getElementById('btn-choropleth').classList.add('active');
-    document.getElementById('btn-markers').classList.remove('active');
-    renderMap(); pushState();
-  });
 }
 
 function renderMap() {
   if (!leafletMap) return;
-  if (viewMode === 'markers') renderMarkers(filtered);
-  else renderChoropleth(filtered);
+  renderMarkers(filtered);
 }
 
 function renderMarkers(list) {
-  if (choroLayer) { leafletMap.removeLayer(choroLayer); choroLayer = null; }
-  document.getElementById('choropleth-legend').classList.remove('visible');
-  document.getElementById('marker-legend').style.display = '';
   markerLayer.clearLayers();
   const withCoords = list.filter(l => l.lat != null && l.lng != null);
   withCoords.forEach(l => {
@@ -516,55 +488,6 @@ ${det?`<div class="popup-det">${det}</div>`:''}${agencyBadge}
   document.getElementById('map-stats').textContent = `${withCoords.length.toLocaleString()} elan xəritədə`;
 }
 
-function renderChoropleth(list) {
-  markerLayer.clearLayers();
-  document.getElementById('marker-legend').style.display = 'none';
-  document.getElementById('choropleth-legend').classList.add('visible');
-  if (choroLayer) { leafletMap.removeLayer(choroLayer); choroLayer = null; }
-  if (!districtGeoJson) { document.getElementById('map-stats').textContent = 'GeoJSON yüklənmədi'; return; }
-
-  const buckets = {};
-  list.filter(l=>!l.deleted_at).forEach(l => {
-    const v = ppm2(l); if (!v) return;
-    const k = normName(l.location_name||l.location); if (!k) return;
-    if (!buckets[k]) buckets[k] = [];
-    buckets[k].push(v);
-  });
-  const avgs = {};
-  Object.entries(buckets).forEach(([k,vals]) => { if(vals.length>=2) avgs[k]=vals.reduce((a,b)=>a+b,0)/vals.length; });
-  const sorted = Object.values(avgs).sort((a,b)=>a-b);
-  const q = p => sorted[Math.min(Math.floor(p*sorted.length), sorted.length-1)];
-  if (sorted.length >= 5) {
-    ['choro-l1','choro-l2','choro-l3','choro-l4','choro-l5'].forEach((id,i) => {
-      const el = document.getElementById(id);
-      if (el) el.textContent = i<4 ? `≤ ${fmt(q((i+1)*0.2))} ₼/m²` : `> ${fmt(q(0.8))} ₼/m²`;
-    });
-  }
-  const matchDist = name => {
-    const fn = normName(name);
-    if (avgs[fn] !== undefined) return avgs[fn];
-    for (const [k,v] of Object.entries(avgs)) { if(fn.includes(k)||k.includes(fn)) return v; }
-    return null;
-  };
-  const colorFor = v => {
-    if (!v||!sorted.length) return '#e5e7eb';
-    const pct = sorted.filter(x=>x<=v).length/sorted.length;
-    return CHORO_COLORS[pct<=0.2?0:pct<=0.4?1:pct<=0.6?2:pct<=0.8?3:4];
-  };
-  choroLayer = L.geoJSON(districtGeoJson, {
-    style: f => { const avg=matchDist(f.properties.name); return {fillColor:colorFor(avg),fillOpacity:0.65,color:'#94a3b8',weight:1.5}; },
-    onEachFeature: (f, layer) => {
-      const avg = matchDist(f.properties.name);
-      const label = avg ? `<b>${f.properties.name}</b><br>Orta ₼/m²: ${fmt(avg)} ₼` : `<b>${f.properties.name}</b><br>Məlumat yoxdur`;
-      layer.on({
-        mouseover: e => { e.target.setStyle({fillOpacity:0.85,weight:2.5,color:'#1a1a2e'}); layer.bindTooltip(label,{className:'district-tooltip',sticky:true}).openTooltip(e.latlng); },
-        mouseout: e => { choroLayer.resetStyle(e.target); layer.closeTooltip(); },
-      });
-    },
-  });
-  choroLayer.addTo(leafletMap);
-  document.getElementById('map-stats').textContent = `${list.length.toLocaleString()} elan, ${districtGeoJson.features.length} rayon`;
-}
 
 // ── Location multiselect ──────────────────────────────────────────────────────
 function buildLocationDropdown(searchVal = '') {
@@ -653,7 +576,6 @@ function pushState() {
   if (agencyF)             p.set('agency', agencyF);
   if (kupcaF)              p.set('kupca',  kupcaF);
   if (selLocs.size)        p.set('locs',   [...selLocs].join('|'));
-  if (viewMode !== 'markers') p.set('view', viewMode);
   if (activeModal)            p.set('modal', activeModal);
   const str = p.toString();
   history.replaceState(null, '', str ? `?${str}` : location.pathname);
@@ -667,7 +589,6 @@ function restoreFromUrl() {
   if (p.has('sort'))   sort    = p.get('sort');
   if (p.has('del'))    showDel       = true;
   if (p.has('pchg'))   priceChangedF = true;
-  if (p.has('view'))   viewMode    = p.get('view');
   if (p.has('modal'))  activeModal = p.get('modal');
   if (p.has('locs'))   p.get('locs').split('|').filter(Boolean).forEach(l => selLocs.add(l));
 
@@ -700,9 +621,6 @@ function restoreFromUrl() {
   document.getElementById(`tab-${activeTab}`).style.display = '';
   document.getElementById('listings-filters-row').style.display = activeTab === 'listings' ? '' : 'none';
 
-  // View mode buttons
-  document.getElementById('btn-markers').classList.toggle('active', viewMode === 'markers');
-  document.getElementById('btn-choropleth').classList.toggle('active', viewMode === 'choropleth');
 }
 
 // ── Detail modal ──────────────────────────────────────────────────────────────
