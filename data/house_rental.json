@@ -104006,5 +104006,39 @@
         "date": "2026-10-04T17:32:30.039120+00:00"
       }
     ]
+  },
+  {
+    "id": "6516613",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F21%2F33%2F49%2Ff11eb2f5-f961-43e1-9ae2-88d0cabb904d%2F75545_i7-4DlP4MquddSXwSt-8tQ.jpg",
+    "price": 350,
+    "location": "Sulutəpə q.",
+    "rooms": "3 otaqlı",
+    "area_m2": "80 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.44117016430402,
+    "lng": 49.74501628968031,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-04T21:34:48+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 3 otaqlı həyət evi/bağ evi 80 m²",
+    "description": "Salam, hokmeli dairesinde (oz wexsi evimdir) geniş 3otaqli (80 kv) ev+ elave olaraq obyekt daxil munasib qiyymete kiraye verilir, teze temir olunub, esyali. ",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "64",
+    "location_name": "Sulutəpə",
+    "land_area_sot": 1,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6516613",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 350,
+        "date": "2026-10-04T17:41:07.664820+00:00"
+      }
+    ]
   }
 ]

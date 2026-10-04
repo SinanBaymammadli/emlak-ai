@@ -99878,5 +99878,37 @@
         "date": "2026-10-04T17:21:50.529751+00:00"
       }
     ]
+  },
+  {
+    "id": "6516614",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F21%2F33%2F43%2F5c71c851-524c-4738-b43a-183221d450e1%2F92922_zz2aXTy9AGBM2_fmJXXAqw.jpg",
+    "price": 3000,
+    "location": "28 May m.",
+    "area_m2": "110 m²",
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.37828524560246,
+    "lng": 49.85443314301408,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-04T21:35:47+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir obyekt 110 m²",
+    "description": "📍 28 MAY METROSUNUN TAM YANI!\r\n🌳 “Səməd Vurğun” Parkının DÜZ YANINDA!\r\n✨ Şəhərin ən prestijli və insanların sıx hərəkət etdiyi ərazilərindən birində 3 otaqlı, 110 m² tam təmirli obyekt uzunmüddətli icarəyə verilir.\r\n🔹 Obyektin üstünlükləri: • 110 m² ümumi sahə\r\n• 3 otaq\r\n• Yeni və tam təmirli\r\n• Geniş və işıqlı məkan\r\n• 4.20 metr hündür tavan\r\n• İstilik sistemi mövcuddur\r\n• Giriş birbaşa 28 May küçəsindən\r\n• Balkon və pəncərələr əsas yola və “Səməd Vurğun” Parkının mərkəzinə baxır\r\n• Görünüş və yerləşmə baxımından yüksək potensiala malikdir\r\n• Müxtəlif fəaliyyət sahələri və biznes profilləri üçün uyğundur\r\n• İnsan axınının yüksək olduğu əlverişli lokasiya\r\n⭐ İDEAL LOKASİYA + PRESTİJLİ MƏKAN + GENİŞ SAHƏ\r\nObyekt uzunmüddətli və ciddi şəxslərə icarəyə verilir.\r\n💰 Aylıq icarə: 3000 AZN — SON QİYMƏT!\r\n📞 Ətraflı məlumat və baxış üçün əlaqə saxlayın.",
+    "building_type": "Obyekt",
+    "location_id": "8",
+    "location_name": "28 May",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6516614",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 3000,
+        "date": "2026-10-04T17:41:05.727382+00:00"
+      }
+    ]
   }
 ]
