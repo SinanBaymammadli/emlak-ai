@@ -489,9 +489,8 @@ function initMap() {
 
 function renderMap() {
   if (!leafletMap) return;
-  const list = getFiltered();
-  if (viewMode === 'markers') renderMarkers(list);
-  else renderChoropleth(list);
+  if (viewMode === 'markers') renderMarkers(filtered);
+  else renderChoropleth(filtered);
 }
 
 function renderMarkers(list) {
