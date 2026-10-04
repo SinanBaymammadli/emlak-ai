@@ -57,14 +57,14 @@ jobs:
         run: xvfb-run --auto-servernum python -m scraper.main ${{ matrix.category }}
 
       - name: Upload scraped data
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: data-${{ matrix.category }}
           path: data/${{ matrix.category }}.json
 
       - name: Upload debug snapshots (if any)
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: debug-${{ matrix.category }}
           path: debug/
