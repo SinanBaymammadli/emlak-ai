@@ -1,16 +1,56 @@
 """
-Entry point: scrape today's bina.az listings → persist to per-category JSON files.
+Scraper entry point — uses bina.az GraphQL API exclusively.
 
-Each JSON file is both the persistent store and the output. On every run:
-  1. Load existing JSON (if any) into memory keyed by listing ID
-  2. Scrape fresh listings from bina.az, stopping once past today's listings
-  3. Upsert only listings updated today: new listings added, price changes appended
-     to price_history, listings no longer on site get deleted_at set
-  4. Save back to JSON — all listings including deleted ones are kept
+Per run, for each category:
+  1. Paginate itemsConnection (all listings, sorted by bumped_at desc)
+  2. Upsert every listing — tracks price + field changes
+  3. Fetch item(id) details (lat/lng, title, description, etc.) for new listings only
+  4. Mark listings absent from the full page set as deleted
 """
 import asyncio
 import json
 import os
+import urllib.request
+from datetime import datetime, timezone
+from pathlib import Path
+
+from dotenv import load_dotenv
+
+from scraper.browser import (
+    _save_debug_snapshot,
+    fetch_item_graphql,
+    fetch_items_page,
+    open_browser,
+    warmup,
+)
+from scraper.categories import CATEGORIES
+
+load_dotenv()
+
+DATA_DIR = Path(os.getenv("DATA_DIR", "data"))
+SCRAPE_LIMIT = int(os.getenv("SCRAPE_LIMIT", "0")) or None
+CONCURRENCY = int(os.getenv("SCRAPER_CONCURRENCY", str(len(CATEGORIES))))
+
+CATEGORY_IDS = {
+    "apartment": "1",
+    "house":     "5",
+    "commercial":"10",
+    "office":    "7",
+    "garage":    "8",
+    "land":      "9",
+}
+
+
+# ── Helpers ───────────────────────────────────────────────────────────────────
+
+def _now() -> str:
+    return datetime.now(timezone.utc).isoformat()
+
+
+def _file_stem(category: str, deal_type: str) -> str:
+    return f"{category}_{deal_type}"
+
+
 try:
     import orjson as _orjson
     def _json_loads(s): return _orjson.loads(s)
@@ -18,52 +58,6 @@ try:
 except ImportError:
     def _json_loads(s): return json.loads(s)
     def _json_dumps(obj): return json.dumps(obj, ensure_ascii=False, indent=2)
-import urllib.request
-from datetime import datetime, timezone, timedelta
-from pathlib import Path
-
-from dotenv import load_dotenv
-
-from scraper.browser import (
-    extract_cards,
-    fetch_item_graphql,
-    fetch_prices_batch,
-    load_category_page,
-    open_browser,
-    scroll_and_extract,
-)
-from scraper.categories import CATEGORIES
-from scraper.parser import PARSERS
-
-load_dotenv()
-
-DATA_DIR = Path(os.getenv("DATA_DIR", "data"))
-# Set SCRAPE_LIMIT=20 to test with first N listings per category (skips full scroll)
-SCRAPE_LIMIT = int(os.getenv("SCRAPE_LIMIT", "0")) or None
-# How many categories to scrape simultaneously (each gets its own browser)
-CONCURRENCY = int(os.getenv("SCRAPER_CONCURRENCY", str(len(CATEGORIES))))
-
-
-def _is_recent(text: str) -> bool:
-    t = text.lower()
-    return "bugün" in t or "bu gün" in t or "dünən" in t
-
-
-def make_recent_stop_check(threshold: int = 20):
-    """Stop scrolling once the last `threshold` cards contain no today/yesterday listings,
-    but only after we've seen at least one recent listing (avoids stopping before
-    recent listings have even loaded)."""
-    def check(all_cards: list[dict]) -> bool:
-        if len(all_cards) < threshold:
-            return False
-        if not any(_is_recent(c["text"]) for c in all_cards):
-            return False
-        tail = all_cards[-threshold:]
-        if not any(_is_recent(c["text"]) for c in tail):
-            print(f"  no recent listings in last {threshold} cards → stopping")
-            return True
-        return False
-    return check
 
 
 def telegram_notify(text: str) -> None:
@@ -83,14 +77,6 @@ def telegram_notify(text: str) -> None:
         print(f"  Telegram notify failed: {exc}")
 
 
-def _now() -> str:
-    return datetime.now(timezone.utc).isoformat()
-
-
-def _file_stem(category: str, deal_type: str) -> str:
-    return f"{category}_{deal_type}"
-
-
 def load_existing(category: str, deal_type: str) -> dict[str, dict]:
     path = DATA_DIR / f"{_file_stem(category, deal_type)}.json"
     if not path.exists():
@@ -105,31 +91,72 @@ def save_listings(category: str, deal_type: str, listings: dict[str, dict]) -> N
     sorted_listings = sorted(
         listings.values(),
         key=lambda l: (l["deleted_at"] is not None, l.get("updated_at_site") or ""),
-        reverse=False,
     )
     output = _json_dumps(sorted_listings)
     output = output.replace("\u2028", "\\u2028").replace("\u2029", "\\u2029")
     path.write_text(output, encoding="utf-8")
 
 
-def upsert(
-    existing: dict[str, dict], listing: dict, category: str, deal_type: str
-) -> str:
-    """Update existing dict in-place. Returns 'new', 'updated', or 'unchanged'."""
+# ── ESItem parsing ────────────────────────────────────────────────────────────
+
+def parse_es_node(node: dict, category: str, deal_type: str) -> dict:
+    rooms = node.get("rooms")
+    area = (node.get("area") or {}).get("value")
+    floor_n = node.get("floor")
+    floors_n = node.get("floors")
+    loc = node.get("location") or {}
+    return {
+        "id": node["id"],
+        "photo_url": (node.get("preview") or {}).get("f460x345"),
+        "price": (node.get("price") or {}).get("total"),
+        "location": loc.get("fullName") or loc.get("name") or "",
+        "location_id": loc.get("id"),
+        "location_name": loc.get("name"),
+        "rooms": f"{rooms} otaqlı" if rooms else None,
+        "area_m2": area,
+        "floor": f"{floor_n}/{floors_n} mərtəbə" if floor_n and floors_n else None,
+        "floor_number": floor_n,
+        "is_agency": node.get("isBusiness"),
+        "has_repair": node.get("hasRepair"),
+        "has_bill_of_sale": node.get("hasBillOfSale"),
+        "has_mortgage": node.get("hasMortgage"),
+        "is_featured": node.get("isFeatured"),
+        "updated_at_site": node.get("updatedAt"),
+        "category": category,
+        "deal_type": deal_type,
+        "url": f"https://bina.az{node['path']}",
+    }
+
+
+# ── Upsert ────────────────────────────────────────────────────────────────────
+
+# Fields refreshed on every scrape from itemsConnection
+_ES_FIELDS = [
+    "photo_url", "location", "location_id", "location_name",
+    "rooms", "area_m2", "floor", "floor_number",
+    "is_agency", "has_repair", "has_bill_of_sale", "has_mortgage",
+    "is_featured", "updated_at_site",
+]
+
+
+def upsert(existing: dict[str, dict], listing: dict) -> str:
+    """Upsert listing into existing dict. Returns 'new', 'updated', or 'unchanged'."""
     now = _now()
     item_id = listing["id"]
 
     if item_id not in existing:
         existing[item_id] = {
             **listing,
-            "category": category,
-            "deal_type": deal_type,
-            "url": f"https://bina.az/items/{item_id}",
+            "lat": None,
+            "lng": None,
+            "land_area_sot": None,
+            "building_type": None,
+            "title": None,
+            "description": None,
             "deleted_at": None,
             "price_history": (
                 [{"price": listing["price"], "date": now}]
-                if listing.get("price") is not None
-                else []
+                if listing.get("price") is not None else []
             ),
         }
         return "new"
@@ -139,143 +166,143 @@ def upsert(
     if record.get("deleted_at"):
         record["deleted_at"] = None
 
-    old_price = record.get("price")
+    changed = False
+
+    # Refresh fields from ESItem
+    for field in _ES_FIELDS:
+        new_val = listing.get(field)
+        if new_val is not None and record.get(field) != new_val:
+            record[field] = new_val
+            changed = True
+
+    # Price change tracking
     new_price = listing.get("price")
+    if new_price is not None and new_price != record.get("price"):
+        record["price"] = new_price
+        record.setdefault("price_history", []).append({"price": new_price, "date": now})
+        changed = True
 
-    if new_price != old_price:
-        record.update(listing)
-        if new_price is not None:
-            record.setdefault("price_history", []).append(
-                {"price": new_price, "date": now}
-            )
-        return "updated"
-
-    return "unchanged"
+    return "updated" if changed else "unchanged"
 
 
+# ── Scrape category ───────────────────────────────────────────────────────────
 
 async def scrape_category(page, cfg: dict) -> None:
     category = cfg["category"]
     deal_type = cfg["deal_type"]
-    url = cfg["url"]
     print(f"\n→ {category}/{deal_type}")
 
     existing = load_existing(category, deal_type)
-    parser = PARSERS.get(category, PARSERS["apartment"])
+    cat_id = CATEGORY_IDS[category]
+    leased = deal_type == "rental"
 
-    total = await load_category_page(page, url)
-    print(f"  total on site: {total}")
-    if SCRAPE_LIMIT:
-        print(f"  limit={SCRAPE_LIMIT} (test mode — skipping full scroll)")
-        raw_cards = await extract_cards(page)
-        raw_cards = raw_cards[:SCRAPE_LIMIT]
-    else:
-        raw_cards = await scroll_and_extract(
-            page, target=total, stop_check=make_recent_stop_check()
-        )
-    print(f"  cards extracted: {len(raw_cards)}")
-
-    if total == 0 and len(raw_cards) == 0 and not SCRAPE_LIMIT:
-        from scraper.browser import _save_debug_snapshot
-        snap = await _save_debug_snapshot(page, f"zero_{category}_{deal_type}")
-        raise RuntimeError(
-            f"0 listings extracted and total=0 — likely blocked or page structure changed. "
-            f"Snapshot: {snap}"
-        )
-
-    recent_cards = [c for c in raw_cards if _is_recent(c["text"])]
-    print(f"  recent: {len(recent_cards)}")
-
-    # Split: new listings need GQL; known listings skip GQL unless price changed
-    new_cards = [c for c in recent_cards if c["id"] not in existing]
-    known_cards = [c for c in recent_cards if c["id"] in existing]
-    price_changed_cards = [
-        c for c in known_cards
-        if parser(c["text"]).get("price") != existing[c["id"]].get("price")
-    ]
-    gql_cards = new_cards + price_changed_cards
-
-    GQL_BATCH = 20
-    gql_results: list[dict] = []
-    for i in range(0, len(gql_cards), GQL_BATCH):
-        batch = gql_cards[i:i + GQL_BATCH]
-        batch_gql = await asyncio.gather(*[fetch_item_graphql(page, c["id"]) for c in batch])
-        gql_results.extend(batch_gql)
-
-    gql_map = {card["id"]: gql for card, gql in zip(gql_cards, gql_results)}
+    seen_ids: set[str] = set()
+    new_ids: list[str] = []
     counts = {"new": 0, "updated": 0, "unchanged": 0}
+    cursor = None
+    total_count = None
+    page_num = 0
+    all_pages_fetched = False
 
-    for card in recent_cards:
-        item_id = card["id"]
-        parsed = parser(card["text"])
-        gql = gql_map.get(item_id, {})
-        listing = {
-            "id": item_id,
-            "photo_url": card.get("photo_url"),
-            **parsed,
-            "lat": gql.get("lat"),
-            "lng": gql.get("lng"),
-            "has_repair": gql.get("has_repair"),
-            "has_bill_of_sale": gql.get("has_bill_of_sale"),
-            "has_mortgage": gql.get("has_mortgage"),
-            "floor_number": gql.get("floor_number"),
-            "updated_at_site": gql.get("updated_at_site"),
-            "is_featured": gql.get("is_featured"),
-            "title": gql.get("title"),
-            "description": gql.get("description"),
-            "building_type": gql.get("building_type"),
-            "location_id": gql.get("location_id"),
-            "location_name": gql.get("location_name"),
-        }
-        if gql.get("area_m2_gql") and not listing.get("area_m2"):
-            listing["area_m2"] = gql["area_m2_gql"]
-        if gql.get("land_area_sot") and not listing.get("land_area_sot"):
-            listing["land_area_sot"] = gql["land_area_sot"]
+    while True:
+        edges, next_cursor, has_next, total = await fetch_items_page(page, cat_id, leased, cursor)
 
-        result = upsert(existing, listing, category, deal_type)
-        counts[result] += 1
+        if total_count is None and total:
+            total_count = total
+            print(f"  total on site: {total_count}")
 
-    # ── Silent price check ────────────────────────────────────────────────────
-    # Check ALL active listings not seen in today's/yesterday's recent cards.
-    # Catches price changes by owners who edited without bumping.
-    recent_ids = {c["id"] for c in recent_cards}
-    candidates = [
-        l for l in existing.values()
-        if not l.get("deleted_at") and l["id"] not in recent_ids and l.get("price")
-    ]
-    if candidates:
-        print(f"  price-checking {len(candidates)} non-recent listings…")
-        price_changed = 0
-        BATCH = 200  # GraphQL aliases — many items per HTTP request
-        for i in range(0, len(candidates), BATCH):
-            batch = candidates[i:i + BATCH]
-            prices = await fetch_prices_batch(page, [l["id"] for l in batch])
-            for l in batch:
-                new_price = prices.get(l["id"])
-                if new_price is not None and new_price != l["price"]:
-                    existing[l["id"]]["price"] = new_price
-                    existing[l["id"]].setdefault("price_history", []).append(
-                        {"price": new_price, "date": _now()}
-                    )
-                    counts["updated"] += 1
-                    price_changed += 1
-        if price_changed:
-            print(f"  silent price changes detected: {price_changed}")
+        if not edges:
+            if page_num == 0:
+                snap = await _save_debug_snapshot(page, f"blocked_{category}_{deal_type}")
+                raise RuntimeError(
+                    f"0 listings on first page — likely blocked. Snapshot: {snap}"
+                )
+            break
+
+        for edge in edges:
+            node = edge.get("node") or {}
+            item_id = node.get("id")
+            if not item_id:
+                continue
+            seen_ids.add(item_id)
+            listing = parse_es_node(node, category, deal_type)
+            result = upsert(existing, listing)
+            counts[result] += 1
+            if result == "new":
+                new_ids.append(item_id)
+
+        page_num += 1
+        total_str = f"/{total_count}" if total_count else ""
+        print(
+            f"  page {page_num}{total_str and f' ({len(seen_ids)}{total_str})'}"
+            f"  new={counts['new']} updated={counts['updated']} unchanged={counts['unchanged']}",
+            end="\r", flush=True,
+        )
+
+        if SCRAPE_LIMIT and len(seen_ids) >= SCRAPE_LIMIT:
+            print()
+            print(f"  limit={SCRAPE_LIMIT} reached")
+            break
+
+        if not has_next:
+            all_pages_fetched = True
+            break
+
+        cursor = next_cursor
+
+    print()  # end the \r line
+    print(f"  pages={page_num}  seen={len(seen_ids)}")
+
+    # Fetch full details for new listings (lat/lng, title, description, etc.)
+    if new_ids:
+        print(f"  fetching details for {len(new_ids)} new listings…")
+        GQL_BATCH = 20
+        for i in range(0, len(new_ids), GQL_BATCH):
+            print(f"  details {i + GQL_BATCH}/{len(new_ids)}", end="\r", flush=True)
+            batch = new_ids[i:i + GQL_BATCH]
+            gql_results = await asyncio.gather(*[fetch_item_graphql(page, id_) for id_ in batch])
+            for id_, gql in zip(batch, gql_results):
+                if not gql or id_ not in existing:
+                    continue
+                r = existing[id_]
+                for key, val in {
+                    "lat": gql.get("lat"),
+                    "lng": gql.get("lng"),
+                    "land_area_sot": gql.get("land_area_sot"),
+                    "building_type": gql.get("building_type"),
+                    "title": gql.get("title"),
+                    "description": gql.get("description"),
+                }.items():
+                    if val is not None:
+                        r[key] = val
+                if gql.get("area_m2_gql") and not r.get("area_m2"):
+                    r["area_m2"] = gql["area_m2_gql"]
+
+    # Deletion detection — only when we fetched every page
+    if all_pages_fetched:
+        deleted = 0
+        for id_, record in existing.items():
+            if id_ not in seen_ids and not record.get("deleted_at"):
+                record["deleted_at"] = _now()
+                deleted += 1
+        if deleted:
+            print(f"  marked {deleted} as deleted")
 
     save_listings(category, deal_type, existing)
-
     print(
         f"  new={counts['new']} updated={counts['updated']} "
         f"unchanged={counts['unchanged']} → saved {len(existing)} total"
     )
 
 
+# ── Orchestration ─────────────────────────────────────────────────────────────
+
 async def scrape_category_isolated(cfg: dict, sem: asyncio.Semaphore, errors: list) -> None:
-    """Open a dedicated browser for one category, scrape it, then close."""
     async with sem:
         try:
-            async with open_browser(headless=False) as browser:
+            async with open_browser(headless=True) as browser:
                 page = await browser.new_page()
+                await warmup(page)
                 await scrape_category(page, cfg)
         except Exception as exc:
             msg = f"{cfg['category']}/{cfg['deal_type']}: {exc}"
@@ -291,13 +318,9 @@ async def main(categories: list | None = None) -> None:
     print(f"Scraping {len(targets)} categories with concurrency={min(CONCURRENCY, len(targets))}")
     sem = asyncio.Semaphore(min(CONCURRENCY, len(targets)))
 
-    try:
-        await asyncio.gather(
-            *[scrape_category_isolated(cfg, sem, errors) for cfg in targets]
-        )
-    except Exception as exc:
-        telegram_notify(f"❌ <b>emlak-ai scrape failed</b>\n{exc}")
-        raise
+    await asyncio.gather(
+        *[scrape_category_isolated(cfg, sem, errors) for cfg in targets]
+    )
 
     lines = ["✅ <b>emlak-ai scrape complete</b>"]
     for f in sorted(DATA_DIR.glob("*.json")):
