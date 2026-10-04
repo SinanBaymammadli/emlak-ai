@@ -286,6 +286,10 @@ async def main(categories: list | None = None) -> None:
     telegram_notify("\n".join(lines))
     print("\nDone.")
 
+    if errors:
+        import sys
+        sys.exit(1)
+
 
 if __name__ == "__main__":
     import sys
