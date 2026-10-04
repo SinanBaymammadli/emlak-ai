@@ -1287,39 +1287,6 @@
     ]
   },
   {
-    "id": "6503004",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F29%2F19%2F32%2F50%2F4e94c601-47d8-4a6b-8d7d-7d7b1bd7df6d%2F35336_oCD871Z4qiSbRy103B2MDw.jpg",
-    "price": 2100,
-    "location": "Binəqədi r.",
-    "rooms": "",
-    "area_m2": "300 m²",
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.43723825091347,
-    "lng": 49.79545167308565,
-    "has_repair": null,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-29T19:37:00+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir qaraj 300 m²",
-    "description": "Bileceride Avto servis qaraji  kiraye verilir icindeki avadanlarla birlikde herbir seraiti var 300kv sahesi var  luku dangrati ve’s elave avadanliqlarda yerlesdire biler rea musteriler zeng etsin.Ofis haqqi 30%",
-    "building_type": "Qaraj",
-    "location_id": "58",
-    "location_name": "Binəqədi",
-    "category": "garage",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6503004",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 2100,
-        "date": "2026-09-30T19:56:33.654680+00:00"
-      }
-    ]
-  },
-  {
     "id": "6493028",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F26%2F11%2F19%2F24%2F44894101-cb44-476f-84ab-61cd81c05238%2F76352_qNhvMV0n4mDiEMFwDQQKYQ.jpg",
     "price": 200,
@@ -1716,6 +1683,43 @@
       {
         "price": 100,
         "date": "2026-10-03T20:22:33.503688+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6503004",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F29%2F19%2F32%2F50%2F4e94c601-47d8-4a6b-8d7d-7d7b1bd7df6d%2F35336_oCD871Z4qiSbRy103B2MDw.jpg",
+    "price": 2000,
+    "location": "Binəqədi r.",
+    "rooms": "",
+    "area_m2": "300 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.43723825091347,
+    "lng": 49.79545167308565,
+    "has_repair": null,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-04T20:45:32+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 300 m²",
+    "description": "Bileceride Avto servis qaraji  kiraye verilir icindeki avadanlarla birlikde herbir seraiti var 300kv sahesi var  luku dangrati ve’s elave avadanliqlarda yerlesdire biler rea musteriler zeng etsin.Ofis haqqi 30%",
+    "building_type": "Qaraj",
+    "location_id": "58",
+    "location_name": "Binəqədi",
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6503004",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 2100,
+        "date": "2026-09-30T19:56:33.654680+00:00"
+      },
+      {
+        "price": 2000,
+        "date": "2026-10-04T17:00:40.483176+00:00"
       }
     ]
   }
