@@ -27,7 +27,7 @@ from dotenv import load_dotenv
 from scraper.browser import (
     extract_cards,
     fetch_item_graphql,
-    fetch_item_price,
+    fetch_prices_batch,
     load_category_page,
     open_browser,
     scroll_and_extract,
@@ -246,11 +246,12 @@ async def scrape_category(page, cfg: dict) -> None:
     if candidates:
         print(f"  price-checking {len(candidates)} non-recent listings…")
         price_changed = 0
-        BATCH = 30
+        BATCH = 200  # GraphQL aliases — many items per HTTP request
         for i in range(0, len(candidates), BATCH):
             batch = candidates[i:i + BATCH]
-            prices = await asyncio.gather(*[fetch_item_price(page, l["id"]) for l in batch])
-            for l, new_price in zip(batch, prices):
+            prices = await fetch_prices_batch(page, [l["id"] for l in batch])
+            for l in batch:
+                new_price = prices.get(l["id"])
                 if new_price is not None and new_price != l["price"]:
                     existing[l["id"]]["price"] = new_price
                     existing[l["id"]].setdefault("price_history", []).append(

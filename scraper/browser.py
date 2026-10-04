@@ -142,32 +142,38 @@ async def extract_cards(page) -> list[dict]:
     }""")
 
 
-async def fetch_item_price(page, item_id: str) -> int | None:
-    """Fetch only the current price for a listing via GraphQL. Returns None on error."""
+async def fetch_prices_batch(page, item_ids: list[str]) -> dict[str, int | None]:
+    """Fetch prices for up to 300 listings in a single GraphQL request using aliases.
+    Returns {id: price_or_None}."""
+    if not item_ids:
+        return {}
+    alias_fields = " ".join(
+        f'i{id}: item(id: "{id}") {{ price {{ total }} }}' for id in item_ids
+    )
     try:
         data = await page.evaluate(
-            """async (id) => {
+            """async (query) => {
             const controller = new AbortController();
-            const timer = setTimeout(() => controller.abort(), 10000);
+            const timer = setTimeout(() => controller.abort(), 30000);
             try {
                 const r = await fetch('https://bina.az/graphql', {
                     method: 'POST',
                     headers: {'Content-Type': 'application/json'},
-                    body: JSON.stringify({
-                        operationName: 'GetItemPrice',
-                        variables: {id},
-                        query: `query GetItemPrice($id: ID!) { item(id: $id) { price { total } } }`
-                    }),
+                    body: JSON.stringify({ query }),
                     signal: controller.signal
                 });
                 return r.json();
             } finally { clearTimeout(timer); }
         }""",
-            item_id,
+            f"query {{ {alias_fields} }}",
         )
-        return ((data.get("data") or {}).get("item") or {}).get("price", {}).get("total")
+        result = data.get("data") or {}
+        return {
+            id: (result.get(f"i{id}") or {}).get("price", {}).get("total")
+            for id in item_ids
+        }
     except Exception:
-        return None
+        return {id: None for id in item_ids}
 
 
 async def fetch_item_graphql(page, item_id: str) -> dict:
