@@ -70,23 +70,23 @@ Opens `http://localhost:8000` in your browser automatically.
 
 ```bash
 # Create and activate a virtual environment
-python -m venv .venv
+python3 -m venv .venv
 source .venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Download the Camoufox browser (once)
-python -m camoufox fetch
+python3 -m camoufox fetch
 
 # Copy and fill in env config
 cp .env.example .env
 
 # Run the full scraper — opens a visible browser window
-python -m scraper.main
+python3 -m scraper.main
 
 # Run a quick test with 20 listings per category
-SCRAPE_LIMIT=20 python -m scraper.main
+SCRAPE_LIMIT=20 python3 -m scraper.main
 ```
 
 The scraper opens a real (non-headless) browser window to avoid Cloudflare bot detection.
