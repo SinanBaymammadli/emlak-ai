@@ -9,6 +9,9 @@ const PAGE_SIZE = 50;
 const PALETTE = ['#6366f1','#4ade80','#f59e0b','#ef4444','#06b6d4','#8b5cf6','#ec4899'];
 const CAT_COLORS = {apartment:'#6366f1',house:'#4ade80',land:'#f59e0b',commercial:'#ef4444',office:'#06b6d4',garage:'#8b5cf6'};
 
+// location_name → rayon name (built from point-in-polygon on listing coordinates)
+const LOCATION_RAYON = {"Badamdar":"Səbail","Mərdəkan":"Xəzər","Buzovna":"Xəzər","Məmmədli":"Abşeron","Görədil":"Sabunçu","Qobu":"Abşeron","Şüvəlan":"Xəzər","Hövsan":"Suraxanı","Saray":"Abşeron","Maştağa":"Sabunçu","Albalılıq":"Sabunçu","Binə":"Xəzər","Novxanı":"Abşeron","Yeni Ramana":"Suraxanı","Sea Breeze":"Sabunçu","Bülbülə":"Suraxanı","Nardaran":"Sabunçu","Türkan":"Xəzər","Azadlıq Prospekti":"Binəqədi","Bahar":"Suraxanı","Şıxov":"Səbail","Zabrat":"Sabunçu","Bilgəh":"Sabunçu","Həzi Aslanov":"Xətai","Mehdiabad":"Abşeron","Müşfiqabad":"Binəqədi","Elmlər Akademiyası":"Yasamal","Kürdəxanı":"Sabunçu","Nəsimi":"Nərimanov","Sulutəpə":"Binəqədi","Suraxanı":"Suraxanı","Savalan":"Sabunçu","Ceyranbatan":"Abşeron","Masazır":"Abşeron","Abşeron":"Abşeron","Qala":"Xəzər","Şağan":"Xəzər","Binəqədi":"Binəqədi","Sabunçu":"Sabunçu","Fatmayı":"Abşeron","Atyalı":"Binəqədi","Pirşağı":"Sabunçu","Səbail":"Səbail","Bakıxanov":"Sabunçu","Neftçilər":"Nizami","Biləcəri":"Binəqədi","Xocəsən":"Binəqədi","Zığ":"Suraxanı","Aşağı Güzdək":"Abşeron","Zirə":"Xəzər","Gənclik":"Nərimanov","Nərimanov":"Nərimanov","Digah":"Abşeron","Sahil":"Səbail","Dübəndi":"Pirallahı","Lökbatan":"Qaradağ","Köhnə Günəşli":"Xətai","Ələt":"Qaradağ","Qara Qarayev":"Nizami","Əmircan":"Suraxanı","28 May":"Nəsimi","Xəzər":"Xəzər","Gürgən":"Pirallahı","Nizami":"Nəsimi","Ramana":"Sabunçu","M.Ə.Rəsulzadə":"Binəqədi","9-cu mikrorayon":"Binəqədi","Yeni Suraxanı":"Suraxanı","Dədə Qorqud":"Suraxanı","8-ci kilometr":"Nizami","Səngəçal":"Qaradağ","NZS":"Xətai","Hökməli":"Binəqədi","Xətai":"Xətai","Keşlə":"Nizami","Puta":"Qaradağ","Balaxanı":"Sabunçu","Xalqlar Dostluğu":"Nizami","Əhmədli":"Xətai","Pirallahı":"Pirallahı","Güzdək":"Abşeron","Nəriman Nərimanov":"Nərimanov","Qızıldaş":"Qaradağ","Dərnəgül":"Binəqədi","Yeni Yasamal":"Yasamal","İçəri Şəhər":"Səbail","Şah İsmayıl Xətai":"Xətai","Qobustan":"Qaradağ","7-ci mikrorayon":"Binəqədi","İnşaatçılar":"Yasamal","Bayıl":"Səbail","Yeni Günəşli":"Suraxanı","Şimal DRES":"Xəzər","6-cı mikrorayon":"Binəqədi","Avtovağzal":"Binəqədi","Ulduz":"Nizami","Ağ şəhər":"Xətai","8-ci mikrorayon":"Binəqədi","20 Yanvar":"Yasamal","Memar Əcəmi":"Nəsimi","Qaradağ":"Qaradağ","Çiçək":"Binəqədi","Koroğlu":"Nizami","Massiv D":"Suraxanı","20-ci sahə":"Səbail","Bibiheybət":"Səbail","Bakmil":"Nərimanov","Zuğulba":"Xəzər","Yeni Balaxanı":"Sabunçu","Yasamal":"Yasamal","Günəşli":"Suraxanı","3-cü mikrorayon":"Nəsimi","8 Noyabr":"Nəsimi","Böyükşor":"Nərimanov","Massiv G":"Suraxanı","Massiv V":"Suraxanı","4-cü mikrorayon":"Nərimanov","Kubinka":"Nəsimi","Xutor":"Binəqədi","2-ci mikrorayon":"Abşeron","Massiv B":"Suraxanı","Massiv A":"Suraxanı","Şubanı":"Qaradağ","1-ci mikrorayon":"Nəsimi","5-ci mikrorayon":"Nəsimi"};
+
 const ALL_LOCATIONS = ['20 Yanvar m.','20-ci sahə q.','28 May m.','9-cu mikrorayon q.','Azadlıq Prospekti m.','Ağ şəhər q.','Badamdar q.','Bakıxanov q.','Bayıl q.','Bilgəh q.','Biləcəri q.','Binə q.','Binəqədi q.','Binəqədi r.','Buzovna q.','Dübəndi q.','Elmlər Akademiyası m.','Görədil q.','Gənclik m.','Hökməli q.','Hövsan q.','Həzi Aslanov m.','Həzi Aslanov q.','Koroğlu m.','Lökbatan q.','M.Ə.Rəsulzadə q.','Masazır q.','Mehdiabad q.','Memar Əcəmi m.','Məmmədli q.','Mərdəkan q.','Nardaran q.','Neftçilər m.','Nizami m.','Nizami r.','Novxanı q.','Nəriman Nərimanov m.','Nərimanov r.','Nəsimi r.','Qala q.','Qara Qarayev m.','Qaraçuxur q.','Qobu q.','Sahil q.','Saray q.','Sea Breeze q.','Türkan q.','Yasamal q.','Yasamal r.','Yeni Ramana q.','Yeni Yasamal q.','Zabrat q.','Zığ q.','İnşaatçılar m.','İçəri Şəhər m.','Şah İsmayıl Xətai m.','Şağan q.','Şüvəlan q.','Əhmədli m.','Ələt q.','Əmircan q.'];
 
 // ── Shared state ──────────────────────────────────────────────────────────────
@@ -457,7 +460,7 @@ let leafletMap = null;
 let markerLayer = null;
 let districtLayer = null;
 let districtGeoJson = null;
-let mapMode = 'markers'; // 'markers' | 'districts'
+let mapMode = 'markers'; // 'markers' | 'districts' | 'heatmap'
 let activeRayons = new Set(); // empty = all visible
 
 const DISTRICT_COLORS = [
@@ -473,8 +476,9 @@ function initMap() {
   markerLayer = L.layerGroup().addTo(leafletMap);
 
   // Restore map mode button state
-  document.getElementById('btn-markers').classList.toggle('active', mapMode === 'markers');
-  document.getElementById('btn-districts').classList.toggle('active', mapMode === 'districts');
+  ['btn-markers','btn-districts','btn-heatmap'].forEach(id => {
+    document.getElementById(id)?.classList.toggle('active', id === `btn-${mapMode}`);
+  });
   document.getElementById('rayon-panel').style.display = mapMode === 'districts' ? '' : 'none';
 
   fetch('districts.geojson').then(r => r.ok ? r.json() : null).catch(() => null).then(d => {
@@ -483,25 +487,23 @@ function initMap() {
     if (mapMode === 'districts') renderDistricts();
   });
 
-  document.getElementById('btn-markers').addEventListener('click', () => {
-    mapMode = 'markers';
-    document.getElementById('btn-markers').classList.add('active');
-    document.getElementById('btn-districts').classList.remove('active');
-    document.getElementById('rayon-panel').style.display = 'none';
+  const setMapMode = (mode) => {
+    mapMode = mode;
+    ['btn-markers','btn-districts','btn-heatmap'].forEach(id => {
+      document.getElementById(id)?.classList.toggle('active', id === `btn-${mode}`);
+    });
+    document.getElementById('rayon-panel').style.display = mode === 'districts' ? '' : 'none';
     renderMap(); pushState();
-  });
-  document.getElementById('btn-districts').addEventListener('click', () => {
-    mapMode = 'districts';
-    document.getElementById('btn-districts').classList.add('active');
-    document.getElementById('btn-markers').classList.remove('active');
-    document.getElementById('rayon-panel').style.display = '';
-    renderMap(); pushState();
-  });
+  };
+  document.getElementById('btn-markers').addEventListener('click',  () => setMapMode('markers'));
+  document.getElementById('btn-districts').addEventListener('click', () => setMapMode('districts'));
+  document.getElementById('btn-heatmap').addEventListener('click',   () => setMapMode('heatmap'));
 }
 
 function renderMap() {
   if (!leafletMap) return;
   if (mapMode === 'districts') renderDistricts();
+  else if (mapMode === 'heatmap') renderHeatmap();
   else renderMarkers(filtered);
 }
 
@@ -523,11 +525,17 @@ function buildRayonPanel() {
       if (activeRayons.has(name)) {
         activeRayons.delete(name);
         item.classList.remove('active');
+        // Remove this rayon's locations from selLocs
+        Object.entries(LOCATION_RAYON).forEach(([loc, r]) => { if (r === name) selLocs.delete(loc); });
       } else {
         activeRayons.add(name);
         item.classList.add('active');
+        // Add this rayon's locations to selLocs
+        Object.entries(LOCATION_RAYON).forEach(([loc, r]) => { if (r === name) selLocs.add(loc); });
       }
+      updateMsLabel();
       renderDistricts();
+      applyFilters();
       pushState();
     });
   });
@@ -565,27 +573,76 @@ function renderDistricts() {
   }).addTo(leafletMap);
 
   const shown = showAll ? districtGeoJson.features.length : activeRayons.size;
-  document.getElementById('map-stats').textContent = `${shown} rayon göstərilir`;
+  document.getElementById('map-stats').textContent = mapMode === 'heatmap'
+    ? document.getElementById('map-stats').textContent  // keep heatmap stats
+    : `${shown} rayon göstərilir`;
 
-  // Add numbered vertex markers for selected rayons
-  if (!showAll) {
-    districtGeoJson.features.forEach(f => {
-      if (!activeRayons.has(f.properties.name)) return;
-      f.geometry.coordinates.forEach(poly => {
-        poly[0].forEach((pt, i) => {
-          if (i === poly[0].length - 1) return; // skip closing point
-          L.marker([pt[1], pt[0]], {
-            icon: L.divIcon({
-              className: '',
-              html: `<div style="background:#1a1a2e;color:#fff;font-size:9px;padding:1px 3px;border-radius:3px;white-space:nowrap;line-height:1.2">${i}</div>`,
-              iconAnchor: [0, 0],
-            }),
-            interactive: false,
-          }).addTo(districtLayer);
-        });
+}
+
+function renderHeatmap() {
+  markerLayer.clearLayers();
+  if (districtLayer) { leafletMap.removeLayer(districtLayer); districtLayer = null; }
+  if (!districtGeoJson) return;
+
+  // Compute average ₼/m² per rayon from current filtered listings
+  const rayonPpm2 = {};
+  filtered.forEach(l => {
+    const loc = l.location_name || l.location || '';
+    const rayon = LOCATION_RAYON[loc] || LOCATION_RAYON[loc.replace(/ [qmr]\.$/, '').trim()];
+    if (!rayon) return;
+    const v = ppm2(l);
+    if (!v) return;
+    if (!rayonPpm2[rayon]) rayonPpm2[rayon] = [];
+    rayonPpm2[rayon].push(v);
+  });
+  const avgs = {};
+  Object.entries(rayonPpm2).forEach(([r, vals]) => {
+    if (vals.length >= 3) avgs[r] = vals.reduce((a, b) => a + b, 0) / vals.length;
+  });
+  const values = Object.values(avgs).sort((a, b) => a - b);
+  const min = values[0] || 0;
+  const max = values[values.length - 1] || 1;
+
+  const colorFor = (v) => {
+    if (v == null) return '#e5e7eb';
+    const t = Math.max(0, Math.min(1, (v - min) / (max - min)));
+    // green (#22c55e) → yellow (#facc15) → red (#ef4444)
+    if (t < 0.5) {
+      const s = t * 2;
+      const r = Math.round(34 + s * (250 - 34));
+      const g = Math.round(197 + s * (204 - 197));
+      const b = Math.round(94 + s * (21 - 94));
+      return `rgb(${r},${g},${b})`;
+    } else {
+      const s = (t - 0.5) * 2;
+      const r = Math.round(250 + s * (239 - 250));
+      const g = Math.round(204 + s * (68 - 204));
+      const b = Math.round(21 + s * (68 - 21));
+      return `rgb(${r},${g},${b})`;
+    }
+  };
+
+  districtLayer = L.geoJSON(districtGeoJson, {
+    style: f => {
+      const avg = avgs[f.properties.name];
+      return { fillColor: colorFor(avg), fillOpacity: avg ? 0.65 : 0.15, color: '#fff', weight: 1.5 };
+    },
+    onEachFeature: (f, layer) => {
+      const avg = avgs[f.properties.name];
+      const label = avg
+        ? `<b>${f.properties.name}</b><br>Orta ₼/m²: ${fmt(avg)}`
+        : `<b>${f.properties.name}</b><br>Məlumat yoxdur`;
+      layer.bindTooltip(label, { className: 'district-tooltip', sticky: true });
+      layer.on({
+        mouseover: e => e.target.setStyle({ fillOpacity: 0.85, weight: 2.5 }),
+        mouseout:  () => districtLayer.resetStyle(layer),
       });
-    });
-  }
+    },
+  }).addTo(leafletMap);
+
+  const count = Object.keys(avgs).length;
+  document.getElementById('map-stats').textContent =
+    `${count} rayon — min ${fmt(min)} ₼/m² · max ${fmt(max)} ₼/m²`;
 }
 
 function renderMarkers(list) {
