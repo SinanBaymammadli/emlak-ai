@@ -62,6 +62,14 @@ jobs:
           name: data-${{ matrix.category }}
           path: data/${{ matrix.category }}.json
 
+      - name: Upload debug snapshots (if any)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-${{ matrix.category }}
+          path: debug/
+          if-no-files-found: ignore
+
   commit:
     name: Commit all data
     runs-on: ubuntu-latest

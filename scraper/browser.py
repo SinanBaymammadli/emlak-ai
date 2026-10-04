@@ -34,6 +34,15 @@ async def load_category_page(page, url: str) -> int:
         document.querySelectorAll('footer, .footer, #footer, .site-footer').forEach(el => el.remove());
         return m ? parseInt(m[1]) : 0;
     }""")
+    if total == 0:
+        title = await page.title()
+        import pathlib, datetime
+        ts = datetime.datetime.utcnow().strftime("%Y%m%d_%H%M%S")
+        debug_dir = pathlib.Path("debug")
+        debug_dir.mkdir(exist_ok=True)
+        await page.screenshot(path=str(debug_dir / f"page_{ts}.png"), full_page=False)
+        (debug_dir / f"page_{ts}.html").write_text(await page.content(), encoding="utf-8")
+        print(f"  WARNING: total=0 (title={title!r}), debug snapshot saved to debug/page_{ts}.*")
     return total
 
 
