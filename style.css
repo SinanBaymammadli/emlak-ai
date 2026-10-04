@@ -409,7 +409,7 @@ header h1 span { color: #4ade80; }
 .choro-swatch { width: 20px; height: 12px; border-radius: 2px; flex-shrink: 0; border: 1px solid rgba(0,0,0,.1); }
 
 /* ── Rayon chips row ── */
-.rayon-chips-row { display: flex; flex-wrap: nowrap; gap: 4px; align-items: center; overflow-x: auto; margin-left: auto; }
+.rayon-chips-row { display: flex; flex-wrap: nowrap; gap: 4px; align-items: center; overflow-x: auto; }
 .rayon-item {
   display: flex; align-items: center; gap: 5px;
   padding: 3px 8px; border-radius: 999px;
