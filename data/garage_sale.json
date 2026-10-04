@@ -3729,43 +3729,6 @@
     ]
   },
   {
-    "id": "6474526",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F19%2F15%2F23%2F44%2Ffc6dc87c-058e-42be-b09c-83387dc1f30c%2F75319_4CwxvksiY-yxP0lqhIaq-Q.jpg",
-    "price": 36001,
-    "location": "28 May m.",
-    "rooms": "",
-    "area_m2": "20 m²",
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.37904256272446,
-    "lng": 49.84161660042789,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-01T07:40:58+04:00",
-    "is_featured": false,
-    "title": "Satılır qaraj 20 m²",
-    "description": "OBYEKT / OFİS KİMİ İSTİFADƏYƏ YARARLI QARAJ SATILIR!\r\n\r\n📍 Bülbül prospekti 41–43\r\n📐 20 m²\r\n📄 Texniki pasport\r\n⚡ Elektrik sayğacı və xətti var\r\n💼 Hazırda icarədədir – icarəçi ilə birlikdə satıla bilər\r\n💰 36 000 AZN\r\n\r\nNotarial qaydada alqı-satqı.\r\n\r\nXidmət haqqı: 1000 AZN",
-    "building_type": "Qaraj",
-    "location_id": "8",
-    "location_name": "28 May",
-    "category": "garage",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6474526",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 36000,
-        "date": "2026-09-30T19:56:44.486325+00:00"
-      },
-      {
-        "price": 36001,
-        "date": "2026-10-01T12:04:38.616782+00:00"
-      }
-    ]
-  },
-  {
     "id": "6507045",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F12%2F13%2F53%2Ff4eb3230-7d19-4603-910f-e2ac581e0b0c%2F6130_YgG87flNCkr3LYnt3dI3dA.jpg",
     "price": 10000,
@@ -3931,43 +3894,6 @@
       {
         "price": 23500,
         "date": "2026-10-02T14:35:37.394546+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6282181",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F04%2F18%2F27%2F30%2F9ce7f54b-2776-4c0b-a849-d7ce2b563172%2F23616_FR6QD5eGS-Yqs716RJycBg.jpg",
-    "price": 22001,
-    "location": "Azadlıq Prospekti m.",
-    "rooms": "",
-    "area_m2": "16.7 m²",
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.42536158886271,
-    "lng": 49.84273119880121,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-02T13:06:44+04:00",
-    "is_featured": false,
-    "title": "Satılır qaraj 16.7 m²",
-    "description": "Qarajın sənədi texpasport, alqı-satqı notarial qaydada olacaq. Qarajın işığı çəkilib, sayğacı var. Qarajda hazırda icarəçi var və alıcının istəyinə uyğun olaraq icarəçi ilə birlikdə satıla bilər.\nXidmət haqqı 1000 manat təşkil edəcək.",
-    "building_type": "Qaraj",
-    "location_id": "6",
-    "location_name": "Azadlıq Prospekti",
-    "category": "garage",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6282181",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 22000,
-        "date": "2026-09-30T19:56:44.486710+00:00"
-      },
-      {
-        "price": 22001,
-        "date": "2026-10-02T14:35:37.394641+00:00"
       }
     ]
   },
@@ -4359,6 +4285,88 @@
       {
         "price": 39000,
         "date": "2026-10-03T19:31:56.986323+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6474526",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F19%2F15%2F23%2F44%2Ffc6dc87c-058e-42be-b09c-83387dc1f30c%2F75319_4CwxvksiY-yxP0lqhIaq-Q.jpg",
+    "price": 36000,
+    "location": "28 May m.",
+    "rooms": "",
+    "area_m2": "20 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.37904256272446,
+    "lng": 49.84161660042789,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-04T10:19:03+04:00",
+    "is_featured": false,
+    "title": "Satılır qaraj 20 m²",
+    "description": "OBYEKT / OFİS KİMİ İSTİFADƏYƏ YARARLI QARAJ SATILIR!\r\n\r\n📍 Bülbül prospekti 41–43\r\n📐 20 m²\r\n📄 Texniki pasport\r\n⚡ Elektrik sayğacı və xətti var\r\n💼 Hazırda icarədədir – icarəçi ilə birlikdə satıla bilər\r\n💰 36 000 AZN\r\n\r\nNotarial qaydada alqı-satqı.\r\n\r\nXidmət haqqı: 1000 AZN",
+    "building_type": "Qaraj",
+    "location_id": "8",
+    "location_name": "28 May",
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6474526",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 36000,
+        "date": "2026-09-30T19:56:44.486325+00:00"
+      },
+      {
+        "price": 36001,
+        "date": "2026-10-01T12:04:38.616782+00:00"
+      },
+      {
+        "price": 36000,
+        "date": "2026-10-04T16:35:34.393839+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6282181",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F11%2F00%2F39%2F24%2F3a33ac2a-db1a-4064-a305-b3fc95d2b2c0%2F29353__9wUYrY8PRCmeuakv30Qjw.jpg",
+    "price": 22000,
+    "location": "Azadlıq Prospekti m.",
+    "rooms": "",
+    "area_m2": "16.7 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.42536158886271,
+    "lng": 49.84273119880121,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-04T10:22:22+04:00",
+    "is_featured": false,
+    "title": "Satılır qaraj 16.7 m²",
+    "description": "Qarajın sənədi texpasport, alqı-satqı notarial qaydada olacaq. Qarajın işığı çəkilib, sayğacı var. Qarajda hazırda icarəçi var və alıcının istəyinə uyğun olaraq icarəçi ilə birlikdə satıla bilər.\nXidmət haqqı 1000 manat təşkil edəcək.",
+    "building_type": "Qaraj",
+    "location_id": "6",
+    "location_name": "Azadlıq Prospekti",
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6282181",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 22000,
+        "date": "2026-09-30T19:56:44.486710+00:00"
+      },
+      {
+        "price": 22001,
+        "date": "2026-10-02T14:35:37.394641+00:00"
+      },
+      {
+        "price": 22000,
+        "date": "2026-10-04T16:35:34.393878+00:00"
       }
     ]
   }
