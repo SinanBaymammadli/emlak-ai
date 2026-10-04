@@ -27,8 +27,9 @@ let roomsF   = '';
 let repairF  = '';
 let agencyF  = '';
 let kupcaF   = '';
-let activeTab = 'listings';
-let viewMode  = 'markers';
+let activeTab   = 'listings';
+let viewMode    = 'markers';
+let activeModal = null;
 
 const cache = {};
 let allListings = [];
@@ -110,6 +111,7 @@ async function loadAll() {
   loading = false;
   buildLocationDropdown();
   applyFilters();
+  maybeRestoreModal();
 }
 
 // ── Filtering ─────────────────────────────────────────────────────────────────
@@ -207,7 +209,7 @@ function renderListings() {
   if (!slice.length) {
     grid.innerHTML = '<div class="state-msg">Nəticə tapılmadı</div>';
   } else {
-    grid.innerHTML = slice.map(cardHTML).join('');
+    grid.innerHTML = slice.map((l, i) => cardHTML(l, i)).join('');
   }
 
   const active = filtered.filter(l => !l.deleted_at).length;
@@ -219,7 +221,7 @@ function renderListings() {
   renderPagination();
 }
 
-function cardHTML(l) {
+function cardHTML(l, idx) {
   const change = priceChange(l);
   let changeBadge = '';
   if (change !== null) {
@@ -241,8 +243,8 @@ function cardHTML(l) {
     l.deleted_at ? '<span class="badge badge-deleted">Silinib</span>' : '',
     selCat === 'all' ? `<span class="badge badge-cat">${catLabel(l.category)}</span>` : '',
   ].filter(Boolean).join('');
-  return `<div class="card${l.deleted_at?' deleted':''}">
-  <a class="card-photo-wrap" href="${esc(l.url)}" target="_blank" rel="noopener">${photo}</a>
+  return `<div class="card${l.deleted_at?' deleted':''}" data-idx="${idx}">
+  <div class="card-photo-wrap">${photo}</div>
   <div class="card-body">
     <div class="card-price-row"><span class="card-price">${formatPrice(l.price,l.deal_type)}</span>${changeBadge}</div>
     ${unitPrice}
@@ -531,6 +533,7 @@ function pushState() {
   if (kupcaF)              p.set('kupca',  kupcaF);
   if (selLocs.size)        p.set('locs',   [...selLocs].join('|'));
   if (viewMode !== 'markers') p.set('view', viewMode);
+  if (activeModal)            p.set('modal', activeModal);
   const str = p.toString();
   history.replaceState(null, '', str ? `?${str}` : location.pathname);
 }
@@ -542,7 +545,8 @@ function restoreFromUrl() {
   if (p.has('type'))   selType = p.get('type');
   if (p.has('sort'))   sort    = p.get('sort');
   if (p.has('del'))    showDel = true;
-  if (p.has('view'))   viewMode = p.get('view');
+  if (p.has('view'))   viewMode    = p.get('view');
+  if (p.has('modal'))  activeModal = p.get('modal');
   if (p.has('locs'))   p.get('locs').split('|').filter(Boolean).forEach(l => selLocs.add(l));
 
   const restoreInput = (key, id) => { if (p.has(key)) document.getElementById(id) && (document.getElementById(id).value = p.get(key)); };
@@ -569,6 +573,178 @@ function restoreFromUrl() {
   document.getElementById('btn-markers').classList.toggle('active', viewMode === 'markers');
   document.getElementById('btn-choropleth').classList.toggle('active', viewMode === 'choropleth');
 }
+
+// ── Detail modal ──────────────────────────────────────────────────────────────
+let modalChart = null;
+
+function openModal(l) {
+  const overlay = document.getElementById('modal-overlay');
+  const inner   = document.getElementById('modal-inner');
+
+  if (modalChart) { modalChart.destroy(); modalChart = null; }
+
+  const change = priceChange(l);
+  let changeBadge = '';
+  if (change !== null) {
+    const abs = fmt(Math.abs(change));
+    changeBadge = change < 0
+      ? `<span class="modal-price-drop">↓ ${abs} ₼</span>`
+      : `<span class="modal-price-rise">↑ ${abs} ₼</span>`;
+  }
+
+  const m2 = ppm2(l), area = areaVal(l);
+  const ppm2Str = m2 ? `<span class="modal-ppm2">${fmt(m2)} ₼/m²</span>` : '';
+
+  const photo = l.photo_url
+    ? `<img class="modal-photo" src="${esc(l.photo_url)}" alt="" onerror="this.outerHTML='<div class=modal-photo-placeholder>🏠</div>'">`
+    : '<div class="modal-photo-placeholder">🏠</div>';
+
+  const specs = [];
+  if (l.rooms)          specs.push(esc(l.rooms));
+  if (area)             specs.push(`${area} m²`);
+  if (l.land_area_sot)  specs.push(`${l.land_area_sot} sot`);
+  if (l.floor)          specs.push(esc(l.floor));
+  if (l.building_type)  specs.push(esc(l.building_type));
+  if (l.deal_type)      specs.push(l.deal_type === 'rental' ? 'Kirayə' : 'Satış');
+
+  const specsHTML = specs.map(s => `<span class="modal-spec">${s}</span>`).join('');
+
+  const badges = [
+    l.has_repair         ? '<span class="badge badge-repair">✓ Təmirli</span>'      : '',
+    l.is_agency === true ? '<span class="badge badge-agency">Agentlik</span>'        : '',
+    l.is_agency === false? '<span class="badge badge-owner">Mülkiyyətçi</span>'     : '',
+    l.has_bill_of_sale   ? '<span class="badge badge-repair">✓ Çıxarış var</span>'  : '',
+    l.has_mortgage       ? '<span class="badge badge-cat">Ipoteka</span>'            : '',
+    l.deleted_at         ? '<span class="badge badge-deleted">Silinib</span>'        : '',
+    `<span class="badge badge-cat">${catLabel(l.category)}</span>`,
+  ].filter(Boolean).join('');
+
+  const title = l.title ? `<div class="modal-title">${esc(l.title)}</div>` : '';
+  const desc  = l.description ? `<div class="modal-description">${esc(l.description)}</div>` : '';
+
+  const loc = l.location_name || l.location || '';
+
+  const metaParts = [];
+  if (l.updated_at_site) metaParts.push(`Yenilənib: ${fmtDate(l.updated_at_site)}`);
+  if (l.id)              metaParts.push(`ID: ${l.id}`);
+  const metaHTML = metaParts.length ? `<div class="modal-meta">${metaParts.map(esc).join('<span>·</span>')}</div>` : '';
+
+  const mapsLink = l.lat && l.lng
+    ? `<a class="modal-link modal-link-secondary" href="https://www.google.com/maps?q=${l.lat},${l.lng}" target="_blank" rel="noopener">📍 Xəritədə aç</a>`
+    : '';
+
+  const history = l.price_history || [];
+  const historyHtml = history.length
+    ? `<div class="modal-history-title">Qiymət tarixi</div>
+       ${history.length > 1 ? '<div class="modal-history-chart"><canvas id="modal-price-chart"></canvas></div>' : ''}
+       <table class="modal-history-table">
+         <thead><tr><th>Tarix</th><th>Qiymət</th><th>Dəyişiklik</th></tr></thead>
+         <tbody>${history.map((h, i) => {
+           const prev = i > 0 ? history[i-1].price : null;
+           const diff = prev != null ? h.price - prev : null;
+           let diffCell = '<td>—</td>';
+           if (diff !== null && diff !== 0) {
+             const cls = diff < 0 ? 'change-down' : 'change-up';
+             const sign = diff < 0 ? '↓' : '↑';
+             diffCell = `<td class="${cls}">${sign} ${fmt(Math.abs(diff))} ₼</td>`;
+           }
+           return `<tr><td>${fmtDate(h.date)}</td><td>${fmt(h.price)} ₼</td>${diffCell}</tr>`;
+         }).join('')}</tbody>
+       </table>`
+    : '';
+
+  inner.innerHTML = `
+    ${photo}
+    ${title}
+    <div class="modal-price-row">
+      <span class="modal-price">${formatPrice(l.price, l.deal_type)}</span>
+      ${ppm2Str}
+      ${changeBadge}
+    </div>
+    ${loc ? `<div class="modal-location">📍 ${esc(loc)}</div>` : ''}
+    ${specsHTML ? `<div class="modal-specs">${specsHTML}</div>` : ''}
+    ${badges   ? `<div class="modal-badges">${badges}</div>` : ''}
+    ${desc}
+    ${metaHTML}
+    ${historyHtml}
+    <div class="modal-links">
+      <a class="modal-link modal-link-primary" href="${esc(l.url)}" target="_blank" rel="noopener">bina.az-da aç →</a>
+      ${mapsLink}
+    </div>`;
+
+  activeModal = l.id;
+  pushState();
+  overlay.style.display = 'flex';
+  document.body.style.overflow = 'hidden';
+
+  if (history.length > 1) {
+    const ctx = document.getElementById('modal-price-chart');
+    if (ctx) {
+      const labels = history.map(h => {
+        const d = new Date(h.date);
+        return `${String(d.getDate()).padStart(2,'0')}.${String(d.getMonth()+1).padStart(2,'0')}.${d.getFullYear()}`;
+      });
+      const data = history.map(h => h.price);
+      modalChart = new Chart(ctx, {
+        type: 'line',
+        data: {
+          labels,
+          datasets: [{
+            data,
+            borderColor: '#6366f1',
+            backgroundColor: 'rgba(99,102,241,.08)',
+            pointBackgroundColor: '#6366f1',
+            pointRadius: 5,
+            tension: 0.3,
+            fill: true,
+          }]
+        },
+        options: {
+          responsive: true, maintainAspectRatio: false,
+          plugins: { legend: { display: false } },
+          scales: {
+            x: { grid: { display: false }, ticks: { font: { size: 11 } } },
+            y: { grid: { color: '#f0f2f5' }, ticks: { font: { size: 11 }, callback: v => `${fmt(v)} ₼` } }
+          }
+        }
+      });
+    }
+  }
+}
+
+function closeModal() {
+  document.getElementById('modal-overlay').style.display = 'none';
+  document.body.style.overflow = '';
+  if (modalChart) { modalChart.destroy(); modalChart = null; }
+  activeModal = null;
+  pushState();
+}
+
+function maybeRestoreModal() {
+  if (!activeModal) return;
+  const listing = allListings.find(l => l.id === activeModal);
+  if (listing) openModal(listing);
+}
+
+document.getElementById('modal-close').addEventListener('click', closeModal);
+document.getElementById('modal-overlay').addEventListener('click', e => {
+  if (e.target === document.getElementById('modal-overlay')) closeModal();
+});
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape') closeModal();
+});
+
+document.getElementById('grid').addEventListener('click', e => {
+  const link = e.target.closest('a');
+  if (link) return;
+  const card = e.target.closest('.card');
+  if (!card) return;
+  const idx = parseInt(card.dataset.idx, 10);
+  if (isNaN(idx)) return;
+  const slice = filtered.slice((page-1)*PAGE_SIZE, page*PAGE_SIZE);
+  const listing = slice[idx];
+  if (listing) openModal(listing);
+});
 
 // ── Boot ──────────────────────────────────────────────────────────────────────
 restoreFromUrl();

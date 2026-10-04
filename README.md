@@ -58,6 +58,16 @@ Each listing record:
 
 ## Run locally
 
+### Frontend
+
+```bash
+python3 serve.py
+```
+
+Opens `http://localhost:8000` in your browser automatically.
+
+### Scraper
+
 ```bash
 # Create and activate a virtual environment
 python -m venv .venv

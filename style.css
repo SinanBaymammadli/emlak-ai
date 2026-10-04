@@ -405,3 +405,132 @@ header h1 span { color: #4ade80; }
 .popup-badge { display: inline-block; font-size: .68rem; font-weight: 600; padding: 1px 7px; border-radius: 999px; margin-top: 4px; }
 .popup-agency { background: #fef3c7; color: #b45309; }
 .popup-owner  { background: #dcfce7; color: #15803d; }
+
+/* ── Card clickable ── */
+.card { cursor: pointer; }
+
+/* ── Detail modal ── */
+.modal-overlay {
+  position: fixed; inset: 0;
+  background: rgba(0,0,0,.55);
+  z-index: 10000;
+  display: flex; align-items: center; justify-content: center;
+  padding: 16px;
+  animation: fadeIn .15s ease;
+}
+@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+
+.modal-box {
+  background: #fff;
+  border-radius: 14px;
+  width: 100%; max-width: 760px;
+  max-height: 90vh;
+  overflow-y: auto;
+  position: relative;
+  box-shadow: 0 20px 60px rgba(0,0,0,.3);
+  animation: slideUp .18s ease;
+}
+@keyframes slideUp { from { transform: translateY(24px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
+
+.modal-close {
+  position: sticky; top: 12px; float: right; margin: 12px 12px 0 0;
+  width: 32px; height: 32px;
+  border: none; border-radius: 50%;
+  background: rgba(0,0,0,.06); color: #374151;
+  font-size: .9rem; cursor: pointer; z-index: 1;
+  display: flex; align-items: center; justify-content: center;
+  transition: background .12s;
+}
+.modal-close:hover { background: rgba(0,0,0,.14); }
+
+.modal-inner { padding: 0 20px 24px; }
+
+.modal-photo {
+  width: 100%; max-height: 340px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 16px;
+  display: block;
+}
+.modal-photo-placeholder {
+  width: 100%; height: 180px;
+  background: #e5e7eb; border-radius: 10px;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 3rem; color: #9ca3af;
+  margin-bottom: 16px;
+}
+
+.modal-title {
+  font-size: 1rem; font-weight: 700; color: #1a1a2e;
+  margin-bottom: 12px; line-height: 1.4;
+}
+
+.modal-price-row {
+  display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap;
+  margin-bottom: 4px;
+}
+.modal-price { font-size: 1.5rem; font-weight: 800; color: #1a1a2e; }
+.modal-ppm2  { font-size: .88rem; color: #6366f1; font-weight: 600; }
+.modal-price-drop { font-size: .78rem; font-weight: 600; color: #16a34a; background: #dcfce7; padding: 2px 8px; border-radius: 999px; }
+.modal-price-rise { font-size: .78rem; font-weight: 600; color: #dc2626; background: #fee2e2; padding: 2px 8px; border-radius: 999px; }
+
+.modal-specs {
+  display: flex; flex-wrap: wrap; gap: 8px;
+  margin: 12px 0;
+}
+.modal-spec {
+  background: #f0f2f5; border-radius: 7px;
+  padding: 5px 10px; font-size: .8rem; color: #374151; font-weight: 500;
+}
+
+.modal-badges { display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 12px; }
+
+.modal-location {
+  font-size: .88rem; color: #6b7280;
+  margin-bottom: 8px;
+}
+
+.modal-description {
+  font-size: .82rem; color: #4b5563; line-height: 1.6;
+  background: #f9fafb; border-radius: 8px;
+  padding: 10px 12px; margin: 12px 0;
+  white-space: pre-line;
+}
+
+.modal-meta {
+  display: flex; flex-wrap: wrap; gap: 6px 16px;
+  font-size: .77rem; color: #9ca3af;
+  margin: 10px 0;
+}
+
+.modal-history-title {
+  font-size: .85rem; font-weight: 600; color: #374151;
+  margin: 16px 0 8px;
+}
+.modal-history-chart { height: 160px; position: relative; }
+.modal-history-table {
+  width: 100%; border-collapse: collapse;
+  font-size: .78rem; margin-top: 8px;
+}
+.modal-history-table th {
+  text-align: left; padding: 4px 8px;
+  color: #6b7280; font-weight: 500;
+  border-bottom: 1px solid #e5e7eb;
+}
+.modal-history-table td { padding: 5px 8px; border-bottom: 1px solid #f3f4f6; color: #374151; }
+.modal-history-table tr:last-child td { border-bottom: none; }
+.modal-history-table .change-down { color: #16a34a; font-weight: 600; }
+.modal-history-table .change-up   { color: #dc2626; font-weight: 600; }
+
+.modal-links {
+  display: flex; gap: 10px; margin-top: 18px; flex-wrap: wrap;
+}
+.modal-link {
+  display: inline-flex; align-items: center; gap: 5px;
+  padding: 8px 16px; border-radius: 8px;
+  font-size: .82rem; font-weight: 600; text-decoration: none;
+  transition: opacity .12s;
+}
+.modal-link:hover { opacity: .82; }
+.modal-link-primary { background: #6366f1; color: #fff; }
+.modal-link-secondary { background: #f0f2f5; color: #374151; }
