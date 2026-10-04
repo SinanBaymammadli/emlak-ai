@@ -517,6 +517,7 @@ function buildRayonPanel() {
     </div>`;
   }).join('');
   panel.querySelectorAll('.rayon-item').forEach(item => {
+    if (activeRayons.has(item.dataset.rayon)) item.classList.add('active');
     item.addEventListener('click', () => {
       const name = item.dataset.rayon;
       if (activeRayons.has(name)) {
@@ -527,6 +528,7 @@ function buildRayonPanel() {
         item.classList.add('active');
       }
       renderDistricts();
+      pushState();
     });
   });
 }
@@ -542,11 +544,14 @@ function renderDistricts() {
     filter: f => showAll || activeRayons.has(f.properties.name),
     style: f => {
       const idx = districtGeoJson.features.indexOf(f);
-      const selected = activeRayons.has(f.properties.name);
+      const selected = !showAll && activeRayons.has(f.properties.name);
+      const color = DISTRICT_COLORS[idx % DISTRICT_COLORS.length];
       return {
-        fillColor: DISTRICT_COLORS[idx % DISTRICT_COLORS.length],
-        fillOpacity: showAll ? 0.35 : selected ? 0.55 : 0.1,
-        color: '#fff', weight: 2,
+        fillColor: color,
+        fillOpacity: selected ? 0.35 : showAll ? 0.15 : 0,
+        color: selected ? color : DISTRICT_COLORS[idx % DISTRICT_COLORS.length],
+        weight: selected ? 3 : 2,
+        opacity: 0.9,
       };
     },
     onEachFeature: (f, layer) => {
@@ -561,6 +566,26 @@ function renderDistricts() {
 
   const shown = showAll ? districtGeoJson.features.length : activeRayons.size;
   document.getElementById('map-stats').textContent = `${shown} rayon göstərilir`;
+
+  // Add numbered vertex markers for selected rayons
+  if (!showAll) {
+    districtGeoJson.features.forEach(f => {
+      if (!activeRayons.has(f.properties.name)) return;
+      f.geometry.coordinates.forEach(poly => {
+        poly[0].forEach((pt, i) => {
+          if (i === poly[0].length - 1) return; // skip closing point
+          L.marker([pt[1], pt[0]], {
+            icon: L.divIcon({
+              className: '',
+              html: `<div style="background:#1a1a2e;color:#fff;font-size:9px;padding:1px 3px;border-radius:3px;white-space:nowrap;line-height:1.2">${i}</div>`,
+              iconAnchor: [0, 0],
+            }),
+            interactive: false,
+          }).addTo(districtLayer);
+        });
+      });
+    });
+  }
 }
 
 function renderMarkers(list) {
@@ -673,6 +698,7 @@ function pushState() {
   if (selLocs.size)        p.set('locs',   [...selLocs].join('|'));
   if (activeModal)            p.set('modal', activeModal);
   if (mapMode !== 'markers')  p.set('mview', mapMode);
+  if (activeRayons.size)      p.set('rayons', [...activeRayons].join('|'));
   const str = p.toString();
   history.replaceState(null, '', str ? `?${str}` : location.pathname);
 }
@@ -687,6 +713,7 @@ function restoreFromUrl() {
   if (p.has('pchg'))   priceChangedF = true;
   if (p.has('modal'))  activeModal = p.get('modal');
   if (p.has('mview'))  mapMode     = p.get('mview');
+  if (p.has('rayons')) p.get('rayons').split('|').filter(Boolean).forEach(r => activeRayons.add(r));
   if (p.has('locs'))   p.get('locs').split('|').filter(Boolean).forEach(l => selLocs.add(l));
 
   const restoreInput = (key, id) => { if (p.has(key)) document.getElementById(id) && (document.getElementById(id).value = p.get(key)); };
