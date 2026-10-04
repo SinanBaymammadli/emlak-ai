@@ -17,6 +17,17 @@ def _parse_price(raw: str) -> int | None:
     return int(digits) if digits else None
 
 
+def _find_price_line_idx(lines: list[str]) -> int:
+    """Return index of the price line: prefer a line containing '₼', else first line with digits."""
+    for i, l in enumerate(lines):
+        if "₼" in l:
+            return i
+    for i, l in enumerate(lines):
+        if re.search(r"\d", l):
+            return i
+    return 0
+
+
 def parse_card_text(text: str) -> dict:
     """Parse apartment/house card innerText. Returns price, location, rooms, area_m2, floor, is_agency."""
     lines = _clean_lines(text)
@@ -24,13 +35,12 @@ def parse_card_text(text: str) -> dict:
     # Detect agency listing before stripping non-digit lines
     is_agency = any("agentlik" in l.lower() for l in lines if not re.search(r"\d", l))
 
-    while lines and not re.search(r"\d", lines[0]):
-        lines.pop(0)
-
-    price = _parse_price(lines[0]) if lines else None
-    location = lines[1] if len(lines) > 1 else ""
+    price_idx = _find_price_line_idx(lines)
+    price = _parse_price(lines[price_idx]) if lines else None
+    rest = lines[price_idx + 1:]
+    location = rest[0] if rest else ""
     rooms = area_m2 = floor = ""
-    for line in lines[2:]:
+    for line in rest[1:]:
         if "otaqlı" in line and not rooms:
             rooms = line
         elif "m²" in line and not area_m2:
@@ -51,13 +61,12 @@ def parse_land_card_text(text: str) -> dict:
     """Parse land (torpaq) card innerText. Returns price, location, land_area_sot, is_agency."""
     lines = _clean_lines(text)
     is_agency = any("agentlik" in l.lower() for l in lines if not re.search(r"\d", l))
-    while lines and not re.search(r"\d", lines[0]):
-        lines.pop(0)
-
-    price = _parse_price(lines[0]) if lines else None
-    location = lines[1] if len(lines) > 1 else ""
+    price_idx = _find_price_line_idx(lines)
+    price = _parse_price(lines[price_idx]) if lines else None
+    rest = lines[price_idx + 1:]
+    location = rest[0] if rest else ""
     land_area_sot = None
-    for line in lines[2:]:
+    for line in rest[1:]:
         if "sot" in line:
             try:
                 land_area_sot = float(re.sub(r"[^\d.,]", "", line).replace(",", "."))
@@ -77,13 +86,12 @@ def parse_commercial_card_text(text: str) -> dict:
     """Parse commercial/office card innerText. Returns price, location, area_m2, floor, is_agency."""
     lines = _clean_lines(text)
     is_agency = any("agentlik" in l.lower() for l in lines if not re.search(r"\d", l))
-    while lines and not re.search(r"\d", lines[0]):
-        lines.pop(0)
-
-    price = _parse_price(lines[0]) if lines else None
-    location = lines[1] if len(lines) > 1 else ""
+    price_idx = _find_price_line_idx(lines)
+    price = _parse_price(lines[price_idx]) if lines else None
+    rest = lines[price_idx + 1:]
+    location = rest[0] if rest else ""
     area_m2 = floor = ""
-    for line in lines[2:]:
+    for line in rest[1:]:
         if "m²" in line and not area_m2:
             area_m2 = line
         elif "mərtəbə" in line and not floor:
