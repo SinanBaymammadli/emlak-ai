@@ -408,6 +408,27 @@ header h1 span { color: #4ade80; }
 .choro-item { display: flex; align-items: center; gap: 8px; margin-bottom: 4px; }
 .choro-swatch { width: 20px; height: 12px; border-radius: 2px; flex-shrink: 0; border: 1px solid rgba(0,0,0,.1); }
 
+/* ── Rayon panel ── */
+.rayon-panel {
+  position: absolute; top: 50px; right: 10px; z-index: 1000;
+  background: #fff; border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,.12);
+  padding: 8px 0; max-height: calc(100% - 70px);
+  overflow-y: auto; min-width: 140px;
+}
+.rayon-item {
+  display: flex; align-items: center; gap: 8px;
+  padding: 5px 12px; cursor: pointer;
+  font-size: .78rem; color: #374151;
+  user-select: none; transition: background .1s;
+}
+.rayon-item:hover { background: #f5f3ff; }
+.rayon-item.active { color: #6366f1; font-weight: 600; }
+.rayon-swatch {
+  width: 12px; height: 12px; border-radius: 3px;
+  flex-shrink: 0; border: 1px solid rgba(0,0,0,.1);
+}
+
 .district-tooltip {
   background: rgba(26,26,46,.88); color: #fff; border: none;
   border-radius: 6px; padding: 6px 10px; font-size: .78rem;

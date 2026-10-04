@@ -458,6 +458,7 @@ let markerLayer = null;
 let districtLayer = null;
 let districtGeoJson = null;
 let mapMode = 'markers'; // 'markers' | 'districts'
+let activeRayons = new Set(); // empty = all visible
 
 const DISTRICT_COLORS = [
   '#6366f1','#f59e0b','#10b981','#ef4444','#06b6d4',
@@ -473,6 +474,7 @@ function initMap() {
 
   fetch('districts.geojson').then(r => r.ok ? r.json() : null).catch(() => null).then(d => {
     districtGeoJson = d;
+    buildRayonPanel();
     if (mapMode === 'districts') renderDistricts();
   });
 
@@ -480,12 +482,14 @@ function initMap() {
     mapMode = 'markers';
     document.getElementById('btn-markers').classList.add('active');
     document.getElementById('btn-districts').classList.remove('active');
+    document.getElementById('rayon-panel').style.display = 'none';
     renderMap();
   });
   document.getElementById('btn-districts').addEventListener('click', () => {
     mapMode = 'districts';
     document.getElementById('btn-districts').classList.add('active');
     document.getElementById('btn-markers').classList.remove('active');
+    document.getElementById('rayon-panel').style.display = '';
     renderMap();
   });
 }
@@ -496,27 +500,62 @@ function renderMap() {
   else renderMarkers(filtered);
 }
 
+function buildRayonPanel() {
+  const panel = document.getElementById('rayon-panel');
+  if (!districtGeoJson) return;
+  panel.innerHTML = districtGeoJson.features.map((f, idx) => {
+    const name = f.properties.name;
+    const color = DISTRICT_COLORS[idx % DISTRICT_COLORS.length];
+    return `<div class="rayon-item" data-rayon="${esc(name)}">
+      <div class="rayon-swatch" style="background:${color}"></div>
+      <span>${esc(name)}</span>
+    </div>`;
+  }).join('');
+  panel.querySelectorAll('.rayon-item').forEach(item => {
+    item.addEventListener('click', () => {
+      const name = item.dataset.rayon;
+      if (activeRayons.has(name)) {
+        activeRayons.delete(name);
+        item.classList.remove('active');
+      } else {
+        activeRayons.add(name);
+        item.classList.add('active');
+      }
+      renderDistricts();
+    });
+  });
+}
+
 function renderDistricts() {
   markerLayer.clearLayers();
   if (districtLayer) { leafletMap.removeLayer(districtLayer); districtLayer = null; }
   if (!districtGeoJson) { document.getElementById('map-stats').textContent = 'Rayonlar yüklənir…'; return; }
 
+  const showAll = activeRayons.size === 0;
+
   districtLayer = L.geoJSON(districtGeoJson, {
-    style: (f, i) => {
+    filter: f => showAll || activeRayons.has(f.properties.name),
+    style: f => {
       const idx = districtGeoJson.features.indexOf(f);
-      return { fillColor: DISTRICT_COLORS[idx % DISTRICT_COLORS.length], fillOpacity: 0.35, color: '#fff', weight: 2 };
+      const selected = activeRayons.has(f.properties.name);
+      return {
+        fillColor: DISTRICT_COLORS[idx % DISTRICT_COLORS.length],
+        fillOpacity: showAll ? 0.35 : selected ? 0.55 : 0.1,
+        color: '#fff', weight: 2,
+      };
     },
     onEachFeature: (f, layer) => {
       const name = f.properties.name;
       layer.bindTooltip(name, { permanent: false, className: 'district-tooltip', sticky: true });
       layer.on({
-        mouseover: e => e.target.setStyle({ fillOpacity: 0.6, weight: 3 }),
-        mouseout:  e => districtLayer.resetStyle(e.target),
+        mouseover: e => e.target.setStyle({ fillOpacity: 0.7, weight: 3 }),
+        mouseout:  () => districtLayer.resetStyle(layer),
       });
     },
   }).addTo(leafletMap);
 
-  document.getElementById('map-stats').textContent = `${districtGeoJson.features.length} rayon`;
+  const shown = showAll ? districtGeoJson.features.length : activeRayons.size;
+  document.getElementById('map-stats').textContent = `${shown} rayon göstərilir`;
 }
 
 function renderMarkers(list) {
