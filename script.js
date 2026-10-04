@@ -472,6 +472,11 @@ function initMap() {
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { attribution:'© OpenStreetMap', maxZoom:19 }).addTo(leafletMap);
   markerLayer = L.layerGroup().addTo(leafletMap);
 
+  // Restore map mode button state
+  document.getElementById('btn-markers').classList.toggle('active', mapMode === 'markers');
+  document.getElementById('btn-districts').classList.toggle('active', mapMode === 'districts');
+  document.getElementById('rayon-panel').style.display = mapMode === 'districts' ? '' : 'none';
+
   fetch('districts.geojson').then(r => r.ok ? r.json() : null).catch(() => null).then(d => {
     districtGeoJson = d;
     buildRayonPanel();
@@ -483,14 +488,14 @@ function initMap() {
     document.getElementById('btn-markers').classList.add('active');
     document.getElementById('btn-districts').classList.remove('active');
     document.getElementById('rayon-panel').style.display = 'none';
-    renderMap();
+    renderMap(); pushState();
   });
   document.getElementById('btn-districts').addEventListener('click', () => {
     mapMode = 'districts';
     document.getElementById('btn-districts').classList.add('active');
     document.getElementById('btn-markers').classList.remove('active');
     document.getElementById('rayon-panel').style.display = '';
-    renderMap();
+    renderMap(); pushState();
   });
 }
 
@@ -667,6 +672,7 @@ function pushState() {
   if (kupcaF)              p.set('kupca',  kupcaF);
   if (selLocs.size)        p.set('locs',   [...selLocs].join('|'));
   if (activeModal)            p.set('modal', activeModal);
+  if (mapMode !== 'markers')  p.set('mview', mapMode);
   const str = p.toString();
   history.replaceState(null, '', str ? `?${str}` : location.pathname);
 }
@@ -680,6 +686,7 @@ function restoreFromUrl() {
   if (p.has('del'))    showDel       = true;
   if (p.has('pchg'))   priceChangedF = true;
   if (p.has('modal'))  activeModal = p.get('modal');
+  if (p.has('mview'))  mapMode     = p.get('mview');
   if (p.has('locs'))   p.get('locs').split('|').filter(Boolean).forEach(l => selLocs.add(l));
 
   const restoreInput = (key, id) => { if (p.has(key)) document.getElementById(id) && (document.getElementById(id).value = p.get(key)); };
