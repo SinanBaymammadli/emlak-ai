@@ -105,13 +105,17 @@ header h1 span { color: #4ade80; }
 .room-chips { display: flex; gap: 3px; }
 .room-chip {
   padding: 4px 9px;
-  border: 1.5px solid #d1d5db; border-radius: 6px;
-  background: #fff; cursor: pointer;
-  font-size: .78rem; color: #374151; font-weight: 500;
+  border: 1.5px solid #e5e7eb; border-radius: 6px;
+  background: #f3f4f6; cursor: pointer;
+  font-size: .78rem; color: #9ca3af; font-weight: 500;
   transition: all .12s;
 }
-.room-chip:hover { border-color: #6366f1; color: #6366f1; }
-.room-chip.active { background: #6366f1; border-color: #6366f1; color: #fff; }
+.room-chip:hover { border-color: #6366f1; color: #6366f1; background: #f5f3ff; }
+.room-chip.active {
+  background: #6366f1; border-color: #6366f1;
+  color: #fff; font-weight: 700;
+  box-shadow: 0 1px 4px rgba(99,102,241,.35);
+}
 
 /* ── Location multiselect ── */
 .ms-wrap { position: relative; }
