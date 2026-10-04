@@ -55,7 +55,13 @@
     <div class="filter-group"><span class="filter-label">₼/m²:</span><input type="number" id="ppm2-min" placeholder="Min" min="0"><span class="sep">–</span><input type="number" id="ppm2-max" placeholder="Max" min="0"></div>
     <div class="filter-group"><span class="filter-label">Torpaq (sot):</span><input type="number" id="sot-min" placeholder="Min" min="0"><span class="sep">–</span><input type="number" id="sot-max" placeholder="Max" min="0"></div>
     <div class="filter-group"><span class="filter-label">Otaq:</span>
-      <select id="rooms-filter"><option value="">Hamısı</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5+</option></select>
+      <div class="room-chips" id="room-chips">
+        <button class="room-chip" data-room="1">1</button>
+        <button class="room-chip" data-room="2">2</button>
+        <button class="room-chip" data-room="3">3</button>
+        <button class="room-chip" data-room="4">4</button>
+        <button class="room-chip" data-room="5">5+</button>
+      </div>
     </div>
     <div class="filter-group"><span class="filter-label">Təmir:</span>
       <select id="repair-filter"><option value="">Hamısı</option><option value="yes">Var</option><option value="no">Yox</option></select>

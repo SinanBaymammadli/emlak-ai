@@ -24,7 +24,7 @@ let priceMin = null, priceMax = null;
 let areaMin  = null, areaMax  = null;
 let sotMin   = null, sotMax   = null;
 let ppm2Min  = null, ppm2Max  = null;
-let roomsF   = '';
+let roomsF   = new Set();
 let repairF  = '';
 let agencyF  = '';
 let kupcaF   = '';
@@ -123,7 +123,7 @@ function getFiltered() {
   areaMin  = num('area-min');  areaMax  = num('area-max');
   sotMin   = num('sot-min');   sotMax   = num('sot-max');
   ppm2Min  = num('ppm2-min');  ppm2Max  = num('ppm2-max');
-  roomsF   = document.getElementById('rooms-filter')?.value || '';
+  roomsF   = new Set([...document.querySelectorAll('#room-chips .room-chip.active')].map(b => b.dataset.room));
   repairF  = document.getElementById('repair-filter')?.value || '';
   agencyF  = document.getElementById('agency-filter')?.value || '';
   kupcaF   = document.getElementById('kupca-filter')?.value || '';
@@ -141,9 +141,12 @@ function getFiltered() {
   if (sotMax   != null) list = list.filter(l => l.land_area_sot != null && l.land_area_sot <= sotMax);
   if (ppm2Min  != null) list = list.filter(l => { const v = ppm2(l); return v != null && v >= ppm2Min; });
   if (ppm2Max  != null) list = list.filter(l => { const v = ppm2(l); return v != null && v <= ppm2Max; });
-  if (roomsF) {
-    if (roomsF === '5') list = list.filter(l => { const r = roomCount(l); return r != null && r >= 5; });
-    else { const n = parseInt(roomsF); list = list.filter(l => roomCount(l) === n); }
+  if (roomsF.size) {
+    list = list.filter(l => {
+      const r = roomCount(l);
+      if (r == null) return false;
+      return (roomsF.has('5') && r >= 5) || [...roomsF].some(v => v !== '5' && parseInt(v) === r);
+    });
   }
   if (repairF === 'yes') list = list.filter(l => l.has_repair === true);
   if (repairF === 'no')  list = list.filter(l => l.has_repair === false);
@@ -608,7 +611,12 @@ document.getElementById('sort').addEventListener('change', e => { sort = e.targe
 document.getElementById('show-deleted').addEventListener('change', e => { showDel = e.target.checked; applyFilters(); });
 document.getElementById('price-changed').addEventListener('change', e => { priceChangedF = e.target.checked; applyFilters(); });
 ['price-min','price-max','area-min','area-max','sot-min','sot-max','ppm2-min','ppm2-max'].forEach(id => document.getElementById(id)?.addEventListener('input', applyFilters));
-['rooms-filter','repair-filter','agency-filter','kupca-filter'].forEach(id => document.getElementById(id)?.addEventListener('change', applyFilters));
+document.getElementById('room-chips').addEventListener('click', e => {
+  const btn = e.target.closest('.room-chip'); if (!btn) return;
+  btn.classList.toggle('active');
+  applyFilters();
+});
+['repair-filter','agency-filter','kupca-filter'].forEach(id => document.getElementById(id)?.addEventListener('change', applyFilters));
 
 document.querySelectorAll('.tab').forEach(t => t.addEventListener('click', () => switchTab(t.dataset.tab)));
 
@@ -629,7 +637,7 @@ function pushState() {
   if (sotMax   != null)    p.set('smax',   sotMax);
   if (ppm2Min  != null)    p.set('mmin',   ppm2Min);
   if (ppm2Max  != null)    p.set('mmax',   ppm2Max);
-  if (roomsF)              p.set('rooms',  roomsF);
+  if (roomsF.size)         p.set('rooms',  [...roomsF].join(','));
   if (repairF)             p.set('repair', repairF);
   if (agencyF)             p.set('agency', agencyF);
   if (kupcaF)              p.set('kupca',  kupcaF);
@@ -657,7 +665,14 @@ function restoreFromUrl() {
   restoreInput('amin','area-min');  restoreInput('amax','area-max');
   restoreInput('smin','sot-min');   restoreInput('smax','sot-max');
   restoreInput('mmin','ppm2-min');  restoreInput('mmax','ppm2-max');
-  restoreInput('rooms','rooms-filter'); restoreInput('repair','repair-filter');
+  if (p.has('rooms')) {
+    p.get('rooms').split(',').filter(Boolean).forEach(v => {
+      roomsF.add(v);
+      const btn = document.querySelector(`#room-chips .room-chip[data-room="${v}"]`);
+      if (btn) btn.classList.add('active');
+    });
+  }
+  restoreInput('repair','repair-filter');
   restoreInput('agency','agency-filter'); restoreInput('kupca','kupca-filter');
   if (showDel)        document.getElementById('show-deleted').checked  = true;
   if (priceChangedF)  document.getElementById('price-changed').checked = true;

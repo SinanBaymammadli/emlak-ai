@@ -102,6 +102,17 @@ header h1 span { color: #4ade80; }
 }
 .sep { color: #d1d5db; font-size: .8rem; }
 
+.room-chips { display: flex; gap: 3px; }
+.room-chip {
+  padding: 4px 9px;
+  border: 1.5px solid #d1d5db; border-radius: 6px;
+  background: #fff; cursor: pointer;
+  font-size: .78rem; color: #374151; font-weight: 500;
+  transition: all .12s;
+}
+.room-chip:hover { border-color: #6366f1; color: #6366f1; }
+.room-chip.active { background: #6366f1; border-color: #6366f1; color: #fff; }
+
 /* ── Location multiselect ── */
 .ms-wrap { position: relative; }
 .ms-btn {
