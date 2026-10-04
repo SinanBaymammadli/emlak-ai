@@ -17,7 +17,8 @@ let selCat   = 'all';
 let selType  = 'all';
 let selLocs  = new Set();
 let sort     = 'newest';
-let showDel  = false;
+let showDel       = false;
+let priceChangedF = false;
 let page     = 1;
 let priceMin = null, priceMax = null;
 let areaMin  = null, areaMax  = null;
@@ -126,9 +127,11 @@ function getFiltered() {
   repairF  = document.getElementById('repair-filter')?.value || '';
   agencyF  = document.getElementById('agency-filter')?.value || '';
   kupcaF   = document.getElementById('kupca-filter')?.value || '';
-  showDel  = document.getElementById('show-deleted')?.checked || false;
+  showDel       = document.getElementById('show-deleted')?.checked || false;
+  priceChangedF = document.getElementById('price-changed')?.checked || false;
 
   let list = showDel ? allListings : allListings.filter(l => !l.deleted_at);
+  if (priceChangedF) list = list.filter(l => (l.price_history || []).length > 1);
   if (selLocs.size) list = list.filter(l => selLocs.has(l.location || l.location_name || ''));
   if (priceMin != null) list = list.filter(l => l.price != null && l.price >= priceMin);
   if (priceMax != null) list = list.filter(l => l.price != null && l.price <= priceMax);
@@ -506,6 +509,7 @@ document.getElementById('type-chips').addEventListener('click', e => {
 });
 document.getElementById('sort').addEventListener('change', e => { sort = e.target.value; applyFilters(); });
 document.getElementById('show-deleted').addEventListener('change', e => { showDel = e.target.checked; applyFilters(); });
+document.getElementById('price-changed').addEventListener('change', e => { priceChangedF = e.target.checked; applyFilters(); });
 ['price-min','price-max','area-min','area-max','sot-min','sot-max','ppm2-min','ppm2-max'].forEach(id => document.getElementById(id)?.addEventListener('input', applyFilters));
 ['rooms-filter','repair-filter','agency-filter','kupca-filter'].forEach(id => document.getElementById(id)?.addEventListener('change', applyFilters));
 
@@ -519,6 +523,7 @@ function pushState() {
   if (selType  !== 'all')  p.set('type',   selType);
   if (sort     !== 'newest') p.set('sort', sort);
   if (showDel)             p.set('del',    '1');
+  if (priceChangedF)       p.set('pchg',   '1');
   if (priceMin != null)    p.set('pmin',   priceMin);
   if (priceMax != null)    p.set('pmax',   priceMax);
   if (areaMin  != null)    p.set('amin',   areaMin);
@@ -544,7 +549,8 @@ function restoreFromUrl() {
   if (p.has('cat'))    selCat  = p.get('cat');
   if (p.has('type'))   selType = p.get('type');
   if (p.has('sort'))   sort    = p.get('sort');
-  if (p.has('del'))    showDel = true;
+  if (p.has('del'))    showDel       = true;
+  if (p.has('pchg'))   priceChangedF = true;
   if (p.has('view'))   viewMode    = p.get('view');
   if (p.has('modal'))  activeModal = p.get('modal');
   if (p.has('locs'))   p.get('locs').split('|').filter(Boolean).forEach(l => selLocs.add(l));
@@ -556,7 +562,8 @@ function restoreFromUrl() {
   restoreInput('mmin','ppm2-min');  restoreInput('mmax','ppm2-max');
   restoreInput('rooms','rooms-filter'); restoreInput('repair','repair-filter');
   restoreInput('agency','agency-filter'); restoreInput('kupca','kupca-filter');
-  if (showDel) document.getElementById('show-deleted').checked = true;
+  if (showDel)        document.getElementById('show-deleted').checked  = true;
+  if (priceChangedF)  document.getElementById('price-changed').checked = true;
 
   document.querySelectorAll('#cat-chips .chip').forEach(c => c.classList.toggle('active', c.dataset.cat === selCat));
   document.querySelectorAll('#type-chips .chip').forEach(c => c.classList.toggle('active', c.dataset.type === selType));
@@ -720,9 +727,28 @@ function closeModal() {
   pushState();
 }
 
-function maybeRestoreModal() {
+async function maybeRestoreModal() {
   if (!activeModal) return;
-  const listing = allListings.find(l => l.id === activeModal);
+
+  // Search already-loaded listings first (respects current cat/type selection)
+  let listing = allListings.find(l => l.id === activeModal);
+
+  // Search other cached files
+  if (!listing) {
+    for (const arr of Object.values(cache)) {
+      listing = arr.find(l => l.id === activeModal);
+      if (listing) break;
+    }
+  }
+
+  // Load every file and search
+  if (!listing) {
+    const all = (await Promise.all(
+      CATS.flatMap(c => FILES[c].map(t => loadFile(c, t)))
+    )).flat();
+    listing = all.find(l => l.id === activeModal);
+  }
+
   if (listing) openModal(listing);
 }
 
