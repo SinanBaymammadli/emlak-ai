@@ -24,6 +24,7 @@ let priceMin = null, priceMax = null;
 let areaMin  = null, areaMax  = null;
 let sotMin   = null, sotMax   = null;
 let ppm2Min  = null, ppm2Max  = null;
+let scoreMin = null, scoreMax = null;
 let roomsF   = new Set();
 let repairF  = '';
 let agencyF  = '';
@@ -248,9 +249,18 @@ function scoreClass(s) {
 }
 
 function applyFilters() {
+  scoreMin = num('score-min'); scoreMax = num('score-max');
   const list = getFiltered();
   computeScores(list);
-  filtered = list.sort((a, b) => {
+  const scored = (scoreMin != null || scoreMax != null)
+    ? list.filter(l => {
+        const s = l._score ?? 0;
+        if (scoreMin != null && s < scoreMin) return false;
+        if (scoreMax != null && s > scoreMax) return false;
+        return true;
+      })
+    : list;
+  filtered = scored.sort((a, b) => {
     switch (sort) {
       case 'score_desc': return (b._score||0) - (a._score||0);
       case 'score_asc':  return (a._score||0) - (b._score||0);
@@ -610,7 +620,7 @@ document.getElementById('type-chips').addEventListener('click', e => {
 document.getElementById('sort').addEventListener('change', e => { sort = e.target.value; applyFilters(); });
 document.getElementById('show-deleted').addEventListener('change', e => { showDel = e.target.checked; applyFilters(); });
 document.getElementById('price-changed').addEventListener('change', e => { priceChangedF = e.target.checked; applyFilters(); });
-['price-min','price-max','area-min','area-max','sot-min','sot-max','ppm2-min','ppm2-max'].forEach(id => document.getElementById(id)?.addEventListener('input', applyFilters));
+['price-min','price-max','area-min','area-max','sot-min','sot-max','ppm2-min','ppm2-max','score-min','score-max'].forEach(id => document.getElementById(id)?.addEventListener('input', applyFilters));
 document.getElementById('room-chips').addEventListener('click', e => {
   const btn = e.target.closest('.room-chip'); if (!btn) return;
   btn.classList.toggle('active');
@@ -637,6 +647,8 @@ function pushState() {
   if (sotMax   != null)    p.set('smax',   sotMax);
   if (ppm2Min  != null)    p.set('mmin',   ppm2Min);
   if (ppm2Max  != null)    p.set('mmax',   ppm2Max);
+  if (scoreMin != null)    p.set('smin',   scoreMin);
+  if (scoreMax != null)    p.set('smax',   scoreMax);
   if (roomsF.size)         p.set('rooms',  [...roomsF].join(','));
   if (repairF)             p.set('repair', repairF);
   if (agencyF)             p.set('agency', agencyF);
@@ -665,6 +677,7 @@ function restoreFromUrl() {
   restoreInput('amin','area-min');  restoreInput('amax','area-max');
   restoreInput('smin','sot-min');   restoreInput('smax','sot-max');
   restoreInput('mmin','ppm2-min');  restoreInput('mmax','ppm2-max');
+  restoreInput('smin','score-min'); restoreInput('smax','score-max');
   if (p.has('rooms')) {
     p.get('rooms').split(',').filter(Boolean).forEach(v => {
       roomsF.add(v);
