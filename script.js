@@ -455,17 +455,68 @@ function renderAnalytics() {
 // ── Map tab ───────────────────────────────────────────────────────────────────
 let leafletMap = null;
 let markerLayer = null;
+let districtLayer = null;
+let districtGeoJson = null;
+let mapMode = 'markers'; // 'markers' | 'districts'
+
+const DISTRICT_COLORS = [
+  '#6366f1','#f59e0b','#10b981','#ef4444','#06b6d4',
+  '#8b5cf6','#ec4899','#f97316','#84cc16','#14b8a6',
+  '#f43f5e','#a855f7',
+];
 
 function initMap() {
   if (leafletMap) return;
   leafletMap = L.map('map').setView([40.4093, 49.8671], 11);
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { attribution:'© OpenStreetMap', maxZoom:19 }).addTo(leafletMap);
   markerLayer = L.layerGroup().addTo(leafletMap);
+
+  fetch('districts.geojson').then(r => r.ok ? r.json() : null).catch(() => null).then(d => {
+    districtGeoJson = d;
+    if (mapMode === 'districts') renderDistricts();
+  });
+
+  document.getElementById('btn-markers').addEventListener('click', () => {
+    mapMode = 'markers';
+    document.getElementById('btn-markers').classList.add('active');
+    document.getElementById('btn-districts').classList.remove('active');
+    renderMap();
+  });
+  document.getElementById('btn-districts').addEventListener('click', () => {
+    mapMode = 'districts';
+    document.getElementById('btn-districts').classList.add('active');
+    document.getElementById('btn-markers').classList.remove('active');
+    renderMap();
+  });
 }
 
 function renderMap() {
   if (!leafletMap) return;
-  renderMarkers(filtered);
+  if (mapMode === 'districts') renderDistricts();
+  else renderMarkers(filtered);
+}
+
+function renderDistricts() {
+  markerLayer.clearLayers();
+  if (districtLayer) { leafletMap.removeLayer(districtLayer); districtLayer = null; }
+  if (!districtGeoJson) { document.getElementById('map-stats').textContent = 'Rayonlar yüklənir…'; return; }
+
+  districtLayer = L.geoJSON(districtGeoJson, {
+    style: (f, i) => {
+      const idx = districtGeoJson.features.indexOf(f);
+      return { fillColor: DISTRICT_COLORS[idx % DISTRICT_COLORS.length], fillOpacity: 0.35, color: '#fff', weight: 2 };
+    },
+    onEachFeature: (f, layer) => {
+      const name = f.properties.name;
+      layer.bindTooltip(name, { permanent: false, className: 'district-tooltip', sticky: true });
+      layer.on({
+        mouseover: e => e.target.setStyle({ fillOpacity: 0.6, weight: 3 }),
+        mouseout:  e => districtLayer.resetStyle(e.target),
+      });
+    },
+  }).addTo(leafletMap);
+
+  document.getElementById('map-stats').textContent = `${districtGeoJson.features.length} rayon`;
 }
 
 function renderMarkers(list) {
