@@ -98,12 +98,12 @@ jobs:
           git commit -m "chore: scrape all $(date -u +%Y-%m-%d)"
           git push
 
-      - name: Delete artifacts
+      - name: Delete intermediate data artifacts
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           gh api repos/${{ github.repository }}/actions/runs/${{ github.run_id }}/artifacts \
-            --jq '.artifacts[].id' | \
+            --jq '.artifacts[] | select(.name | startswith("data-")) | .id' | \
           xargs -I{} gh api --method DELETE repos/${{ github.repository }}/actions/artifacts/{}
 
   notify:
@@ -129,4 +129,7 @@ jobs:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           SCRAPE_RESULT: ${{ needs.scrape.result == 'success' && needs.commit.result == 'success' && 'success' || 'failure' }}
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_RUN_ID: ${{ github.run_id }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
         run: python scripts/notify.py

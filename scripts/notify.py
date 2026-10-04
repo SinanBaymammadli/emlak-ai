@@ -12,7 +12,27 @@ if not token or not chat_id:
     raise SystemExit(0)
 
 result = os.environ.get("SCRAPE_RESULT", "unknown")
-icon = "✅" if result == "success" else "⚠️" if result == "failure" else "❓"
+icon = "✅" if result == "success" else "❌" if result == "failure" else "❓"
+
+# Fetch per-job results from GitHub API to identify which categories failed
+failed_categories: set[str] = set()
+gh_token = os.environ.get("GITHUB_TOKEN")
+run_id = os.environ.get("GITHUB_RUN_ID")
+repo = os.environ.get("GITHUB_REPOSITORY")
+if gh_token and run_id and repo:
+    try:
+        req = urllib.request.Request(
+            f"https://api.github.com/repos/{repo}/actions/runs/{run_id}/jobs?per_page=100",
+            headers={"Authorization": f"Bearer {gh_token}", "Accept": "application/vnd.github+json"},
+        )
+        jobs = json.loads(urllib.request.urlopen(req, timeout=10).read())
+        for job in jobs.get("jobs", []):
+            name = job.get("name", "")
+            # Job names are "Scrape apartment_sale" etc.
+            if name.startswith("Scrape ") and job.get("conclusion") == "failure":
+                failed_categories.add(name.removeprefix("Scrape "))
+    except Exception as exc:
+        print(f"Could not fetch job results: {exc}")
 
 CATEGORIES = [
     "apartment_rental",
@@ -65,9 +85,11 @@ for cat in CATEGORIES:
                 new_count = total  # file is new this run
 
         new_str = f"  <b>+{new_count} new</b>" if new_count else ""
-        lines.append(f"  <b>{cat}</b>: {total} total{new_str}")
+        fail_str = "  ❌ <b>FAILED</b>" if cat in failed_categories else ""
+        lines.append(f"  <b>{cat}</b>: {total} total{new_str}{fail_str}")
     except Exception:
-        lines.append(f"  <b>{cat}</b>: ⚠️ error")
+        fail_str = "  ❌ <b>FAILED</b>" if cat in failed_categories else ""
+        lines.append(f"  <b>{cat}</b>: ⚠️ error{fail_str}")
 
 payload = json.dumps(
     {"chat_id": chat_id, "text": "\n".join(lines), "parse_mode": "HTML"}
