@@ -99814,5 +99814,69 @@
         "date": "2026-10-04T17:00:54.764423+00:00"
       }
     ]
+  },
+  {
+    "id": "6063862",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F04%2F21%2F15%2F56%2F15%2Fa05c14d7-26d4-4839-a4a1-542ccd098d12%2F90811_CdlPcP8jXhwctbP6oymw7A.jpg",
+    "price": 10000,
+    "location": "Məmmədli q.",
+    "area_m2": "900 m²",
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.50366699686254,
+    "lng": 49.8954590097728,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-04T21:17:07+04:00",
+    "is_featured": true,
+    "title": "İcarəyə verilir obyekt 900 m²",
+    "description": "25 sot parkovka her sahe ucun el verishlidir\numumi heyet 80 sotdur",
+    "building_type": "Obyekt",
+    "location_id": "265",
+    "location_name": "Məmmədli",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6063862",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 10000,
+        "date": "2026-10-04T17:21:50.529805+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6516590",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F21%2F18%2F26%2F755b9e92-ccd8-4ca2-9aee-0db7c2086db8%2F1180_mflTWSgc7kunepB97IgiTA.jpg",
+    "price": 2000,
+    "location": "Xətai r.",
+    "area_m2": "105 m²",
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.36774076067871,
+    "lng": 49.94047335459371,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-04T21:20:55+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir obyekt 105 m²",
+    "description": "📍 Əhmədli qəsəbəsi, 8 Noyabr prospekti\r\nƏhmədli qəsəbəsində, 8 Noyabr prospektində insanların sıx hərəkət etdiyi, əlverişli və işlək küçədə yerləşən 105 m² sahəsi olan obyekt icarəyə verilir.\r\n✨ Obyektin üstünlükləri: 🔹 105 m² geniş sahə\r\n🔹 Tam təmirli\r\n🔹 İnsan axınının yüksək olduğu ərazidə yerləşir\r\n🔹 Əlverişli və görünən lokasiya\r\n🔹 Bütün növ ticarət və biznes fəaliyyəti üçün yararlıdır\r\n🔹 Kommersiya fəaliyyəti üçün ideal seçim\r\n📌 Ətraflı məlumat və baxış üçün əlaqə saxlaya bilərsiniz.\r\n🔥 VIP PREMIUM — biznesiniz üçün doğru məkan!",
+    "building_type": "Obyekt",
+    "location_id": "16",
+    "location_name": "Xətai",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6516590",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 2000,
+        "date": "2026-10-04T17:21:50.529751+00:00"
+      }
+    ]
   }
 ]

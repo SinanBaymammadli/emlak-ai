@@ -2244,39 +2244,6 @@
     ]
   },
   {
-    "id": "6337318",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F31%2F17%2F39%2F26%2F67c6b3de-803b-4485-aaad-b957046fdbe1%2F24726_taNu2ZmwLtv8PWiD3897hw.jpg",
-    "price": 285000,
-    "location": "Qaraçuxur q.",
-    "land_area_sot": 5.3,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.40543020752748,
-    "lng": 49.97790578507598,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-02T03:18:52+04:00",
-    "is_featured": false,
-    "title": "Satılır torpaq 5.3 sot",
-    "description": "QARAÇUXURDA TORPAQ SAHƏSİ SATILIR!\r\n\r\nQaraçuxur qəsəbəsində, Ordubad Marketin yaxınlığında yerləşən 5.35 sot torpaq sahəsi satışa təqdim olunur.\r\n\r\nTorpaq sahəsinin daxilində 3 otaqlı, təmirli, 1 mərtəbəli fərdi yaşayış evi mövcuddur. Əmlak torpaq qiymətinə satılır və gələcəkdə yeni tikinti üçün də əlverişli seçimdir.\r\n\r\n📄 Sənəd: Paket kupça (torpaq və ev)\r\n\r\n✅ Real alıcıya endirim nəzərdə tutulur.\r\n💼 Ofis haqqı: 1%\r\n\r\nKod: F731-2",
-    "building_type": "Torpaq",
-    "location_id": "75",
-    "location_name": "Qaraçuxur",
-    "area_m2": 5.3,
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6337318",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 285000,
-        "date": "2026-09-30T19:59:33.557485+00:00"
-      }
-    ]
-  },
-  {
     "id": "6180022",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F03%2F02%2F49%2F49%2F2d335f63-d8b9-4498-baf3-7f419a522658%2F55338_G4K7yti1BeUz7NnoquHZnQ.jpg",
     "price": 500000,
@@ -76754,39 +76721,6 @@
       {
         "price": 59000,
         "date": "2026-09-30T19:59:33.525697+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6135246",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F16%2F14%2F15%2F23%2Fdd5a99e4-b48d-49bd-a3af-4bae23474623%2F99185_qaK0UtmOwWFP7amQSH6ZwQ.jpg",
-    "price": 55000,
-    "location": "Fatmayı q.",
-    "land_area_sot": 8.0,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.53941213905672,
-    "lng": 49.83175882755363,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-22T08:38:46+04:00",
-    "is_featured": false,
-    "title": "Satılır torpaq 8 sot",
-    "description": "Fatmayı .Təcili dəyərindən aşagı. hündür havalı . kəsilməyən PANORAMA 360 dərəcə. 8 sot .yeri düzəlib. Komunallar yaxında. KUPÇA. TEXPASPORT  VAR. Dəyərindən ucuz satılır. Real alıcıya endirim olacaq.  Öz yerimdir",
-    "building_type": "Torpaq",
-    "location_id": "116",
-    "location_name": "Fatmayı",
-    "area_m2": 8,
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6135246",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 55000,
-        "date": "2026-09-30T19:59:33.525688+00:00"
       }
     ]
   },
@@ -153020,6 +152954,113 @@
       {
         "price": 135000,
         "date": "2026-10-04T17:01:08.399500+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6135246",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F16%2F14%2F15%2F23%2Fdd5a99e4-b48d-49bd-a3af-4bae23474623%2F99185_qaK0UtmOwWFP7amQSH6ZwQ.jpg",
+    "price": 49000,
+    "location": "Fatmayı q.",
+    "land_area_sot": 8.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.53941213905672,
+    "lng": 49.83175882755363,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-04T21:07:46+04:00",
+    "is_featured": false,
+    "title": "Satılır torpaq 8 sot",
+    "description": "Fatmayı .Təcili dəyərindən aşagı. hündür havalı . kəsilməyən PANORAMA 360 dərəcə. 8 sot .yeri düzəlib. Komunallar yaxında. KUPÇA. TEXPASPORT  VAR. Dəyərindən ucuz satılır. Real alıcıya endirim olacaq.  Öz yerimdir",
+    "building_type": "Torpaq",
+    "location_id": "116",
+    "location_name": "Fatmayı",
+    "area_m2": 8,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6135246",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 55000,
+        "date": "2026-09-30T19:59:33.525688+00:00"
+      },
+      {
+        "price": 49000,
+        "date": "2026-10-04T17:21:56.659577+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6516577",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F21%2F03%2F44%2Fd25e17c0-9ce0-4abb-9380-2f5bf197855b%2F75513_nEZqcavU65Dpd5M-ywrNJA.jpg",
+    "price": 580000,
+    "location": "Badamdar q.",
+    "land_area_sot": 9.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.31757023596688,
+    "lng": 49.81145959820855,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": null,
+    "updated_at_site": "2026-10-04T21:09:05+04:00",
+    "is_featured": false,
+    "title": "Satılır torpaq 9 sot",
+    "description": "Denize genis menzere. Etraf acigdi. Olcusu 25mx36m. Eldar Maxmudovin yaninda.",
+    "building_type": "Torpaq",
+    "location_id": "46",
+    "location_name": "Badamdar",
+    "area_m2": 9,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6516577",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 580000,
+        "date": "2026-10-04T17:21:56.659564+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6337318",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F31%2F17%2F39%2F26%2F67c6b3de-803b-4485-aaad-b957046fdbe1%2F24726_taNu2ZmwLtv8PWiD3897hw.jpg",
+    "price": 275000,
+    "location": "Qaraçuxur q.",
+    "land_area_sot": 5.3,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.40543020752748,
+    "lng": 49.97790578507598,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-04T21:20:41+04:00",
+    "is_featured": false,
+    "title": "Satılır torpaq 5.3 sot",
+    "description": "QARAÇUXURDA TORPAQ SAHƏSİ SATILIR!\r\n\r\nQaraçuxur qəsəbəsində, Ordubad Marketin yaxınlığında yerləşən 5.35 sot torpaq sahəsi satışa təqdim olunur.\r\n\r\nTorpaq sahəsinin daxilində 3 otaqlı, təmirli, 1 mərtəbəli fərdi yaşayış evi mövcuddur. Əmlak torpaq qiymətinə satılır və gələcəkdə yeni tikinti üçün də əlverişli seçimdir.\r\n\r\n📄 Sənəd: Paket kupça (torpaq və ev)\r\n\r\n✅ Real alıcıya endirim nəzərdə tutulur.\r\n💼 Ofis haqqı: 1%\r\n\r\nKod: F731-2",
+    "building_type": "Torpaq",
+    "location_id": "75",
+    "location_name": "Qaraçuxur",
+    "area_m2": 5.3,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6337318",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 285000,
+        "date": "2026-09-30T19:59:33.557485+00:00"
+      },
+      {
+        "price": 275000,
+        "date": "2026-10-04T17:21:56.659532+00:00"
       }
     ]
   }
