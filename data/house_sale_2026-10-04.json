@@ -8580,40 +8580,6 @@
     ]
   },
   {
-    "id": "6514971",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F10%2F38%2F26%2F9be494be-0675-4a19-9914-c70dad5ab25d%2F704_vtbd52lWq3vLBPzAmjdrcA.jpg",
-    "price": 120000,
-    "location": "Şüvəlan q.",
-    "rooms": "3 otaqlı",
-    "area_m2": 72,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.4932450422226,
-    "lng": 50.20682927471891,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": null,
-    "updated_at_site": "2026-10-05T17:10:06+04:00",
-    "is_featured": false,
-    "title": "Satılır 3 otaqlı həyət evi/bağ evi 72 m²",
-    "description": "Tam əşyalı, mükəmməl yerləşmədə, 1.8 sot torpaq sahəsində şəxsi layihə əsasında inşa olunmuş ekonom bağ evi satışda!\r\n📍 Ünvan: Şüvəlan (Dənizə 800m məsafə, əsas magistraldan 500m məsafədə)\r\n🌳 Torpaq sahəsi: 1.8 sot\r\n 🏠 Ev sahəsi: 72 m²\r\n🛋️ Otaqların sayı: 2 yataq otağ + 1 zal/studio mətbəx + 1 hamam otağı\r\n✨ Rahatlıq: İsti Hovuz / İşıqlandırma  / Landşaft dizaynı\r\n🛠️ Təmir: Yüksək keyfiyyətli inşaat materiallarından istifadə edilib \r\n📄 Sənəd: Çıxarış və ipotekaya yararlı \r\n💧 İçməli Su / 🔥 Qaz / 💡 İşıq (daimidir) / 🛜 Optik internet\r\n🔑 Komplektasiya:\r\n🔹 Filterli isti hovuz\r\n🔹 Tam təchiz olunmuş qonaq otağı\r\n🔹 Tam təchiz olunmuş yataq otağları\r\n🔹 Tam təchiz olunmuş mətbəx avadanlığı və mətməx mebeli\r\n🔹 Tam təchiz olunmuş hamam otağı\r\n🔹 Zərif çilçıraqlar və digər aksesuarlar\r\n🔹 Pultla idarə olunan giriş qapısı\r\n🔹 Bütün otaqlarda isti döşəmə mövcuddur",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "110",
-    "location_name": "Şüvəlan",
-    "land_area_sot": 1.8,
-    "category": "house",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6514971",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 120000,
-        "date": "2026-10-04T17:22:36.619748+00:00"
-      }
-    ]
-  },
-  {
     "id": "6516143",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F17%2F28%2F46%2Faa0798b6-456b-4da9-a384-edf6cab11247%2F75521_fHOJj-Re27OC7jnhZY8rUg.jpg",
     "price": 333000,
@@ -9340,6 +9306,40 @@
       {
         "price": 65000,
         "date": "2026-10-04T18:34:39.284176+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6514971",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F10%2F38%2F26%2F9be494be-0675-4a19-9914-c70dad5ab25d%2F704_vtbd52lWq3vLBPzAmjdrcA.jpg",
+    "price": 120000,
+    "location": "Şüvəlan q.",
+    "rooms": "3 otaqlı",
+    "area_m2": 72,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.4932450422226,
+    "lng": 50.20682927471891,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T17:10:08+04:00",
+    "is_featured": false,
+    "title": "Satılır 3 otaqlı həyət evi/bağ evi 72 m²",
+    "description": "Tam əşyalı, mükəmməl yerləşmədə, 1.8 sot torpaq sahəsində şəxsi layihə əsasında inşa olunmuş ekonom bağ evi satışda!\r\n📍 Ünvan: Şüvəlan (Dənizə 800m məsafə, əsas magistraldan 500m məsafədə)\r\n🌳 Torpaq sahəsi: 1.8 sot\r\n 🏠 Ev sahəsi: 72 m²\r\n🛋️ Otaqların sayı: 2 yataq otağ + 1 zal/studio mətbəx + 1 hamam otağı\r\n✨ Rahatlıq: İsti Hovuz / İşıqlandırma  / Landşaft dizaynı\r\n🛠️ Təmir: Yüksək keyfiyyətli inşaat materiallarından istifadə edilib \r\n📄 Sənəd: Çıxarış və ipotekaya yararlı \r\n💧 İçməli Su / 🔥 Qaz / 💡 İşıq (daimidir) / 🛜 Optik internet\r\n🔑 Komplektasiya:\r\n🔹 Filterli isti hovuz\r\n🔹 Tam təchiz olunmuş qonaq otağı\r\n🔹 Tam təchiz olunmuş yataq otağları\r\n🔹 Tam təchiz olunmuş mətbəx avadanlığı və mətməx mebeli\r\n🔹 Tam təchiz olunmuş hamam otağı\r\n🔹 Zərif çilçıraqlar və digər aksesuarlar\r\n🔹 Pultla idarə olunan giriş qapısı\r\n🔹 Bütün otaqlarda isti döşəmə mövcuddur",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "110",
+    "location_name": "Şüvəlan",
+    "land_area_sot": 1.8,
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6514971",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 120000,
+        "date": "2026-10-04T17:22:36.619748+00:00"
       }
     ]
   },

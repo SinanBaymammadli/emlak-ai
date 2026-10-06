@@ -4896,40 +4896,6 @@
     ]
   },
   {
-    "id": "6521778",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F16%2F49%2F57%2F81a259da-e8c0-4bb5-aa55-78c2e111583a%2F60571_aPsGHagvAJigF7VZymaUnA.jpg",
-    "price": 3000,
-    "location": "Xətai r.",
-    "location_id": "16",
-    "location_name": "Xətai",
-    "rooms": null,
-    "area_m2": 80,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": true,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-06T16:56:35+04:00",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6521778",
-    "lat": 40.38217293712153,
-    "lng": 49.88987542011282,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "İcarəyə verilir obyekt 80 m²",
-    "description": "🍽️ HAZIR DÖNƏR RESTORANI  — TAM FORMALAŞMIŞ BİZNES\n\n✨ Restoran hazır vəziyyətdədir və fəaliyyət üçün bütün əsas imkanlara malikdir. Dönər sahəsində formalaşmış konsept, avadanlıqlar və hazır restoran infrastrukturu mövcuddur.\n\n📦 Daxildir:\n🔹 Hazır restoran biznesi\n🔹 Mətbəx və restoran avadanlıqları\n🔹 Mebel və digər inventarlar\n🔹 Sosial media səhifələri\n🔹 Hazır restoran konsepti\n🔹 Mövcud müştəri bazası\n🔹 Formalaşmış fəaliyyət sistemi\n\nQeyd - Hazır bizneslə bərabər icarəyə verilir. \n\n📌 Hazır konsept və işlək sistem üzərindən biznesə başlamaq istəyənlər üçün əlverişli seçimdir.\n\n💼 Xidmət haqqı: 30%",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 3000,
-        "date": "2026-10-06T12:57:52.560128+00:00"
-      }
-    ]
-  },
-  {
     "id": "6521810",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F16%2F55%2F23%2F8d025b14-ea7a-4dbc-8078-233a536d6cd9%2F60584_8mTsaSQ0uwTTOfGXx8JnJQ.jpg",
     "price": 1200,
@@ -4960,6 +4926,74 @@
       {
         "price": 1200,
         "date": "2026-10-06T12:57:52.560095+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6521824",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F16%2F57%2F00%2Fde57574f-497e-468a-ac15-1d414a95f85e%2F37098_WyrsVTmt_IejvrrS12JezA.jpg",
+    "price": 8000,
+    "location": "Nəsimi r.",
+    "location_id": "190",
+    "location_name": "Nəsimi",
+    "rooms": null,
+    "area_m2": 330,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-06T16:58:59+04:00",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6521824",
+    "lat": 40.39087673167511,
+    "lng": 49.84541373822024,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "İcarəyə verilir obyekt 330 m²",
+    "description": "Azadliqla Bakixanov küçəsi kəsişməsində aktiv bir küçədə ətrafinda şirkətlərin ve ofislərin olduğu erazidə, 28 may və gənclik metroya 10 dəqiqə məsafədə yerləşən obyekt icareye verilir.\r\nObyekt önündə müştəri üçün rahat parking,\r\nyüksək tavan, geniş vitrin, mərkəzi havalandırma sistemi.\r\nObyekt ofis, klinika, tədris mərkəzi, showroomu və digər biznes sahələri üçün ideal seçimdir.\r\nBirinci mertebe ve yarı zirzemi hisse kiraye verilir.\r\nQiymet 8000 AZN \r\nOfis haqqi 30% təşkil edir.",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 8000,
+        "date": "2026-10-06T13:11:57.935893+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6521778",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F16%2F49%2F57%2F81a259da-e8c0-4bb5-aa55-78c2e111583a%2F60571_aPsGHagvAJigF7VZymaUnA.jpg",
+    "price": 3000,
+    "location": "Xətai r.",
+    "location_id": "16",
+    "location_name": "Xətai",
+    "rooms": null,
+    "area_m2": 80,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-06T16:59:03+04:00",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6521778",
+    "lat": 40.38217293712153,
+    "lng": 49.88987542011282,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "İcarəyə verilir obyekt 80 m²",
+    "description": "🍽️ HAZIR DÖNƏR RESTORANI  — TAM FORMALAŞMIŞ BİZNES\n\n✨ Restoran hazır vəziyyətdədir və fəaliyyət üçün bütün əsas imkanlara malikdir. Dönər sahəsində formalaşmış konsept, avadanlıqlar və hazır restoran infrastrukturu mövcuddur.\n\n📦 Daxildir:\n🔹 Hazır restoran biznesi\n🔹 Mətbəx və restoran avadanlıqları\n🔹 Mebel və digər inventarlar\n🔹 Sosial media səhifələri\n🔹 Hazır restoran konsepti\n🔹 Mövcud müştəri bazası\n🔹 Formalaşmış fəaliyyət sistemi\n\nQeyd - Hazır bizneslə bərabər icarəyə verilir. \n\n📌 Hazır konsept və işlək sistem üzərindən biznesə başlamaq istəyənlər üçün əlverişli seçimdir.\n\n💼 Xidmət haqqı: 30%",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 3000,
+        "date": "2026-10-06T12:57:52.560128+00:00"
       }
     ]
   }

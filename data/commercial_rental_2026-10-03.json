@@ -2596,38 +2596,6 @@
     ]
   },
   {
-    "id": "5877999",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F02%2F24%2F15%2F56%2F38%2Fdd77c56a-28a9-4d71-8e66-1b4bf6dfc77c%2F14623_UQEW_7JwSS8ke8LZ530Vng.jpg",
-    "price": 3500,
-    "location": "Nizami m.",
-    "area_m2": 150,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.38269690497778,
-    "lng": 49.82511352643601,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-05T17:05:38+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir obyekt 150 m²",
-    "description": "Təcili!  Şəhərin mərkəzində bütün avadanlıqlar ilə birgə restoran icarəyə verilir! \nBakının ən prestijli və gediş-gəlişli ünvanlarından biri olan, xalq arasında \"6-cı paralel\" kimi tanınan ərazidə, tam təchizatlı restoran icarəyə təklif olunur.Nizami metro stansiyasına cəmi 10 dəqiqəlik piyada məsafəsi.\nƏrazi biznes mərkəzləri, məşhur restoranlar, \"pub\"lar və digər iaşə obyektləri ilə əhatə olunub ki, bu da daimi müştəri axınını təmin edir. Restoran bütün zəruri mətbəx avadanlıqları, mebel dəstləri və texniki təchizatla birlikdə verilir. İşə başlamaq üçün əlavə vaxt və vəsait itkisinə ehtiyac yoxdur.\n\nRestoran sektorunda böyük təcrübəsi olan şəxslərə üstünlük verilir. Mövcud restoran şəbəkələri olan və ya idarəetmə sisteminə bələd olan peşəkar iş adamları və şirkətlər öncəlikdir.\n\nMəqsədimiz uzunmüddətli və etibarlı əməkdaşlıqdır. Restoran infrastruktur baxımından həm milli, həm də Avropa mətbəxi üçün tam uygundur. \n",
-    "building_type": "Obyekt",
-    "location_id": "35",
-    "location_name": "Nizami",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/5877999",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 3500,
-        "date": "2026-10-03T19:31:58.164243+00:00"
-      }
-    ]
-  },
-  {
     "id": "6512195",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F21%2F44%2F47%2Fb3220251-0fe2-4f58-8005-a864172ca786%2F16169_lc6rtpQuDR5XGK8A6sIQsA.jpg",
     "price": 3500,
@@ -2752,6 +2720,38 @@
       {
         "price": 1500,
         "date": "2026-10-03T19:31:58.166006+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5877999",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F02%2F24%2F15%2F56%2F38%2Fdd77c56a-28a9-4d71-8e66-1b4bf6dfc77c%2F14623_UQEW_7JwSS8ke8LZ530Vng.jpg",
+    "price": 3500,
+    "location": "Nizami m.",
+    "area_m2": 150,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38269690497778,
+    "lng": 49.82511352643601,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T17:05:38+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir obyekt 150 m²",
+    "description": "Təcili!  Şəhərin mərkəzində bütün avadanlıqlar ilə birgə restoran icarəyə verilir! \nBakının ən prestijli və gediş-gəlişli ünvanlarından biri olan, xalq arasında \"6-cı paralel\" kimi tanınan ərazidə, tam təchizatlı restoran icarəyə təklif olunur.Nizami metro stansiyasına cəmi 10 dəqiqəlik piyada məsafəsi.\nƏrazi biznes mərkəzləri, məşhur restoranlar, \"pub\"lar və digər iaşə obyektləri ilə əhatə olunub ki, bu da daimi müştəri axınını təmin edir. Restoran bütün zəruri mətbəx avadanlıqları, mebel dəstləri və texniki təchizatla birlikdə verilir. İşə başlamaq üçün əlavə vaxt və vəsait itkisinə ehtiyac yoxdur.\n\nRestoran sektorunda böyük təcrübəsi olan şəxslərə üstünlük verilir. Mövcud restoran şəbəkələri olan və ya idarəetmə sisteminə bələd olan peşəkar iş adamları və şirkətlər öncəlikdir.\n\nMəqsədimiz uzunmüddətli və etibarlı əməkdaşlıqdır. Restoran infrastruktur baxımından həm milli, həm də Avropa mətbəxi üçün tam uygundur. \n",
+    "building_type": "Obyekt",
+    "location_id": "35",
+    "location_name": "Nizami",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/5877999",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 3500,
+        "date": "2026-10-03T19:31:58.164243+00:00"
       }
     ]
   },

@@ -2754,40 +2754,6 @@
     ]
   },
   {
-    "id": "6520749",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F13%2F08%2F55%2Fcdd110cd-bb15-49fc-af2c-e4edd39a82a6%2F60588_W5_bLwxr-esVM886751ZTw.jpg",
-    "price": 3500,
-    "location": "Şah İsmayıl Xətai m.",
-    "location_id": "36",
-    "location_name": "Şah İsmayıl Xətai",
-    "rooms": "7 otaqlı",
-    "area_m2": 500,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": true,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-06T13:14:16+04:00",
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6520749",
-    "lat": 40.38673765779459,
-    "lng": 49.86694561062622,
-    "land_area_sot": 4.5,
-    "building_type": "Həyət evi/Bağ evi",
-    "title": "İcarəyə verilir 7 otaqlı həyət evi/bağ evi 500 m²",
-    "description": "🏡 PREMİUM VİLLA İCARƏYƏ VERİLİR!\r\n📍 Xətai metrosuna yaxın ərazidə\r\n📍 Sevgi Parkının, Bravo Store və RITZ-Carlton Hotelin yaxınlığı\r\n✨ 3 mərtəbə + zirzəmi\r\n🛏️ 8 otaq\r\n🌳 4 sot torpaq sahəsində\r\n🏠 Geniş və komfortlu villa\r\n✅ Hər cür şərait mövcuddur\r\n🌿 Səliqəli həyət\r\n📍 Əlverişli və prestijli lokasiya\r\n💰 Start qiymət: 3500 AZN\r\n💼 Xidmət haqqı: 30%\r\n📞 Ətraflı məlumat və baxış üçün əlaqə saxlayın.",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 3500,
-        "date": "2026-10-06T12:57:42.391740+00:00"
-      }
-    ]
-  },
-  {
     "id": "6520767",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F12%2F46%2F32%2F96210a23-b0ca-4ef1-bc3c-99e9e59fa44a%2F60574_WSQtK37soQccuARjbg6DNQ.jpg",
     "price": 1500,
@@ -3158,6 +3124,40 @@
       {
         "price": 100,
         "date": "2026-10-06T12:57:41.953175+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6520749",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F17%2F07%2F13%2F7f8725d1-babe-4947-afee-1f7587007bd3%2F37056_XLWi212yRUmvxVZQuOFd3w.jpg",
+    "price": 3500,
+    "location": "Şah İsmayıl Xətai m.",
+    "location_id": "36",
+    "location_name": "Şah İsmayıl Xətai",
+    "rooms": "7 otaqlı",
+    "area_m2": 500,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-06T17:10:16+04:00",
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6520749",
+    "lat": 40.38673765779459,
+    "lng": 49.86694561062622,
+    "land_area_sot": 4.5,
+    "building_type": "Həyət evi/Bağ evi",
+    "title": "İcarəyə verilir 7 otaqlı həyət evi/bağ evi 500 m²",
+    "description": "🏡 PREMİUM VİLLA İCARƏYƏ VERİLİR!\r\n📍 Xətai metrosuna yaxın ərazidə\r\n📍 Sevgi Parkının, Bravo Store və RITZ-Carlton Hotelin yaxınlığı\r\n✨ 3 mərtəbə + zirzəmi\r\n🛏️ 8 otaq\r\n🌳 4 sot torpaq sahəsində\r\n🏠 Geniş və komfortlu villa\r\n✅ Hər cür şərait mövcuddur\r\n🌿 Səliqəli həyət\r\n📍 Əlverişli və prestijli lokasiya\r\n💰 Start qiymət: 3500 AZN\r\n💼 Xidmət haqqı: 30%\r\n📞 Ətraflı məlumat və baxış üçün əlaqə saxlayın.",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 3500,
+        "date": "2026-10-06T12:57:42.391740+00:00"
       }
     ]
   }

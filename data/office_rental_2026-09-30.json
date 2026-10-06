@@ -25245,39 +25245,6 @@
     "rooms": "6 otaqlı"
   },
   {
-    "id": "6492098",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F25%2F18%2F32%2F23%2Fc85926f2-f810-4706-afdf-df701793cb04%2F71628_phNnlX-oMCG9Atz6MKbvDA.jpg",
-    "price": 2800,
-    "location": "Nəsimi r.",
-    "area_m2": 250,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.3991364695589,
-    "lng": 49.83852576302827,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-25T18:35:23+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 8 otaqlı ofis 250 m²",
-    "description": " Obyekt 250 kv. Klinika, şəxsi biznes, və ofis axtaranlarin nəzərinə. Məkan 3 cü mərtəbədə yerləşir, şəxsi girişi. 8 otaq + mətbəx + 2 sanuzir + 2 böyük qarderob + 2 xoldan ibarətdir. Tam təmirli və istilik sistemiylə təchiz olunub. Uzun müddətli müqavilə əsasinda tam problemsiz biznesinizi idarə edə bilərsiniz. Makler deyilem. Ayliq ödənisin 2 ayi əvvəlcədən ödəniş olunmalidir.Həsən Əliyev küçəsi. Olimpik Starin tam saginda",
-    "building_type": "Ofis",
-    "location_id": "190",
-    "location_name": "Nəsimi",
-    "category": "office",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6492098",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 2800,
-        "date": "2026-09-30T19:57:52.242949+00:00"
-      }
-    ],
-    "rooms": "8 otaqlı"
-  },
-  {
     "id": "6492133",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F25%2F18%2F38%2F36%2Ff3bd4c90-62e3-4825-8fb8-b52c36c4e60c%2F59314_AZ9q165GCzkBk8HIFl9vOA.jpg",
     "price": 1500,
@@ -40538,39 +40505,6 @@
     "rooms": "4 otaqlı"
   },
   {
-    "id": "6116463",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F09%2F21%2F11%2F52%2F6985df28-f633-43c0-bee8-936454a4704e%2F55105_3-bp6MqYNmr-5JE3saT3FA.jpg",
-    "price": 5000,
-    "location": "Nizami m.",
-    "area_m2": 500,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.37714724620015,
-    "lng": 49.82363070910644,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-05T17:05:41+04:00",
-    "is_featured": true,
-    "title": "İcarəyə verilir 7 otaqlı ofis 500 m²",
-    "description": "Bakının ən gözəl mənzərəli, mərkəzi parkın tam üstündəki binada dupleks ofis uzunmüddətli icarəyə verilir.  \n\n-400 kv ərazi\n-dupleks (son iki mərtəbə,15-16) və monsard\n-hər iki mərtəbədən çıxış var\n-lift 15 mərtəbəyə qədər qalxır\n-4 balkon\n-2 sanitar qovşağı\n-6 ofis otağı \n-1 100kv m zal\n-ayrı mətbəx\n-kamera sistemi\n-daxili ats sistemi\n-yangin siqnalizasiyası\n-mebellə tam təchiz olunub\n-istilik kombi sistemi\n-her otaqda kondisioner\n-binanın ətrafında parklanma yerleri var\n\n\n\nVasitəçilərlə işləyirik, elanlar ancaq özümüzə aiddir, digərlərinin elan qoyması qadağandır!",
-    "building_type": "Ofis",
-    "location_id": "35",
-    "location_name": "Nizami",
-    "category": "office",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6116463",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 5000,
-        "date": "2026-09-30T19:57:52.239151+00:00"
-      }
-    ],
-    "rooms": "7 otaqlı"
-  },
-  {
     "id": "6058736",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F04%2F19%2F19%2F10%2F24%2F0d69cfcd-30f5-4871-b12d-fc062de05ed6%2F44270_1MGn-k3yHEt0Ho6Vjji3Dg.jpg",
     "price": 800,
@@ -44242,6 +44176,72 @@
       }
     ],
     "rooms": "5 otaqlı"
+  },
+  {
+    "id": "6492098",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F25%2F18%2F32%2F23%2Fc85926f2-f810-4706-afdf-df701793cb04%2F71628_phNnlX-oMCG9Atz6MKbvDA.jpg",
+    "price": 2800,
+    "location": "Nəsimi r.",
+    "area_m2": 250,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.3991364695589,
+    "lng": 49.83852576302827,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T17:05:30+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 8 otaqlı ofis 250 m²",
+    "description": " Obyekt 250 kv. Klinika, şəxsi biznes, və ofis axtaranlarin nəzərinə. Məkan 3 cü mərtəbədə yerləşir, şəxsi girişi. 8 otaq + mətbəx + 2 sanuzir + 2 böyük qarderob + 2 xoldan ibarətdir. Tam təmirli və istilik sistemiylə təchiz olunub. Uzun müddətli müqavilə əsasinda tam problemsiz biznesinizi idarə edə bilərsiniz. Makler deyilem. Ayliq ödənisin 2 ayi əvvəlcədən ödəniş olunmalidir.Həsən Əliyev küçəsi. Olimpik Starin tam saginda",
+    "building_type": "Ofis",
+    "location_id": "190",
+    "location_name": "Nəsimi",
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6492098",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 2800,
+        "date": "2026-09-30T19:57:52.242949+00:00"
+      }
+    ],
+    "rooms": "8 otaqlı"
+  },
+  {
+    "id": "6116463",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F09%2F21%2F11%2F52%2F6985df28-f633-43c0-bee8-936454a4704e%2F55105_3-bp6MqYNmr-5JE3saT3FA.jpg",
+    "price": 5000,
+    "location": "Nizami m.",
+    "area_m2": 500,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.37714724620015,
+    "lng": 49.82363070910644,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T17:05:41+04:00",
+    "is_featured": true,
+    "title": "İcarəyə verilir 7 otaqlı ofis 500 m²",
+    "description": "Bakının ən gözəl mənzərəli, mərkəzi parkın tam üstündəki binada dupleks ofis uzunmüddətli icarəyə verilir.  \n\n-400 kv ərazi\n-dupleks (son iki mərtəbə,15-16) və monsard\n-hər iki mərtəbədən çıxış var\n-lift 15 mərtəbəyə qədər qalxır\n-4 balkon\n-2 sanitar qovşağı\n-6 ofis otağı \n-1 100kv m zal\n-ayrı mətbəx\n-kamera sistemi\n-daxili ats sistemi\n-yangin siqnalizasiyası\n-mebellə tam təchiz olunub\n-istilik kombi sistemi\n-her otaqda kondisioner\n-binanın ətrafında parklanma yerleri var\n\n\n\nVasitəçilərlə işləyirik, elanlar ancaq özümüzə aiddir, digərlərinin elan qoyması qadağandır!",
+    "building_type": "Ofis",
+    "location_id": "35",
+    "location_name": "Nizami",
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6116463",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 5000,
+        "date": "2026-09-30T19:57:52.239151+00:00"
+      }
+    ],
+    "rooms": "7 otaqlı"
   },
   {
     "id": "6337122",

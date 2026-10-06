@@ -4087,51 +4087,6 @@
     ]
   },
   {
-    "id": "6508200",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F16%2F17%2F42%2F3996cf2b-a94f-45d1-b853-093d4b4e5338%2F75517_F_vdRLDXin1TyOCB1kkyuQ.jpg",
-    "price": 165000,
-    "location": "Novxanı q.",
-    "land_area_sot": 53.0,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.52176104932531,
-    "lng": 49.79590199301352,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": null,
-    "updated_at_site": "2026-10-05T17:12:19+04:00",
-    "is_featured": false,
-    "title": "Satılır torpaq 53 sot",
-    "description": "Novxanıda Bakı Praqa restaranı ilə üzbəüz\n\n53 sot Sənəd Çıxarış\nTəyinat-Təsərrüfat\n\nTəcili olduğu üçün bu qiymətə verirəm\n\nQiymət-175.000",
-    "building_type": "Torpaq",
-    "location_id": "113",
-    "location_name": "Novxanı",
-    "area_m2": 53,
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6508200",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 180000,
-        "date": "2026-10-02T14:51:31.241530+00:00"
-      },
-      {
-        "price": 175000,
-        "date": "2026-10-03T19:32:13.110820+00:00"
-      },
-      {
-        "price": 170000,
-        "date": "2026-10-04T18:34:06.773693+00:00"
-      },
-      {
-        "price": 165000,
-        "date": "2026-10-06T12:57:57.983400+00:00"
-      }
-    ]
-  },
-  {
     "id": "6512158",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F21%2F15%2F38%2Fc7ebc522-c7c7-4edb-b098-b6f4b9ccf8b2%2F93632_NU_q5WochzU460Z85lS5Gw.jpg",
     "price": 1000000,
@@ -4544,6 +4499,55 @@
       {
         "price": 189000,
         "date": "2026-10-02T19:32:24.558409+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6508200",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F16%2F17%2F42%2F3996cf2b-a94f-45d1-b853-093d4b4e5338%2F75517_F_vdRLDXin1TyOCB1kkyuQ.jpg",
+    "price": 220000,
+    "location": "Novxanı q.",
+    "land_area_sot": 53.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.52176104932531,
+    "lng": 49.79590199301352,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T17:02:03+04:00",
+    "is_featured": false,
+    "title": "Satılır torpaq 53 sot",
+    "description": "Novxanıda Bakı Praqa restaranı ilə üzbəüz\n\n53 sot Sənəd Çıxarış\nTəyinat-Təsərrüfat\n\nTəcili olduğu üçün bu qiymətə verirəm\n\nQiymət-175.000",
+    "building_type": "Torpaq",
+    "location_id": "113",
+    "location_name": "Novxanı",
+    "area_m2": 53,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6508200",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 180000,
+        "date": "2026-10-02T14:51:31.241530+00:00"
+      },
+      {
+        "price": 175000,
+        "date": "2026-10-03T19:32:13.110820+00:00"
+      },
+      {
+        "price": 170000,
+        "date": "2026-10-04T18:34:06.773693+00:00"
+      },
+      {
+        "price": 165000,
+        "date": "2026-10-06T12:57:57.983400+00:00"
+      },
+      {
+        "price": 220000,
+        "date": "2026-10-06T13:11:30.456852+00:00"
       }
     ]
   },

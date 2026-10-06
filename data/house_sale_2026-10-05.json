@@ -5814,40 +5814,6 @@
     ]
   },
   {
-    "id": "6518857",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F16%2F55%2F13%2Fe267ad57-bc19-47e0-b03e-6b3276e4f0e1%2F93531_mwBqkrbl-2JXRRtzXcGlhA.jpg",
-    "price": 895000,
-    "location": "Həzi Aslanov q.",
-    "location_id": "99",
-    "location_name": "Həzi Aslanov",
-    "rooms": "8 otaqlı",
-    "area_m2": 400,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": true,
-    "updated_at_site": "2026-10-05T17:01:12+04:00",
-    "category": "house",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6518857",
-    "lat": 40.37836480422193,
-    "lng": 49.92156048039556,
-    "land_area_sot": 4,
-    "building_type": "Həyət evi/Bağ evi",
-    "title": "Satılır 8 otaqlı həyət evi/bağ evi 400 m²",
-    "description": "Ev Həzi Aslanov qəsəbəsinin ən prestijli küçələrindən birində, Nobel prospektindən və əsas magistral yoldan cəmi 3 dəqiqəlik məsafədə yerləşir.\r\n\r\n🔹 Torpaq sahəsi: 3,5 sot\r\n🔹 Mərtəbə sayı: 4\r\n🔹 Hər mərtəbə: 100 m²\r\n🔹 Ümumi sahə: 400 m²\r\n🔹 Otaq sayı: 8\r\n🔹 Yataq otağı: 5\r\n🔹 Sanitar qovşaq: 4 — 3-ü evin daxilində, 1-i həyətdə\r\n🔹 Torpağın və evin ayrıca çıxarışı (kupçası) var\r\n\r\nEv şəxsi yaşayış üçün yüksək keyfiyyətlə tikilib və cəmi bir il yaşayış olub. Bütün mebel və məişət texnikası ilə birlikdə tam əşyalı satılır.\r\nEvin üstünlükləri:\r\n✅ Bütün mərtəbələrdə isti döşəmə sistemi\r\n✅ Hər mərtəbə üçün ayrıca kombi sistemi\r\n✅ Panoramik pəncərələr\r\n✅ Mansarddan dəniz mənzərəsi\r\n✅ İnteryeri tamamlayan bahalı və zövqlü çilçıraqlar\r\n✅ Tam təhlükəsizlik kameraları ilə təchiz olunub\r\n✅ Polis mühafizə xidmətinə qoşulmuş mühafizə sistemi\r\n✅ Həyətdə yay mətbəxi üçün nəzərdə tutulmuş ayrıca zona\r\n✅ Qaz, su, elektrik enerjisi və kanalizasiya sistemi daimidir\r\n\r\nƏşyalı!\r\nBarter mümkündür!",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 895000,
-        "date": "2026-10-05T19:37:40.867547+00:00"
-      }
-    ]
-  },
-  {
     "id": "6166855",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F28%2F21%2F02%2F20%2F007ef623-24a1-4e3a-b617-ad9343516f6e%2F35166_rjVqyFCnIUQucBA98o6IfQ.jpg",
     "price": 120000,
@@ -9792,6 +9758,40 @@
       {
         "price": 46000,
         "date": "2026-10-05T19:37:41.972812+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6518857",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F16%2F55%2F13%2Fe267ad57-bc19-47e0-b03e-6b3276e4f0e1%2F93531_mwBqkrbl-2JXRRtzXcGlhA.jpg",
+    "price": 895000,
+    "location": "Həzi Aslanov q.",
+    "location_id": "99",
+    "location_name": "Həzi Aslanov",
+    "rooms": "8 otaqlı",
+    "area_m2": 400,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": true,
+    "updated_at_site": "2026-10-06T17:01:12+04:00",
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6518857",
+    "lat": 40.37836480422193,
+    "lng": 49.92156048039556,
+    "land_area_sot": 4,
+    "building_type": "Həyət evi/Bağ evi",
+    "title": "Satılır 8 otaqlı həyət evi/bağ evi 400 m²",
+    "description": "Ev Həzi Aslanov qəsəbəsinin ən prestijli küçələrindən birində, Nobel prospektindən və əsas magistral yoldan cəmi 3 dəqiqəlik məsafədə yerləşir.\r\n\r\n🔹 Torpaq sahəsi: 3,5 sot\r\n🔹 Mərtəbə sayı: 4\r\n🔹 Hər mərtəbə: 100 m²\r\n🔹 Ümumi sahə: 400 m²\r\n🔹 Otaq sayı: 8\r\n🔹 Yataq otağı: 5\r\n🔹 Sanitar qovşaq: 4 — 3-ü evin daxilində, 1-i həyətdə\r\n🔹 Torpağın və evin ayrıca çıxarışı (kupçası) var\r\n\r\nEv şəxsi yaşayış üçün yüksək keyfiyyətlə tikilib və cəmi bir il yaşayış olub. Bütün mebel və məişət texnikası ilə birlikdə tam əşyalı satılır.\r\nEvin üstünlükləri:\r\n✅ Bütün mərtəbələrdə isti döşəmə sistemi\r\n✅ Hər mərtəbə üçün ayrıca kombi sistemi\r\n✅ Panoramik pəncərələr\r\n✅ Mansarddan dəniz mənzərəsi\r\n✅ İnteryeri tamamlayan bahalı və zövqlü çilçıraqlar\r\n✅ Tam təhlükəsizlik kameraları ilə təchiz olunub\r\n✅ Polis mühafizə xidmətinə qoşulmuş mühafizə sistemi\r\n✅ Həyətdə yay mətbəxi üçün nəzərdə tutulmuş ayrıca zona\r\n✅ Qaz, su, elektrik enerjisi və kanalizasiya sistemi daimidir\r\n\r\nƏşyalı!\r\nBarter mümkündür!",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 895000,
+        "date": "2026-10-05T19:37:40.867547+00:00"
       }
     ]
   },

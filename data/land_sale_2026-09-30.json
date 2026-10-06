@@ -1,71 +1,5 @@
 [
   {
-    "id": "6438494",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F06%2F16%2F59%2F25%2F812e81f4-e151-469f-addb-edd7d5532268%2F63774_L7IuuBXmheqUyyD80-AdIQ.jpg",
-    "price": 150000,
-    "location": "Şüvəlan q.",
-    "land_area_sot": 6.0,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.48929780578444,
-    "lng": 50.20679837036131,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-06T17:00:16+04:00",
-    "is_featured": false,
-    "title": "Satılır torpaq 6 sot",
-    "description": "Suvelan qesebesi  Ziyaretgahdan asagi 6 sot torpaq sahəsi satılır. Torpaq sahəsi 4 tərəfdən hasarlanib 4 tərəfi yaşayış evi villalardi.Qazi, isiqi, suyu daimidir.Ətrafli məlumat almaq üçün bizimle elaqe saxlayin.Sened KUPÇA\r\n\r\n",
-    "building_type": "Torpaq",
-    "location_id": "110",
-    "location_name": "Şüvəlan",
-    "area_m2": 6,
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6438494",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 150000,
-        "date": "2026-09-30T19:59:33.544356+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6438506",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F06%2F16%2F56%2F35%2F5ea61ae2-34f5-4a92-aeb9-afc0562bb60d%2F49883_lonuQOuGJSeAIw1mPw2_Fg.jpg",
-    "price": 20000,
-    "location": "Türkan q.",
-    "land_area_sot": 3.0,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.35405448655829,
-    "lng": 50.24974695069691,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-06T17:04:51+04:00",
-    "is_featured": false,
-    "title": "Satılır torpaq 3 sot",
-    "description": "Türkan bağ məscidinə yaxın dənizə 500-600 metr məsafədə 3 sot Kupçalı torpaq sahəsi satılır. Torpaq yenicə hasara alınıb ( 4 daş ) Sənədi tam Xüsusi mülkiyyətdir,tikinti təyinatlıdır.Kim istəsə dəqiq yerləşmə yerini göndərə bilərəm.Torpaqın videosuda bizdə var istəyən yazsın watsappdan göndərim.Ofis haqqı 500 AZN-dir.",
-    "building_type": "Torpaq",
-    "location_id": "94",
-    "location_name": "Türkan",
-    "area_m2": 3,
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6438506",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 20000,
-        "date": "2026-09-30T19:59:33.544327+00:00"
-      }
-    ]
-  },
-  {
     "id": "6087295",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F21%2F15%2F00%2F00%2Fc0da66c6-1182-4e2a-9de9-6c2a232fd4b2%2F38511_cAjtC0M3Re_Wcj81kqSImA.jpg",
     "price": 400000,
@@ -6732,39 +6666,6 @@
     ]
   },
   {
-    "id": "6438513",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F06%2F17%2F04%2F40%2F1d659877-cba9-4d8c-a217-48ad2f47297e%2F63816_uEAimbcj_qfeCrt3VkAanA.jpg",
-    "price": 145000,
-    "location": "Sea Breeze q.",
-    "land_area_sot": 9.5,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.56851307498518,
-    "lng": 49.96043276560455,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-09T10:38:38+04:00",
-    "is_featured": false,
-    "title": "Satılır torpaq 9.5 sot",
-    "description": "Ləhic bağları 22-ci dalan, Sea Breeze 10 dəqiqəlik məsafədə, Rahat marketin yanı, əsas yola 700 metr, kupçalı torpaq, qaz işıq su internet var. Real alıcıya endirim olacaq.",
-    "building_type": "Torpaq",
-    "location_id": "380",
-    "location_name": "Sea Breeze",
-    "area_m2": 9.5,
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6438513",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 145000,
-        "date": "2026-09-30T19:59:33.544318+00:00"
-      }
-    ]
-  },
-  {
     "id": "6445028",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F08%2F21%2F20%2F52%2F44426f13-c134-4d63-b049-d355f753594d%2F72348_XpOq0yGzeZ6c19Ii-cwq1w.jpg",
     "price": 130000,
@@ -8807,39 +8708,6 @@
       {
         "price": 8500,
         "date": "2026-09-30T19:59:33.541235+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6438501",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F06%2F17%2F01%2F42%2F7d28f52f-0c74-433b-9f9b-1487619a6e67%2F72322_oXXfJKaNeBvB4fsi4yn1CQ.jpg",
-    "price": 50000,
-    "location": "Dübəndi q.",
-    "land_area_sot": 5.0,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.41917817245633,
-    "lng": 50.29442437190984,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-09T17:07:10+04:00",
-    "is_featured": false,
-    "title": "Satılır torpaq 5 sot",
-    "description": "Dubendi torpaq sahesi. Bag evi ucun ideal yerleshmede Zire ekopark ve dubendi balig  restoraninin yaxinliginda nemishlik olmayan erazide yerleshir. Asvalt yoldan  20-30 metrelik torpaq yol var torpaq sahesine. Shekillerde detalli gosterilmishdir. Qaz,su,ishiq ve internet yanindadir . Sened yashayish ve tikinti teyinatli kupchadir. Real mushteri uchun yerinde cuzi endirim nezerde tutulub",
-    "building_type": "Torpaq",
-    "location_id": "97",
-    "location_name": "Dübəndi",
-    "area_m2": 5,
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6438501",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 50000,
-        "date": "2026-09-30T19:59:33.544335+00:00"
       }
     ]
   },
@@ -111715,39 +111583,6 @@
     ]
   },
   {
-    "id": "6492759",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F26%2F01%2F50%2F00%2Fb1dd0bcf-a4f5-4708-85ed-c615b027204d%2F64898_tvHzg7w5ZUMYHm7RE6MBHQ.jpg",
-    "price": 50000,
-    "location": "Xocəsən q.",
-    "land_area_sot": 5.0,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.409777012351,
-    "lng": 49.76198512340614,
-    "has_repair": null,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-05T16:58:21+04:00",
-    "is_featured": false,
-    "title": "Satılır torpaq 5 sot",
-    "description": "Salam Torpaq sahəmiz Xocahəsəndə yerləşir.hər tərəfi bağ evi olan  tam yaşayışlı ərazidir.bütün komunallar var.bu ərazidə bir dənə boş torpaq budur.hüdür ərazidir.rahat bölgüyə gedir.",
-    "building_type": "Torpaq",
-    "location_id": "9",
-    "location_name": "Xocəsən",
-    "area_m2": 5,
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6492759",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 50000,
-        "date": "2026-09-30T19:59:33.507092+00:00"
-      }
-    ]
-  },
-  {
     "id": "6303372",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F18%2F22%2F29%2F49%2Ff7a6269d-0bf7-4772-9af0-e55829bf4de4%2F53216_yXLA2bVB8EHOM3O8e0xorA.jpg",
     "price": 77400,
@@ -111814,76 +111649,6 @@
       {
         "price": 200000,
         "date": "2026-09-30T19:59:33.524857+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6101758",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F05%2F12%2F22%2F32%2F5badf94e-fcd9-4f6d-a83c-bef43bb97cc9%2F29098_x80BGkLpvLov37tNAr0P1g.jpg",
-    "price": 272000,
-    "location": "Novxanı q.",
-    "land_area_sot": 18.0,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.5629735678293,
-    "lng": 49.81274508941451,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-05T17:06:07+04:00",
-    "is_featured": true,
-    "title": "Satılır torpaq 18 sot",
-    "description": "Bakı şəhəri, Binəqədi rayonu, Novxanı kəndi 1085E saylı bağ sahəsi satılır. Bağın ümumi sahəsi 18 sot, çıxarışla 12 sotdur.  Əsas yol yaxınlığında və dənizə yaxın məsafədə yerləşir. Çıxarış mövcuddur. Xəritədə ünvan dəqiq göstərilmişdir.\n\nƏlavə məlumat üçün əlaqə saxlaya bilərsiniz.",
-    "building_type": "Torpaq",
-    "location_id": "113",
-    "location_name": "Novxanı",
-    "area_m2": 18,
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6101758",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 272000,
-        "date": "2026-09-30T19:59:33.508568+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6264729",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F04%2F15%2F22%2F18%2Fb1d2c5d8-88ed-4c60-b6f4-83c81924c562%2F82900_TVpu1CURz7LC8xty9b1HxA.jpg",
-    "price": 463000,
-    "location": "Mərdəkan q.",
-    "land_area_sot": 24.0,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.47944252415346,
-    "lng": 50.14916408527876,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-05T17:06:59+04:00",
-    "is_featured": false,
-    "title": "Satılır torpaq 24 sot",
-    "description": "📍 Mərdəkanda Təcili Satılır!\n\nMərdəkan qəsəbəsində 24 sot torpaq sahəsi təcili olaraq satışa çıxarılıb.\n\n✅ Sahə: 24 sot\n✅ Qiymət: 463000 manat\n✅ Real alıcı ilə qiymətdə razılaşmaq mümkündür.\n✅ Bütün kommunal xətlər (işıq, qaz, su) mövcuddur.\n✅ Ətraf tam yaşayışlı və sakit məhəllədir.\n✅ Yaşayış evi, villa və ya investisiya üçün əlverişli seçimdir.\n\nBelə fürsətlər nadir hallarda olur. Əlavə məlumat və baxış üçün əlaqə saxlayın.",
-    "building_type": "Torpaq",
-    "location_id": "109",
-    "location_name": "Mərdəkan",
-    "area_m2": 24,
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6264729",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 490000,
-        "date": "2026-09-30T19:59:33.545362+00:00"
-      },
-      {
-        "price": 463000,
-        "date": "2026-10-03T19:32:13.105656+00:00"
       }
     ]
   },
@@ -118371,51 +118136,6 @@
     ]
   },
   {
-    "id": "6501930",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F29%2F15%2F31%2F30%2F2eafc63c-fc9a-44dd-8519-644c30cdf900%2F35371_Sq2sZTD29DFDsEeLDz5yTw.jpg",
-    "price": 5200000,
-    "location": "Nəsimi m.",
-    "land_area_sot": 300.0,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.41894175389216,
-    "lng": 49.82613556207752,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": null,
-    "updated_at_site": "2026-10-06T11:44:02+04:00",
-    "is_featured": false,
-    "title": "Satılır torpaq 300 sot",
-    "description": "Qəti şəkildə Maklerler  vasitəçilər və ya calağçılar əlaqə saxlamasın.\nŞəxsi torpağımdı \nVarovskidə \nRəşid Behbudov küçəsi Yol qırağı İmam Əli Məscidinin yanı\nBələdiyyə Sənədi ilə-5.800.000 azn Arxiv kök mövcuddur.\n\nÖzəlləşdirmə və Bina tikintisi üçün köməklik oluna bilər",
-    "building_type": "Torpaq",
-    "location_id": "60",
-    "location_name": "Nəsimi",
-    "area_m2": 300,
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6501930",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 6500000,
-        "date": "2026-09-30T19:59:33.513743+00:00"
-      },
-      {
-        "price": 6300000,
-        "date": "2026-10-03T19:32:13.105233+00:00"
-      },
-      {
-        "price": 5800000,
-        "date": "2026-10-04T17:01:08.406595+00:00"
-      },
-      {
-        "price": 5200000,
-        "date": "2026-10-06T12:57:55.359393+00:00"
-      }
-    ]
-  },
-  {
     "id": "5019904",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F03%2F01%2F21%2F50%2F05%2F65d5d708-5f90-4650-a96a-27bdd408ecf5%2F83603_NnVipO7k_8o2mR0vhpmgbA.jpg",
     "price": 550000,
@@ -124179,6 +123899,158 @@
       {
         "price": 210000,
         "date": "2026-09-30T19:59:33.531075+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6492759",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F26%2F01%2F50%2F00%2Fb1dd0bcf-a4f5-4708-85ed-c615b027204d%2F64898_tvHzg7w5ZUMYHm7RE6MBHQ.jpg",
+    "price": 50000,
+    "location": "Xocəsən q.",
+    "land_area_sot": 5.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.409777012351,
+    "lng": 49.76198512340614,
+    "has_repair": null,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T16:58:19+04:00",
+    "is_featured": false,
+    "title": "Satılır torpaq 5 sot",
+    "description": "Salam Torpaq sahəmiz Xocahəsəndə yerləşir.hər tərəfi bağ evi olan  tam yaşayışlı ərazidir.bütün komunallar var.bu ərazidə bir dənə boş torpaq budur.hüdür ərazidir.rahat bölgüyə gedir.",
+    "building_type": "Torpaq",
+    "location_id": "9",
+    "location_name": "Xocəsən",
+    "area_m2": 5,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6492759",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 50000,
+        "date": "2026-09-30T19:59:33.507092+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6101758",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F05%2F12%2F22%2F32%2F5badf94e-fcd9-4f6d-a83c-bef43bb97cc9%2F29098_x80BGkLpvLov37tNAr0P1g.jpg",
+    "price": 272000,
+    "location": "Novxanı q.",
+    "land_area_sot": 18.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.5629735678293,
+    "lng": 49.81274508941451,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T17:06:09+04:00",
+    "is_featured": true,
+    "title": "Satılır torpaq 18 sot",
+    "description": "Bakı şəhəri, Binəqədi rayonu, Novxanı kəndi 1085E saylı bağ sahəsi satılır. Bağın ümumi sahəsi 18 sot, çıxarışla 12 sotdur.  Əsas yol yaxınlığında və dənizə yaxın məsafədə yerləşir. Çıxarış mövcuddur. Xəritədə ünvan dəqiq göstərilmişdir.\n\nƏlavə məlumat üçün əlaqə saxlaya bilərsiniz.",
+    "building_type": "Torpaq",
+    "location_id": "113",
+    "location_name": "Novxanı",
+    "area_m2": 18,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6101758",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 272000,
+        "date": "2026-09-30T19:59:33.508568+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6264729",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F04%2F15%2F22%2F18%2Fb1d2c5d8-88ed-4c60-b6f4-83c81924c562%2F82900_TVpu1CURz7LC8xty9b1HxA.jpg",
+    "price": 463000,
+    "location": "Mərdəkan q.",
+    "land_area_sot": 24.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.47944252415346,
+    "lng": 50.14916408527876,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T17:07:00+04:00",
+    "is_featured": false,
+    "title": "Satılır torpaq 24 sot",
+    "description": "📍 Mərdəkanda Təcili Satılır!\n\nMərdəkan qəsəbəsində 24 sot torpaq sahəsi təcili olaraq satışa çıxarılıb.\n\n✅ Sahə: 24 sot\n✅ Qiymət: 463000 manat\n✅ Real alıcı ilə qiymətdə razılaşmaq mümkündür.\n✅ Bütün kommunal xətlər (işıq, qaz, su) mövcuddur.\n✅ Ətraf tam yaşayışlı və sakit məhəllədir.\n✅ Yaşayış evi, villa və ya investisiya üçün əlverişli seçimdir.\n\nBelə fürsətlər nadir hallarda olur. Əlavə məlumat və baxış üçün əlaqə saxlayın.",
+    "building_type": "Torpaq",
+    "location_id": "109",
+    "location_name": "Mərdəkan",
+    "area_m2": 24,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6264729",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 490000,
+        "date": "2026-09-30T19:59:33.545362+00:00"
+      },
+      {
+        "price": 463000,
+        "date": "2026-10-03T19:32:13.105656+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6501930",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F29%2F15%2F31%2F30%2F2eafc63c-fc9a-44dd-8519-644c30cdf900%2F35371_Sq2sZTD29DFDsEeLDz5yTw.jpg",
+    "price": 5000000,
+    "location": "Nəsimi m.",
+    "land_area_sot": 300.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.41894175389216,
+    "lng": 49.82613556207752,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T17:11:19+04:00",
+    "is_featured": false,
+    "title": "Satılır torpaq 300 sot",
+    "description": "Qəti şəkildə Maklerler  vasitəçilər və ya calağçılar əlaqə saxlamasın.\nŞəxsi torpağımdı \nVarovskidə \nRəşid Behbudov küçəsi Yol qırağı İmam Əli Məscidinin yanı\nBələdiyyə Sənədi ilə-5.800.000 azn Arxiv kök mövcuddur.\n\nÖzəlləşdirmə və Bina tikintisi üçün köməklik oluna bilər",
+    "building_type": "Torpaq",
+    "location_id": "60",
+    "location_name": "Nəsimi",
+    "area_m2": 300,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6501930",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 6500000,
+        "date": "2026-09-30T19:59:33.513743+00:00"
+      },
+      {
+        "price": 6300000,
+        "date": "2026-10-03T19:32:13.105233+00:00"
+      },
+      {
+        "price": 5800000,
+        "date": "2026-10-04T17:01:08.406595+00:00"
+      },
+      {
+        "price": 5200000,
+        "date": "2026-10-06T12:57:55.359393+00:00"
+      },
+      {
+        "price": 5000000,
+        "date": "2026-10-06T13:11:27.785176+00:00"
       }
     ]
   },
@@ -134809,6 +134681,72 @@
     ]
   },
   {
+    "id": "6438494",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F06%2F16%2F59%2F25%2F812e81f4-e151-469f-addb-edd7d5532268%2F63774_L7IuuBXmheqUyyD80-AdIQ.jpg",
+    "price": 150000,
+    "location": "Şüvəlan q.",
+    "land_area_sot": 6.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.48929780578444,
+    "lng": 50.20679837036131,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-09-06T17:00:16+04:00",
+    "is_featured": false,
+    "title": "Satılır torpaq 6 sot",
+    "description": "Suvelan qesebesi  Ziyaretgahdan asagi 6 sot torpaq sahəsi satılır. Torpaq sahəsi 4 tərəfdən hasarlanib 4 tərəfi yaşayış evi villalardi.Qazi, isiqi, suyu daimidir.Ətrafli məlumat almaq üçün bizimle elaqe saxlayin.Sened KUPÇA\r\n\r\n",
+    "building_type": "Torpaq",
+    "location_id": "110",
+    "location_name": "Şüvəlan",
+    "area_m2": 6,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6438494",
+    "deleted_at": "2026-10-06T13:11:55.927397+00:00",
+    "price_history": [
+      {
+        "price": 150000,
+        "date": "2026-09-30T19:59:33.544356+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6438506",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F06%2F16%2F56%2F35%2F5ea61ae2-34f5-4a92-aeb9-afc0562bb60d%2F49883_lonuQOuGJSeAIw1mPw2_Fg.jpg",
+    "price": 20000,
+    "location": "Türkan q.",
+    "land_area_sot": 3.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.35405448655829,
+    "lng": 50.24974695069691,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-09-06T17:04:51+04:00",
+    "is_featured": false,
+    "title": "Satılır torpaq 3 sot",
+    "description": "Türkan bağ məscidinə yaxın dənizə 500-600 metr məsafədə 3 sot Kupçalı torpaq sahəsi satılır. Torpaq yenicə hasara alınıb ( 4 daş ) Sənədi tam Xüsusi mülkiyyətdir,tikinti təyinatlıdır.Kim istəsə dəqiq yerləşmə yerini göndərə bilərəm.Torpaqın videosuda bizdə var istəyən yazsın watsappdan göndərim.Ofis haqqı 500 AZN-dir.",
+    "building_type": "Torpaq",
+    "location_id": "94",
+    "location_name": "Türkan",
+    "area_m2": 3,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6438506",
+    "deleted_at": "2026-10-06T13:11:55.927415+00:00",
+    "price_history": [
+      {
+        "price": 20000,
+        "date": "2026-09-30T19:59:33.544327+00:00"
+      }
+    ]
+  },
+  {
     "id": "6428103",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F02%2F18%2F32%2F45%2F25de1a4a-b671-4976-9de6-87db73050071%2F63809_2qJUEMzWGTZ4n_bw-jZCXw.jpg",
     "price": 60000,
@@ -135106,6 +135044,39 @@
     ]
   },
   {
+    "id": "6438513",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F06%2F17%2F04%2F40%2F1d659877-cba9-4d8c-a217-48ad2f47297e%2F63816_uEAimbcj_qfeCrt3VkAanA.jpg",
+    "price": 145000,
+    "location": "Sea Breeze q.",
+    "land_area_sot": 9.5,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.56851307498518,
+    "lng": 49.96043276560455,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-09-09T10:38:38+04:00",
+    "is_featured": false,
+    "title": "Satılır torpaq 9.5 sot",
+    "description": "Ləhic bağları 22-ci dalan, Sea Breeze 10 dəqiqəlik məsafədə, Rahat marketin yanı, əsas yola 700 metr, kupçalı torpaq, qaz işıq su internet var. Real alıcıya endirim olacaq.",
+    "building_type": "Torpaq",
+    "location_id": "380",
+    "location_name": "Sea Breeze",
+    "area_m2": 9.5,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6438513",
+    "deleted_at": "2026-10-06T13:11:55.927482+00:00",
+    "price_history": [
+      {
+        "price": 145000,
+        "date": "2026-09-30T19:59:33.544318+00:00"
+      }
+    ]
+  },
+  {
     "id": "6433540",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F04%2F16%2F23%2F54%2Fd4cac3aa-2266-4222-8f7e-276876a2769a%2F63768_J_1yYF_lXIYR1MMFSbB7sw.jpg",
     "price": 2000000,
@@ -135135,6 +135106,39 @@
       {
         "price": 2000000,
         "date": "2026-09-30T19:59:33.546142+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6438501",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F06%2F17%2F01%2F42%2F7d28f52f-0c74-433b-9f9b-1487619a6e67%2F72322_oXXfJKaNeBvB4fsi4yn1CQ.jpg",
+    "price": 50000,
+    "location": "Dübəndi q.",
+    "land_area_sot": 5.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.41917817245633,
+    "lng": 50.29442437190984,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-09-09T17:07:10+04:00",
+    "is_featured": false,
+    "title": "Satılır torpaq 5 sot",
+    "description": "Dubendi torpaq sahesi. Bag evi ucun ideal yerleshmede Zire ekopark ve dubendi balig  restoraninin yaxinliginda nemishlik olmayan erazide yerleshir. Asvalt yoldan  20-30 metrelik torpaq yol var torpaq sahesine. Shekillerde detalli gosterilmishdir. Qaz,su,ishiq ve internet yanindadir . Sened yashayish ve tikinti teyinatli kupchadir. Real mushteri uchun yerinde cuzi endirim nezerde tutulub",
+    "building_type": "Torpaq",
+    "location_id": "97",
+    "location_name": "Dübəndi",
+    "area_m2": 5,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6438501",
+    "deleted_at": "2026-10-06T13:11:55.927501+00:00",
+    "price_history": [
+      {
+        "price": 50000,
+        "date": "2026-09-30T19:59:33.544335+00:00"
       }
     ]
   },

@@ -4148,40 +4148,6 @@
     ]
   },
   {
-    "id": "6520351",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F11%2F52%2F07%2F5a6b6b54-5806-4d6a-bf0f-f36d7cc1536b%2F37094_iAVTDhkhKBYkebHGTxVJTQ.jpg",
-    "price": 62000,
-    "location": "Mehdiabad q.",
-    "location_id": "112",
-    "location_name": "Mehdiabad",
-    "rooms": null,
-    "area_m2": 8,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "is_featured": false,
-    "updated_at_site": "2026-10-06T13:15:26+04:00",
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6520351",
-    "lat": 40.50134328074073,
-    "lng": 49.84986651174011,
-    "land_area_sot": null,
-    "building_type": "Torpaq",
-    "title": "Satılır torpaq 8 sot",
-    "description": "Mehdiabadda Bol Market və Tam Store yaxınlığında 1 saylı məktəblə 4 saylı məktəbin tam ortasında tam Yolun üzərində. Sənəd-Çıxarış Kənd təsərrüfatı \nÖlçüləri-26x30\n\nMakler narahat etməsin \nQiymət-62.000  Qiymət  sondu",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 62000,
-        "date": "2026-10-06T12:57:49.572332+00:00"
-      }
-    ]
-  },
-  {
     "id": "6520796",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F13%2F18%2F32%2F91e32288-043e-452c-9ffa-55937a2b4a20%2F28312_SK9_87wNs6cz5Vcn86dWmQ.jpg",
     "price": 1000000,
@@ -5096,6 +5062,78 @@
       {
         "price": 40800,
         "date": "2026-10-06T12:57:48.208077+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6333394",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F30%2F13%2F30%2F09%2F028ade24-a642-4234-94c8-2d22625200c6%2F37378_xZ6kW84Y1IPmf-ryyl56nw.jpg",
+    "price": 340000,
+    "location": "Sea Breeze q.",
+    "location_id": "380",
+    "location_name": "Sea Breeze",
+    "rooms": null,
+    "area_m2": 6,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": null,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-06T17:05:27+04:00",
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6333394",
+    "lat": 40.5793831551626,
+    "lng": 49.92997333837893,
+    "land_area_sot": null,
+    "building_type": "Torpaq",
+    "title": "Satılır torpaq 6 sot",
+    "description": "SEA BREEZE-DƏ , DƏNİZ , CASİNO və AYPARANIN TAM YAXINLIĞINDA TORPAQ SAHƏSİ !\r\n\r\nİNVESTİSİYA ÜÇÜN İDEAL !\r\n\r\nDƏYƏRİNDƏN QAT-QAT AŞAĞI !\r\n\r\n- Sea Breeze Resort \r\n- 6 sot torpaq sahəsi\r\n- premium villa ərazisi\r\n- investisiyaya yararlı\r\n\r\nƏlavə məlumat üçün əlaqə saxlaya bilərsiniz.",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 340000,
+        "date": "2026-10-06T13:11:20.722982+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6520351",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F11%2F52%2F07%2F5a6b6b54-5806-4d6a-bf0f-f36d7cc1536b%2F37094_iAVTDhkhKBYkebHGTxVJTQ.jpg",
+    "price": 61500,
+    "location": "Mehdiabad q.",
+    "location_id": "112",
+    "location_name": "Mehdiabad",
+    "rooms": null,
+    "area_m2": 8,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "is_featured": false,
+    "updated_at_site": "2026-10-06T17:10:40+04:00",
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6520351",
+    "lat": 40.50134328074073,
+    "lng": 49.84986651174011,
+    "land_area_sot": null,
+    "building_type": "Torpaq",
+    "title": "Satılır torpaq 8 sot",
+    "description": "Mehdiabadda Bol Market və Tam Store yaxınlığında 1 saylı məktəblə 4 saylı məktəbin tam ortasında tam Yolun üzərində. Sənəd-Çıxarış Kənd təsərrüfatı \nÖlçüləri-26x30\n\nMakler narahat etməsin \nQiymət-62.000  Qiymət  sondu",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 62000,
+        "date": "2026-10-06T12:57:49.572332+00:00"
+      },
+      {
+        "price": 61500,
+        "date": "2026-10-06T13:11:22.273816+00:00"
       }
     ]
   }
