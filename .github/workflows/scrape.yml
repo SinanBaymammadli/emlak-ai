@@ -57,7 +57,7 @@ jobs:
         uses: actions/upload-artifact@v7
         with:
           name: data-${{ matrix.category }}
-          path: data/${{ matrix.category }}.json
+          path: data/${{ matrix.category }}_*.json
 
       - name: Upload debug snapshots (if any)
         if: always()
