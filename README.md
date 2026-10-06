@@ -11,21 +11,28 @@ Baku real estate intelligence: daily scraper for all bina.az listing categories 
 
 ## Data files
 
-One JSON file per category in `data/`:
+Data is stored as incremental dated files — each scrape run appends only new listings to a new file rather than overwriting a single large file:
 
-| File | Listings on site |
-|------|-----------------|
-| `data/apartment_sale.json` | ~55,000 |
-| `data/apartment_rental.json` | ~23,000 |
-| `data/house_sale.json` | ~11,000 |
-| `data/house_rental.json` | ~2,800 |
-| `data/land_sale.json` | ~4,200 |
-| `data/commercial_sale.json` | ~2,400 |
-| `data/commercial_rental.json` | ~2,700 |
-| `data/office_sale.json` | ~110 |
-| `data/office_rental.json` | ~1,500 |
-| `data/garage_sale.json` | ~120 |
-| `data/garage_rental.json` | ~45 |
+```
+data/
+  apartment_sale_2026-09-30.json   ← listings first seen on that date
+  apartment_sale_2026-10-01.json
+  apartment_sale_2026-10-06.json   ← today's new listings
+  apartment_rental_2026-09-30.json
+  ...
+  manifest.json                    ← index of all dated files per category
+```
+
+Price changes and deletions are written back to whichever dated file the listing originally came from, so no separate state file is needed.
+
+`manifest.json` maps each stem to a sorted list of available dates:
+
+```json
+{
+  "apartment_sale": ["2026-09-30", "2026-10-01", "2026-10-06"],
+  "apartment_rental": ["2026-09-30", "2026-10-01"]
+}
+```
 
 Each listing record:
 
@@ -54,7 +61,7 @@ Each listing record:
 }
 ```
 
-`deleted_at` is `null` for active listings. When a listing disappears from bina.az it gets a timestamp but stays in the file so no historical data is lost. Each run the file is loaded, diffed against fresh scrape results, and saved back.
+`deleted_at` is `null` for active listings. When a listing disappears from bina.az it gets a timestamp but stays in its dated file so no historical data is lost. Each run only the changed files (new listings file + any files containing updated/deleted records) are rewritten.
 
 ## Run locally
 
@@ -146,7 +153,8 @@ scraper/
   browser.py      — Camoufox automation: page load, scroll, card extraction, GraphQL
   main.py         — entry point: scrape all categories, update JSON files, notify Telegram
 data/
-  *.json          — per-category listing files (committed to git, updated after each scrape)
+  {stem}_{YYYY-MM-DD}.json  — incremental dated listing files (committed to git)
+  manifest.json             — index of dated files per category stem
 .github/workflows/
   scrape.yml      — workflow_dispatch triggered by external cron
 ```
