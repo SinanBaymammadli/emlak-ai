@@ -1,38 +1,5 @@
 [
   {
-    "id": "5541146",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F09%2F26%2F16%2F18%2F22%2Ffa14fdc5-6112-45c9-b6a8-27c2629e5ffd%2F4513_SdFmiiX51JZHxZnCDO0xMg.jpg",
-    "price": 8800000,
-    "location": "Ağ şəhər q.",
-    "area_m2": 2087,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.38198378565569,
-    "lng": 49.88526081548308,
-    "has_repair": false,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": null,
-    "updated_at_site": "2026-09-06T20:54:11+04:00",
-    "is_featured": false,
-    "title": "Satılır 20 otaqlı ofis 2087 m²",
-    "description": "Ag şəhərin tam mərkəzində, mərkəzi kucədə yol kənari birinci cərgədə obyektlərin sirasinda Muasir yaşayiş kompleksinin ikinci mərtəbəsində dənizə gözəl mənzərəsi olan umumi sahəsi 2087kv ibarət padmayak Ofis dəyərindən aşagi giymətə satilir. Obyektin 400kv şəxsi terasi mövcudu. Obyekt barədə məlumat genişdi ətrafli muzakirə etmak mumkundu. Obyekti bölub yari yarida satmaq mumkundu!",
-    "building_type": "Ofis",
-    "location_id": "314",
-    "location_name": "Ağ şəhər",
-    "category": "office",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/5541146",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 8800000,
-        "date": "2026-09-30T19:56:43.510152+00:00"
-      }
-    ],
-    "rooms": "20 otaqlı"
-  },
-  {
     "id": "6439252",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F07%2F00%2F08%2F14%2Fde8a1bbe-0c3a-4160-8a79-94b3be1a9d47%2F63758_Xckw-83NE6wemlFILV3bkQ.jpg",
     "price": 2500000,
@@ -3205,39 +3172,6 @@
     "rooms": "17 otaqlı"
   },
   {
-    "id": "6489766",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F25%2F08%2F34%2F51%2F1753026a-34a8-4234-be60-2cbceaf77a1a%2F59351_3qsXYJCdu3QxWEeKLW_lSw.jpg",
-    "price": 10500,
-    "location": "Ağ şəhər q.",
-    "area_m2": 20,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.38274860751796,
-    "lng": 49.89164011275495,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-06T08:37:07+04:00",
-    "is_featured": true,
-    "title": "Satılır 1 otaqlı ofis 20 m²",
-    "description": "Ağ şəhərdə, Raffle Tower biznes mərkəzində (2ci mərtəbədə) Hazır tam təchiz olunmuş biznes-ofis satılır. \r\n\"Açar Təhvil\" Mebel, texnika + icarə müqaviləsinin yenidən rəsmiləşdirilməsi. Dərhal ofisə köçüb işə başlamaq imkanı, icarə hüququ rəsmi olaraq alıcının adlna keçirilir. Daşınmaz əmlakın özü mülkiyyətə verilmir, yalnız icarə əsası ilə. Mebel və texnika yeni vəziyyətindədir, işlənməyib.\r\n24/7 giriş imkani, mühafize xidməti, parkinq, ətrafda inkişaf etmiş infrastruktur.\r\nSahibindən satılır. Xahiş olunur ciddi şəxslər əlaqə saxlasın.",
-    "building_type": "Ofis",
-    "location_id": "314",
-    "location_name": "Ağ şəhər",
-    "category": "office",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6489766",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 10500,
-        "date": "2026-09-30T19:56:43.509157+00:00"
-      }
-    ],
-    "rooms": "1 otaqlı"
-  },
-  {
     "id": "6412483",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F28%2F08%2F53%2F12%2F4d94e1be-b434-4ef6-a2a4-8dad9c517f07%2F34854_vRieEYRGW7ryKn7NapvQ_w.jpg",
     "price": 309000,
@@ -3354,7 +3288,7 @@
     "has_bill_of_sale": true,
     "has_mortgage": true,
     "floor_number": null,
-    "updated_at_site": "2026-10-06T12:53:51+04:00",
+    "updated_at_site": "2026-10-06T17:36:33+04:00",
     "is_featured": false,
     "title": "Satılır 5 otaqlı ofis 263.5 m²",
     "description": "🏢 HEYDƏR ƏLİYEV MƏRKƏZİNİN YANINDA\r\nPREMİUM OFİS SATILIR!\r\n\r\n📍 Bakı şəhəri, Nərimanov rayonu, Mirzə Qədim İrəvani küçəsi\r\n\r\n📐 Sənəd üzrə sahə: 252.4 m²\r\n📏 Faktiki sahə: 263.5 m²\r\n🏢 Yeni tikili\r\n📍 3/22 mərtəbə\r\n📄 Çıxarış: Var — xüsusi mülkiyyət\r\n🔨 Təmirsiz — fərdi dizayn və planlama imkanı\r\n🌆 270° panoramik şəhər mənzərəsi\r\n🛗 3 sürətli lift\r\n🚗 Yeraltı və qapalı parkinq\r\n\r\n⭐ PRESTİJLİ BİZNES ÜNVANI\r\n\r\nHeydər Əliyev Mərkəzi və Bakı Konqres Mərkəzinin yaxınlığında yerləşən bu geniş sahəli obyekt ofis və kommersiya fəaliyyəti üçün ideal seçimdir.\r\n\r\n✔️ Şirkət ofisi\r\n✔️ Baş ofis və nümayəndəlik\r\n✔️ Konsaltinq və maliyyə şirkətləri\r\n✔️ IT və digər biznes fəaliyyətləri\r\n✔️ Korporativ istifadə və investisiya\r\n\r\n270° panoramik mənzərə, geniş sahə, müasir kompleks, sürətli liftlər və qapalı parkinq obyektə premium biznes məkanı statusu qazandırır.\r\n\r\n📌 Həm öz biznesiniz üçün, həm də investisiya məqsədilə yüksək potensiala malik kommersiya obyekti.",
@@ -3376,6 +3310,39 @@
       }
     ],
     "rooms": "5 otaqlı"
+  },
+  {
+    "id": "6489766",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F25%2F08%2F34%2F51%2F1753026a-34a8-4234-be60-2cbceaf77a1a%2F59351_3qsXYJCdu3QxWEeKLW_lSw.jpg",
+    "price": 10500,
+    "location": "Ağ şəhər q.",
+    "area_m2": 20,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38274860751796,
+    "lng": 49.89164011275495,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T18:47:44+04:00",
+    "is_featured": true,
+    "title": "Satılır 1 otaqlı ofis 20 m²",
+    "description": "Ağ şəhərdə, Raffle Tower biznes mərkəzində (2ci mərtəbədə) Hazır tam təchiz olunmuş biznes-ofis satılır. \r\n\"Açar Təhvil\" Mebel, texnika + icarə müqaviləsinin yenidən rəsmiləşdirilməsi. Dərhal ofisə köçüb işə başlamaq imkanı, icarə hüququ rəsmi olaraq alıcının adlna keçirilir. Daşınmaz əmlakın özü mülkiyyətə verilmir, yalnız icarə əsası ilə. Mebel və texnika yeni vəziyyətindədir, işlənməyib.\r\n24/7 giriş imkani, mühafize xidməti, parkinq, ətrafda inkişaf etmiş infrastruktur.\r\nSahibindən satılır. Xahiş olunur ciddi şəxslər əlaqə saxlasın.",
+    "building_type": "Ofis",
+    "location_id": "314",
+    "location_name": "Ağ şəhər",
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6489766",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 10500,
+        "date": "2026-09-30T19:56:43.509157+00:00"
+      }
+    ],
+    "rooms": "1 otaqlı"
   },
   {
     "id": "6279896",
@@ -3601,6 +3568,39 @@
       }
     ],
     "rooms": "3 otaqlı"
+  },
+  {
+    "id": "5541146",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F09%2F26%2F16%2F18%2F22%2Ffa14fdc5-6112-45c9-b6a8-27c2629e5ffd%2F4513_SdFmiiX51JZHxZnCDO0xMg.jpg",
+    "price": 8800000,
+    "location": "Ağ şəhər q.",
+    "area_m2": 2087,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38198378565569,
+    "lng": 49.88526081548308,
+    "has_repair": false,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": null,
+    "updated_at_site": "2026-09-06T20:54:11+04:00",
+    "is_featured": false,
+    "title": "Satılır 20 otaqlı ofis 2087 m²",
+    "description": "Ag şəhərin tam mərkəzində, mərkəzi kucədə yol kənari birinci cərgədə obyektlərin sirasinda Muasir yaşayiş kompleksinin ikinci mərtəbəsində dənizə gözəl mənzərəsi olan umumi sahəsi 2087kv ibarət padmayak Ofis dəyərindən aşagi giymətə satilir. Obyektin 400kv şəxsi terasi mövcudu. Obyekt barədə məlumat genişdi ətrafli muzakirə etmak mumkundu. Obyekti bölub yari yarida satmaq mumkundu!",
+    "building_type": "Ofis",
+    "location_id": "314",
+    "location_name": "Ağ şəhər",
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5541146",
+    "deleted_at": "2026-10-06T19:31:31.383616+00:00",
+    "price_history": [
+      {
+        "price": 8800000,
+        "date": "2026-09-30T19:56:43.510152+00:00"
+      }
+    ],
+    "rooms": "20 otaqlı"
   },
   {
     "id": "6432332",

@@ -2145,72 +2145,6 @@
     ]
   },
   {
-    "id": "6514636",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F21%2F15%2F34%2F950a3897-b47f-4474-a3c8-0306ef99b3e1%2F63840_3K3u-1yAxIyievMb4G5hWQ.jpg",
-    "price": 25000,
-    "location": "Binə q.",
-    "land_area_sot": 2.0,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.42642075836499,
-    "lng": 50.10671001301298,
-    "has_repair": null,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-05T17:40:50+04:00",
-    "is_featured": true,
-    "title": "Satılır torpaq 2 sot",
-    "description": "Tam yaşayışlı ərazidir kupça yoxdur \r\nMəhlədə qaz işıq şirin suyu var həyətdə quyusu var real alıcı ilə razılaşmaq olar",
-    "building_type": "Torpaq",
-    "location_id": "79",
-    "location_name": "Binə",
-    "area_m2": 2,
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6514636",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 25000,
-        "date": "2026-10-03T19:32:13.104211+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6305532",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F20%2F10%2F22%2F40%2Fe3397155-b724-4911-8279-70713504cc09%2F53204_njrbHikjPop_x1eDqybyvA.jpg",
-    "price": 156000,
-    "location": "Nardaran q.",
-    "land_area_sot": 12.0,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.57640794949334,
-    "lng": 49.97672266462065,
-    "has_repair": null,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-05T20:22:39+04:00",
-    "is_featured": false,
-    "title": "Satılır torpaq 12 sot",
-    "description": "Makler deyilem!!! Torpaq satılır. Kupcası var. Nardaran 8 dalan. 12 sot. 156000. 1 sotu 13000 min.",
-    "building_type": "Torpaq",
-    "location_id": "119",
-    "location_name": "Nardaran",
-    "area_m2": 12,
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6305532",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 156000,
-        "date": "2026-10-03T19:32:13.104416+00:00"
-      }
-    ]
-  },
-  {
     "id": "6514161",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F17%2F53%2F07%2F36b23ab4-d1ff-4ee4-a6cf-0c166f1c160f%2F75513_-o9CZR3_GlNRzSnBwpJWaQ.jpg",
     "price": 40000,
@@ -2310,47 +2244,6 @@
     ]
   },
   {
-    "id": "6512742",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F11%2F49%2F57%2F82054dc2-4079-491f-898a-1c05eafb6918%2F75505_YcPxfHtVZOva0FocIYOgZw.jpg",
-    "price": 155000,
-    "location": "Şıxov q.",
-    "land_area_sot": 7.0,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.31175177412148,
-    "lng": 49.78189591648626,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": null,
-    "updated_at_site": "2026-10-06T13:15:34+04:00",
-    "is_featured": true,
-    "title": "Satılır torpaq 7 sot",
-    "description": "7 sot Çıxarışlı torpaq satıram\n\nQiymət-185.000",
-    "building_type": "Torpaq",
-    "location_id": "260",
-    "location_name": "Şıxov",
-    "area_m2": 7,
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6512742",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 200000,
-        "date": "2026-10-03T19:32:13.107461+00:00"
-      },
-      {
-        "price": 185000,
-        "date": "2026-10-04T17:01:08.407689+00:00"
-      },
-      {
-        "price": 155000,
-        "date": "2026-10-06T12:57:49.764260+00:00"
-      }
-    ]
-  },
-  {
     "id": "6513636",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F11%2F06%2F33%2Ffebc59e5-826b-43ab-b23d-52c4b5b6ad91%2F93156_r48UUUdQtbi3qkas19XPEg.jpg",
     "price": 670000,
@@ -2380,6 +2273,113 @@
       {
         "price": 670000,
         "date": "2026-10-03T19:32:13.106096+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6514636",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F21%2F15%2F34%2F950a3897-b47f-4474-a3c8-0306ef99b3e1%2F63840_3K3u-1yAxIyievMb4G5hWQ.jpg",
+    "price": 25000,
+    "location": "Binə q.",
+    "land_area_sot": 2.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.42642075836499,
+    "lng": 50.10671001301298,
+    "has_repair": null,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T17:40:51+04:00",
+    "is_featured": true,
+    "title": "Satılır torpaq 2 sot",
+    "description": "Tam yaşayışlı ərazidir kupça yoxdur \r\nMəhlədə qaz işıq şirin suyu var həyətdə quyusu var real alıcı ilə razılaşmaq olar",
+    "building_type": "Torpaq",
+    "location_id": "79",
+    "location_name": "Binə",
+    "area_m2": 2,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6514636",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 25000,
+        "date": "2026-10-03T19:32:13.104211+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6512742",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F11%2F49%2F57%2F82054dc2-4079-491f-898a-1c05eafb6918%2F75505_YcPxfHtVZOva0FocIYOgZw.jpg",
+    "price": 155000,
+    "location": "Şıxov q.",
+    "land_area_sot": 7.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.31175177412148,
+    "lng": 49.78189591648626,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T19:30:55+04:00",
+    "is_featured": true,
+    "title": "Satılır torpaq 7 sot",
+    "description": "7 sot Çıxarışlı torpaq satıram\n\nQiymət-185.000",
+    "building_type": "Torpaq",
+    "location_id": "260",
+    "location_name": "Şıxov",
+    "area_m2": 7,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6512742",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 200000,
+        "date": "2026-10-03T19:32:13.107461+00:00"
+      },
+      {
+        "price": 185000,
+        "date": "2026-10-04T17:01:08.407689+00:00"
+      },
+      {
+        "price": 155000,
+        "date": "2026-10-06T12:57:49.764260+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6305532",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F20%2F10%2F22%2F40%2Fe3397155-b724-4911-8279-70713504cc09%2F53204_njrbHikjPop_x1eDqybyvA.jpg",
+    "price": 156000,
+    "location": "Nardaran q.",
+    "land_area_sot": 12.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.57640794949334,
+    "lng": 49.97672266462065,
+    "has_repair": null,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T20:22:40+04:00",
+    "is_featured": false,
+    "title": "Satılır torpaq 12 sot",
+    "description": "Makler deyilem!!! Torpaq satılır. Kupcası var. Nardaran 8 dalan. 12 sot. 156000. 1 sotu 13000 min.",
+    "building_type": "Torpaq",
+    "location_id": "119",
+    "location_name": "Nardaran",
+    "area_m2": 12,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6305532",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 156000,
+        "date": "2026-10-03T19:32:13.104416+00:00"
       }
     ]
   },

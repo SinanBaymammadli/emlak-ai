@@ -1252,38 +1252,6 @@
     ]
   },
   {
-    "id": "6322326",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F29%2F15%2F16%2F52%2Fd61226cf-aadb-4d69-a346-45c7b998ce1f%2F64562_-H8VEexaorQNqxNsefdYWQ.jpg",
-    "price": 2000,
-    "location": "Kürdəxanı q.",
-    "area_m2": 500,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.52819573737925,
-    "lng": 49.93168669637481,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-05T17:28:00+04:00",
-    "is_featured": true,
-    "title": "İcarəyə verilir obyekt 500 m²",
-    "description": "Tam yolun kənarında 12 sot ərazidə yerləşən. 600 nəfərlik hazır mərasim evi icarəyə verilir. İSTƏYƏ UYĞUN TƏYİNAT DƏYİŞƏRƏK BAŞQA MƏQSƏDLƏR ÜÇÜN İCARƏYƏ VERİLƏ BİLƏR. Bütün təchizatlar mövcuddur (kombi sistemi, komdisanerler, kameralar. Qaz, işıq və su daimidir) qiymətlə bağlı zəng edin. Obyektin önündə özünə məxsus 30 avtomobillik parkinq. Arxa hissəsində 9 sot hasara alınmış həyətyanı sahəsi və anbarı var",
-    "building_type": "Obyekt",
-    "location_id": "120",
-    "location_name": "Kürdəxanı",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6322326",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 2000,
-        "date": "2026-10-04T17:00:54.765239+00:00"
-      }
-    ]
-  },
-  {
     "id": "6516343",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F18%2F43%2F11%2Ff12cd24f-7abb-43d3-856a-58838a6229bf%2F75498_PNt7pYmBcL9JLQtLJf5eUw.jpg",
     "price": 7000,
@@ -1344,6 +1312,38 @@
       {
         "price": 1399,
         "date": "2026-10-04T17:00:54.767476+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6322326",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F29%2F15%2F16%2F52%2Fd61226cf-aadb-4d69-a346-45c7b998ce1f%2F64562_-H8VEexaorQNqxNsefdYWQ.jpg",
+    "price": 2000,
+    "location": "Kürdəxanı q.",
+    "area_m2": 500,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.52819573737925,
+    "lng": 49.93168669637481,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T17:27:59+04:00",
+    "is_featured": true,
+    "title": "İcarəyə verilir obyekt 500 m²",
+    "description": "Tam yolun kənarında 12 sot ərazidə yerləşən. 600 nəfərlik hazır mərasim evi icarəyə verilir. İSTƏYƏ UYĞUN TƏYİNAT DƏYİŞƏRƏK BAŞQA MƏQSƏDLƏR ÜÇÜN İCARƏYƏ VERİLƏ BİLƏR. Bütün təchizatlar mövcuddur (kombi sistemi, komdisanerler, kameralar. Qaz, işıq və su daimidir) qiymətlə bağlı zəng edin. Obyektin önündə özünə məxsus 30 avtomobillik parkinq. Arxa hissəsində 9 sot hasara alınmış həyətyanı sahəsi və anbarı var",
+    "building_type": "Obyekt",
+    "location_id": "120",
+    "location_name": "Kürdəxanı",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6322326",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 2000,
+        "date": "2026-10-04T17:00:54.765239+00:00"
       }
     ]
   }

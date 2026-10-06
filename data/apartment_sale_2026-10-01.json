@@ -10824,39 +10824,6 @@
     ]
   },
   {
-    "id": "6507150",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F12%2F35%2F33%2F648408c2-b9de-4c7e-9014-755450fc951a%2F16178_AXa8P4Rnk1oesiq2BRBk0Q.jpg",
-    "price": 570000,
-    "location": "Şah İsmayıl Xətai m.",
-    "rooms": "3 otaqlı",
-    "area_m2": 120,
-    "floor": "6/7 mərtəbə",
-    "is_agency": true,
-    "lat": 40.38276435894885,
-    "lng": 49.88058469168862,
-    "has_repair": false,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": 6,
-    "updated_at_site": "2026-10-01T12:40:20+04:00",
-    "is_featured": false,
-    "title": "Satılır 3 otaqlı yeni tikili 120 m²",
-    "description": "Ağ Şəhərdə qanuni 3 otaqlı mənzil satılır.Mənzilin təmir işinin 70%i  görülüb.\r\nMənzil tam yelçəkən layihədir.Biri yataq otağında olmaqla 2 sanuzel mövcuddur.\r\nSənəd hal-hazırda müqavilədir ancaq binada çıxarış var..\r\nTam yaşayışlı binadır.\r\n\r\nXidmət Haqqı-1%",
-    "building_type": "Yeni tikili",
-    "location_id": "36",
-    "location_name": "Şah İsmayıl Xətai",
-    "category": "apartment",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6507150",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 570000,
-        "date": "2026-10-01T11:58:25.223838+00:00"
-      }
-    ]
-  },
-  {
     "id": "6507151",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F12%2F35%2F30%2Fac91e0e3-d7b5-4d45-ba35-4eecd5867bf3%2F75531_PRtkcBOXafrRZSzZ1mXX4A.jpg",
     "price": 265000,
@@ -14487,39 +14454,6 @@
     ]
   },
   {
-    "id": "6507308",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F13%2F05%2F58%2Fa8bf4b07-d5d2-4691-a054-45aa74bab06b%2F16177_mM51tLLHteCYsIiti2TavA.jpg",
-    "price": 135000,
-    "location": "İnşaatçılar m.",
-    "rooms": "2 otaqlı",
-    "area_m2": 45,
-    "floor": "8/9 mərtəbə",
-    "is_agency": false,
-    "lat": 40.39076535670466,
-    "lng": 49.79482198016368,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": 8,
-    "updated_at_site": "2026-10-01T13:10:50+04:00",
-    "is_featured": false,
-    "title": "Satılır 2 otaqlı köhnə tikili 45 m²",
-    "description": "Yeni yasamalda 2 otaga duzelme menzil satisdadir kubca var ipatekaya yararlidir insacilar metrosuna avtobusnan 10 deqiqalig çesafede yerlserir , hazir kirekesi vardir , ofis haqqi vardir ,1% , teskil edir",
-    "building_type": "Köhnə tikili",
-    "location_id": "7",
-    "location_name": "İnşaatçılar",
-    "category": "apartment",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6507308",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 135000,
-        "date": "2026-10-01T11:58:25.221126+00:00"
-      }
-    ]
-  },
-  {
     "id": "6507307",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F13%2F05%2F39%2Fc985d345-1f81-4f2e-b463-c2b0a009a882%2F16189_w81M9o6Y4NZxO3cfPTYa-A.jpg",
     "price": 249000,
@@ -15836,39 +15770,6 @@
       {
         "price": 540000,
         "date": "2026-10-01T11:58:25.219352+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6507423",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F13%2F30%2F46%2F6c271a7f-4873-4a59-b4ea-62590d5a5540%2F92134_ZHi5df99OcGT9ca2HWKNFQ.jpg",
-    "price": 204000,
-    "location": "Həzi Aslanov m.",
-    "rooms": "2 otaqlı",
-    "area_m2": 82,
-    "floor": "10/18 mərtəbə",
-    "is_agency": false,
-    "lat": 40.3784247386803,
-    "lng": 49.95582252966594,
-    "has_repair": false,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": 10,
-    "updated_at_site": "2026-10-01T13:33:12+04:00",
-    "is_featured": false,
-    "title": "Satılır 2 otaqlı yeni tikili 82 m²",
-    "description": "",
-    "building_type": "Yeni tikili",
-    "location_id": "33",
-    "location_name": "Həzi Aslanov",
-    "category": "apartment",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6507423",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 204000,
-        "date": "2026-10-01T11:58:25.219298+00:00"
       }
     ]
   },
@@ -19899,39 +19800,6 @@
     ]
   },
   {
-    "id": "6507764",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F14%2F40%2F15%2F8df8d001-62ea-4498-9d01-4f93a76e3b5a%2F16152_PfpRvntQBR-uMcbIoqUI8A.jpg",
-    "price": 242500,
-    "location": "Azadlıq Prospekti m.",
-    "rooms": "3 otaqlı",
-    "area_m2": 82,
-    "floor": "9/17 mərtəbə",
-    "is_agency": true,
-    "lat": 40.41739054604187,
-    "lng": 49.84428327864422,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": 9,
-    "updated_at_site": "2026-10-01T14:42:55+04:00",
-    "is_featured": false,
-    "title": "Satılır 3 otaqlı yeni tikili 82 m²",
-    "description": "  DİQQƏT!!!  3 OTAQ STUDİO!!!  BİNƏQƏDİ RAYONU, 8-Cİ MİKRORAYON , AZADLIQ METROSTANSİYASI, AYNA SULTANOVA HEYKƏLİ YAXINLIGI, ŞÖVKƏT MƏMMƏDOVA KUÇƏSİ, 17 mərtəbəli yeni tikili binanın 9-cu mərtəbəsində yerləşən umumi sahəsi 82 kv.m olan qanuni 2 otaqlıdan 3 otaqlıya ideal duzəldilmiş STUDİO tipli  ƏLA təmirli mənzil satılır. Mənzilin təmirində yuksək keyfiyyətli materiallardan istifadə olunub. Pol TARKETDİR. Təmirdən sonra mənzildə çox az yaşayış olub. Mənzil İPOTEKAYA yararlıdır. Bina infrastruktur cəhətdən çox əlverişli ərazidə yerləşir. Beləki, binanın ətrafında məktəb, bağça, parklar, klinikalar, idman zalları, marketlər və digər iaşə obyektləri movcuddur. Binada işıq, qaz , su daimidir. İstilik sistemi kombidir. Bina AZADLİQ metrosuna 3-4 DƏQİQƏLİK, məsafədə yerləşir. Sənəd KUPÇADIR. Qiymət 242 500 AZN. Ofis haqqı 1%-dir.",
-    "building_type": "Yeni tikili",
-    "location_id": "6",
-    "location_name": "Azadlıq Prospekti",
-    "category": "apartment",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6507764",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 242500,
-        "date": "2026-10-01T11:58:25.213745+00:00"
-      }
-    ]
-  },
-  {
     "id": "6507765",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F14%2F40%2F23%2Fc983e5b8-3cda-4187-9fcc-d9276ca2f6ff%2F704_ii6RrfXXQjXtewFDQP8rJQ.jpg",
     "price": 75000,
@@ -20955,39 +20823,6 @@
     ]
   },
   {
-    "id": "6348373",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F04%2F18%2F07%2F22%2F6f676d1f-4a44-400b-91af-285e52fd5435%2F86816_BVhjnHLR5UGXvSgep91cwg.jpg",
-    "price": 218000,
-    "location": "Koroğlu m.",
-    "rooms": "3 otaqlı",
-    "area_m2": 75,
-    "floor": "4/10 mərtəbə",
-    "is_agency": true,
-    "lat": 40.42311222047528,
-    "lng": 49.92223946767579,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": 4,
-    "updated_at_site": "2026-10-01T15:00:45+04:00",
-    "is_featured": false,
-    "title": "Satılır 3 otaqlı yeni tikili 75 m²",
-    "description": "🚨 TƏCİLİ SATILIR! 🚨\n\n🏢 KOROĞLU METROSUNUN YAXINLIĞINDA ƏŞYALI, KUPÇALI VƏ İPOTEKAYA YARARLI 3 OTAQLI MƏNZİL!\n\n📍 Koroğlu metrosunun yaxınlığında, Əli Vəliyev küçəsində yerləşən yeni tikili binada tam təmirli, əşyalı və yaşayış üçün tam hazır 3 otaqlı mənzil satışa çıxarılıb.\n\n🔸 Mənzilin əsas xüsusiyyətləri:\n\n📏 75 m² ümumi sahə\n🛋 3 otaq\n🏙 10 mərtəbəli binanın 4-cü mərtəbəsi\n🚪 Orta blok\n🔧 Tam təmirli\n🪑 Əşyalı satılır\n📜 Çıxarış (Kupça) var\n🏦 İpotekaya yararlıdır\n⚡ Qaz, su və işıq daimidir\n\n📌 Mənzil əlverişli və yaşayış üçün rahat ərazidə yerləşir. Koroğlu metrosuna qısa məsafədədir.\n\nƏtrafında məktəb, uşaq bağçası, supermarketlər, aptek və gündəlik ehtiyac üçün digər vacib obyektlər mövcuddur.\n\n🏠 Mənzil həm şəxsi yaşayış, həm də investisiya üçün əlverişli seçimdir.\n\n📞 Ətraflı məlumat və mənzilə baxış üçün əlaqə saxlaya bilərsiniz.\n\n📍 Ünvan: Əli Vəliyev küçəsi\n\n💰 REAL MÜŞTƏRİYƏ ENDİRİM OLUNACAQ!",
-    "building_type": "Yeni tikili",
-    "location_id": "4",
-    "location_name": "Koroğlu",
-    "category": "apartment",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6348373",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 218000,
-        "date": "2026-10-01T11:58:25.212500+00:00"
-      }
-    ]
-  },
-  {
     "id": "6507836",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F14%2F56%2F37%2F33cf5da7-8b0c-4ea1-9d36-232ec5beda12%2F16159_Tn-sub-gHn0TkGfjBfLsxw.jpg",
     "price": 159000,
@@ -21879,39 +21714,6 @@
     ]
   },
   {
-    "id": "6507855",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F15%2F03%2F59%2F4c8cd5c3-9f32-46fc-877b-9c9c07ef7a45%2F38214_Po2Oqa5rX_SWBxmQuARxAA.jpg",
-    "price": 227000,
-    "location": "Gənclik m.",
-    "rooms": "3 otaqlı",
-    "area_m2": 65,
-    "floor": "6/9 mərtəbə",
-    "is_agency": true,
-    "lat": 40.40742431865305,
-    "lng": 49.84594654300758,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": 6,
-    "updated_at_site": "2026-10-01T15:10:26+04:00",
-    "is_featured": false,
-    "title": "Satılır 3 otaqlı köhnə tikili 65 m²",
-    "description": "Gənclik metrosunun yaxınlıgında,Medilüks Qospitalının yanında   9 mərtəbəli binanın 6-cı mərtəbəsində  2 otaqdan  3 otaga düzılmə əla təmirli mənzil satılır.Mənzil  əşyalarla birlikdə satılır.Binanın fasiləsiz işləyən lifti var.Sənəd Kupca Cıxarış.\r\nİpotekaya yararlı.",
-    "building_type": "Köhnə tikili",
-    "location_id": "2",
-    "location_name": "Gənclik",
-    "category": "apartment",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6507855",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 227000,
-        "date": "2026-10-01T11:58:25.211852+00:00"
-      }
-    ]
-  },
-  {
     "id": "6507866",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F15%2F05%2F31%2F8598f61c-04be-4ff7-9204-15327d21eee4%2F38632_XM9vQqRcE59SjYeGU9Ew-g.jpg",
     "price": 285000,
@@ -22370,39 +22172,6 @@
       {
         "price": 310000,
         "date": "2026-10-01T11:58:25.211014+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6507906",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F15%2F13%2F31%2F0fd19c83-a830-4ddc-a7b2-7a134345bdf0%2F90614_2oLq1QMPXYcpPlzWgu7NXA.jpg",
-    "price": 335000,
-    "location": "28 May m.",
-    "rooms": "4 otaqlı",
-    "area_m2": 105,
-    "floor": "4/5 mərtəbə",
-    "is_agency": true,
-    "lat": 40.37860102558234,
-    "lng": 49.85018199849587,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": 4,
-    "updated_at_site": "2026-10-01T15:18:24+04:00",
-    "is_featured": false,
-    "title": "Satılır 4 otaqlı köhnə tikili 105 m²",
-    "description": "Dəyərli müştərilər,\r\nŞəhərin mərkəzində, prestijli ünvan və komfortlu həyat sizi gözləyir! \r\nBakının en prestijli ərazilərindən birində — Nəsimi rayonu, 28 May metrosu və Səməd Vurğun bağının tam yaxınlığında yerləşən bu 105 m² sahəyə malik 4 otaqlı mənzil zövqlü təmiri və genişliyi ilə rahatlığınızı təmin edəcək. Stalinka layihəli 5 mərtəbəli binanın 4-cü mərtəbəsində yerləşən, bütün sənədləri qaydasında olan (Çıxarışlı/Kupçalı) bu mənzil həm rahat yaşayış, həm də dəyərli yatırım üçün 335.000 AZN qiymətinə satışa təqdim edilir.\r\nƏlavə məlumat və mənzilə baxış keçirmək üçün əlaqə saxlaya bilərsiniz.",
-    "building_type": "Köhnə tikili",
-    "location_id": "8",
-    "location_name": "28 May",
-    "category": "apartment",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6507906",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 335000,
-        "date": "2026-10-01T11:58:25.210996+00:00"
       }
     ]
   },
@@ -23525,39 +23294,6 @@
       {
         "price": 88000,
         "date": "2026-10-01T11:58:25.210001+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6507971",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F15%2F29%2F30%2F89fe83d6-93a8-48b7-b22c-7b8282bffb55%2F93156_Qv5aon25fnd1jV5KE14-tw.jpg",
-    "price": 200000,
-    "location": "Dərnəgül m.",
-    "rooms": "2 otaqlı",
-    "area_m2": 67,
-    "floor": "4/17 mərtəbə",
-    "is_agency": false,
-    "lat": 40.42679951107953,
-    "lng": 49.85262891877915,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": 4,
-    "updated_at_site": "2026-10-01T15:31:27+04:00",
-    "is_featured": false,
-    "title": "Satılır 2 otaqlı yeni tikili 67 m²",
-    "description": "Unionpark yaşayış kompleksində tam təmirli, 1-ci işıqla, 1 otaqdan 2 otağa düzəlmə studiotipli mənzil satılır . Bina əlverişli yerdə yerləşir. Ətrafda yaşam üçün hər şey var. Yolun o biri tərəfində yeni METROSTANSİYA tikilir, şəkildə görünür, gələn il istifadəyə veriləcəkdir. Dərnəgül metrostansiyasına, STADLER sürət qatarına 10 dəqiqə piyada məsafədədir. Qapalı həyət, qaraj, uşaqların oynamağı üçün şərait var, binanın qarşısında Abad Həyət salınıb. Yaxınlıqda özəl və dövlət bağçaları, məktəb var. Şəhər mərkəzinə gedən avtobuslar 2, 3, 88, 93 binanın yanından keçir. Evə istənilən vaxt baxmaq olar. Vasitəçilər narahat etməsin",
-    "building_type": "Yeni tikili",
-    "location_id": "61",
-    "location_name": "Dərnəgül",
-    "category": "apartment",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6507971",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 200000,
-        "date": "2026-10-01T11:58:25.209957+00:00"
       }
     ]
   },
@@ -28464,72 +28200,6 @@
     ]
   },
   {
-    "id": "6507422",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F13%2F16%2F37%2Fe3b90b80-3e88-4e21-aaac-c8f2ce3c6571%2F16140_EFIca78QyPO6scEtF6cFyw.jpg",
-    "price": 610000,
-    "location": "Nəsimi r.",
-    "rooms": "4 otaqlı",
-    "area_m2": 168,
-    "floor": "4/16 mərtəbə",
-    "is_agency": true,
-    "lat": 40.3957342378383,
-    "lng": 49.83757327560897,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": 4,
-    "updated_at_site": "2026-10-03T18:19:31+04:00",
-    "is_featured": false,
-    "title": "Satılır 4 otaqlı yeni tikili 168 m²",
-    "description": "✔︎ Эксклюзивная 4-комнатная квартира с безупречным интерьером и итальянской эстетикой !\r\n✔︎ В продаже представлена уникальная 4-комнатная квартира площадью 168 м², где каждая деталь продумана до мелочей и выполнена с использованием материалов высочайшего уровня. Пространство создано для тех, кто ценит гармонию, комфорт и настоящее качество исполнения.\r\n✔︎ Квартира имеет сквозную планировку, благодаря чему помещения наполнены естественным светом и свежим воздухом. Продуманная организация пространства, просторные комнаты и качественная отделка создают ощущение настоящей резиденции в центре города.\r\n✔︎ Интерьер полностью готов к проживанию: квартира продается с мебелью и бытовой техникой, сохраняя единую дизайнерскую концепцию и высокий уровень комфорта.\r\n✔︎ Особое внимание уделено отделочным материалам и инженерным решениям. В квартире установлена надежная электрическая система с автоматическими выключателями Legrand (Франция), а розетки и выключатели выполнены брендом Gewiss (Италия).\r\n✔︎ Элегантность интерьера подчеркивает художественный паркет с мозаичной укладкой от фабрики Parquet In (Италия), превращающий напольное покрытие в самостоятельный элемент дизайна. Для отделки использован премиальный крупноформатный керамогранит Laminam (Италия), известный своими инновационными технологиями и безупречной эстетикой.\r\n✔︎ Стены оформлены эксклюзивными итальянскими обоями Emiliano Parati, которые добавляют интерьеру глубину и индивидуальность.\r\nВ квартире расположены два дизайнерских санузла, выполненные в стиле luxury. Один оформлен с использованием коллекции Valentino Ceramica Piemme (Италия), второй - с материалами Versace Ceramics (Италия), что подчеркивает уникальный характер каждого пространства.\r\n✔︎ Это не просто квартира - это тщательно созданная атмосфера приватности, статуса и утонченного вкуса. Объект для тех, кто ищет готовое пространство высокого уровня, где каждая деталь говорит о качестве и безупречном стиле.\r\n✔︎ КВАРТИРА ПРОДАЁТСЯ СО ВСЕЙ ИМЕЮЩЕЙСЯ В НЕЙ МЕБЕЛЬЮ И БЫТОВОЙ ТЕХНИКОЙ.\r\n✔︎ Квартира показывается ТОЛЬКО РЕАЛЬНЫМ покупателям, убедительная просьба – несерьезным, посредникам-фирмам СТРОГО НЕ БЕСПОКОИТЬ !!!\r\n✔︎ Стоимость услуги агентства составляет 1%\r\n\r\n",
-    "building_type": "Yeni tikili",
-    "location_id": "190",
-    "location_name": "Nəsimi",
-    "category": "apartment",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6507422",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 610000,
-        "date": "2026-10-01T11:58:25.219325+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6507717",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F14%2F32%2F34%2Fa67fe6b6-5238-4501-9c8c-df112e706077%2F93156_qIaVJ46twrC-r3l_fJ3bjA.jpg",
-    "price": 450000,
-    "location": "28 May m.",
-    "rooms": "4 otaqlı",
-    "area_m2": 100,
-    "floor": "5/5 mərtəbə",
-    "is_agency": true,
-    "lat": 40.37696742264215,
-    "lng": 49.84865411307413,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": 5,
-    "updated_at_site": "2026-10-03T18:19:38+04:00",
-    "is_featured": false,
-    "title": "Satılır 4 otaqlı köhnə tikili 100 m²",
-    "description": "➦ Редчайшее предложение в одном из престижных домов в центральной части города.\r\n➦ На пересечении проспекта Азадлыг и улицы 28 Мая предлагается к продаже полноценная четырехкомнатная квартира.\r\n➦ Проект здания - «Классическая Сталинка». \r\n➦ Монолитно-каменный дом с высотой потолков ≈ 3,4 метра, который гармонично объединяет традиции и современность. Здание имеет выразительный архитектурный облик и эффектную ночную подсветку.\r\n➦ Квартира обладает редкой сквозной планировкой: окна выходят на две стороны дома, обеспечивая хорошее естественное освещение и комфортную атмосферу. \r\n➦ В квартире предусмотрены два балкона - один с видом на центральную улицу, второй выходит во внутренний двор.\r\n➦ Объект предлагается без ремонта, что предоставляет прекрасную возможность реализовать собственные дизайнерские и планировочные решения, создать интерьер полностью под свой стиль и требования.\r\n➦ Просторные светлые комнаты, удобная планировка, высокие потолки и особенности дома делают квартиру привлекательным вариантом как для личного проживания, так и для инвестиционного приобретения.\r\nДом обеспечивает комфортные условия проживания: - бесперебойная подача электроэнергии, газа и воды;\r\n— централизованное отопление;\r\n— парадный вход;\r\n— подъезд с кодовым замком;\r\n— во дворе установлен шлагбаум;\r\n— респектабельные соседи.\r\n➦ Район отличается развитой инфраструктурой и удобным расположением. В непосредственной близости расположены: ТРЦ «28 MALL», узловая станция Бакинского метрополитена – “28 Мая”, Парк имени Самеда Вургуна, средняя школа №23, классическая гимназия №160, The Landmark Hotel Baku, Бакинский Приморский Бульвар, Азербайджанский Государственный театр песни имени Рашида Бейбутова, Национальная библиотека имени М. Ф. Ахундова...\r\n➦ Квартира также является интересным вариантом для сдачи в аренду благодаря своему расположению, характеристикам дома и востребованности центральной части города.\r\n➦ Показ квартиры осуществляется только реальным покупателям.\r\nУбедительная просьба: посредникам и лицам без конкретного интереса строго не беспокоить !",
-    "building_type": "Köhnə tikili",
-    "location_id": "8",
-    "location_name": "28 May",
-    "category": "apartment",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6507717",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 450000,
-        "date": "2026-10-01T11:58:25.214337+00:00"
-      }
-    ]
-  },
-  {
     "id": "6421771",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F31%2F17%2F29%2F35%2F312a6b2b-5653-4d0f-9b84-8f43253dc12e%2F87153_w9cjfFKu7rrA0CD3rlSDFg.jpg",
     "price": 260000,
@@ -28971,39 +28641,6 @@
     ]
   },
   {
-    "id": "6508001",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F15%2F35%2F19%2Fb3514460-283b-4315-aa8a-465ea3f3b2e5%2F16149_f8HgXFFLiWxr0YYESg2Dow.jpg",
-    "price": 655000,
-    "location": "Elmlər Akademiyası m.",
-    "rooms": "3 otaqlı",
-    "area_m2": 148,
-    "floor": "6/20 mərtəbə",
-    "is_agency": true,
-    "lat": 40.36924076683101,
-    "lng": 49.82096211520099,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": 6,
-    "updated_at_site": "2026-10-04T11:26:45+04:00",
-    "is_featured": false,
-    "title": "Satılır 3 otaqlı yeni tikili 148 m²",
-    "description": "🏙️ ALTES PLAZA | PREMIUM 3 OTAQLI MƏNZİL\r\n\r\n✨ Şəxsi yaşayış üçün xüsusi zövqlə hazırlanmış, premium səviyyəli mənzil satışda!\r\n\r\n📍 Altes Plaza\r\n📐 148 m²\r\n🛏️ Qanuni 3 otaq\r\n🏢 20 mərtəbəli binanın 6-cı mərtəbəsi\r\n📜 Kupça\r\n🏦 İpotekaya yararlı\r\n🚿 2 sanitar qovşaq\r\n🧺 Ayrı laundry otağı\r\n🌆 Şəhər mənzərəsi\r\n🌇 2 balkon\r\n🪟 Panoram pəncərələr\r\n🔥 İsti döşəmə\r\n❄️ Mərkəzi kondisioner\r\n🌡️ Mərkəzi isitmə\r\n✨ Premium təmir\r\n🍽️ Quraşdırılmış məişət texnikası\r\n📦 Geniş saxlama sahələri\r\n\r\nMənzil satış məqsədilə deyil, şəxsi və uzunmüddətli yaşayış üçün təmir edildiyindən material və mühəndis sistemlərinin seçimində xüsusi diqqət göstərilib.\r\n\r\n💰 Qiymət: 655.000 AZN\r\n\r\n📌 Premium seqmentdə yerləşən bu mənzil həm komfortlu yaşayış, həm də dəyərini qoruyan daşınmaz əmlak axtaranlar üçün nəzərdə tutulub.\r\n\r\n📞 Ətraflı məlumat və baxış üçün əlaqə saxlayın.",
-    "building_type": "Yeni tikili",
-    "location_id": "34",
-    "location_name": "Elmlər Akademiyası",
-    "category": "apartment",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6508001",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 655000,
-        "date": "2026-10-01T11:58:25.209508+00:00"
-      }
-    ]
-  },
-  {
     "id": "6506951",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F11%2F59%2F32%2F162c0ad8-5588-418c-9667-1fda5c5de18c%2F75537_Ph0jMd9zJljtzzo7yLAftA.jpg",
     "price": 172000,
@@ -29383,43 +29020,6 @@
     ]
   },
   {
-    "id": "6507301",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F13%2F04%2F56%2F0cdf94c5-45e7-4d01-9fbb-8cc0f4da50fa%2F75546_LZi2xklRhiOZ0pIgbu02dw.jpg",
-    "price": 188000,
-    "location": "Neftçilər m.",
-    "rooms": "2 otaqlı",
-    "area_m2": 54,
-    "floor": "12/14 mərtəbə",
-    "is_agency": true,
-    "lat": 40.4101571373812,
-    "lng": 49.9430963249756,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 12,
-    "updated_at_site": "2026-10-04T14:59:22+04:00",
-    "is_featured": false,
-    "title": "Satılır 2 otaqlı yeni tikili 54 m²",
-    "description": "🏡 MƏNZİL SATILIR — NEFTÇİLƏR\r\n📍 Neftçilər metrosuna cəmi 2 dəqiqəlik məsafədə\r\n🏢 14 mərtəbəli premium binanın 12-ci mərtəbəsi\r\n📐 54 m² sahə\r\n🛏️ 1 otaqdan 2 otağa düzəldilmiş\r\n✨ İdeal təmirli\r\n🛋️ Tam əşyalı şəkildə satılır\r\n📄 Sənədi: müqavilə\r\n🏷️ Çıxarışın yaxın zamanda veriləcəyi bildirilir\r\n⚡ Qaz, su və işıq daimidir\r\n📞 Əlavə məlumat və mənzilə baxış üçün əlaqə saxlayın.\r\n💼 *Şirkət haqqı: 1%*",
-    "building_type": "Yeni tikili",
-    "location_id": "53",
-    "location_name": "Neftçilər",
-    "category": "apartment",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6507301",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 189000,
-        "date": "2026-10-01T11:58:25.221154+00:00"
-      },
-      {
-        "price": 188000,
-        "date": "2026-10-04T17:05:05.473754+00:00"
-      }
-    ]
-  },
-  {
     "id": "6508061",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F15%2F47%2F38%2Fbe453979-156e-44c1-b750-cf3696b2b8f5%2F75555_zp4quj6uAnXEG64L2oGepg.jpg",
     "price": 590000,
@@ -29556,39 +29156,6 @@
       {
         "price": 185000,
         "date": "2026-10-04T18:28:41.678520+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6508048",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F15%2F43%2F55%2F2b79e7a0-5fb7-497a-992d-06204485ba6f%2F75506_TKYDTnfFt4UkwfSQOvWijQ.jpg",
-    "price": 239000,
-    "location": "Həzi Aslanov m.",
-    "rooms": "4 otaqlı",
-    "area_m2": 100,
-    "floor": "7/9 mərtəbə",
-    "is_agency": true,
-    "lat": 40.37876272870052,
-    "lng": 49.9538979528135,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": 7,
-    "updated_at_site": "2026-10-04T18:27:28+04:00",
-    "is_featured": false,
-    "title": "Satılır 4 otaqlı köhnə tikili 100 m²",
-    "description": "🏡 **ABAD MƏHƏLLƏDƏ 4 OTAQLI MƏNZİL SATILIR!** 🔑\r\n\r\n📍 **Ünvan:** Aşıq Ələsgər küçəsi, Abad məhəllə\r\n\r\n🏢 Leninqrad layihəli, 9 mərtəbəli binanın 7-ci mərtəbəsində yerləşən geniş və funksional mənzil satışa təqdim olunur!\r\n\r\n✨ **MƏNZİL HAQQINDA:**\r\n🔹 Qanuni 4 otaqlı\r\n🔹 Ümumi sahə: 100 m²\r\n🔹 Kupça üzrə sahə: 91–92 m²\r\n🔹 Mərtəbə: 7/9\r\n🔹 Layihə: Leninqrad\r\n🔹 Təmir vəziyyəti: Təmirə ehtiyacı var — öz zövqünüzə uyğun yeniləyərək ideal yaşayış məkanı yarada bilərsiniz.\r\n\r\n📍 **ƏRAZİ ÜSTÜNLÜKLƏRİ:**\r\n🚔 Polis idarəsinin yaxınlığı\r\n🛒 Şuşa Market\r\n🏬 Böyük Bravo Hipermarketi\r\n🏫 86 və 254 nömrəli tam orta məktəblər\r\n🏋️ Modern İdman və Əyləncə Mərkəzi\r\n\r\n🌟 **Geniş sahəsi, qanuni 4 otaqlı planlaşdırması və əlverişli yerləşməsi ilə həm ailəvi yaşayış, həm də uzunmüddətli investisiya üçün nəzərdən keçirilə biləcək mənzil!**\r\n\r\n📞 Ətraflı məlumat və mənzilə baxış üçün əlaqə saxlaya bilərsiniz.\r\n\r\n💼 **Ofis xidmət haqqı: 1%**",
-    "building_type": "Köhnə tikili",
-    "location_id": "33",
-    "location_name": "Həzi Aslanov",
-    "category": "apartment",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6508048",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 239000,
-        "date": "2026-10-01T11:58:25.208826+00:00"
       }
     ]
   },
@@ -29902,47 +29469,6 @@
     ]
   },
   {
-    "id": "6242909",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F26%2F14%2F55%2F03%2Fa7b48c20-4e91-43fd-86da-71fab9c46ec8%2F89579_fmK9eYjqibJhGRUV8N4ulQ.jpg",
-    "price": 118000,
-    "location": "Bayıl q.",
-    "rooms": "1 otaqlı",
-    "area_m2": 40,
-    "floor": "4/4 mərtəbə",
-    "is_agency": true,
-    "lat": 40.34949984735739,
-    "lng": 49.83247966826175,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": 4,
-    "updated_at_site": "2026-10-05T10:34:29+04:00",
-    "is_featured": false,
-    "title": "Satılır 1 otaqlı köhnə tikili 40 m²",
-    "description": "🏠 BAYILIN MƏRKƏZİNDƏ KUPÇALI, TƏMİRLİ MƏNZİL – TƏCİLİ SATILIR!\n\n📍 Ünvan: Səbail rayonu, Bayıl qəsəbəsi, Aydın Məmmədov küçəsi – Bayılın tam mərkəzi\n\n🔹 Sahə: 40 m²\n🔹 Mərtəbə: 4/4\n🔹 Otaq sayı: 1 otaq\n🔹 Sənəd: Çıxarış (Kupça)\n🔹 Təmir: Səliqəli təmirli\n\n\nMənzil Bayıl qəsəbəsinin tam mərkəzində, İtalyan həyət tipli yaşayış mühitində yerləşir. Rahat yaşayış üçün uyğun planlaşdırılıb və hazır vəziyyətdədir.\n\nHazırda mənzildə birləşdirilmiş mətbəx mövcuddur. Əlavə olaraq, balkonda ayrıca mətbəx zonası yaratmaq imkanı var.\n\n📍 Üstünlükləri:\n\nBayılın mərkəzində yerləşir\n\nMağazalar və gündəlik tələbat obyektləri piyada məsafəsindədir\n\nDövlət Bayrağı Meydanına cəmi bir neçə dəqiqəlik məsafədədir\n\nŞəhər mərkəzinə yaxın ərazidədir\n\nYaşayış və kirayə üçün əlverişli lokasiyadır\n\nKupçalıdır\n\nMənzil yaşayışa hazır vəziyyətdədir\n\n🔥 TƏCİLİ SATILIR!\n\n📞 Ətraflı məlumat və mənzilə baxış üçün əlaqə saxlaya bilərsiniz.\n\n💼 Ofis haqqı: 1%",
-    "building_type": "Köhnə tikili",
-    "location_id": "49",
-    "location_name": "Bayıl",
-    "category": "apartment",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6242909",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 114000,
-        "date": "2026-10-01T11:58:25.218451+00:00"
-      },
-      {
-        "price": 119000,
-        "date": "2026-10-04T18:28:42.627101+00:00"
-      },
-      {
-        "price": 118000,
-        "date": "2026-10-06T13:13:08.377822+00:00"
-      }
-    ]
-  },
-  {
     "id": "6507460",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F13%2F42%2F00%2F8bc550a0-8ea4-4d0a-ae05-3bfe07526e16%2F75553_te7N7Ee3zqHNmk8jRCyVww.jpg",
     "price": 132000,
@@ -30207,39 +29733,6 @@
       {
         "price": 173000,
         "date": "2026-10-06T12:59:13.463237+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6506982",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F12%2F04%2F46%2F3d14d29a-3fca-4411-bbb6-0dd21042e4b7%2F93330_omGeF2rjyPKfBqG-w1eMKA.jpg",
-    "price": 249000,
-    "location": "Azadlıq Prospekti m.",
-    "rooms": "3 otaqlı",
-    "area_m2": 80,
-    "floor": "7/17 mərtəbə",
-    "is_agency": true,
-    "lat": 40.41745292232532,
-    "lng": 49.84444852821429,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": 7,
-    "updated_at_site": "2026-10-05T11:29:04+04:00",
-    "is_featured": false,
-    "title": "Satılır 3 otaqlı yeni tikili 80 m²",
-    "description": "BİNƏQƏDİ RAYONU, 8-Cİ MİKRORAYON , AZADLIQ METROSTANSİYASI, AYNA SULTANOVA HEYKƏLİ YAXINLIGI, ŞÖVKƏT MƏMMƏDOVA KUÇƏSİ, 17 mərtəbəli yeni tikili binanın 7-ci mərtəbəsində yerləşən umumi sahəsi 80 kv.m olan qanuni 2 otaqlıdan 3 otaqlıya ideal duzəldilmiş STUDİO tipli  ƏLA təmirli mənzil satılır. Mənzilin təmirində yuksək keyfiyyətli materiallardan istifadə olunub. Pol TARKETDİR. Təmirdən sonra mənzildə çox az yaşayış olub. Mənzil İPOTEKAYA yararlıdır. Bina infrastruktur cəhətdən çox əlverişli ərazidə yerləşir. Beləki, binanın ətrafında məktəb, bağça, parklar, klinikalar, idman zalları, marketlər və digər iaşə obyektləri movcuddur. Binada işıq, qaz , su daimidir. İstilik sistemi kombidir. Bina AZADLİQ metrosuna 3-4 DƏQİQƏLİK, məsafədə yerləşir. Sənəd KUPÇADIR. Qiymət 249 000 AZN. Ofis haqqı 1%-dir.",
-    "building_type": "Yeni tikili",
-    "location_id": "6",
-    "location_name": "Azadlıq Prospekti",
-    "category": "apartment",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6506982",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 249000,
-        "date": "2026-10-01T11:58:25.226872+00:00"
       }
     ]
   },
@@ -31513,72 +31006,6 @@
     ]
   },
   {
-    "id": "6507036",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F12%2F00%2F30%2F7fac0984-310e-4d78-b1f3-c85bdf9b9fa7%2F16173_EhJjfQBAMwhSLwLITWy6hA.jpg",
-    "price": 140000,
-    "location": "Yeni Günəşli q.",
-    "rooms": "2 otaqlı",
-    "area_m2": 65,
-    "floor": "5/10 mərtəbə",
-    "is_agency": true,
-    "lat": 40.37375511121746,
-    "lng": 49.97916634702628,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": 5,
-    "updated_at_site": "2026-10-05T18:01:36+04:00",
-    "is_featured": false,
-    "title": "Satılır 2 otaqlı köhnə tikili 65 m²",
-    "description": "Yeni Günəşlidə leninqrad lahiyəli binada mənzilimiz satışa çıxarılıb.Binanın yaxınlığında məktəb market başqa iaşə obyektləri mövcutdur.Mənzilimiz orta blokdu.Əlavə məlumat üçün əlaqə saxlaya bilərsiniz.\r\n\r\nXidmət haqqı 1 %",
-    "building_type": "Köhnə tikili",
-    "location_id": "92",
-    "location_name": "Yeni Günəşli",
-    "category": "apartment",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6507036",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 140000,
-        "date": "2026-10-01T11:58:25.226288+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6506870",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F11%2F44%2F48%2F1d1fb976-7cae-4d81-97fe-30ccd908135f%2F75531_H_XaUyeKeDKiSv-Y_ipDoA.jpg",
-    "price": 191000,
-    "location": "Xalqlar Dostluğu m.",
-    "rooms": "4 otaqlı",
-    "area_m2": 90,
-    "floor": "4/5 mərtəbə",
-    "is_agency": true,
-    "lat": 40.40012722627286,
-    "lng": 49.94395162679121,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": 4,
-    "updated_at_site": "2026-10-05T18:16:50+04:00",
-    "is_featured": false,
-    "title": "Satılır 4 otaqlı köhnə tikili 90 m²",
-    "description": "Cox tecili Elimyandi !!!!\r\nNizami rayonu Xalqlar Dostlugu 70 mektebin duz yaninda 5 mertebeli MINSKI lahiyeli binanin 4 cu mertebesinde qanuni 4 otaqli orta blok Skvaznoy menzil deyerinden ucuz qiymete teklif olunur. Binanin etrafinda 242 ve 70 mektebler var binanin genis heyeti var su qaz isiq daimadir isdilik Merkezidir\r\nSened KUPCA\r\nMenzil satildiqi gun tehfil verilecek\r\nXidmet haqqi 1%",
-    "building_type": "Köhnə tikili",
-    "location_id": "54",
-    "location_name": "Xalqlar Dostluğu",
-    "category": "apartment",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6506870",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 191000,
-        "date": "2026-10-01T11:58:25.228521+00:00"
-      }
-    ]
-  },
-  {
     "id": "6507109",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F12%2F28%2F30%2Fdc296f32-739a-42ca-b52a-78669fc34f99%2F75550_jQgQC0o4k7zFNhe7-Hi11g.jpg",
     "price": 380000,
@@ -31678,39 +31105,6 @@
     ]
   },
   {
-    "id": "6506435",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F01%2F54%2F09%2F530c14aa-707a-4fbf-8315-6e541c001563%2F90614_5Ewk2bs59FjVyFXg02qwUA.jpg",
-    "price": 235000,
-    "location": "Nərimanov r.",
-    "rooms": "2 otaqlı",
-    "area_m2": 71,
-    "floor": "17/17 mərtəbə",
-    "is_agency": false,
-    "lat": 40.38795012321783,
-    "lng": 49.85743696666086,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": 17,
-    "updated_at_site": "2026-10-05T19:07:36+04:00",
-    "is_featured": false,
-    "title": "Satılır 2 otaqlı yeni tikili 71 m²",
-    "description": "Bakı ş., Nərimanov r., Qarabağ küçəsi, Xətai prospektində Ərazinin ən Prestijli binalarından olan \"Armoni Residence\" yaşayış kompleksində, 17 mərtəbəli binanın 17-ci mərtəbəsində ümumi sahəsi 71 kvm  sənədi ÇIXARIŞ ( KUPÇA ) olan mənzil satılır. Komunallar qaz, su, işıq daimi olaraq təchiz olunub. Mənzilin təmirində ən bahalı materillardan istifadə olunmuşdur. Mənzil İPOTEKAYA YARARLIDIR !! Binanın 7/24 kamera sistemi, yeraltı, müasir və surətli liftləri mövcuddur. Mənzil infrastruktur cəhətdən əlverişli ərazidə yerləşir. Nəriman Nərimanov və Gənclik metrolarına yaxın. Ətrafında uşaq bağçası, məktəb, supermarketlər və yaşam üçün zəruri olan digər bütünnöv iaşə obyektləri mövcuddur",
-    "building_type": "Yeni tikili",
-    "location_id": "10",
-    "location_name": "Nərimanov",
-    "category": "apartment",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6506435",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 235000,
-        "date": "2026-10-01T11:58:25.235596+00:00"
-      }
-    ]
-  },
-  {
     "id": "6506403",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F00%2F24%2F21%2F2a1d1298-ce64-4aa2-8bc7-6b8fa612e405%2F75548_LELev9tgjtGhFLQq_kQ3nw.jpg",
     "price": 190000,
@@ -31740,39 +31134,6 @@
       {
         "price": 190000,
         "date": "2026-10-01T11:58:25.240825+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6507281",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F13%2F00%2F46%2F9375f1c7-4722-4207-b925-2a58e7ab5895%2F96177_JqvT_6O4VXmZpSB_PbuvfA.jpg",
-    "price": 167000,
-    "location": "Yeni Günəşli q.",
-    "rooms": "3 otaqlı",
-    "area_m2": 80,
-    "floor": "4/9 mərtəbə",
-    "is_agency": true,
-    "lat": 40.38072866662211,
-    "lng": 49.98094784655761,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": 4,
-    "updated_at_site": "2026-10-05T19:52:03+04:00",
-    "is_featured": false,
-    "title": "Satılır 3 otaqlı köhnə tikili 80 m²",
-    "description": "Yeni Günəşlidə leninqrad lahiyəli binada qanuni 3 otaq mənzilimiz satışa çıxarılıb.Binanın yaxınlığında məktəb market başqa iaşə obyektləri mövcutdur.Mənzil qismən əşyalı satılır.Əlavə məlumat üçün əlaqə saxlaya bilərsiniz. \r\n\r\nXidmət haqqı 1 %",
-    "building_type": "Köhnə tikili",
-    "location_id": "92",
-    "location_name": "Yeni Günəşli",
-    "category": "apartment",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6507281",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 167000,
-        "date": "2026-10-01T11:58:25.221652+00:00"
       }
     ]
   },
@@ -31965,7 +31326,7 @@
     "has_mortgage": false,
     "floor_number": 10,
     "updated_at_site": "2026-10-05T21:19:05+04:00",
-    "is_featured": true,
+    "is_featured": false,
     "title": "Satılır 3 otaqlı yeni tikili 125 m²",
     "description": "Dəniz mənzərəli!\r\nİpotekaya yararlı Qazlı+Kupçalı bina. \r\nSəbail rayonu, Bayıl qəsəbəsi, Su İdman Sarayının yaxınlığında, 17 mərtəbəli yeni tikilinin 10-cı mərtəbəsində,ümumi sahəsi 125 kv/m olan, qanuni 3 otaqlı təmirli mənzil satılır. Qaz,su,işıq daimdir, istilik sistemi kombidir, döşəmə parketdir.Binanın 2 siqma lifti,parkinqi,uşaq oyun meydançası,24 saat mühafizə sistemi mövcuddur. \r\n3 ədəd balkonu var.\r\nSənəd Kupça.Çixarış. \r\nQiymət 265.000 manat\r\nReal alıcılar əlaqə saxlasin. ",
     "building_type": "Yeni tikili",
@@ -31979,43 +31340,6 @@
       {
         "price": 265000,
         "date": "2026-10-01T11:58:25.214465+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6507516",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F13%2F53%2F54%2F10763004-1de3-4537-85dc-f05d7321abe3%2F92804_BdNerFKF1zRWjXbPCd6_WQ.jpg",
-    "price": 96000,
-    "location": "Hövsan q.",
-    "rooms": "1 otaqlı",
-    "area_m2": 44,
-    "floor": "9/9 mərtəbə",
-    "is_agency": false,
-    "lat": 40.38565197809808,
-    "lng": 50.07199782596094,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": 9,
-    "updated_at_site": "2026-10-05T21:25:15+04:00",
-    "is_featured": false,
-    "title": "Satılır 1 otaqlı yeni tikili 44 m²",
-    "description": "Hövsan Mida 2 də 1 Otaq Studio Mənzilimiz Satışa Çıxdı Qaz Su İşığ Daimidir İsitmə Sistemi Kombidir Real Alıcıya Endirim Olunacaq Ofis Haqqı:1000 Manat",
-    "building_type": "Yeni tikili",
-    "location_id": "93",
-    "location_name": "Hövsan",
-    "category": "apartment",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6507516",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 97000,
-        "date": "2026-10-01T11:58:25.217810+00:00"
-      },
-      {
-        "price": 96000,
-        "date": "2026-10-04T17:32:35.006066+00:00"
       }
     ]
   },
@@ -32049,39 +31373,6 @@
       {
         "price": 190000,
         "date": "2026-10-01T11:58:25.229580+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6085584",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F04%2F29%2F14%2F24%2F45%2Fbb23f37b-37bf-4ec7-9277-cf1af89774b0%2F27409_YP1SXRK0I047sbtNKhWDRA.jpg",
-    "price": 278000,
-    "location": "Binəqədi r.",
-    "rooms": "3 otaqlı",
-    "area_m2": 95,
-    "floor": "5/15 mərtəbə",
-    "is_agency": false,
-    "lat": 40.41601000392018,
-    "lng": 49.84163753677139,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": 5,
-    "updated_at_site": "2026-10-05T21:35:30+04:00",
-    "is_featured": false,
-    "title": "Satılır 3 otaqlı yeni tikili 95 m²",
-    "description": "IPATEKAYA YARARLI.\nTECILI SATILIR. \nAyna Sultanov heykelin yaxinliqi \nMedera kilinkasinin yani \nEcemi Naxcivani kücesi.\nYeni Tikili 15/5 ci mertebesi 2.3 duzelme \n1. ci Isiqla 3 otaqdan ferqlemir \nYer Alti qaraji boyuk heyeti \nMasin parkin.\nEtrafli Tel Ofis haqqi 1%",
-    "building_type": "Yeni tikili",
-    "location_id": "58",
-    "location_name": "Binəqədi",
-    "category": "apartment",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6085584",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 278000,
-        "date": "2026-10-01T11:58:25.240835+00:00"
       }
     ]
   },
@@ -32255,43 +31546,6 @@
       {
         "price": 185000,
         "date": "2026-10-01T11:58:25.221050+00:00"
-      }
-    ]
-  },
-  {
-    "id": "5560419",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F10%2F04%2F13%2F20%2F41%2F39eb0682-f978-4c6a-845e-08d6f2b835c9%2F37302_ksBAd98Yipnr_0BzNr1yHg.jpg",
-    "price": 315000,
-    "location": "Elmlər Akademiyası m.",
-    "rooms": "2 otaqlı",
-    "area_m2": 86,
-    "floor": "11/17 mərtəbə",
-    "is_agency": true,
-    "lat": 40.38186267884245,
-    "lng": 49.81141143660297,
-    "has_repair": false,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": 11,
-    "updated_at_site": "2026-10-06T07:51:56+04:00",
-    "is_featured": false,
-    "title": "Satılır 2 otaqlı yeni tikili 86 m²",
-    "description": "RENESSANS PALACE PREMİUM HƏYATIN TƏCƏSSÜM etdiyi yaşayış kompleksində 2 otaq podmayak mənzil satılır. Binanın 2 hektarlıq yaşıllıq, gəzinti, istirahət zonası var. Binanın altında 3 mərtəbəli yeraltı avtodayanacaq yerləşir. İnfrastruktur olaraq çox əlverişli məkandadır. Mənzilin 2 balkonu var. Kompleks 24 saat xüsusi mühafizə olunur. Liftlər KONE VƏ MİTSUBİSHİ firmalarına məxsusdur. İPOTEKAYA YARARLIDIR",
-    "building_type": "Yeni tikili",
-    "location_id": "34",
-    "location_name": "Elmlər Akademiyası",
-    "category": "apartment",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/5560419",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 390000,
-        "date": "2026-10-01T11:58:25.236594+00:00"
-      },
-      {
-        "price": 315000,
-        "date": "2026-10-06T13:13:12.779711+00:00"
       }
     ]
   },
@@ -32663,39 +31917,6 @@
     ]
   },
   {
-    "id": "6506621",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F10%2F44%2F36%2Fd83e40a9-4533-45a2-a1d9-fcb7c75023c3%2F75507_TRUqmiR0ROH7tmf7LNfXFA.jpg",
-    "price": 188000,
-    "location": "Neftçilər m.",
-    "rooms": "2 otaqlı",
-    "area_m2": 54,
-    "floor": "12/14 mərtəbə",
-    "is_agency": true,
-    "lat": 40.4094940355146,
-    "lng": 49.9424411992979,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 12,
-    "updated_at_site": "2026-10-06T10:29:30+04:00",
-    "is_featured": false,
-    "title": "Satılır 2 otaqlı yeni tikili 54 m²",
-    "description": "Mənzil barədə məlumat\n2 otaq+mətbəx\nBalkon var\nMərtəbə 12\nBina 14 mərtəbə\nQiyaslı MTK\nNeftçilər metrosuna 3 dəqiqə yol\nTam təmirli\nTəmirdən sonra yaşayış olmayıb\nMetro, marşrut xəttləri, məktəblər, marketlər yaxınlıqda yerləşir \nKirayə potensialı 800AZN\nOfis haqqı 1 faiz\nKod 68-57",
-    "building_type": "Yeni tikili",
-    "location_id": "53",
-    "location_name": "Neftçilər",
-    "category": "apartment",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6506621",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 188000,
-        "date": "2026-10-01T11:58:25.208951+00:00"
-      }
-    ]
-  },
-  {
     "id": "6507680",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F14%2F25%2F37%2F183f77fd-9756-49e6-bac9-174fccff8e2a%2F75522_urD43WQx5z6j43C0TCLJAA.jpg",
     "price": 199000,
@@ -32824,43 +32045,6 @@
       {
         "price": 465000,
         "date": "2026-10-01T11:58:25.208192+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6507509",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F13%2F50%2F35%2Fcf32a726-57c3-4399-9d52-6dd5a13831f4%2F2506_5zHu0WJ4hb7sjyMFRdz4ow.jpg",
-    "price": 265000,
-    "location": "İnşaatçılar m.",
-    "rooms": "3 otaqlı",
-    "area_m2": 123,
-    "floor": "3/15 mərtəbə",
-    "is_agency": false,
-    "lat": 40.38831271761853,
-    "lng": 49.80163580021319,
-    "has_repair": false,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": 3,
-    "updated_at_site": "2026-10-06T11:21:58+04:00",
-    "is_featured": false,
-    "title": "Satılır 3 otaqlı yeni tikili 123 m²",
-    "description": "Metro insacilarda 3 otag temirsiz menzil satisdadir duz metronun ustunde , temirsizdir ipatekaya yararlidir , ofis haqqi vardir ,1% ,teskil edir",
-    "building_type": "Yeni tikili",
-    "location_id": "7",
-    "location_name": "İnşaatçılar",
-    "category": "apartment",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6507509",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 279000,
-        "date": "2026-10-01T11:58:25.217995+00:00"
-      },
-      {
-        "price": 265000,
-        "date": "2026-10-04T17:05:05.502890+00:00"
       }
     ]
   },
@@ -33298,76 +32482,6 @@
     ]
   },
   {
-    "id": "6507581",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F14%2F07%2F25%2F52887e5f-bc2b-442d-bb33-a71b1b21d4f5%2F16164_l4J9aCgIQqnwMyCNe5lOfw.jpg",
-    "price": 235000,
-    "location": "Nəsimi r.",
-    "rooms": "2 otaqlı",
-    "area_m2": 70,
-    "floor": "12/16 mərtəbə",
-    "is_agency": true,
-    "lat": 40.40049795310254,
-    "lng": 49.83489085088328,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": 12,
-    "updated_at_site": "2026-10-06T13:08:35+04:00",
-    "is_featured": true,
-    "title": "Satılır 2 otaqlı yeni tikili 68 m²",
-    "description": "📌 S A T I L I R ✨\r\n✔Yeni tikili binada təmirsiz podmayak  QANUNİ 2 OTAQLI mənzil satılır.\r\n✔Mənzilin sahəsi 68 kv/m2.\r\n✔Mənzil 17 mərtəbəli binanın 12-ci\r\nmərtəbəsində yerləşir.\r\n✔Sənədi ÇIXARIŞ ( KUPÇA).\r\n✔Mənzilə baxmaq istiyən əlaqə saxlasın.\r\n\r\n📍Ünvan:Nərimanov rayonu,Tibb Universitetin və 258 nömrəli məktəbin yaxınlığı.\r\n",
-    "building_type": "Yeni tikili",
-    "location_id": "190",
-    "location_name": "Nəsimi",
-    "category": "apartment",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6507581",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 235000,
-        "date": "2026-10-01T11:58:25.216826+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6507849",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F15%2F01%2F30%2F8b7a5d0f-b5f8-42be-9cae-9c8a6477d53a%2F60658_Qi29HYcy9DKVHBXcYNZMbw.jpg",
-    "price": 157000,
-    "location": "İnşaatçılar m.",
-    "rooms": "2 otaqlı",
-    "area_m2": 65,
-    "floor": "5/9 mərtəbə",
-    "is_agency": false,
-    "lat": 40.39171203975122,
-    "lng": 49.79880516052251,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": 5,
-    "updated_at_site": "2026-10-06T13:10:10+04:00",
-    "is_featured": false,
-    "title": "Satılır 2 otaqlı köhnə tikili 65 m²",
-    "description": "Yasamal rayonu,   yeni yasamal kupçalı ipotekaya yararlı    9mərtəbəli binanın  5ci mərtəbəsində qanuni  2otag   orta ve yelçeken menzil  satılır.\r\nMənzil işıqlı və səliqəlidir. Bina çox əlverişli ərazidə yerləşir. Yaxınlığında   məktəb, market və digər bütün lazımi iaşə obyektləri mövcuddur.\r\nSənədləri qaydasındadır, Xidmet haqqı 1% alicidan",
-    "building_type": "Köhnə tikili",
-    "location_id": "7",
-    "location_name": "İnşaatçılar",
-    "category": "apartment",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6507849",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 158000,
-        "date": "2026-10-01T11:58:25.212019+00:00"
-      },
-      {
-        "price": 157000,
-        "date": "2026-10-03T19:32:50.898198+00:00"
-      }
-    ]
-  },
-  {
     "id": "6507355",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F13%2F13%2F39%2Fca66d7cb-d61a-4bf7-966b-ae0510a92dda%2F75552_GehBfiel85e0_fhY0AuD6g.jpg",
     "price": 148000,
@@ -33541,39 +32655,6 @@
       {
         "price": 340000,
         "date": "2026-10-01T11:58:25.215282+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6507561",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F14%2F02%2F16%2Fb33ceb7e-7b0a-4a12-b478-61a09b24c964%2F16161_ATUtSTIet7T94XSDjc85dw.jpg",
-    "price": 249000,
-    "location": "Qara Qarayev m.",
-    "rooms": "3 otaqlı",
-    "area_m2": 95,
-    "floor": "5/9 mərtəbə",
-    "is_agency": false,
-    "lat": 40.41719691670907,
-    "lng": 49.93547594599681,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": 5,
-    "updated_at_site": "2026-10-06T13:58:35+04:00",
-    "is_featured": false,
-    "title": "Satılır 3 otaqlı köhnə tikili 95 m²",
-    "description": "Qara qarayev metrosunun tam yaninda.9 mertebeli eksperimental dash binanin 5 ci mertebesinde(kunc deyil) 3 otaq 95 kv (cixarishda 72) evimi satiram.ev mene mexsusdur vasitechi deyilem.otaqlardan birinde tavanda chatlar olduguna gore tavani qawiyib tokmuwem ancaq hele temir olunmayib.ve evde kombi YOXDUR.ev ideal yerde yerlewir.yaxinliqda mektebler,bagcalar,supermarketler,sevinc mall,eylence merkezleri restoranlar ve s. Yerlewir.cox xahiw edirem ancaq real wexsler zeng etsinler",
-    "building_type": "Köhnə tikili",
-    "location_id": "52",
-    "location_name": "Qara Qarayev",
-    "category": "apartment",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6507561",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 249000,
-        "date": "2026-10-01T11:58:25.217289+00:00"
       }
     ]
   },
@@ -34550,6 +33631,867 @@
     ]
   },
   {
+    "id": "6507971",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F15%2F29%2F30%2F89fe83d6-93a8-48b7-b22c-7b8282bffb55%2F93156_Qv5aon25fnd1jV5KE14-tw.jpg",
+    "price": 200000,
+    "location": "Dərnəgül m.",
+    "rooms": "2 otaqlı",
+    "area_m2": 67,
+    "floor": "4/17 mərtəbə",
+    "is_agency": false,
+    "lat": 40.42679951107953,
+    "lng": 49.85262891877915,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": 4,
+    "updated_at_site": "2026-10-06T17:54:19+04:00",
+    "is_featured": false,
+    "title": "Satılır 2 otaqlı yeni tikili 67 m²",
+    "description": "Unionpark yaşayış kompleksində tam təmirli, 1-ci işıqla, 1 otaqdan 2 otağa düzəlmə studiotipli mənzil satılır . Bina əlverişli yerdə yerləşir. Ətrafda yaşam üçün hər şey var. Yolun o biri tərəfində yeni METROSTANSİYA tikilir, şəkildə görünür, gələn il istifadəyə veriləcəkdir. Dərnəgül metrostansiyasına, STADLER sürət qatarına 10 dəqiqə piyada məsafədədir. Qapalı həyət, qaraj, uşaqların oynamağı üçün şərait var, binanın qarşısında Abad Həyət salınıb. Yaxınlıqda özəl və dövlət bağçaları, məktəb var. Şəhər mərkəzinə gedən avtobuslar 2, 3, 88, 93 binanın yanından keçir. Evə istənilən vaxt baxmaq olar. Vasitəçilər narahat etməsin",
+    "building_type": "Yeni tikili",
+    "location_id": "61",
+    "location_name": "Dərnəgül",
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6507971",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 200000,
+        "date": "2026-10-01T11:58:25.209957+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6506870",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F11%2F44%2F48%2F1d1fb976-7cae-4d81-97fe-30ccd908135f%2F75531_H_XaUyeKeDKiSv-Y_ipDoA.jpg",
+    "price": 191000,
+    "location": "Xalqlar Dostluğu m.",
+    "rooms": "4 otaqlı",
+    "area_m2": 90,
+    "floor": "4/5 mərtəbə",
+    "is_agency": true,
+    "lat": 40.40012722627286,
+    "lng": 49.94395162679121,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": 4,
+    "updated_at_site": "2026-10-06T18:16:50+04:00",
+    "is_featured": false,
+    "title": "Satılır 4 otaqlı köhnə tikili 90 m²",
+    "description": "Cox tecili Elimyandi !!!!\r\nNizami rayonu Xalqlar Dostlugu 70 mektebin duz yaninda 5 mertebeli MINSKI lahiyeli binanin 4 cu mertebesinde qanuni 4 otaqli orta blok Skvaznoy menzil deyerinden ucuz qiymete teklif olunur. Binanin etrafinda 242 ve 70 mektebler var binanin genis heyeti var su qaz isiq daimadir isdilik Merkezidir\r\nSened KUPCA\r\nMenzil satildiqi gun tehfil verilecek\r\nXidmet haqqi 1%",
+    "building_type": "Köhnə tikili",
+    "location_id": "54",
+    "location_name": "Xalqlar Dostluğu",
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6506870",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 191000,
+        "date": "2026-10-01T11:58:25.228521+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6508001",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F15%2F35%2F19%2Fb3514460-283b-4315-aa8a-465ea3f3b2e5%2F16149_f8HgXFFLiWxr0YYESg2Dow.jpg",
+    "price": 655000,
+    "location": "Elmlər Akademiyası m.",
+    "rooms": "3 otaqlı",
+    "area_m2": 148,
+    "floor": "6/20 mərtəbə",
+    "is_agency": true,
+    "lat": 40.36924076683101,
+    "lng": 49.82096211520099,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": 6,
+    "updated_at_site": "2026-10-06T18:21:22+04:00",
+    "is_featured": false,
+    "title": "Satılır 3 otaqlı yeni tikili 148 m²",
+    "description": "🏙️ ALTES PLAZA | PREMIUM 3 OTAQLI MƏNZİL\r\n\r\n✨ Şəxsi yaşayış üçün xüsusi zövqlə hazırlanmış, premium səviyyəli mənzil satışda!\r\n\r\n📍 Altes Plaza\r\n📐 148 m²\r\n🛏️ Qanuni 3 otaq\r\n🏢 20 mərtəbəli binanın 6-cı mərtəbəsi\r\n📜 Kupça\r\n🏦 İpotekaya yararlı\r\n🚿 2 sanitar qovşaq\r\n🧺 Ayrı laundry otağı\r\n🌆 Şəhər mənzərəsi\r\n🌇 2 balkon\r\n🪟 Panoram pəncərələr\r\n🔥 İsti döşəmə\r\n❄️ Mərkəzi kondisioner\r\n🌡️ Mərkəzi isitmə\r\n✨ Premium təmir\r\n🍽️ Quraşdırılmış məişət texnikası\r\n📦 Geniş saxlama sahələri\r\n\r\nMənzil satış məqsədilə deyil, şəxsi və uzunmüddətli yaşayış üçün təmir edildiyindən material və mühəndis sistemlərinin seçimində xüsusi diqqət göstərilib.\r\n\r\n💰 Qiymət: 655.000 AZN\r\n\r\n📌 Premium seqmentdə yerləşən bu mənzil həm komfortlu yaşayış, həm də dəyərini qoruyan daşınmaz əmlak axtaranlar üçün nəzərdə tutulub.\r\n\r\n📞 Ətraflı məlumat və baxış üçün əlaqə saxlayın.",
+    "building_type": "Yeni tikili",
+    "location_id": "34",
+    "location_name": "Elmlər Akademiyası",
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6508001",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 655000,
+        "date": "2026-10-01T11:58:25.209508+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6242909",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F26%2F14%2F55%2F03%2Fa7b48c20-4e91-43fd-86da-71fab9c46ec8%2F89579_fmK9eYjqibJhGRUV8N4ulQ.jpg",
+    "price": 116000,
+    "location": "Bayıl q.",
+    "rooms": "1 otaqlı",
+    "area_m2": 40,
+    "floor": "4/4 mərtəbə",
+    "is_agency": true,
+    "lat": 40.34949984735739,
+    "lng": 49.83247966826175,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": 4,
+    "updated_at_site": "2026-10-06T18:26:59+04:00",
+    "is_featured": false,
+    "title": "Satılır 1 otaqlı köhnə tikili 40 m²",
+    "description": "🏠 BAYILIN MƏRKƏZİNDƏ KUPÇALI, TƏMİRLİ MƏNZİL – TƏCİLİ SATILIR!\n\n📍 Ünvan: Səbail rayonu, Bayıl qəsəbəsi, Aydın Məmmədov küçəsi – Bayılın tam mərkəzi\n\n🔹 Sahə: 40 m²\n🔹 Mərtəbə: 4/4\n🔹 Otaq sayı: 1 otaq\n🔹 Sənəd: Çıxarış (Kupça)\n🔹 Təmir: Səliqəli təmirli\n\n\nMənzil Bayıl qəsəbəsinin tam mərkəzində, İtalyan həyət tipli yaşayış mühitində yerləşir. Rahat yaşayış üçün uyğun planlaşdırılıb və hazır vəziyyətdədir.\n\nHazırda mənzildə birləşdirilmiş mətbəx mövcuddur. Əlavə olaraq, balkonda ayrıca mətbəx zonası yaratmaq imkanı var.\n\n📍 Üstünlükləri:\n\nBayılın mərkəzində yerləşir\n\nMağazalar və gündəlik tələbat obyektləri piyada məsafəsindədir\n\nDövlət Bayrağı Meydanına cəmi bir neçə dəqiqəlik məsafədədir\n\nŞəhər mərkəzinə yaxın ərazidədir\n\nYaşayış və kirayə üçün əlverişli lokasiyadır\n\nKupçalıdır\n\nMənzil yaşayışa hazır vəziyyətdədir\n\n🔥 TƏCİLİ SATILIR!\n\n📞 Ətraflı məlumat və mənzilə baxış üçün əlaqə saxlaya bilərsiniz.\n\n💼 Ofis haqqı: 1%",
+    "building_type": "Köhnə tikili",
+    "location_id": "49",
+    "location_name": "Bayıl",
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6242909",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 114000,
+        "date": "2026-10-01T11:58:25.218451+00:00"
+      },
+      {
+        "price": 119000,
+        "date": "2026-10-04T18:28:42.627101+00:00"
+      },
+      {
+        "price": 118000,
+        "date": "2026-10-06T13:13:08.377822+00:00"
+      },
+      {
+        "price": 116000,
+        "date": "2026-10-06T19:34:01.912057+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6348373",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F04%2F18%2F07%2F22%2F6f676d1f-4a44-400b-91af-285e52fd5435%2F86816_BVhjnHLR5UGXvSgep91cwg.jpg",
+    "price": 215000,
+    "location": "Koroğlu m.",
+    "rooms": "3 otaqlı",
+    "area_m2": 75,
+    "floor": "4/10 mərtəbə",
+    "is_agency": true,
+    "lat": 40.42311222047528,
+    "lng": 49.92223946767579,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": 4,
+    "updated_at_site": "2026-10-06T18:28:24+04:00",
+    "is_featured": false,
+    "title": "Satılır 3 otaqlı yeni tikili 75 m²",
+    "description": "🚨 TƏCİLİ SATILIR! 🚨\n\n🏢 KOROĞLU METROSUNUN YAXINLIĞINDA ƏŞYALI, KUPÇALI VƏ İPOTEKAYA YARARLI 3 OTAQLI MƏNZİL!\n\n📍 Koroğlu metrosunun yaxınlığında, Əli Vəliyev küçəsində yerləşən yeni tikili binada tam təmirli, əşyalı və yaşayış üçün tam hazır 3 otaqlı mənzil satışa çıxarılıb.\n\n🔸 Mənzilin əsas xüsusiyyətləri:\n\n📏 75 m² ümumi sahə\n🛋 3 otaq\n🏙 10 mərtəbəli binanın 4-cü mərtəbəsi\n🚪 Orta blok\n🔧 Tam təmirli\n🪑 Əşyalı satılır\n📜 Çıxarış (Kupça) var\n🏦 İpotekaya yararlıdır\n⚡ Qaz, su və işıq daimidir\n\n📌 Mənzil əlverişli və yaşayış üçün rahat ərazidə yerləşir. Koroğlu metrosuna qısa məsafədədir.\n\nƏtrafında məktəb, uşaq bağçası, supermarketlər, aptek və gündəlik ehtiyac üçün digər vacib obyektlər mövcuddur.\n\n🏠 Mənzil həm şəxsi yaşayış, həm də investisiya üçün əlverişli seçimdir.\n\n📞 Ətraflı məlumat və mənzilə baxış üçün əlaqə saxlaya bilərsiniz.\n\n📍 Ünvan: Əli Vəliyev küçəsi\n\n💰 REAL MÜŞTƏRİYƏ ENDİRİM OLUNACAQ!",
+    "building_type": "Yeni tikili",
+    "location_id": "4",
+    "location_name": "Koroğlu",
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6348373",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 218000,
+        "date": "2026-10-01T11:58:25.212500+00:00"
+      },
+      {
+        "price": 215000,
+        "date": "2026-10-06T19:33:59.958147+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6506621",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F10%2F44%2F36%2Fd83e40a9-4533-45a2-a1d9-fcb7c75023c3%2F75507_TRUqmiR0ROH7tmf7LNfXFA.jpg",
+    "price": 188000,
+    "location": "Neftçilər m.",
+    "rooms": "2 otaqlı",
+    "area_m2": 54,
+    "floor": "12/14 mərtəbə",
+    "is_agency": true,
+    "lat": 40.4094940355146,
+    "lng": 49.9424411992979,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 12,
+    "updated_at_site": "2026-10-06T18:29:33+04:00",
+    "is_featured": false,
+    "title": "Satılır 2 otaqlı yeni tikili 54 m²",
+    "description": "Mənzil barədə məlumat\n2 otaq+mətbəx\nBalkon var\nMərtəbə 12\nBina 14 mərtəbə\nQiyaslı MTK\nNeftçilər metrosuna 3 dəqiqə yol\nTam təmirli\nTəmirdən sonra yaşayış olmayıb\nMetro, marşrut xəttləri, məktəblər, marketlər yaxınlıqda yerləşir \nKirayə potensialı 800AZN\nOfis haqqı 1 faiz\nKod 68-57",
+    "building_type": "Yeni tikili",
+    "location_id": "53",
+    "location_name": "Neftçilər",
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6506621",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 188000,
+        "date": "2026-10-01T11:58:25.208951+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6507150",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F12%2F35%2F33%2F648408c2-b9de-4c7e-9014-755450fc951a%2F16178_AXa8P4Rnk1oesiq2BRBk0Q.jpg",
+    "price": 570000,
+    "location": "Şah İsmayıl Xətai m.",
+    "rooms": "3 otaqlı",
+    "area_m2": 120,
+    "floor": "6/7 mərtəbə",
+    "is_agency": true,
+    "lat": 40.38276435894885,
+    "lng": 49.88058469168862,
+    "has_repair": false,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": 6,
+    "updated_at_site": "2026-10-06T18:29:45+04:00",
+    "is_featured": false,
+    "title": "Satılır 3 otaqlı yeni tikili 120 m²",
+    "description": "Ağ Şəhərdə qanuni 3 otaqlı mənzil satılır.Mənzilin təmir işinin 70%i  görülüb.\r\nMənzil tam yelçəkən layihədir.Biri yataq otağında olmaqla 2 sanuzel mövcuddur.\r\nSənəd hal-hazırda müqavilədir ancaq binada çıxarış var..\r\nTam yaşayışlı binadır.\r\n\r\nXidmət Haqqı-1%",
+    "building_type": "Yeni tikili",
+    "location_id": "36",
+    "location_name": "Şah İsmayıl Xətai",
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6507150",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 570000,
+        "date": "2026-10-01T11:58:25.223838+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6507036",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F12%2F00%2F30%2F7fac0984-310e-4d78-b1f3-c85bdf9b9fa7%2F16173_EhJjfQBAMwhSLwLITWy6hA.jpg",
+    "price": 140000,
+    "location": "Yeni Günəşli q.",
+    "rooms": "2 otaqlı",
+    "area_m2": 65,
+    "floor": "5/10 mərtəbə",
+    "is_agency": true,
+    "lat": 40.37375511121746,
+    "lng": 49.97916634702628,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": 5,
+    "updated_at_site": "2026-10-06T18:56:47+04:00",
+    "is_featured": false,
+    "title": "Satılır 2 otaqlı köhnə tikili 65 m²",
+    "description": "Yeni Günəşlidə leninqrad lahiyəli binada mənzilimiz satışa çıxarılıb.Binanın yaxınlığında məktəb market başqa iaşə obyektləri mövcutdur.Mənzilimiz orta blokdu.Əlavə məlumat üçün əlaqə saxlaya bilərsiniz.\r\n\r\nXidmət haqqı 1 %",
+    "building_type": "Köhnə tikili",
+    "location_id": "92",
+    "location_name": "Yeni Günəşli",
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6507036",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 140000,
+        "date": "2026-10-01T11:58:25.226288+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6508048",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F15%2F43%2F55%2F2b79e7a0-5fb7-497a-992d-06204485ba6f%2F75506_TKYDTnfFt4UkwfSQOvWijQ.jpg",
+    "price": 239000,
+    "location": "Həzi Aslanov m.",
+    "rooms": "4 otaqlı",
+    "area_m2": 100,
+    "floor": "7/9 mərtəbə",
+    "is_agency": true,
+    "lat": 40.37876272870052,
+    "lng": 49.9538979528135,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": 7,
+    "updated_at_site": "2026-10-06T18:58:30+04:00",
+    "is_featured": false,
+    "title": "Satılır 4 otaqlı köhnə tikili 100 m²",
+    "description": "🏡 **ABAD MƏHƏLLƏDƏ 4 OTAQLI MƏNZİL SATILIR!** 🔑\r\n\r\n📍 **Ünvan:** Aşıq Ələsgər küçəsi, Abad məhəllə\r\n\r\n🏢 Leninqrad layihəli, 9 mərtəbəli binanın 7-ci mərtəbəsində yerləşən geniş və funksional mənzil satışa təqdim olunur!\r\n\r\n✨ **MƏNZİL HAQQINDA:**\r\n🔹 Qanuni 4 otaqlı\r\n🔹 Ümumi sahə: 100 m²\r\n🔹 Kupça üzrə sahə: 91–92 m²\r\n🔹 Mərtəbə: 7/9\r\n🔹 Layihə: Leninqrad\r\n🔹 Təmir vəziyyəti: Təmirə ehtiyacı var — öz zövqünüzə uyğun yeniləyərək ideal yaşayış məkanı yarada bilərsiniz.\r\n\r\n📍 **ƏRAZİ ÜSTÜNLÜKLƏRİ:**\r\n🚔 Polis idarəsinin yaxınlığı\r\n🛒 Şuşa Market\r\n🏬 Böyük Bravo Hipermarketi\r\n🏫 86 və 254 nömrəli tam orta məktəblər\r\n🏋️ Modern İdman və Əyləncə Mərkəzi\r\n\r\n🌟 **Geniş sahəsi, qanuni 4 otaqlı planlaşdırması və əlverişli yerləşməsi ilə həm ailəvi yaşayış, həm də uzunmüddətli investisiya üçün nəzərdən keçirilə biləcək mənzil!**\r\n\r\n📞 Ətraflı məlumat və mənzilə baxış üçün əlaqə saxlaya bilərsiniz.\r\n\r\n💼 **Ofis xidmət haqqı: 1%**",
+    "building_type": "Köhnə tikili",
+    "location_id": "33",
+    "location_name": "Həzi Aslanov",
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6508048",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 239000,
+        "date": "2026-10-01T11:58:25.208826+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6507906",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F15%2F13%2F31%2F0fd19c83-a830-4ddc-a7b2-7a134345bdf0%2F90614_2oLq1QMPXYcpPlzWgu7NXA.jpg",
+    "price": 335000,
+    "location": "28 May m.",
+    "rooms": "4 otaqlı",
+    "area_m2": 105,
+    "floor": "4/5 mərtəbə",
+    "is_agency": true,
+    "lat": 40.37860102558234,
+    "lng": 49.85018199849587,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": 4,
+    "updated_at_site": "2026-10-06T19:01:22+04:00",
+    "is_featured": false,
+    "title": "Satılır 4 otaqlı köhnə tikili 105 m²",
+    "description": "Dəyərli müştərilər,\r\nŞəhərin mərkəzində, prestijli ünvan və komfortlu həyat sizi gözləyir! \r\nBakının en prestijli ərazilərindən birində — Nəsimi rayonu, 28 May metrosu və Səməd Vurğun bağının tam yaxınlığında yerləşən bu 105 m² sahəyə malik 4 otaqlı mənzil zövqlü təmiri və genişliyi ilə rahatlığınızı təmin edəcək. Stalinka layihəli 5 mərtəbəli binanın 4-cü mərtəbəsində yerləşən, bütün sənədləri qaydasında olan (Çıxarışlı/Kupçalı) bu mənzil həm rahat yaşayış, həm də dəyərli yatırım üçün 335.000 AZN qiymətinə satışa təqdim edilir.\r\nƏlavə məlumat və mənzilə baxış keçirmək üçün əlaqə saxlaya bilərsiniz.",
+    "building_type": "Köhnə tikili",
+    "location_id": "8",
+    "location_name": "28 May",
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6507906",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 335000,
+        "date": "2026-10-01T11:58:25.210996+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6506435",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F01%2F54%2F09%2F530c14aa-707a-4fbf-8315-6e541c001563%2F90614_5Ewk2bs59FjVyFXg02qwUA.jpg",
+    "price": 235000,
+    "location": "Nərimanov r.",
+    "rooms": "2 otaqlı",
+    "area_m2": 71,
+    "floor": "17/17 mərtəbə",
+    "is_agency": false,
+    "lat": 40.38795012321783,
+    "lng": 49.85743696666086,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": 17,
+    "updated_at_site": "2026-10-06T19:07:34+04:00",
+    "is_featured": false,
+    "title": "Satılır 2 otaqlı yeni tikili 71 m²",
+    "description": "Bakı ş., Nərimanov r., Qarabağ küçəsi, Xətai prospektində Ərazinin ən Prestijli binalarından olan \"Armoni Residence\" yaşayış kompleksində, 17 mərtəbəli binanın 17-ci mərtəbəsində ümumi sahəsi 71 kvm  sənədi ÇIXARIŞ ( KUPÇA ) olan mənzil satılır. Komunallar qaz, su, işıq daimi olaraq təchiz olunub. Mənzilin təmirində ən bahalı materillardan istifadə olunmuşdur. Mənzil İPOTEKAYA YARARLIDIR !! Binanın 7/24 kamera sistemi, yeraltı, müasir və surətli liftləri mövcuddur. Mənzil infrastruktur cəhətdən əlverişli ərazidə yerləşir. Nəriman Nərimanov və Gənclik metrolarına yaxın. Ətrafında uşaq bağçası, məktəb, supermarketlər və yaşam üçün zəruri olan digər bütünnöv iaşə obyektləri mövcuddur",
+    "building_type": "Yeni tikili",
+    "location_id": "10",
+    "location_name": "Nərimanov",
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6506435",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 235000,
+        "date": "2026-10-01T11:58:25.235596+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6507423",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F13%2F30%2F46%2F76531d80-4cba-49bc-8c68-8f5d114520ac%2F44822_MI2ssJgp0KyE4dYhSXFjWA.jpg",
+    "price": 203000,
+    "location": "Həzi Aslanov m.",
+    "rooms": "2 otaqlı",
+    "area_m2": 82,
+    "floor": "10/18 mərtəbə",
+    "is_agency": false,
+    "lat": 40.3784247386803,
+    "lng": 49.95582252966594,
+    "has_repair": false,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": 10,
+    "updated_at_site": "2026-10-06T19:28:35+04:00",
+    "is_featured": false,
+    "title": "Satılır 2 otaqlı yeni tikili 82 m²",
+    "description": "",
+    "building_type": "Yeni tikili",
+    "location_id": "33",
+    "location_name": "Həzi Aslanov",
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6507423",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 204000,
+        "date": "2026-10-01T11:58:25.219298+00:00"
+      },
+      {
+        "price": 203000,
+        "date": "2026-10-06T19:34:02.105499+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6507422",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F13%2F16%2F37%2Fe3b90b80-3e88-4e21-aaac-c8f2ce3c6571%2F16140_EFIca78QyPO6scEtF6cFyw.jpg",
+    "price": 610000,
+    "location": "Nəsimi r.",
+    "rooms": "4 otaqlı",
+    "area_m2": 168,
+    "floor": "4/16 mərtəbə",
+    "is_agency": true,
+    "lat": 40.3957342378383,
+    "lng": 49.83757327560897,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": 4,
+    "updated_at_site": "2026-10-06T19:32:26+04:00",
+    "is_featured": false,
+    "title": "Satılır 4 otaqlı yeni tikili 168 m²",
+    "description": "✔︎ Эксклюзивная 4-комнатная квартира с безупречным интерьером и итальянской эстетикой !\r\n✔︎ В продаже представлена уникальная 4-комнатная квартира площадью 168 м², где каждая деталь продумана до мелочей и выполнена с использованием материалов высочайшего уровня. Пространство создано для тех, кто ценит гармонию, комфорт и настоящее качество исполнения.\r\n✔︎ Квартира имеет сквозную планировку, благодаря чему помещения наполнены естественным светом и свежим воздухом. Продуманная организация пространства, просторные комнаты и качественная отделка создают ощущение настоящей резиденции в центре города.\r\n✔︎ Интерьер полностью готов к проживанию: квартира продается с мебелью и бытовой техникой, сохраняя единую дизайнерскую концепцию и высокий уровень комфорта.\r\n✔︎ Особое внимание уделено отделочным материалам и инженерным решениям. В квартире установлена надежная электрическая система с автоматическими выключателями Legrand (Франция), а розетки и выключатели выполнены брендом Gewiss (Италия).\r\n✔︎ Элегантность интерьера подчеркивает художественный паркет с мозаичной укладкой от фабрики Parquet In (Италия), превращающий напольное покрытие в самостоятельный элемент дизайна. Для отделки использован премиальный крупноформатный керамогранит Laminam (Италия), известный своими инновационными технологиями и безупречной эстетикой.\r\n✔︎ Стены оформлены эксклюзивными итальянскими обоями Emiliano Parati, которые добавляют интерьеру глубину и индивидуальность.\r\nВ квартире расположены два дизайнерских санузла, выполненные в стиле luxury. Один оформлен с использованием коллекции Valentino Ceramica Piemme (Италия), второй - с материалами Versace Ceramics (Италия), что подчеркивает уникальный характер каждого пространства.\r\n✔︎ Это не просто квартира - это тщательно созданная атмосфера приватности, статуса и утонченного вкуса. Объект для тех, кто ищет готовое пространство высокого уровня, где каждая деталь говорит о качестве и безупречном стиле.\r\n✔︎ КВАРТИРА ПРОДАЁТСЯ СО ВСЕЙ ИМЕЮЩЕЙСЯ В НЕЙ МЕБЕЛЬЮ И БЫТОВОЙ ТЕХНИКОЙ.\r\n✔︎ Квартира показывается ТОЛЬКО РЕАЛЬНЫМ покупателям, убедительная просьба – несерьезным, посредникам-фирмам СТРОГО НЕ БЕСПОКОИТЬ !!!\r\n✔︎ Стоимость услуги агентства составляет 1%\r\n\r\n",
+    "building_type": "Yeni tikili",
+    "location_id": "190",
+    "location_name": "Nəsimi",
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6507422",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 610000,
+        "date": "2026-10-01T11:58:25.219325+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6507717",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F14%2F32%2F34%2Fa67fe6b6-5238-4501-9c8c-df112e706077%2F93156_qIaVJ46twrC-r3l_fJ3bjA.jpg",
+    "price": 450000,
+    "location": "28 May m.",
+    "rooms": "4 otaqlı",
+    "area_m2": 100,
+    "floor": "5/5 mərtəbə",
+    "is_agency": true,
+    "lat": 40.37696742264215,
+    "lng": 49.84865411307413,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": 5,
+    "updated_at_site": "2026-10-06T19:32:31+04:00",
+    "is_featured": false,
+    "title": "Satılır 4 otaqlı köhnə tikili 100 m²",
+    "description": "➦ Редчайшее предложение в одном из престижных домов в центральной части города.\r\n➦ На пересечении проспекта Азадлыг и улицы 28 Мая предлагается к продаже полноценная четырехкомнатная квартира.\r\n➦ Проект здания - «Классическая Сталинка». \r\n➦ Монолитно-каменный дом с высотой потолков ≈ 3,4 метра, который гармонично объединяет традиции и современность. Здание имеет выразительный архитектурный облик и эффектную ночную подсветку.\r\n➦ Квартира обладает редкой сквозной планировкой: окна выходят на две стороны дома, обеспечивая хорошее естественное освещение и комфортную атмосферу. \r\n➦ В квартире предусмотрены два балкона - один с видом на центральную улицу, второй выходит во внутренний двор.\r\n➦ Объект предлагается без ремонта, что предоставляет прекрасную возможность реализовать собственные дизайнерские и планировочные решения, создать интерьер полностью под свой стиль и требования.\r\n➦ Просторные светлые комнаты, удобная планировка, высокие потолки и особенности дома делают квартиру привлекательным вариантом как для личного проживания, так и для инвестиционного приобретения.\r\nДом обеспечивает комфортные условия проживания: - бесперебойная подача электроэнергии, газа и воды;\r\n— централизованное отопление;\r\n— парадный вход;\r\n— подъезд с кодовым замком;\r\n— во дворе установлен шлагбаум;\r\n— респектабельные соседи.\r\n➦ Район отличается развитой инфраструктурой и удобным расположением. В непосредственной близости расположены: ТРЦ «28 MALL», узловая станция Бакинского метрополитена – “28 Мая”, Парк имени Самеда Вургуна, средняя школа №23, классическая гимназия №160, The Landmark Hotel Baku, Бакинский Приморский Бульвар, Азербайджанский Государственный театр песни имени Рашида Бейбутова, Национальная библиотека имени М. Ф. Ахундова...\r\n➦ Квартира также является интересным вариантом для сдачи в аренду благодаря своему расположению, характеристикам дома и востребованности центральной части города.\r\n➦ Показ квартиры осуществляется только реальным покупателям.\r\nУбедительная просьба: посредникам и лицам без конкретного интереса строго не беспокоить !",
+    "building_type": "Köhnə tikili",
+    "location_id": "8",
+    "location_name": "28 May",
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6507717",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 450000,
+        "date": "2026-10-01T11:58:25.214337+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6507281",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F13%2F00%2F46%2F9375f1c7-4722-4207-b925-2a58e7ab5895%2F96177_JqvT_6O4VXmZpSB_PbuvfA.jpg",
+    "price": 167000,
+    "location": "Yeni Günəşli q.",
+    "rooms": "3 otaqlı",
+    "area_m2": 80,
+    "floor": "4/9 mərtəbə",
+    "is_agency": true,
+    "lat": 40.38072866662211,
+    "lng": 49.98094784655761,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": 4,
+    "updated_at_site": "2026-10-06T19:52:04+04:00",
+    "is_featured": false,
+    "title": "Satılır 3 otaqlı köhnə tikili 80 m²",
+    "description": "Yeni Günəşlidə leninqrad lahiyəli binada qanuni 3 otaq mənzilimiz satışa çıxarılıb.Binanın yaxınlığında məktəb market başqa iaşə obyektləri mövcutdur.Mənzil qismən əşyalı satılır.Əlavə məlumat üçün əlaqə saxlaya bilərsiniz. \r\n\r\nXidmət haqqı 1 %",
+    "building_type": "Köhnə tikili",
+    "location_id": "92",
+    "location_name": "Yeni Günəşli",
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6507281",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 167000,
+        "date": "2026-10-01T11:58:25.221652+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6506982",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F12%2F04%2F46%2F3d14d29a-3fca-4411-bbb6-0dd21042e4b7%2F93330_omGeF2rjyPKfBqG-w1eMKA.jpg",
+    "price": 249000,
+    "location": "Azadlıq Prospekti m.",
+    "rooms": "3 otaqlı",
+    "area_m2": 80,
+    "floor": "7/17 mərtəbə",
+    "is_agency": true,
+    "lat": 40.41745292232532,
+    "lng": 49.84444852821429,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": 7,
+    "updated_at_site": "2026-10-06T21:05:43+04:00",
+    "is_featured": false,
+    "title": "Satılır 3 otaqlı yeni tikili 80 m²",
+    "description": "BİNƏQƏDİ RAYONU, 8-Cİ MİKRORAYON , AZADLIQ METROSTANSİYASI, AYNA SULTANOVA HEYKƏLİ YAXINLIGI, ŞÖVKƏT MƏMMƏDOVA KUÇƏSİ, 17 mərtəbəli yeni tikili binanın 7-ci mərtəbəsində yerləşən umumi sahəsi 80 kv.m olan qanuni 2 otaqlıdan 3 otaqlıya ideal duzəldilmiş STUDİO tipli  ƏLA təmirli mənzil satılır. Mənzilin təmirində yuksək keyfiyyətli materiallardan istifadə olunub. Pol TARKETDİR. Təmirdən sonra mənzildə çox az yaşayış olub. Mənzil İPOTEKAYA yararlıdır. Bina infrastruktur cəhətdən çox əlverişli ərazidə yerləşir. Beləki, binanın ətrafında məktəb, bağça, parklar, klinikalar, idman zalları, marketlər və digər iaşə obyektləri movcuddur. Binada işıq, qaz , su daimidir. İstilik sistemi kombidir. Bina AZADLİQ metrosuna 3-4 DƏQİQƏLİK, məsafədə yerləşir. Sənəd KUPÇADIR. Qiymət 249 000 AZN. Ofis haqqı 1%-dir.",
+    "building_type": "Yeni tikili",
+    "location_id": "6",
+    "location_name": "Azadlıq Prospekti",
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6506982",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 249000,
+        "date": "2026-10-01T11:58:25.226872+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6507764",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F14%2F40%2F15%2F8df8d001-62ea-4498-9d01-4f93a76e3b5a%2F16152_PfpRvntQBR-uMcbIoqUI8A.jpg",
+    "price": 242500,
+    "location": "Azadlıq Prospekti m.",
+    "rooms": "3 otaqlı",
+    "area_m2": 82,
+    "floor": "9/17 mərtəbə",
+    "is_agency": true,
+    "lat": 40.41739054604187,
+    "lng": 49.84428327864422,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": 9,
+    "updated_at_site": "2026-10-06T21:06:29+04:00",
+    "is_featured": false,
+    "title": "Satılır 3 otaqlı yeni tikili 82 m²",
+    "description": "  DİQQƏT!!!  3 OTAQ STUDİO!!!  BİNƏQƏDİ RAYONU, 8-Cİ MİKRORAYON , AZADLIQ METROSTANSİYASI, AYNA SULTANOVA HEYKƏLİ YAXINLIGI, ŞÖVKƏT MƏMMƏDOVA KUÇƏSİ, 17 mərtəbəli yeni tikili binanın 9-cu mərtəbəsində yerləşən umumi sahəsi 82 kv.m olan qanuni 2 otaqlıdan 3 otaqlıya ideal duzəldilmiş STUDİO tipli  ƏLA təmirli mənzil satılır. Mənzilin təmirində yuksək keyfiyyətli materiallardan istifadə olunub. Pol TARKETDİR. Təmirdən sonra mənzildə çox az yaşayış olub. Mənzil İPOTEKAYA yararlıdır. Bina infrastruktur cəhətdən çox əlverişli ərazidə yerləşir. Beləki, binanın ətrafında məktəb, bağça, parklar, klinikalar, idman zalları, marketlər və digər iaşə obyektləri movcuddur. Binada işıq, qaz , su daimidir. İstilik sistemi kombidir. Bina AZADLİQ metrosuna 3-4 DƏQİQƏLİK, məsafədə yerləşir. Sənəd KUPÇADIR. Qiymət 242 500 AZN. Ofis haqqı 1%-dir.",
+    "building_type": "Yeni tikili",
+    "location_id": "6",
+    "location_name": "Azadlıq Prospekti",
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6507764",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 242500,
+        "date": "2026-10-01T11:58:25.213745+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6507581",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F14%2F07%2F25%2F52887e5f-bc2b-442d-bb33-a71b1b21d4f5%2F16164_l4J9aCgIQqnwMyCNe5lOfw.jpg",
+    "price": 235000,
+    "location": "Nəsimi r.",
+    "rooms": "2 otaqlı",
+    "area_m2": 70,
+    "floor": "12/16 mərtəbə",
+    "is_agency": true,
+    "lat": 40.40049795310254,
+    "lng": 49.83489085088328,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": 12,
+    "updated_at_site": "2026-10-06T21:08:35+04:00",
+    "is_featured": true,
+    "title": "Satılır 2 otaqlı yeni tikili 68 m²",
+    "description": "📌 S A T I L I R ✨\r\n✔Yeni tikili binada təmirsiz podmayak  QANUNİ 2 OTAQLI mənzil satılır.\r\n✔Mənzilin sahəsi 68 kv/m2.\r\n✔Mənzil 17 mərtəbəli binanın 12-ci\r\nmərtəbəsində yerləşir.\r\n✔Sənədi ÇIXARIŞ ( KUPÇA).\r\n✔Mənzilə baxmaq istiyən əlaqə saxlasın.\r\n\r\n📍Ünvan:Nərimanov rayonu,Tibb Universitetin və 258 nömrəli məktəbin yaxınlığı.\r\n",
+    "building_type": "Yeni tikili",
+    "location_id": "190",
+    "location_name": "Nəsimi",
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6507581",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 235000,
+        "date": "2026-10-01T11:58:25.216826+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6507849",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F15%2F01%2F30%2F8b7a5d0f-b5f8-42be-9cae-9c8a6477d53a%2F60658_Qi29HYcy9DKVHBXcYNZMbw.jpg",
+    "price": 157000,
+    "location": "İnşaatçılar m.",
+    "rooms": "2 otaqlı",
+    "area_m2": 65,
+    "floor": "5/9 mərtəbə",
+    "is_agency": false,
+    "lat": 40.39171203975122,
+    "lng": 49.79880516052251,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": 5,
+    "updated_at_site": "2026-10-06T21:10:08+04:00",
+    "is_featured": false,
+    "title": "Satılır 2 otaqlı köhnə tikili 65 m²",
+    "description": "Yasamal rayonu,   yeni yasamal kupçalı ipotekaya yararlı    9mərtəbəli binanın  5ci mərtəbəsində qanuni  2otag   orta ve yelçeken menzil  satılır.\r\nMənzil işıqlı və səliqəlidir. Bina çox əlverişli ərazidə yerləşir. Yaxınlığında   məktəb, market və digər bütün lazımi iaşə obyektləri mövcuddur.\r\nSənədləri qaydasındadır, Xidmet haqqı 1% alicidan",
+    "building_type": "Köhnə tikili",
+    "location_id": "7",
+    "location_name": "İnşaatçılar",
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6507849",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 158000,
+        "date": "2026-10-01T11:58:25.212019+00:00"
+      },
+      {
+        "price": 157000,
+        "date": "2026-10-03T19:32:50.898198+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6507516",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F13%2F53%2F54%2F10763004-1de3-4537-85dc-f05d7321abe3%2F92804_BdNerFKF1zRWjXbPCd6_WQ.jpg",
+    "price": 96000,
+    "location": "Hövsan q.",
+    "rooms": "1 otaqlı",
+    "area_m2": 44,
+    "floor": "9/9 mərtəbə",
+    "is_agency": false,
+    "lat": 40.38565197809808,
+    "lng": 50.07199782596094,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": 9,
+    "updated_at_site": "2026-10-06T21:25:15+04:00",
+    "is_featured": false,
+    "title": "Satılır 1 otaqlı yeni tikili 44 m²",
+    "description": "Hövsan Mida 2 də 1 Otaq Studio Mənzilimiz Satışa Çıxdı Qaz Su İşığ Daimidir İsitmə Sistemi Kombidir Real Alıcıya Endirim Olunacaq Ofis Haqqı:1000 Manat",
+    "building_type": "Yeni tikili",
+    "location_id": "93",
+    "location_name": "Hövsan",
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6507516",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 97000,
+        "date": "2026-10-01T11:58:25.217810+00:00"
+      },
+      {
+        "price": 96000,
+        "date": "2026-10-04T17:32:35.006066+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6507308",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F21%2F34%2F00%2F31a49bf9-5fa5-4209-b039-db2250ed2bec%2F37101_bi02dmvhoOMv1EeR4mDkGg.jpg",
+    "price": 135000,
+    "location": "İnşaatçılar m.",
+    "rooms": "2 otaqlı",
+    "area_m2": 45,
+    "floor": "8/9 mərtəbə",
+    "is_agency": false,
+    "lat": 40.39076535670466,
+    "lng": 49.79482198016368,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": 8,
+    "updated_at_site": "2026-10-06T21:35:03+04:00",
+    "is_featured": false,
+    "title": "Satılır 2 otaqlı köhnə tikili 45 m²",
+    "description": "Yeni yasamalda 2 otaga duzelme menzil satisdadir kubca var ipatekaya yararlidir insacilar metrosuna avtobusnan 10 deqiqalig çesafede yerlserir , hazir kirekesi vardir , ofis haqqi vardir ,1% , teskil edir",
+    "building_type": "Köhnə tikili",
+    "location_id": "7",
+    "location_name": "İnşaatçılar",
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6507308",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 135000,
+        "date": "2026-10-01T11:58:25.221126+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6085584",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F04%2F29%2F14%2F24%2F45%2Fbb23f37b-37bf-4ec7-9277-cf1af89774b0%2F27409_YP1SXRK0I047sbtNKhWDRA.jpg",
+    "price": 278000,
+    "location": "Binəqədi r.",
+    "rooms": "3 otaqlı",
+    "area_m2": 95,
+    "floor": "5/15 mərtəbə",
+    "is_agency": false,
+    "lat": 40.41601000392018,
+    "lng": 49.84163753677139,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": 5,
+    "updated_at_site": "2026-10-06T21:35:30+04:00",
+    "is_featured": false,
+    "title": "Satılır 3 otaqlı yeni tikili 95 m²",
+    "description": "IPATEKAYA YARARLI.\nTECILI SATILIR. \nAyna Sultanov heykelin yaxinliqi \nMedera kilinkasinin yani \nEcemi Naxcivani kücesi.\nYeni Tikili 15/5 ci mertebesi 2.3 duzelme \n1. ci Isiqla 3 otaqdan ferqlemir \nYer Alti qaraji boyuk heyeti \nMasin parkin.\nEtrafli Tel Ofis haqqi 1%",
+    "building_type": "Yeni tikili",
+    "location_id": "58",
+    "location_name": "Binəqədi",
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6085584",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 278000,
+        "date": "2026-10-01T11:58:25.240835+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6507561",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F14%2F02%2F16%2Fb33ceb7e-7b0a-4a12-b478-61a09b24c964%2F16161_ATUtSTIet7T94XSDjc85dw.jpg",
+    "price": 249000,
+    "location": "Qara Qarayev m.",
+    "rooms": "3 otaqlı",
+    "area_m2": 95,
+    "floor": "5/9 mərtəbə",
+    "is_agency": false,
+    "lat": 40.41719691670907,
+    "lng": 49.93547594599681,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": 5,
+    "updated_at_site": "2026-10-06T21:58:37+04:00",
+    "is_featured": false,
+    "title": "Satılır 3 otaqlı köhnə tikili 95 m²",
+    "description": "Qara qarayev metrosunun tam yaninda.9 mertebeli eksperimental dash binanin 5 ci mertebesinde(kunc deyil) 3 otaq 95 kv (cixarishda 72) evimi satiram.ev mene mexsusdur vasitechi deyilem.otaqlardan birinde tavanda chatlar olduguna gore tavani qawiyib tokmuwem ancaq hele temir olunmayib.ve evde kombi YOXDUR.ev ideal yerde yerlewir.yaxinliqda mektebler,bagcalar,supermarketler,sevinc mall,eylence merkezleri restoranlar ve s. Yerlewir.cox xahiw edirem ancaq real wexsler zeng etsinler",
+    "building_type": "Köhnə tikili",
+    "location_id": "52",
+    "location_name": "Qara Qarayev",
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6507561",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 249000,
+        "date": "2026-10-01T11:58:25.217289+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5560419",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F10%2F04%2F13%2F20%2F41%2F39eb0682-f978-4c6a-845e-08d6f2b835c9%2F37302_ksBAd98Yipnr_0BzNr1yHg.jpg",
+    "price": 315000,
+    "location": "Elmlər Akademiyası m.",
+    "rooms": "2 otaqlı",
+    "area_m2": 86,
+    "floor": "11/17 mərtəbə",
+    "is_agency": true,
+    "lat": 40.38186267884245,
+    "lng": 49.81141143660297,
+    "has_repair": false,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": 11,
+    "updated_at_site": "2026-10-06T22:04:14+04:00",
+    "is_featured": true,
+    "title": "Satılır 2 otaqlı yeni tikili 86 m²",
+    "description": "RENESSANS PALACE PREMİUM HƏYATIN TƏCƏSSÜM etdiyi yaşayış kompleksində 2 otaq podmayak mənzil satılır. Binanın 2 hektarlıq yaşıllıq, gəzinti, istirahət zonası var. Binanın altında 3 mərtəbəli yeraltı avtodayanacaq yerləşir. İnfrastruktur olaraq çox əlverişli məkandadır. Mənzilin 2 balkonu var. Kompleks 24 saat xüsusi mühafizə olunur. Liftlər KONE VƏ MİTSUBİSHİ firmalarına məxsusdur. İPOTEKAYA YARARLIDIR",
+    "building_type": "Yeni tikili",
+    "location_id": "34",
+    "location_name": "Elmlər Akademiyası",
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5560419",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 390000,
+        "date": "2026-10-01T11:58:25.236594+00:00"
+      },
+      {
+        "price": 315000,
+        "date": "2026-10-06T13:13:12.779711+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6507301",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F13%2F04%2F56%2F0cdf94c5-45e7-4d01-9fbb-8cc0f4da50fa%2F75546_LZi2xklRhiOZ0pIgbu02dw.jpg",
+    "price": 188000,
+    "location": "Neftçilər m.",
+    "rooms": "2 otaqlı",
+    "area_m2": 54,
+    "floor": "12/14 mərtəbə",
+    "is_agency": true,
+    "lat": 40.4101571373812,
+    "lng": 49.9430963249756,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 12,
+    "updated_at_site": "2026-10-06T23:06:18+04:00",
+    "is_featured": false,
+    "title": "Satılır 2 otaqlı yeni tikili 54 m²",
+    "description": "🏡 MƏNZİL SATILIR — NEFTÇİLƏR\r\n📍 Neftçilər metrosuna cəmi 2 dəqiqəlik məsafədə\r\n🏢 14 mərtəbəli premium binanın 12-ci mərtəbəsi\r\n📐 54 m² sahə\r\n🛏️ 1 otaqdan 2 otağa düzəldilmiş\r\n✨ İdeal təmirli\r\n🛋️ Tam əşyalı şəkildə satılır\r\n📄 Sənədi: müqavilə\r\n🏷️ Çıxarışın yaxın zamanda veriləcəyi bildirilir\r\n⚡ Qaz, su və işıq daimidir\r\n📞 Əlavə məlumat və mənzilə baxış üçün əlaqə saxlayın.\r\n💼 *Şirkət haqqı: 1%*",
+    "building_type": "Yeni tikili",
+    "location_id": "53",
+    "location_name": "Neftçilər",
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6507301",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 189000,
+        "date": "2026-10-01T11:58:25.221154+00:00"
+      },
+      {
+        "price": 188000,
+        "date": "2026-10-04T17:05:05.473754+00:00"
+      }
+    ]
+  },
+  {
     "id": "6507801",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F14%2F49%2F54%2F31c2aa50-da6a-490a-89f8-9f9ff7e2fe7e%2F75517_4MoyAC8qRZV7LIwEP5czrw.jpg",
     "price": 160000,
@@ -35342,6 +35284,39 @@
     ]
   },
   {
+    "id": "6507855",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F15%2F03%2F59%2F4c8cd5c3-9f32-46fc-877b-9c9c07ef7a45%2F38214_Po2Oqa5rX_SWBxmQuARxAA.jpg",
+    "price": 227000,
+    "location": "Gənclik m.",
+    "rooms": "3 otaqlı",
+    "area_m2": 65,
+    "floor": "6/9 mərtəbə",
+    "is_agency": true,
+    "lat": 40.40742431865305,
+    "lng": 49.84594654300758,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": 6,
+    "updated_at_site": "2026-10-01T15:10:26+04:00",
+    "is_featured": false,
+    "title": "Satılır 3 otaqlı köhnə tikili 65 m²",
+    "description": "Gənclik metrosunun yaxınlıgında,Medilüks Qospitalının yanında   9 mərtəbəli binanın 6-cı mərtəbəsində  2 otaqdan  3 otaga düzılmə əla təmirli mənzil satılır.Mənzil  əşyalarla birlikdə satılır.Binanın fasiləsiz işləyən lifti var.Sənəd Kupca Cıxarış.\r\nİpotekaya yararlı.",
+    "building_type": "Köhnə tikili",
+    "location_id": "2",
+    "location_name": "Gənclik",
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6507855",
+    "deleted_at": "2026-10-06T19:39:13.857292+00:00",
+    "price_history": [
+      {
+        "price": 227000,
+        "date": "2026-10-01T11:58:25.211852+00:00"
+      }
+    ]
+  },
+  {
     "id": "6507947",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F15%2F24%2F12%2Fb3ed9335-c47a-4337-9311-cb9044dbfda1%2F92922_VuwRc9FMPYshUazROYn3DQ.jpg",
     "price": 156500,
@@ -35816,6 +35791,43 @@
       {
         "price": 168000,
         "date": "2026-10-04T17:05:05.471173+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6507509",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F13%2F50%2F35%2Fcf32a726-57c3-4399-9d52-6dd5a13831f4%2F2506_5zHu0WJ4hb7sjyMFRdz4ow.jpg",
+    "price": 265000,
+    "location": "İnşaatçılar m.",
+    "rooms": "3 otaqlı",
+    "area_m2": 123,
+    "floor": "3/15 mərtəbə",
+    "is_agency": false,
+    "lat": 40.38831271761853,
+    "lng": 49.80163580021319,
+    "has_repair": false,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": 3,
+    "updated_at_site": "2026-10-06T11:21:58+04:00",
+    "is_featured": false,
+    "title": "Satılır 3 otaqlı yeni tikili 123 m²",
+    "description": "Metro insacilarda 3 otag temirsiz menzil satisdadir duz metronun ustunde , temirsizdir ipatekaya yararlidir , ofis haqqi vardir ,1% ,teskil edir",
+    "building_type": "Yeni tikili",
+    "location_id": "7",
+    "location_name": "İnşaatçılar",
+    "category": "apartment",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6507509",
+    "deleted_at": "2026-10-06T19:39:13.857369+00:00",
+    "price_history": [
+      {
+        "price": 279000,
+        "date": "2026-10-01T11:58:25.217995+00:00"
+      },
+      {
+        "price": 265000,
+        "date": "2026-10-04T17:05:05.502890+00:00"
       }
     ]
   }

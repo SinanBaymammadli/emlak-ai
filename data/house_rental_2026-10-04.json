@@ -986,40 +986,6 @@
     ]
   },
   {
-    "id": "6515878",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F15%2F55%2F48%2F0cff8cc6-d077-49fe-a4ac-ca69b03f7eec%2F90117_9ayyKbE5brx_Ojy2Dz_6mw.jpg",
-    "price": 600,
-    "location": "Əhmədli q.",
-    "rooms": "4 otaqlı",
-    "area_m2": 100,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.37645536305926,
-    "lng": 49.92045368849567,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-04T15:56:27+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 4 otaqlı həyət evi/bağ evi 100 m²",
-    "description": "Rabocidə indiki 8 noyabır küçəsi Günəş marketə arxası 2 mərtəbəli evdi həyəti yoxdu bir başa mənzilə daxil olursan 1ci mərtəbədə kuxna studio və sanitar qovuşaq 2ci mərtəbədə isə 3 otaq və acıq balkonun var ev gir yaşa şəraitindədi şəkildə gördüyünüz bütün əşyalar evə aidi hər iki mərtəbədə kondisioner var kombi sistemi var ev telefonu wifi var evə yaxın məktəbə baxca var evin yol qıragı maşurut dayanacağına yaxın ərazidə yerləşir ev oglanlar və xanımlara qiymət fərqli olacaq ",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "100",
-    "location_name": "Əhmədli",
-    "land_area_sot": 1.5,
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6515878",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 600,
-        "date": "2026-10-04T16:35:53.645066+00:00"
-      }
-    ]
-  },
-  {
     "id": "6516010",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F16%2F37%2F35%2F23fc0f47-68eb-4fd0-847b-22a88d479e38%2F75522_GpNBmAzaqfWezzoNDcQYAw.jpg",
     "price": 400,
@@ -1598,6 +1564,40 @@
       {
         "price": 500,
         "date": "2026-10-04T16:35:53.645317+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6515878",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F15%2F55%2F48%2F0cff8cc6-d077-49fe-a4ac-ca69b03f7eec%2F90117_9ayyKbE5brx_Ojy2Dz_6mw.jpg",
+    "price": 600,
+    "location": "Əhmədli q.",
+    "rooms": "4 otaqlı",
+    "area_m2": 100,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.37645536305926,
+    "lng": 49.92045368849567,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-04T15:56:27+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 4 otaqlı həyət evi/bağ evi 100 m²",
+    "description": "Rabocidə indiki 8 noyabır küçəsi Günəş marketə arxası 2 mərtəbəli evdi həyəti yoxdu bir başa mənzilə daxil olursan 1ci mərtəbədə kuxna studio və sanitar qovuşaq 2ci mərtəbədə isə 3 otaq və acıq balkonun var ev gir yaşa şəraitindədi şəkildə gördüyünüz bütün əşyalar evə aidi hər iki mərtəbədə kondisioner var kombi sistemi var ev telefonu wifi var evə yaxın məktəbə baxca var evin yol qıragı maşurut dayanacağına yaxın ərazidə yerləşir ev oglanlar və xanımlara qiymət fərqli olacaq ",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "100",
+    "location_name": "Əhmədli",
+    "land_area_sot": 1.5,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6515878",
+    "deleted_at": "2026-10-06T19:32:17.118836+00:00",
+    "price_history": [
+      {
+        "price": 600,
+        "date": "2026-10-04T16:35:53.645066+00:00"
       }
     ]
   }

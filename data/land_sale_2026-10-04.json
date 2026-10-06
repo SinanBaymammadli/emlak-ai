@@ -792,39 +792,6 @@
     ]
   },
   {
-    "id": "6515567",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F14%2F08%2F41%2F07401f5d-56e3-40a1-92d0-7be95e337dbd%2F16157_Y-c4gWONbHtCMbRp0Jb5ng.jpg",
-    "price": 96000,
-    "location": "Nardaran q.",
-    "land_area_sot": 12.0,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.57416944021398,
-    "lng": 49.9882302010498,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-04T14:09:11+04:00",
-    "is_featured": false,
-    "title": "Satılır torpaq 12 sot",
-    "description": "Nardaranda Ləhic bağlarında Sea Breez’lə üzbəüz dənizin əks tərəfində Şəhid bulağı adlanan ərazidə 21ci dalanın sonunda hündür yerdə 12 sot (2 hissəyədə bölünür) torpaq sahəsi satılır. Ev tikilərsə birbaşa 2ci mərtəbədən dəniz görünür. Hər bir kommunal xətti var. Sənəd Çıxarış (Kupça). Qiymət torpaq bölünərsə sotu 8500azn ümumi satılarsa 8000azn. \r\nQeyd. Dənizin əks tərəfi 16cı dalandanda birbaşa torpaq sahəsinə gəlmək olur",
-    "building_type": "Torpaq",
-    "location_id": "119",
-    "location_name": "Nardaran",
-    "area_m2": 12,
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6515567",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 96000,
-        "date": "2026-10-04T17:01:08.402622+00:00"
-      }
-    ]
-  },
-  {
     "id": "6515699",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F14%2F49%2F16%2Fc4d1c649-5249-4b33-8e77-110968c9183c%2F75506_VouyHq2y9fd09bfn32HtPw.jpg",
     "price": 295000,
@@ -1760,105 +1727,6 @@
     ]
   },
   {
-    "id": "6193818",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F08%2F12%2F45%2F26%2Fce76a463-4298-482e-a779-292807607725%2F31055_APNzc0D-CzRZ8dKHZ1AhFw.jpg",
-    "price": 140000,
-    "location": "Nardaran q.",
-    "land_area_sot": 22.0,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.55726748087937,
-    "lng": 49.98446414787201,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": null,
-    "updated_at_site": "2026-10-05T17:57:25+04:00",
-    "is_featured": false,
-    "title": "Satılır torpaq 22 sot",
-    "description": "200000 MANAT DEYİL❌ 140000 MANAT✅\nƏLİMYANDI VARİANT✅✅ KUPÇALI✅✅\nNardaran,Ləhic bağlarlnda,Şəhid bulağı adlanan ərazidə,SeaBreeze  maşınla 5-6 dəqiqəlik məsafədə,əsas yoldan 250 metr içəridə 22 sot kupçalı torpaq sahəsi təcili olaraq satılır.Torpaq sahəsi çox əlverişli yerdə yerləşir.Ətraf hamısı yaşayışlı bağ evləridir.Kommunnal xəttlər mövcuddur.Kupçada 20 faktiki 22 sotdur.Həyətdə müxtəlif cür ağaclar,dekorativ və təbii güllər var.İçərisində 1 ədəd 2 otaqlı köhnə tikilidə mövcuddur.İnvestisiya üçündə əla fürsətdir.Allah alanada satanada  bizədə xeyir versin.Bu ərazidə sotu 9-10 min manatdan aşağı kupçalı torpaq yoxdur.İnvestorlar üçün super fürsətdir.Ofis haqqı 1%.Qiymet yalniz 10 oktyabra qeder kecerlidir✅",
-    "building_type": "Torpaq",
-    "location_id": "119",
-    "location_name": "Nardaran",
-    "area_m2": 22,
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6193818",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 140000,
-        "date": "2026-10-04T17:01:08.402754+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6516396",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F19%2F04%2F29%2F31c96eb3-d298-45ca-9589-1a9477875856%2F75505_56sKmkFcpoSk24c09-0eLQ.jpg",
-    "price": 225000,
-    "location": "Xəzər r.",
-    "land_area_sot": 9.0,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.51380737086379,
-    "lng": 50.12704172637521,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": null,
-    "updated_at_site": "2026-10-05T19:19:33+04:00",
-    "is_featured": true,
-    "title": "Satılır torpaq 9 sot",
-    "description": "Buzovna qəs., Xəzər r-on, Aydın Xələfov küç.\r\ndənizə piyada-15 qəq., maqistral yoluna piyada-5 dəq.\r\n9 sot torpaq, meyvə ağacları, quyu suyu, qaz ,elektrik\r\n(içərisində 4 otaqlı, köhnə tikili, yşayışa yararlı,kupçalı ev hədiyyə)\r\n1sotu-25000 man",
-    "building_type": "Torpaq",
-    "location_id": "15",
-    "location_name": "Xəzər",
-    "area_m2": 9,
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6516396",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 225000,
-        "date": "2026-10-04T17:01:08.400258+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6516503",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F20%2F11%2F00%2F5223797d-e48d-4e7b-96e5-50d528a3e8b0%2F75462__Ux6i_TMjI4Uc93MC82iRw.jpg",
-    "price": 120000,
-    "location": "Buzovna q.",
-    "land_area_sot": 5.5,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.5156142,
-    "lng": 50.10132739999995,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-05T20:13:47+04:00",
-    "is_featured": false,
-    "title": "Satılır torpaq 5.5 sot",
-    "description": "Torpaq çox gözəl ərazidə yerləşir buzovnada mərkəzi yola yaxın qədim qəbələ restoranına yaxın ərazidədir quyusuda var tikinti üçün tam yararlıdır kupçası var qiymətdə endirim olacaq real alıcıya.",
-    "building_type": "Torpaq",
-    "location_id": "117",
-    "location_name": "Buzovna",
-    "area_m2": 5.5,
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6516503",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 120000,
-        "date": "2026-10-04T17:01:08.399715+00:00"
-      }
-    ]
-  },
-  {
     "id": "6516471",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F19%2F51%2F19%2F7b4c40c7-475a-465a-910a-ea36409ca443%2F36766_nX7zB9di-LgnvYxdHNkq0g.jpg",
     "price": 117000,
@@ -1921,43 +1789,6 @@
       {
         "price": 29000,
         "date": "2026-10-04T17:01:08.402055+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6516560",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F20%2F54%2F48%2F13abf942-28c6-4f1f-8bb5-d6fd5178b39b%2F75504_gRcaY6XSaNd_fOMSZRUMqw.jpg",
-    "price": 138000,
-    "location": "Mərdəkan q.",
-    "land_area_sot": 6.0,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.47019097731155,
-    "lng": 50.10022598022473,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": null,
-    "updated_at_site": "2026-10-06T12:13:30+04:00",
-    "is_featured": true,
-    "title": "Satılır torpaq 6 sot",
-    "description": "AzPetrol Rahat Gourmet Market Gloria Jean's  Village yaxınlığında 6 sot hasarda özəl çıxarışlı  Ərazini bilən bilirki 1 sotun qiyməti 35.000+ təşkil edir\r\n\r\nQiymət 6 sot üçün -135.000",
-    "building_type": "Torpaq",
-    "location_id": "109",
-    "location_name": "Mərdəkan",
-    "area_m2": 6,
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6516560",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 135000,
-        "date": "2026-10-04T17:01:08.399500+00:00"
-      },
-      {
-        "price": 138000,
-        "date": "2026-10-06T12:57:49.764268+00:00"
       }
     ]
   },
@@ -2164,6 +1995,179 @@
       {
         "price": 30000,
         "date": "2026-10-04T17:01:08.401217+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6193818",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F08%2F12%2F45%2F26%2Fce76a463-4298-482e-a779-292807607725%2F31055_APNzc0D-CzRZ8dKHZ1AhFw.jpg",
+    "price": 140000,
+    "location": "Nardaran q.",
+    "land_area_sot": 22.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.55726748087937,
+    "lng": 49.98446414787201,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T18:36:56+04:00",
+    "is_featured": false,
+    "title": "Satılır torpaq 22 sot",
+    "description": "200000 MANAT DEYİL❌ 140000 MANAT✅\nƏLİMYANDI VARİANT✅✅ KUPÇALI✅✅\nNardaran,Ləhic bağlarlnda,Şəhid bulağı adlanan ərazidə,SeaBreeze  maşınla 5-6 dəqiqəlik məsafədə,əsas yoldan 250 metr içəridə 22 sot kupçalı torpaq sahəsi təcili olaraq satılır.Torpaq sahəsi çox əlverişli yerdə yerləşir.Ətraf hamısı yaşayışlı bağ evləridir.Kommunnal xəttlər mövcuddur.Kupçada 20 faktiki 22 sotdur.Həyətdə müxtəlif cür ağaclar,dekorativ və təbii güllər var.İçərisində 1 ədəd 2 otaqlı köhnə tikilidə mövcuddur.İnvestisiya üçündə əla fürsətdir.Allah alanada satanada  bizədə xeyir versin.Bu ərazidə sotu 9-10 min manatdan aşağı kupçalı torpaq yoxdur.İnvestorlar üçün super fürsətdir.Ofis haqqı 1%.Qiymet yalniz 10 oktyabra qeder kecerlidir✅",
+    "building_type": "Torpaq",
+    "location_id": "119",
+    "location_name": "Nardaran",
+    "area_m2": 22,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6193818",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 140000,
+        "date": "2026-10-04T17:01:08.402754+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6516396",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F19%2F04%2F29%2F31c96eb3-d298-45ca-9589-1a9477875856%2F75505_56sKmkFcpoSk24c09-0eLQ.jpg",
+    "price": 225000,
+    "location": "Xəzər r.",
+    "land_area_sot": 9.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.51380737086379,
+    "lng": 50.12704172637521,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T19:19:33+04:00",
+    "is_featured": true,
+    "title": "Satılır torpaq 9 sot",
+    "description": "Buzovna qəs., Xəzər r-on, Aydın Xələfov küç.\r\ndənizə piyada-15 qəq., maqistral yoluna piyada-5 dəq.\r\n9 sot torpaq, meyvə ağacları, quyu suyu, qaz ,elektrik\r\n(içərisində 4 otaqlı, köhnə tikili, yşayışa yararlı,kupçalı ev hədiyyə)\r\n1sotu-25000 man",
+    "building_type": "Torpaq",
+    "location_id": "15",
+    "location_name": "Xəzər",
+    "area_m2": 9,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6516396",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 225000,
+        "date": "2026-10-04T17:01:08.400258+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6516560",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F20%2F54%2F48%2F13abf942-28c6-4f1f-8bb5-d6fd5178b39b%2F75504_gRcaY6XSaNd_fOMSZRUMqw.jpg",
+    "price": 138000,
+    "location": "Mərdəkan q.",
+    "land_area_sot": 6.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.47019097731155,
+    "lng": 50.10022598022473,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T19:28:50+04:00",
+    "is_featured": true,
+    "title": "Satılır torpaq 6 sot",
+    "description": "AzPetrol Rahat Gourmet Market Gloria Jean's  Village yaxınlığında 6 sot hasarda özəl çıxarışlı  Ərazini bilən bilirki 1 sotun qiyməti 35.000+ təşkil edir\r\n\r\nQiymət 6 sot üçün -135.000",
+    "building_type": "Torpaq",
+    "location_id": "109",
+    "location_name": "Mərdəkan",
+    "area_m2": 6,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6516560",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 135000,
+        "date": "2026-10-04T17:01:08.399500+00:00"
+      },
+      {
+        "price": 138000,
+        "date": "2026-10-06T12:57:49.764268+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6516503",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F20%2F11%2F00%2F5223797d-e48d-4e7b-96e5-50d528a3e8b0%2F75462__Ux6i_TMjI4Uc93MC82iRw.jpg",
+    "price": 120000,
+    "location": "Buzovna q.",
+    "land_area_sot": 5.5,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.5156142,
+    "lng": 50.10132739999995,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T20:13:46+04:00",
+    "is_featured": false,
+    "title": "Satılır torpaq 5.5 sot",
+    "description": "Torpaq çox gözəl ərazidə yerləşir buzovnada mərkəzi yola yaxın qədim qəbələ restoranına yaxın ərazidədir quyusuda var tikinti üçün tam yararlıdır kupçası var qiymətdə endirim olacaq real alıcıya.",
+    "building_type": "Torpaq",
+    "location_id": "117",
+    "location_name": "Buzovna",
+    "area_m2": 5.5,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6516503",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 120000,
+        "date": "2026-10-04T17:01:08.399715+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6515567",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F14%2F08%2F41%2F07401f5d-56e3-40a1-92d0-7be95e337dbd%2F16157_Y-c4gWONbHtCMbRp0Jb5ng.jpg",
+    "price": 51000,
+    "location": "Nardaran q.",
+    "land_area_sot": 12.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.57416944021398,
+    "lng": 49.9882302010498,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T23:21:02+04:00",
+    "is_featured": false,
+    "title": "Satılır torpaq 12 sot",
+    "description": "Nardaranda Ləhic bağlarında Sea Breez’lə üzbəüz dənizin əks tərəfində Şəhid bulağı adlanan ərazidə 21ci dalanın sonunda hündür yerdə 12 sot (2 hissəyədə bölünür) torpaq sahəsi satılır. Ev tikilərsə birbaşa 2ci mərtəbədən dəniz görünür. Hər bir kommunal xətti var. Sənəd Çıxarış (Kupça). Qiymət torpaq bölünərsə sotu 8500azn ümumi satılarsa 8000azn. \r\nQeyd. Dənizin əks tərəfi 16cı dalandanda birbaşa torpaq sahəsinə gəlmək olur",
+    "building_type": "Torpaq",
+    "location_id": "119",
+    "location_name": "Nardaran",
+    "area_m2": 6,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6515567",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 96000,
+        "date": "2026-10-04T17:01:08.402622+00:00"
+      },
+      {
+        "price": 51000,
+        "date": "2026-10-06T19:31:42.841703+00:00"
       }
     ]
   },

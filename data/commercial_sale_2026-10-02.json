@@ -2112,38 +2112,6 @@
     ]
   },
   {
-    "id": "6511684",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F18%2F03%2F44%2F3ef835ea-0240-44d5-991d-dfdca417180b%2F5057_AqrUhXkwJwyNBB9Uvb9_jA.jpg",
-    "price": 850000,
-    "location": "İçəri Şəhər m.",
-    "area_m2": 88,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.36622087439163,
-    "lng": 49.8309289603866,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-02T18:08:16+04:00",
-    "is_featured": false,
-    "title": "Satılır obyekt 88 m²",
-    "description": "​🔥 İÇƏRİŞƏHƏR M/ST İLƏ ÜZBƏÜZ – İNVESTİSİYA VƏ BİZNES ÜÇÜN XÜSUSİ TƏKLİF! 🔥\r\n​Şəhərin en prestijli və mərkəzi küçələrindən birində – Səbail rayonu, Şeyx Şamil küçəsində geniş imkanlara malik obyekt satılır!\r\n​📌 Əsas Özəlliklər:\r\n​Ünvan: Bakı şəhəri, Səbail rayonu, Şeyx Şamil küçəsi 15  \r\n​Sahə: 88 m² əsas sahə + 20 m² anbar \r\n​Sənəd: Çıxarış (Kupça) – Xüsusi mülkiyyət  \r\n​Hazır İcarəçi (Hazır Biznes): Rəsmi müqavilə ilə 3500 AZN aylıq icarədədir! Yüksək və stabil gəlir gətirən ideal investisiya variantıdır.\r\n​Yerləşmə: İnsan axınının və nəqliyyatın sıx olduğu prestijli ərazidə yerləşir.",
-    "building_type": "Obyekt",
-    "location_id": "37",
-    "location_name": "İçəri Şəhər",
-    "category": "commercial",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6511684",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 850000,
-        "date": "2026-10-02T14:35:49.041485+00:00"
-      }
-    ]
-  },
-  {
     "id": "6511904",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F18%2F56%2F33%2Fb1df5745-ef0c-4f23-80ea-3b8f00f83d39%2F1173_Ns7kPKZWRbPDK13o1AH2SA.jpg",
     "price": 2500000,
@@ -2628,70 +2596,6 @@
     ]
   },
   {
-    "id": "6511510",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F17%2F25%2F33%2F9907f76b-2f73-4a76-b98e-f3a1b4aed070%2F75493_uFbWS8VIw7NIXbKAc3rqbg.jpg",
-    "price": 175000,
-    "location": "Gənclik m.",
-    "area_m2": 18,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.4011716613788,
-    "lng": 49.85353007778548,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-05T17:32:51+04:00",
-    "is_featured": false,
-    "title": "Satılır obyekt 18 m²",
-    "description": "📍 ÇOX TƏCİLİ!\r\nGənclik metrosunun çıxışında, Caspian Ticarət Mərkəzində, kupçalı mağaza satıllr.\r\n✔ Qiymət: 175 000 AZN\r\n✔ Aylıq icarə: 800 AZN\r\n✔ Sahə: 18 kv.m\r\n✔ Ətraflı məlumat üçün zəng edin və ya WhatsApp vasitəsilə əlaqə saxlayın.\r\n✔  Əlavə kommersiya obyektləri də mövcuddur",
-    "building_type": "Obyekt",
-    "location_id": "2",
-    "location_name": "Gənclik",
-    "category": "commercial",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6511510",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 175000,
-        "date": "2026-10-02T14:35:49.041651+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6509664",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F11%2F02%2F24%2Fdf93dffc-d6cd-4889-a66f-cb727a77cec5%2F16178_yQqFKc4UYh_mjTreK82HfQ.jpg",
-    "price": 1300000,
-    "location": "Memar Əcəmi m.",
-    "area_m2": 715,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.42060693126986,
-    "lng": 49.81265590478655,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-05T21:12:52+04:00",
-    "is_featured": false,
-    "title": "Satılır obyekt 715 m²",
-    "description": "🏢 9-cu mikrorayon, Mir Cəlal küçəsi — 715 m² KOMMERSİYA OBYEKTİ SATILIR\r\n\r\n📍 Əlverişli lokasiya | Hazır kommersiya obyekti | Kupça | Geniş parkinq\r\n\r\n9-cu mikrorayonda, Mir Cəlal küçəsində, kommersiya fəaliyyəti üçün tam hazır, geniş və funksional obyekt satışa təqdim olunur.\r\n\r\n📐Ümumi sahə: 715 m²\r\n🌳Torpaq sahəsi: 6 sot\r\n🏗 Mərtəbəlilik: 2 mərtəbə + mansard\r\n\r\n📑 Sənədlər\r\n\r\n✅ Torpaq sahəsinə kupça mövcuddur\r\n✅ Tikiliyə kupça mövcuddur**\r\n✅ Tikilinin təyinatı — qeyri-yaşayış\r\n\r\n🔹 Obyektin əsas üstünlükləri:\r\n\r\n•12 kabinet / otaq\r\n• 3 geniş anbar sahəsi\r\n• Qaraj\r\n• Mansard sahəsi — əlavə olaraq 4 otağa bölmək mümkündür\r\n• 25-dən çox avtomobil üçün parkinq**\r\n• 2 ayrıca giriş\r\n• Yük avtomobillərinin rahat giriş-çıxışı\r\n• Havalandırma sistemi\r\n• Hər otaqda kondisioner\r\n• Kombi istilik sistemi\r\n• Daimi su və qaz təminatı\r\n• Əla təmirli və istifadəyə tam hazır vəziyyətdə\r\n\r\n💼 İstifadə imkanları\r\n\r\nObyekt anbar və logistika mərkəzi, distribusiya şirkəti, əczaçılıq şirkəti, qida məhsullarının saxlanması və paylanması, ofis, showroom və digər kommersiya fəaliyyətləri üçün əlverişlidir.\r\n\r\nBöyük parkinq sahəsi, iki ayrıca giriş və yük avtomobillərinin rahat giriş-çıxışı obyektə logistika və distribusiya fəaliyyəti baxımından əlavə üstünlük qazandırır.\r\n\r\n📍 Ünvan: Mir Cəlal küçəsi, 9-cu mikrorayon\r\n📑 Sənədlər: Torpaq və tikili üzrə kupça, tikilinin təyinatı qeyri-yaşayış\r\n💰 Satış qiyməti: Ətraflı məlumat üçün əlaqə saxlayın.\r\n\r\n📞 Ətraflı məlumat və obyektə baxış üçün əlaqə saxlaya bilərsiniz.\r\n",
-    "building_type": "Obyekt",
-    "location_id": "59",
-    "location_name": "Memar Əcəmi",
-    "category": "commercial",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6509664",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1300000,
-        "date": "2026-10-02T14:35:49.044273+00:00"
-      }
-    ]
-  },
-  {
     "id": "6509347",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F00%2F00%2F40%2Fc368c20f-c0a7-4ea1-bfaf-f30c63179ca5%2F48133_mr1II0SfDUVssoz_b9mYeg.jpg",
     "price": 950000,
@@ -2720,38 +2624,6 @@
       {
         "price": 950000,
         "date": "2026-10-02T14:35:49.044897+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6508789",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F18%2F36%2F20%2Ff48ac930-4e4e-4c80-ab7c-7d58bfd5e3b8%2F16156_NjKImWtmSJEJKmc2LDsEmg.jpg",
-    "price": 112750,
-    "location": "Masazır q.",
-    "area_m2": 55,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.49446791819001,
-    "lng": 49.75095126756582,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": null,
-    "updated_at_site": "2026-10-06T04:52:30+04:00",
-    "is_featured": false,
-    "title": "Satılır obyekt 55 m²",
-    "description": "Masazırda Qurtluş 93də KUPÇAlı İPOTEKAya  yararlı hazır arenada olan obyekt satılır. Ətrafda çox saylı yaşayış bunlara ve obyektlər mövcuddur. Obyekt hər tip biznes üçün yaralıdır Arendası 500 AZN obyekt ozümə məxsusdur.",
-    "building_type": "Obyekt",
-    "location_id": "198",
-    "location_name": "Masazır",
-    "category": "commercial",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6508789",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 112750,
-        "date": "2026-10-02T14:51:14.989903+00:00"
       }
     ]
   },
@@ -3016,6 +2888,138 @@
       {
         "price": 550000,
         "date": "2026-10-02T14:35:49.042134+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6511510",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F17%2F25%2F33%2F9907f76b-2f73-4a76-b98e-f3a1b4aed070%2F75493_uFbWS8VIw7NIXbKAc3rqbg.jpg",
+    "price": 175000,
+    "location": "Gənclik m.",
+    "area_m2": 18,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.4011716613788,
+    "lng": 49.85353007778548,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T17:32:51+04:00",
+    "is_featured": false,
+    "title": "Satılır obyekt 18 m²",
+    "description": "📍 ÇOX TƏCİLİ!\r\nGənclik metrosunun çıxışında, Caspian Ticarət Mərkəzində, kupçalı mağaza satıllr.\r\n✔ Qiymət: 175 000 AZN\r\n✔ Aylıq icarə: 800 AZN\r\n✔ Sahə: 18 kv.m\r\n✔ Ətraflı məlumat üçün zəng edin və ya WhatsApp vasitəsilə əlaqə saxlayın.\r\n✔  Əlavə kommersiya obyektləri də mövcuddur",
+    "building_type": "Obyekt",
+    "location_id": "2",
+    "location_name": "Gənclik",
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6511510",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 175000,
+        "date": "2026-10-02T14:35:49.041651+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6511684",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F18%2F03%2F44%2F3ef835ea-0240-44d5-991d-dfdca417180b%2F5057_AqrUhXkwJwyNBB9Uvb9_jA.jpg",
+    "price": 850000,
+    "location": "İçəri Şəhər m.",
+    "area_m2": 88,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.36622087439163,
+    "lng": 49.8309289603866,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T19:00:34+04:00",
+    "is_featured": false,
+    "title": "Satılır obyekt 88 m²",
+    "description": "​🔥 İÇƏRİŞƏHƏR M/ST İLƏ ÜZBƏÜZ – İNVESTİSİYA VƏ BİZNES ÜÇÜN XÜSUSİ TƏKLİF! 🔥\r\n​Şəhərin en prestijli və mərkəzi küçələrindən birində – Səbail rayonu, Şeyx Şamil küçəsində geniş imkanlara malik obyekt satılır!\r\n​📌 Əsas Özəlliklər:\r\n​Ünvan: Bakı şəhəri, Səbail rayonu, Şeyx Şamil küçəsi 15  \r\n​Sahə: 88 m² əsas sahə + 20 m² anbar \r\n​Sənəd: Çıxarış (Kupça) – Xüsusi mülkiyyət  \r\n​Hazır İcarəçi (Hazır Biznes): Rəsmi müqavilə ilə 3500 AZN aylıq icarədədir! Yüksək və stabil gəlir gətirən ideal investisiya variantıdır.\r\n​Yerləşmə: İnsan axınının və nəqliyyatın sıx olduğu prestijli ərazidə yerləşir.",
+    "building_type": "Obyekt",
+    "location_id": "37",
+    "location_name": "İçəri Şəhər",
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6511684",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 850000,
+        "date": "2026-10-02T14:35:49.041485+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6509664",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F11%2F02%2F24%2Fdf93dffc-d6cd-4889-a66f-cb727a77cec5%2F16178_yQqFKc4UYh_mjTreK82HfQ.jpg",
+    "price": 1300000,
+    "location": "Memar Əcəmi m.",
+    "area_m2": 715,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.42060693126986,
+    "lng": 49.81265590478655,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T21:12:55+04:00",
+    "is_featured": false,
+    "title": "Satılır obyekt 715 m²",
+    "description": "🏢 9-cu mikrorayon, Mir Cəlal küçəsi — 715 m² KOMMERSİYA OBYEKTİ SATILIR\r\n\r\n📍 Əlverişli lokasiya | Hazır kommersiya obyekti | Kupça | Geniş parkinq\r\n\r\n9-cu mikrorayonda, Mir Cəlal küçəsində, kommersiya fəaliyyəti üçün tam hazır, geniş və funksional obyekt satışa təqdim olunur.\r\n\r\n📐Ümumi sahə: 715 m²\r\n🌳Torpaq sahəsi: 6 sot\r\n🏗 Mərtəbəlilik: 2 mərtəbə + mansard\r\n\r\n📑 Sənədlər\r\n\r\n✅ Torpaq sahəsinə kupça mövcuddur\r\n✅ Tikiliyə kupça mövcuddur**\r\n✅ Tikilinin təyinatı — qeyri-yaşayış\r\n\r\n🔹 Obyektin əsas üstünlükləri:\r\n\r\n•12 kabinet / otaq\r\n• 3 geniş anbar sahəsi\r\n• Qaraj\r\n• Mansard sahəsi — əlavə olaraq 4 otağa bölmək mümkündür\r\n• 25-dən çox avtomobil üçün parkinq**\r\n• 2 ayrıca giriş\r\n• Yük avtomobillərinin rahat giriş-çıxışı\r\n• Havalandırma sistemi\r\n• Hər otaqda kondisioner\r\n• Kombi istilik sistemi\r\n• Daimi su və qaz təminatı\r\n• Əla təmirli və istifadəyə tam hazır vəziyyətdə\r\n\r\n💼 İstifadə imkanları\r\n\r\nObyekt anbar və logistika mərkəzi, distribusiya şirkəti, əczaçılıq şirkəti, qida məhsullarının saxlanması və paylanması, ofis, showroom və digər kommersiya fəaliyyətləri üçün əlverişlidir.\r\n\r\nBöyük parkinq sahəsi, iki ayrıca giriş və yük avtomobillərinin rahat giriş-çıxışı obyektə logistika və distribusiya fəaliyyəti baxımından əlavə üstünlük qazandırır.\r\n\r\n📍 Ünvan: Mir Cəlal küçəsi, 9-cu mikrorayon\r\n📑 Sənədlər: Torpaq və tikili üzrə kupça, tikilinin təyinatı qeyri-yaşayış\r\n💰 Satış qiyməti: Ətraflı məlumat üçün əlaqə saxlayın.\r\n\r\n📞 Ətraflı məlumat və obyektə baxış üçün əlaqə saxlaya bilərsiniz.\r\n",
+    "building_type": "Obyekt",
+    "location_id": "59",
+    "location_name": "Memar Əcəmi",
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6509664",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1300000,
+        "date": "2026-10-02T14:35:49.044273+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6508789",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F18%2F36%2F20%2Ff48ac930-4e4e-4c80-ab7c-7d58bfd5e3b8%2F16156_NjKImWtmSJEJKmc2LDsEmg.jpg",
+    "price": 105000,
+    "location": "Masazır q.",
+    "area_m2": 55,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.49446791819001,
+    "lng": 49.75095126756582,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T22:51:42+04:00",
+    "is_featured": false,
+    "title": "Satılır obyekt 55 m²",
+    "description": "Masazırda Qurtluş 93də KUPÇAlı İPOTEKAya  yararlı hazır arenada olan obyekt satılır. Ətrafda çox saylı yaşayış bunlara ve obyektlər mövcuddur. Obyekt hər tip biznes üçün yaralıdır Arendası 500 AZN obyekt ozümə məxsusdur.",
+    "building_type": "Obyekt",
+    "location_id": "198",
+    "location_name": "Masazır",
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6508789",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 112750,
+        "date": "2026-10-02T14:51:14.989903+00:00"
+      },
+      {
+        "price": 105000,
+        "date": "2026-10-06T19:31:35.125441+00:00"
       }
     ]
   },

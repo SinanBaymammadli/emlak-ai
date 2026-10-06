@@ -1,38 +1,5 @@
 [
   {
-    "id": "6274454",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F08%2F12%2F36%2F32%2F0dacd1b4-56b4-47a1-bc62-aaaf05aa2eef%2F89611_E127GtoPZx3v8hhv_0BkhA.jpg",
-    "price": 17500,
-    "location": "Nəriman Nərimanov m.",
-    "rooms": "",
-    "area_m2": 21.3,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.40626781367889,
-    "lng": 49.87559471798138,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-06T20:00:38+04:00",
-    "is_featured": false,
-    "title": "Satılır qaraj 21.3 m²",
-    "description": "Təcili 7 ədəd Çıxarışli qaraj satılır.\r\nNərimanov rayonu, Ə. Əliyev küçəsi 26 ünvanında yerləşən Azenco binalarının zirzəmisində yerləşir.\r\n\r\n- 7 ədədin qiyməti 110000 azn.\r\n- 1 ədədin qiyməti   17500 azn.",
-    "building_type": "Qaraj",
-    "location_id": "1",
-    "location_name": "Nəriman Nərimanov",
-    "category": "garage",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6274454",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 17500,
-        "date": "2026-09-30T19:56:44.487099+00:00"
-      }
-    ]
-  },
-  {
     "id": "6184757",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F04%2F14%2F43%2F24%2F0a1807b5-e7e3-4c82-aa45-907d3457d7ca%2F34591_8ziHj0SHGMRN38nnsZYsQA.jpg",
     "price": 2900000,
@@ -2894,7 +2861,7 @@
     "rooms": "",
     "area_m2": 24,
     "floor": null,
-    "is_agency": true,
+    "is_agency": false,
     "lat": 40.37466229575929,
     "lng": 49.81014129366107,
     "has_repair": null,
@@ -3052,76 +3019,6 @@
     ]
   },
   {
-    "id": "6492377",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F25%2F20%2F08%2F13%2Fff474c5a-ad90-4562-ad73-98db9d9e7cb5%2F71643_Dh9q3RrJ7oVW0aDqRALR9A.jpg",
-    "price": 18000,
-    "location": "20 Yanvar m.",
-    "rooms": "",
-    "area_m2": 18,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.40347154068571,
-    "lng": 49.80162679334406,
-    "has_repair": null,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-05T17:17:59+04:00",
-    "is_featured": false,
-    "title": "Satılır qaraj 18 m²",
-    "description": "Təcili Satılır. Yasamalda, Şərifzadə küçəsində yerləşən Avant Park yaşayış Kompleksində 12 ədəd qaraj təcili olaraq satılır. Ümumi sahəsi 18 kv hər biri. Qiymətdə Mərtəbəsinə görə razılaşmaq olar. Qiymət: 18000 azn.",
-    "building_type": "Qaraj",
-    "location_id": "5",
-    "location_name": "20 Yanvar",
-    "category": "garage",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6492377",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 23000,
-        "date": "2026-09-30T19:56:44.486545+00:00"
-      },
-      {
-        "price": 18000,
-        "date": "2026-10-03T19:31:56.986781+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6457741",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F13%2F17%2F42%2F49%2F9e5b2c3c-8053-4567-9291-c21ca6ed82f7%2F63806_DIRamA7pPAg37K3Lbr7g1w.jpg",
-    "price": 40000,
-    "location": "Ağ şəhər q.",
-    "rooms": "",
-    "area_m2": 25,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.38252094655981,
-    "lng": 49.89488212348122,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-05T17:56:10+04:00",
-    "is_featured": true,
-    "title": "Satılır qaraj 25 m²",
-    "description": "Sea Tower Premium Residence, Ağ şəhər\r\n\r\nSahəsi 25 m² qaraj satılır. \r\n\r\nQaraj dəyərindən aşağı qiymətə verilir.\r\n\r\nSənədləri tam qaydasındadır.",
-    "building_type": "Qaraj",
-    "location_id": "314",
-    "location_name": "Ağ şəhər",
-    "category": "garage",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6457741",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 40000,
-        "date": "2026-09-30T19:56:44.486202+00:00"
-      }
-    ]
-  },
-  {
     "id": "6406694",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F25%2F23%2F30%2F25%2F56bf5061-461f-4bba-b3ae-61a8c61997c5%2F68083_1-zhY6WtnVs4pUEsNRG6ww.jpg",
     "price": 30000,
@@ -3233,96 +3130,6 @@
     ]
   },
   {
-    "id": "6474526",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F19%2F15%2F23%2F44%2Ffc6dc87c-058e-42be-b09c-83387dc1f30c%2F75319_4CwxvksiY-yxP0lqhIaq-Q.jpg",
-    "price": 36001,
-    "location": "28 May m.",
-    "rooms": "",
-    "area_m2": 20,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.37904256272446,
-    "lng": 49.84161660042789,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-06T11:57:23+04:00",
-    "is_featured": false,
-    "title": "Satılır qaraj 20 m²",
-    "description": "OBYEKT / OFİS KİMİ İSTİFADƏYƏ YARARLI QARAJ SATILIR!\r\n\r\n📍 Bülbül prospekti 41–43\r\n📐 20 m²\r\n📄 Texniki pasport\r\n⚡ Elektrik sayğacı və xətti var\r\n💼 Hazırda icarədədir – icarəçi ilə birlikdə satıla bilər\r\n💰 36 000 AZN\r\n\r\nNotarial qaydada alqı-satqı.\r\n\r\nXidmət haqqı: 1000 AZN",
-    "building_type": "Qaraj",
-    "location_id": "8",
-    "location_name": "28 May",
-    "category": "garage",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6474526",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 36000,
-        "date": "2026-09-30T19:56:44.486325+00:00"
-      },
-      {
-        "price": 36001,
-        "date": "2026-10-01T12:04:38.616782+00:00"
-      },
-      {
-        "price": 36000,
-        "date": "2026-10-04T16:35:34.393839+00:00"
-      },
-      {
-        "price": 36001,
-        "date": "2026-10-06T12:57:40.694809+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6282181",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F04%2F18%2F27%2F30%2F9ce7f54b-2776-4c0b-a849-d7ce2b563172%2F23616_FR6QD5eGS-Yqs716RJycBg.jpg",
-    "price": 22001,
-    "location": "Azadlıq Prospekti m.",
-    "rooms": "",
-    "area_m2": 16.7,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.42536158886271,
-    "lng": 49.84273119880121,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-06T12:00:52+04:00",
-    "is_featured": false,
-    "title": "Satılır qaraj 16.7 m²",
-    "description": "Qarajın sənədi texpasport, alqı-satqı notarial qaydada olacaq. Qarajın işığı çəkilib, sayğacı var. Qarajda hazırda icarəçi var və alıcının istəyinə uyğun olaraq icarəçi ilə birlikdə satıla bilər.\nXidmət haqqı 1000 manat təşkil edəcək.",
-    "building_type": "Qaraj",
-    "location_id": "6",
-    "location_name": "Azadlıq Prospekti",
-    "category": "garage",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6282181",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 22000,
-        "date": "2026-09-30T19:56:44.486710+00:00"
-      },
-      {
-        "price": 22001,
-        "date": "2026-10-02T14:35:37.394641+00:00"
-      },
-      {
-        "price": 22000,
-        "date": "2026-10-04T16:35:34.393878+00:00"
-      },
-      {
-        "price": 22001,
-        "date": "2026-10-06T12:57:40.884248+00:00"
-      }
-    ]
-  },
-  {
     "id": "6480874",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F09%2F52%2F45%2F536a3442-34c3-4d37-a33e-36ff9093692d%2F90006_4q8HiSWyu5QrlKQztmf6zQ.jpg",
     "price": 78000,
@@ -3352,6 +3159,174 @@
       {
         "price": 78000,
         "date": "2026-09-30T19:56:44.486666+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6492377",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F25%2F20%2F08%2F13%2Fff474c5a-ad90-4562-ad73-98db9d9e7cb5%2F71643_Dh9q3RrJ7oVW0aDqRALR9A.jpg",
+    "price": 18000,
+    "location": "20 Yanvar m.",
+    "rooms": "",
+    "area_m2": 18,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.40347154068571,
+    "lng": 49.80162679334406,
+    "has_repair": null,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T17:17:59+04:00",
+    "is_featured": false,
+    "title": "Satılır qaraj 18 m²",
+    "description": "Təcili Satılır. Yasamalda, Şərifzadə küçəsində yerləşən Avant Park yaşayış Kompleksində 12 ədəd qaraj təcili olaraq satılır. Ümumi sahəsi 18 kv hər biri. Qiymətdə Mərtəbəsinə görə razılaşmaq olar. Qiymət: 18000 azn.",
+    "building_type": "Qaraj",
+    "location_id": "5",
+    "location_name": "20 Yanvar",
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6492377",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 23000,
+        "date": "2026-09-30T19:56:44.486545+00:00"
+      },
+      {
+        "price": 18000,
+        "date": "2026-10-03T19:31:56.986781+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6457741",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F13%2F17%2F42%2F49%2F9e5b2c3c-8053-4567-9291-c21ca6ed82f7%2F63806_DIRamA7pPAg37K3Lbr7g1w.jpg",
+    "price": 40000,
+    "location": "Ağ şəhər q.",
+    "rooms": "",
+    "area_m2": 25,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38252094655981,
+    "lng": 49.89488212348122,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T17:56:10+04:00",
+    "is_featured": true,
+    "title": "Satılır qaraj 25 m²",
+    "description": "Sea Tower Premium Residence, Ağ şəhər\r\n\r\nSahəsi 25 m² qaraj satılır. \r\n\r\nQaraj dəyərindən aşağı qiymətə verilir.\r\n\r\nSənədləri tam qaydasındadır.",
+    "building_type": "Qaraj",
+    "location_id": "314",
+    "location_name": "Ağ şəhər",
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6457741",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 40000,
+        "date": "2026-09-30T19:56:44.486202+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6474526",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F19%2F15%2F23%2F44%2Ffc6dc87c-058e-42be-b09c-83387dc1f30c%2F75319_4CwxvksiY-yxP0lqhIaq-Q.jpg",
+    "price": 36000,
+    "location": "28 May m.",
+    "rooms": "",
+    "area_m2": 20,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.37904256272446,
+    "lng": 49.84161660042789,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T23:20:46+04:00",
+    "is_featured": false,
+    "title": "Satılır qaraj 20 m²",
+    "description": "OBYEKT / OFİS KİMİ İSTİFADƏYƏ YARARLI QARAJ SATILIR!\r\n\r\n📍 Bülbül prospekti 41–43\r\n📐 20 m²\r\n📄 Texniki pasport\r\n⚡ Elektrik sayğacı və xətti var\r\n💼 Hazırda icarədədir – icarəçi ilə birlikdə satıla bilər\r\n💰 36 000 AZN\r\n\r\nNotarial qaydada alqı-satqı.\r\n\r\nXidmət haqqı: 1000 AZN",
+    "building_type": "Qaraj",
+    "location_id": "8",
+    "location_name": "28 May",
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6474526",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 36000,
+        "date": "2026-09-30T19:56:44.486325+00:00"
+      },
+      {
+        "price": 36001,
+        "date": "2026-10-01T12:04:38.616782+00:00"
+      },
+      {
+        "price": 36000,
+        "date": "2026-10-04T16:35:34.393839+00:00"
+      },
+      {
+        "price": 36001,
+        "date": "2026-10-06T12:57:40.694809+00:00"
+      },
+      {
+        "price": 36000,
+        "date": "2026-10-06T19:31:52.021894+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6282181",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F11%2F00%2F39%2F24%2F3a33ac2a-db1a-4064-a305-b3fc95d2b2c0%2F29353__9wUYrY8PRCmeuakv30Qjw.jpg",
+    "price": 22000,
+    "location": "Azadlıq Prospekti m.",
+    "rooms": "",
+    "area_m2": 16.7,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.42536158886271,
+    "lng": 49.84273119880121,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T23:21:07+04:00",
+    "is_featured": false,
+    "title": "Satılır qaraj 16.7 m²",
+    "description": "Qarajın sənədi texpasport, alqı-satqı notarial qaydada olacaq. Qarajın işığı çəkilib, sayğacı var. Qarajda hazırda icarəçi var və alıcının istəyinə uyğun olaraq icarəçi ilə birlikdə satıla bilər.\nXidmət haqqı 1000 manat təşkil edəcək.",
+    "building_type": "Qaraj",
+    "location_id": "6",
+    "location_name": "Azadlıq Prospekti",
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6282181",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 22000,
+        "date": "2026-09-30T19:56:44.486710+00:00"
+      },
+      {
+        "price": 22001,
+        "date": "2026-10-02T14:35:37.394641+00:00"
+      },
+      {
+        "price": 22000,
+        "date": "2026-10-04T16:35:34.393878+00:00"
+      },
+      {
+        "price": 22001,
+        "date": "2026-10-06T12:57:40.884248+00:00"
+      },
+      {
+        "price": 22000,
+        "date": "2026-10-06T19:31:52.688932+00:00"
       }
     ]
   },
@@ -3814,6 +3789,39 @@
       {
         "price": 28000,
         "date": "2026-09-30T19:56:44.487108+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6274454",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F08%2F12%2F36%2F32%2F0dacd1b4-56b4-47a1-bc62-aaaf05aa2eef%2F89611_E127GtoPZx3v8hhv_0BkhA.jpg",
+    "price": 17500,
+    "location": "Nəriman Nərimanov m.",
+    "rooms": "",
+    "area_m2": 21.3,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.40626781367889,
+    "lng": 49.87559471798138,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-09-06T20:00:38+04:00",
+    "is_featured": false,
+    "title": "Satılır qaraj 21.3 m²",
+    "description": "Təcili 7 ədəd Çıxarışli qaraj satılır.\r\nNərimanov rayonu, Ə. Əliyev küçəsi 26 ünvanında yerləşən Azenco binalarının zirzəmisində yerləşir.\r\n\r\n- 7 ədədin qiyməti 110000 azn.\r\n- 1 ədədin qiyməti   17500 azn.",
+    "building_type": "Qaraj",
+    "location_id": "1",
+    "location_name": "Nəriman Nərimanov",
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6274454",
+    "deleted_at": "2026-10-06T19:31:53.031625+00:00",
+    "price_history": [
+      {
+        "price": 17500,
+        "date": "2026-09-30T19:56:44.487099+00:00"
       }
     ]
   },

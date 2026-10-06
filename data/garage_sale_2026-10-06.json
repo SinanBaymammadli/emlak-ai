@@ -134,5 +134,73 @@
         "date": "2026-10-06T12:57:40.500430+00:00"
       }
     ]
+  },
+  {
+    "id": "6521941",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F17%2F20%2F13%2F2da6e236-c423-47fc-ad32-fcdef5c4632f%2F56572_VwJ59zasqcm1j9YtBEPQMQ.jpg",
+    "price": 65000,
+    "location": "Nəriman Nərimanov m.",
+    "location_id": "1",
+    "location_name": "Nəriman Nərimanov",
+    "rooms": null,
+    "area_m2": 20,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "is_featured": false,
+    "updated_at_site": "2026-10-06T17:22:06+04:00",
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6521941",
+    "lat": 40.40106976792138,
+    "lng": 49.87511674316718,
+    "land_area_sot": null,
+    "building_type": "Qaraj",
+    "title": "Satılır qaraj 20 m²",
+    "description": "Qaraj Araz2011 MTK nın Fayiq Yisifov 15 ünvanda tikilmiş 16 yaşayış binasının zirzəmisində yerləşir, aənəd qeyri yaşayış çıxarəşdır, qaraj ümumi təmirli və qapalıdır. Əlavə suallar üçün zəng vura bilərsiniz",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 65000,
+        "date": "2026-10-06T19:31:51.824315+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6522525",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F20%2F21%2F07%2F3d14f31a-9a88-4292-a623-c24999911fcd%2F60569_ljqq6O58oIcGbOdgeE8k2w.jpg",
+    "price": 22000,
+    "location": "Nəsimi r.",
+    "location_id": "190",
+    "location_name": "Nəsimi",
+    "rooms": null,
+    "area_m2": 24,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": null,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-06T20:26:12+04:00",
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6522525",
+    "lat": 40.39232579999999,
+    "lng": 49.82880550000004,
+    "land_area_sot": null,
+    "building_type": "Qaraj",
+    "title": "Satılır qaraj 24 m²",
+    "description": "Qaraj ABŞ səfirliyinin yaxınlığındakı həyətlərdə, Xarici Dillər Universitetinin yaxınlığında yerləşir. Su xətti və sayğacı var.",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 22000,
+        "date": "2026-10-06T19:31:51.824261+00:00"
+      }
+    ]
   }
 ]

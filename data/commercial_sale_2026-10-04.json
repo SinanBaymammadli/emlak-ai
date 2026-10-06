@@ -768,38 +768,6 @@
     ]
   },
   {
-    "id": "6516565",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F20%2F50%2F11%2F4893b925-48fd-4733-98db-f1edb619d983%2F75542_ExCK3XuEOrFWdA20fmOhLw.jpg",
-    "price": 420000,
-    "location": "Nəsimi r.",
-    "area_m2": 130,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.38819680547565,
-    "lng": 49.84205231353409,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": null,
-    "updated_at_site": "2026-10-05T20:57:36+04:00",
-    "is_featured": true,
-    "title": "Satılır obyekt 130 m²",
-    "description": "Şəhərin mərkəzində dəyərindən ucuz qeyri yaşayış kupçalı obyekt təcili satılır. \r\n\r\nABŞ səfirliyinin yaxınlığı, 28 May metrostansiyasına yürüyüş məsafəsində 2 mərtəbəli, ümumi sahəsi 130 kvm (70+60) obyekt satılır. Sənəd qeyri yaşayış kupça. Bütün kommunallar, mərkəzi isitmə daimidir. Əla təmirlidir. Şəhərin çox əlverişli nöqtəsində yerləşir. Real alıcı ilə qiymətdə güzəşt olunacaq. Vasitəçilər və qeyri ciddi fikri olanlar narahat etməsin. ",
-    "building_type": "Obyekt",
-    "location_id": "190",
-    "location_name": "Nəsimi",
-    "category": "commercial",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6516565",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 420000,
-        "date": "2026-10-04T17:00:46.387086+00:00"
-      }
-    ]
-  },
-  {
     "id": "6515606",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F14%2F21%2F47%2Fdd68f131-ac09-4562-b1e0-09cfd1e1d9d8%2F75529_XotWsSyISunC0KhMeZIaYA.jpg",
     "price": 280000,
@@ -828,6 +796,38 @@
       {
         "price": 280000,
         "date": "2026-10-04T16:35:51.240682+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6516565",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F20%2F50%2F11%2F4893b925-48fd-4733-98db-f1edb619d983%2F75542_ExCK3XuEOrFWdA20fmOhLw.jpg",
+    "price": 420000,
+    "location": "Nəsimi r.",
+    "area_m2": 130,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38819680547565,
+    "lng": 49.84205231353409,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T20:57:40+04:00",
+    "is_featured": true,
+    "title": "Satılır obyekt 130 m²",
+    "description": "Şəhərin mərkəzində dəyərindən ucuz qeyri yaşayış kupçalı obyekt təcili satılır. \r\n\r\nABŞ səfirliyinin yaxınlığı, 28 May metrostansiyasına yürüyüş məsafəsində 2 mərtəbəli, ümumi sahəsi 130 kvm (70+60) obyekt satılır. Sənəd qeyri yaşayış kupça. Bütün kommunallar, mərkəzi isitmə daimidir. Əla təmirlidir. Şəhərin çox əlverişli nöqtəsində yerləşir. Real alıcı ilə qiymətdə güzəşt olunacaq. Vasitəçilər və qeyri ciddi fikri olanlar narahat etməsin. ",
+    "building_type": "Obyekt",
+    "location_id": "190",
+    "location_name": "Nəsimi",
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6516565",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 420000,
+        "date": "2026-10-04T17:00:46.387086+00:00"
       }
     ]
   },

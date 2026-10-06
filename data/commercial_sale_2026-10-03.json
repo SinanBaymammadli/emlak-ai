@@ -1504,38 +1504,6 @@
     ]
   },
   {
-    "id": "6514265",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F18%2F17%2F43%2Fcb862ac3-a09f-4513-8d43-c20de413edf0%2F75546_oLHTUs3MngGIhKPp19QJgA.jpg",
-    "price": 142000,
-    "location": "İnşaatçılar m.",
-    "area_m2": 35,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.38374202991996,
-    "lng": 49.80882753090157,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": null,
-    "updated_at_site": "2026-10-06T09:56:05+04:00",
-    "is_featured": true,
-    "title": "Satılır obyekt 35 m²",
-    "description": "600 MANATA UZUNMÜDDƏTLİ İCARƏDƏ✅\r\nŞəhərin mərkəzində,Yasamalda,Premium Almaz Park yaşayış kompleksinin tam yanında,yeni tikili binanın altında yerləşən ümumi sahəsi 35 kv.m olan qeyri-yaşayış kupçalı moyka (avtoyuma) təcili olaraq satılır.Avtoyuma əsas yoldan cəmi 15 metr içəridə,obyektlər olan sırada yerləşir.5 ildir eyni icarəçi tərəfindən aylıq 600 manata icarədədir.Geniş müştəri bazası və ən əsası böyük parkinqi mövcuddur.Ətraf hamısı işlək obyektlər,hündür mərtəbəli yaşayış binalarıdır.Bu qiymətə şəhərdə kupçalı moyka yoxdur❌.Təcili satılmaq şərtilə 142000 manat son qiymət.Allah alanada,satanada,bizədə xeyir versin İNŞALLAH.Ofis haqqı 1%. ",
-    "building_type": "Obyekt",
-    "location_id": "7",
-    "location_name": "İnşaatçılar",
-    "category": "commercial",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6514265",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 142000,
-        "date": "2026-10-03T19:32:14.012269+00:00"
-      }
-    ]
-  },
-  {
     "id": "6512554",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F10%2F49%2F10%2F4b45210a-52c6-4dcd-b205-6839957c1138%2F36766_LC5D-hafKrNY8OisWWr-0Q.jpg",
     "price": 200000,
@@ -1700,6 +1668,38 @@
     ]
   },
   {
+    "id": "6514265",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F18%2F17%2F43%2Fcb862ac3-a09f-4513-8d43-c20de413edf0%2F75546_oLHTUs3MngGIhKPp19QJgA.jpg",
+    "price": 142000,
+    "location": "İnşaatçılar m.",
+    "area_m2": 35,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.38374202991996,
+    "lng": 49.80882753090157,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T18:40:29+04:00",
+    "is_featured": true,
+    "title": "Satılır obyekt 35 m²",
+    "description": "600 MANATA UZUNMÜDDƏTLİ İCARƏDƏ✅\r\nŞəhərin mərkəzində,Yasamalda,Premium Almaz Park yaşayış kompleksinin tam yanında,yeni tikili binanın altında yerləşən ümumi sahəsi 35 kv.m olan qeyri-yaşayış kupçalı moyka (avtoyuma) təcili olaraq satılır.Avtoyuma əsas yoldan cəmi 15 metr içəridə,obyektlər olan sırada yerləşir.5 ildir eyni icarəçi tərəfindən aylıq 600 manata icarədədir.Geniş müştəri bazası və ən əsası böyük parkinqi mövcuddur.Ətraf hamısı işlək obyektlər,hündür mərtəbəli yaşayış binalarıdır.Bu qiymətə şəhərdə kupçalı moyka yoxdur❌.Təcili satılmaq şərtilə 142000 manat son qiymət.Allah alanada,satanada,bizədə xeyir versin İNŞALLAH.Ofis haqqı 1%. ",
+    "building_type": "Obyekt",
+    "location_id": "7",
+    "location_name": "İnşaatçılar",
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6514265",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 142000,
+        "date": "2026-10-03T19:32:14.012269+00:00"
+      }
+    ]
+  },
+  {
     "id": "6208982",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F15%2F48%2F43%2Fee525b52-c320-4bc9-b0d0-110d46273f1d%2F75503_Oyxgr0EaouUvcW918Va1Dw.jpg",
     "price": 2769000,
@@ -1713,7 +1713,7 @@
     "has_bill_of_sale": true,
     "has_mortgage": true,
     "floor_number": null,
-    "updated_at_site": "2026-10-06T16:11:18+04:00",
+    "updated_at_site": "2026-10-06T20:18:40+04:00",
     "is_featured": true,
     "title": "Satılır obyekt 213 m²",
     "description": "15 illik icarədə - AYLIQ 10 000 AZN GƏLİR \n\nAğ Şəhər Notarius Ofisi - Satılır\n\n(3 ildən bir qiymət artımı)\n\nÜmumi sahə: 213 kv.m (1-ci mərtəbə 120 kv.m, 2-ci mərtəbə 93 kv.m)\n3 Vitrin + 2 Qapı + Anbar\n\nULTRA LUX TƏMİRLİ, QEYRİ - YAŞAYIŞ OBYEKTİ\n\nLokasiya:\nAvropa Liseyinin qarşısı\nYaxınlıqda Qarabağ Atları kompleksi, Ağ Şəhər COP Biznes Mərkəzi, DTX binası, City Park Mall, 2 hektarlıq Ağ Şəhər Palıd Parkı və 2028-ci ildə istifadəyə veriləcək Ağ Şəhər Metrosu (Yaşıl xətt) – 1-2 dəqiqə məsafədə\n\n\n",

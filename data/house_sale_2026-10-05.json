@@ -5984,74 +5984,6 @@
     ]
   },
   {
-    "id": "5691637",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F11%2F26%2F09%2F36%2F46%2Fc623e9f5-ea00-4d3e-b07d-a1379d4c66d8%2F89114_oaubc3t5hlI8TvQ-r6ioTA.jpg",
-    "price": 350000,
-    "location": "Görədil q.",
-    "location_id": "194",
-    "location_name": "Görədil",
-    "rooms": "4 otaqlı",
-    "area_m2": 182,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-05T17:31:42+04:00",
-    "category": "house",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/5691637",
-    "lat": 40.56406785700712,
-    "lng": 49.82639696520083,
-    "land_area_sot": 7,
-    "building_type": "Həyət evi/Bağ evi",
-    "title": "Satılır 4 otaqlı həyət evi/bağ evi 182 m²",
-    "description": "Bağ evi, Modern stildə, yüksək keyfiyyəli materiallar ilə tikilmişdir. Döşəmə, tavan, kolonlar betondur.\r\nHəyətdə dekorativ ağaclar, qazon, baseyn, kamera sistemi, avtomatik jalüz darvaza, geniş küçə, dənizə çox yaxın.\r\nEvdə Zal studio mətbəx, 3 ədəd yataq otağı, qarderob otağı, 2 sanitar qovşağı, açıq terras, yay mətbəxi, mətbəx mebeli, kombi sistemi, isti döşəmə, keyfiyyətli materiallar istifadə edilib.\r\nEv şəxsi istifadə üçün tikilib.",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 350000,
-        "date": "2026-10-05T19:37:40.509069+00:00"
-      }
-    ]
-  },
-  {
-    "id": "5602657",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F10%2F21%2F09%2F58%2F26%2F4430e25e-6902-43fc-ac9a-64fed3f80aa7%2F37302_ksBAd98Yipnr_0BzNr1yHg.jpg",
-    "price": 550000,
-    "location": "Şüvəlan q.",
-    "location_id": "110",
-    "location_name": "Şüvəlan",
-    "rooms": "5 otaqlı",
-    "area_m2": 270,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-05T17:33:28+04:00",
-    "category": "house",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/5602657",
-    "lat": 40.497,
-    "lng": 50.208,
-    "land_area_sot": 9,
-    "building_type": "Həyət evi/Bağ evi",
-    "title": "Satılır 5 otaqlı həyət evi/bağ evi 270 m²",
-    "description": "Şüvəlan Mayakda - dənizə 600 metr məsafədə təmiri yeni tamamlanmış 2 mərtəbəli Bağ evi satılır.( 9 sotda 270 kv.m ) Bu ərazini bilənlər bilir mayakın ən elitni bağlar massivindən sayılır. Enli küçələri var və qonşular çox mədəni qonşulardır. Sənədi : Çıxarışdır. Evin də torpağın da çıxarışı var ( Kupça ). Təmirdən sonra yaşayış olmayıb, yeni təmirdir. Tikilişi də yüksək səviyyədə dözümlü tikilibdir.\r\nHovuzu ( 11 metr uzunu - 4 metr eni ), əlavə yay mətbəxi, çardağı, manqalı, su çəni, həyətində dekorativ və digər ağacları, kamera sistemi, interkomu, pult ilə darvazası, qazanxana otağı, kombi sistemi və daimi olan suyu işığı qazı mövcuddur. Ev tam olaraq isti döşəmə ilə təchiz olunubdur.\r\n1-ci mərtəbə : Zal, mətbəx, 2 sanitar qovşaq və veranda.\r\n2-ci mərtəbə : 5 otaq və 2 sanitar qovşaq. Bağın ümumilikdə 4 sanitar qovşağı var.\r\nSahibindən satılır, vasitəçilik deyil.",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 550000,
-        "date": "2026-10-05T19:37:40.509054+00:00"
-      }
-    ]
-  },
-  {
     "id": "6519066",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F17%2F29%2F50%2Fc313f966-26c2-4a8b-8e3a-da479f35ce43%2F72397_Z99W6huU6gv98_yewA1H_w.jpg",
     "price": 135000,
@@ -8194,40 +8126,6 @@
     ]
   },
   {
-    "id": "6519563",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F19%2F58%2F44%2Ff5502f70-94e8-419c-8b03-8b81ab56f05e%2F72749_rx816Z5MBemBk-7FvDKffQ.jpg",
-    "price": 89000,
-    "location": "Saray q.",
-    "location_id": "111",
-    "location_name": "Saray",
-    "rooms": "4 otaqlı",
-    "area_m2": 130,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-05T20:05:06+04:00",
-    "category": "house",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6519563",
-    "lat": 40.53189517038077,
-    "lng": 49.74631882529288,
-    "land_area_sot": 2.5,
-    "building_type": "Həyət evi/Bağ evi",
-    "title": "Satılır 4 otaqlı həyət evi/bağ evi 130 m²",
-    "description": "Salam tecili satilir!!!  Paket kupcadir 9 daş kursude 40x40 fundamentde inşa edilib genis 4 maşinliq heyeti var qaz işiq su sayqaclar qoyulub. Merkezi kanalzasiyaya var qowulub Qapinin qarşisi avtobus dayanaciqi yerlewir. Şehere ve sumqayita geden avtobuslar qapinin onunden kecir. Real aliciyla qiymet danişilacaq. Ev tam hazirdir",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 89000,
-        "date": "2026-10-05T19:37:38.762640+00:00"
-      }
-    ]
-  },
-  {
     "id": "6519570",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F20%2F01%2F01%2Fce6147e5-bbca-428e-bd73-e0233b6e69ed%2F91585_XKB_m-QkXs09v2klnBG1-A.jpg",
     "price": 415000,
@@ -8394,40 +8292,6 @@
       {
         "price": 70000,
         "date": "2026-10-05T19:37:38.584875+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6519484",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F19%2F10%2F47%2F99762acd-aaae-41c8-a653-7cb3b01683ea%2F91598_VFnmoahKRq4QASXpT2TFFg.jpg",
-    "price": 450000,
-    "location": "Hövsan q.",
-    "location_id": "93",
-    "location_name": "Hövsan",
-    "rooms": "5 otaqlı",
-    "area_m2": 200,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": true,
-    "updated_at_site": "2026-10-05T20:41:50+04:00",
-    "category": "house",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6519484",
-    "lat": 40.37188311792575,
-    "lng": 50.10550859292904,
-    "land_area_sot": 10,
-    "building_type": "Həyət evi/Bağ evi",
-    "title": "Satılır 5 otaqlı həyət evi/bağ evi 200 m²",
-    "description": "Diqqetle oxuyun zeng edin!!!\r\nKondisoner baglari,hovsan avtomobil bazari,hovsan ticarata catmamish yolun sagi!(Naneli restarana 300 metre qalmis)\r\n2018 ci ilde shexsi istifada ucun tikilib,\r\n10 sot torpaq +ev (her ikisi kupca)\r\n8*4 hovuz (ispan filterleri ile)\r\n4 yataq +boyuk zal studiya\r\n2 besedka + cox funksiyali Mangalni\r\n15 tonluk yeralti su ceni\r\nKamera sistemi\r\nAna yoldan 80 metr\r\nDenize 350m hec bir yol kecmirsen\r\nMelumat ucun bu arazida 1 sot torpaq duz 20000 azndir en azi!!!!!!(şişirdilmir)\r\nYeni bu hayati bu dekorativ agaclarla indi yiqmaq evden baha bawa geler yeni bu qiymata bu bagi yaratmaq mumkun deyil.\r\nMaklerlar ve qeyri ciddi adamlar zeng atmasin!!!!Barter yalniz Ag wahar va Xatainin yaxshi yeni tikililerinden olar.\r\nEv istaya uygun dolu ve bos satila biler\r\n\r\n\r\n",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 450000,
-        "date": "2026-10-05T19:37:38.584869+00:00"
       }
     ]
   },
@@ -8734,40 +8598,6 @@
       {
         "price": 44000,
         "date": "2026-10-05T19:37:38.191297+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6519678",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F20%2F59%2F35%2F82b6a4b8-ec13-44a7-83d3-6f90573698fe%2F91605_X7tK5wuLxeMGhdgHKq4CHA.jpg",
-    "price": 103000,
-    "location": "Dübəndi q.",
-    "location_id": "97",
-    "location_name": "Dübəndi",
-    "rooms": "6 otaqlı",
-    "area_m2": 155,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": true,
-    "has_repair": false,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-05T21:16:14+04:00",
-    "category": "house",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6519678",
-    "lat": 40.4178595600418,
-    "lng": 50.28159500571292,
-    "land_area_sot": 5,
-    "building_type": "Həyət evi/Bağ evi",
-    "title": "Satılır 6 otaqlı həyət evi/bağ evi 155 m²",
-    "description": "TƏCİLİ !!!!!  \r\n-= Dübəndi bağlar massivində, \"DÜBƏNDİ BALIQ EVİ\" restor6 otaqlı anının arxasında sol tərəfdə baş yoldan 150 metr dəniz istiqamətində gedib ikinci küçədən sola dönüb növbəti kəsişmədə 5 sot torpaq sahəsində tikilmiş 155 kvm (kupçada 147,4 kvm göstərilib) ümumi sahəsi olan 6 otaqlı təmirsiz ( podmayak) bağ evi satılır!!\r\n-= Bağ evinin tikintisi monalit-karkasla tikilb, bütün tikinti norma və qaydalara riayət olunub.\r\n-= Torpağın və tikilinin KUPÇASI var.\r\n-= Xəritədə dəqiq yeri göstərilib, şəkillər həmin əmlaka aiddir!!\r\n-= Xidmət Ödənişlidir !!",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 103000,
-        "date": "2026-10-05T19:37:38.191225+00:00"
       }
     ]
   },
@@ -9108,40 +8938,6 @@
       {
         "price": 275000,
         "date": "2026-10-05T19:37:37.471803+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6517938",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F23%2F17%2F15%2F3fb14257-0ca8-40e8-8a4a-6b44c6ed32a2%2F40603_ZA2gnAZICoikgufAEoUzuQ.jpg",
-    "price": 370000,
-    "location": "Şüvəlan q.",
-    "location_id": "110",
-    "location_name": "Şüvəlan",
-    "rooms": "4 otaqlı",
-    "area_m2": 200,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": true,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-05T23:20:26+04:00",
-    "category": "house",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6517938",
-    "lat": 40.497,
-    "lng": 50.208,
-    "land_area_sot": 4,
-    "building_type": "Həyət evi/Bağ evi",
-    "title": "Satılır 4 otaqlı həyət evi/bağ evi 200 m²",
-    "description": "Şüvalanda 2 mərtəbəli villa.\r\n🔥 BİZİM AGENTLİKDƏN ƏLAQƏ SAXLAYANLARA YÜKSƏK ENDİRİM!\r\n📍 Ünvan: Şüvəlan\r\n🌳 Torpaq sahəsi: 4 sot\r\n🏠 Ev sahəsi: 200 m²\r\n🛋️ Otaqların sayı: 4 otaq\r\n🚿 Hamam otağın sayı: 3 hamam otağı\r\n✨ Rahatlıq: Daşma Hovuz / Besedka cam balkon / Eyvan Terrası / Mangal / Landşaft dizaynı\r\n🛠️ Təmir: Yüksək keyfiyyətli inşaat materiallarından istifadə edilib\r\n📄 Sənəd: Çıxarış və ipotekaya yararlı\r\n💧 İçməli Su / 🔥 Qaz /💡 İşıq (daimidir)\r\n🔑 Komplektasiya:\r\n🔹 Zövqlü TV stend\r\n🔹 Tam təchiz olunmuş mətbəx mebeli\r\n🔹 Tam təchiz olunmuş hamamlar, bahalı aksesuarlarla quraşdırılmışdır\r\n🔹 Dekorativ güzgülər\r\n🔹 Zərif çilçıraqlar və digər aksesuarlar\r\n🔹 Keyfiyyətli pərdələr\r\n🔹 Pultla idarə olunan giriş qapısı\r\n🔹 Villa müasir isitmə sistemi ilə təchiz olunub və bütün otaqlarda isti döşəmə mövcuddur",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 370000,
-        "date": "2026-10-05T19:37:42.849718+00:00"
       }
     ]
   },
@@ -9558,40 +9354,6 @@
     ]
   },
   {
-    "id": "6516885",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F09%2F13%2F48%2Fa88c20e5-03c7-4bd2-93d0-2d60af9069e2%2F75533_wH7Aa-wvHBl7PWSYQM1a4g.jpg",
-    "price": 54000,
-    "location": "Masazır q.",
-    "location_id": "198",
-    "location_name": "Masazır",
-    "rooms": "2 otaqlı",
-    "area_m2": 50,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": true,
-    "updated_at_site": "2026-10-06T14:51:50+04:00",
-    "category": "house",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6516885",
-    "lat": 40.4862557,
-    "lng": 49.75753099999997,
-    "land_area_sot": 0.5,
-    "building_type": "Həyət evi/Bağ evi",
-    "title": "Satılır 2 otaqlı həyət evi/bağ evi 50 m²",
-    "description": "Masazır qəsəbəsi ümumi sahəsi 50 kv m olan 2 otaqlı orta təmirli mənzil satılır. Yaxınlığında məktəb, bağça, market şəbəkələri var. Evdə su, işıq, qaz daimidir.\nƏşyalar qalacaq.\nKupça var.",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 54000,
-        "date": "2026-10-05T19:37:45.443715+00:00"
-      }
-    ]
-  },
-  {
     "id": "6518249",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F14%2F50%2F00%2F23e7a1f0-29b8-4c37-8a7c-335111038647%2F3549_coDZWCNS_lkyybQAkTqXJw.jpg",
     "price": 179000,
@@ -9796,6 +9558,214 @@
     ]
   },
   {
+    "id": "6519484",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F19%2F10%2F47%2F99762acd-aaae-41c8-a653-7cb3b01683ea%2F91598_VFnmoahKRq4QASXpT2TFFg.jpg",
+    "price": 450000,
+    "location": "Hövsan q.",
+    "location_id": "93",
+    "location_name": "Hövsan",
+    "rooms": "5 otaqlı",
+    "area_m2": 200,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": true,
+    "updated_at_site": "2026-10-06T20:41:51+04:00",
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6519484",
+    "lat": 40.37188311792575,
+    "lng": 50.10550859292904,
+    "land_area_sot": 10,
+    "building_type": "Həyət evi/Bağ evi",
+    "title": "Satılır 5 otaqlı həyət evi/bağ evi 200 m²",
+    "description": "Diqqetle oxuyun zeng edin!!!\r\nKondisoner baglari,hovsan avtomobil bazari,hovsan ticarata catmamish yolun sagi!(Naneli restarana 300 metre qalmis)\r\n2018 ci ilde shexsi istifada ucun tikilib,\r\n10 sot torpaq +ev (her ikisi kupca)\r\n8*4 hovuz (ispan filterleri ile)\r\n4 yataq +boyuk zal studiya\r\n2 besedka + cox funksiyali Mangalni\r\n15 tonluk yeralti su ceni\r\nKamera sistemi\r\nAna yoldan 80 metr\r\nDenize 350m hec bir yol kecmirsen\r\nMelumat ucun bu arazida 1 sot torpaq duz 20000 azndir en azi!!!!!!(şişirdilmir)\r\nYeni bu hayati bu dekorativ agaclarla indi yiqmaq evden baha bawa geler yeni bu qiymata bu bagi yaratmaq mumkun deyil.\r\nMaklerlar ve qeyri ciddi adamlar zeng atmasin!!!!Barter yalniz Ag wahar va Xatainin yaxshi yeni tikililerinden olar.\r\nEv istaya uygun dolu ve bos satila biler\r\n\r\n\r\n",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 450000,
+        "date": "2026-10-05T19:37:38.584869+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6517938",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F23%2F17%2F15%2F3fb14257-0ca8-40e8-8a4a-6b44c6ed32a2%2F40603_ZA2gnAZICoikgufAEoUzuQ.jpg",
+    "price": 370000,
+    "location": "Şüvəlan q.",
+    "location_id": "110",
+    "location_name": "Şüvəlan",
+    "rooms": "4 otaqlı",
+    "area_m2": 200,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-06T21:58:55+04:00",
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6517938",
+    "lat": 40.497,
+    "lng": 50.208,
+    "land_area_sot": 4,
+    "building_type": "Həyət evi/Bağ evi",
+    "title": "Satılır 4 otaqlı həyət evi/bağ evi 200 m²",
+    "description": "Şüvalanda 2 mərtəbəli villa.\r\n🔥 BİZİM AGENTLİKDƏN ƏLAQƏ SAXLAYANLARA YÜKSƏK ENDİRİM!\r\n📍 Ünvan: Şüvəlan\r\n🌳 Torpaq sahəsi: 4 sot\r\n🏠 Ev sahəsi: 200 m²\r\n🛋️ Otaqların sayı: 4 otaq\r\n🚿 Hamam otağın sayı: 3 hamam otağı\r\n✨ Rahatlıq: Daşma Hovuz / Besedka cam balkon / Eyvan Terrası / Mangal / Landşaft dizaynı\r\n🛠️ Təmir: Yüksək keyfiyyətli inşaat materiallarından istifadə edilib\r\n📄 Sənəd: Çıxarış və ipotekaya yararlı\r\n💧 İçməli Su / 🔥 Qaz /💡 İşıq (daimidir)\r\n🔑 Komplektasiya:\r\n🔹 Zövqlü TV stend\r\n🔹 Tam təchiz olunmuş mətbəx mebeli\r\n🔹 Tam təchiz olunmuş hamamlar, bahalı aksesuarlarla quraşdırılmışdır\r\n🔹 Dekorativ güzgülər\r\n🔹 Zərif çilçıraqlar və digər aksesuarlar\r\n🔹 Keyfiyyətli pərdələr\r\n🔹 Pultla idarə olunan giriş qapısı\r\n🔹 Villa müasir isitmə sistemi ilə təchiz olunub və bütün otaqlarda isti döşəmə mövcuddur",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 370000,
+        "date": "2026-10-05T19:37:42.849718+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6519678",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F20%2F59%2F35%2F82b6a4b8-ec13-44a7-83d3-6f90573698fe%2F91605_X7tK5wuLxeMGhdgHKq4CHA.jpg",
+    "price": 133000,
+    "location": "Dübəndi q.",
+    "location_id": "97",
+    "location_name": "Dübəndi",
+    "rooms": "6 otaqlı",
+    "area_m2": 155,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": false,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-06T21:59:52+04:00",
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6519678",
+    "lat": 40.4178595600418,
+    "lng": 50.28159500571292,
+    "land_area_sot": 5,
+    "building_type": "Həyət evi/Bağ evi",
+    "title": "Satılır 6 otaqlı həyət evi/bağ evi 155 m²",
+    "description": "TƏCİLİ !!!!!  \r\n-= Dübəndi bağlar massivində, \"DÜBƏNDİ BALIQ EVİ\" restor6 otaqlı anının arxasında sol tərəfdə baş yoldan 150 metr dəniz istiqamətində gedib ikinci küçədən sola dönüb növbəti kəsişmədə 5 sot torpaq sahəsində tikilmiş 155 kvm (kupçada 147,4 kvm göstərilib) ümumi sahəsi olan 6 otaqlı təmirsiz ( podmayak) bağ evi satılır!!\r\n-= Bağ evinin tikintisi monalit-karkasla tikilb, bütün tikinti norma və qaydalara riayət olunub.\r\n-= Torpağın və tikilinin KUPÇASI var.\r\n-= Xəritədə dəqiq yeri göstərilib, şəkillər həmin əmlaka aiddir!!\r\n-= Xidmət Ödənişlidir !!",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 103000,
+        "date": "2026-10-05T19:37:38.191225+00:00"
+      },
+      {
+        "price": 133000,
+        "date": "2026-10-06T19:31:40.978800+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6516885",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F09%2F13%2F48%2Fa88c20e5-03c7-4bd2-93d0-2d60af9069e2%2F75533_wH7Aa-wvHBl7PWSYQM1a4g.jpg",
+    "price": 54000,
+    "location": "Masazır q.",
+    "location_id": "198",
+    "location_name": "Masazır",
+    "rooms": "2 otaqlı",
+    "area_m2": 50,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": true,
+    "updated_at_site": "2026-10-06T22:51:52+04:00",
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6516885",
+    "lat": 40.4862557,
+    "lng": 49.75753099999997,
+    "land_area_sot": 0.5,
+    "building_type": "Həyət evi/Bağ evi",
+    "title": "Satılır 2 otaqlı həyət evi/bağ evi 50 m²",
+    "description": "Masazır qəsəbəsi ümumi sahəsi 50 kv m olan 2 otaqlı orta təmirli mənzil satılır. Yaxınlığında məktəb, bağça, market şəbəkələri var. Evdə su, işıq, qaz daimidir.\nƏşyalar qalacaq.\nKupça var.",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 54000,
+        "date": "2026-10-05T19:37:45.443715+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5691637",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F11%2F26%2F09%2F36%2F46%2Fc623e9f5-ea00-4d3e-b07d-a1379d4c66d8%2F89114_oaubc3t5hlI8TvQ-r6ioTA.jpg",
+    "price": 350000,
+    "location": "Görədil q.",
+    "location_id": "194",
+    "location_name": "Görədil",
+    "rooms": "4 otaqlı",
+    "area_m2": 182,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-05T17:31:42+04:00",
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5691637",
+    "lat": 40.56406785700712,
+    "lng": 49.82639696520083,
+    "land_area_sot": 7,
+    "building_type": "Həyət evi/Bağ evi",
+    "title": "Satılır 4 otaqlı həyət evi/bağ evi 182 m²",
+    "description": "Bağ evi, Modern stildə, yüksək keyfiyyəli materiallar ilə tikilmişdir. Döşəmə, tavan, kolonlar betondur.\r\nHəyətdə dekorativ ağaclar, qazon, baseyn, kamera sistemi, avtomatik jalüz darvaza, geniş küçə, dənizə çox yaxın.\r\nEvdə Zal studio mətbəx, 3 ədəd yataq otağı, qarderob otağı, 2 sanitar qovşağı, açıq terras, yay mətbəxi, mətbəx mebeli, kombi sistemi, isti döşəmə, keyfiyyətli materiallar istifadə edilib.\r\nEv şəxsi istifadə üçün tikilib.",
+    "deleted_at": "2026-10-06T19:32:40.097550+00:00",
+    "price_history": [
+      {
+        "price": 350000,
+        "date": "2026-10-05T19:37:40.509069+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5602657",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F10%2F21%2F09%2F58%2F26%2F4430e25e-6902-43fc-ac9a-64fed3f80aa7%2F37302_ksBAd98Yipnr_0BzNr1yHg.jpg",
+    "price": 550000,
+    "location": "Şüvəlan q.",
+    "location_id": "110",
+    "location_name": "Şüvəlan",
+    "rooms": "5 otaqlı",
+    "area_m2": 270,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-05T17:33:28+04:00",
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5602657",
+    "lat": 40.497,
+    "lng": 50.208,
+    "land_area_sot": 9,
+    "building_type": "Həyət evi/Bağ evi",
+    "title": "Satılır 5 otaqlı həyət evi/bağ evi 270 m²",
+    "description": "Şüvəlan Mayakda - dənizə 600 metr məsafədə təmiri yeni tamamlanmış 2 mərtəbəli Bağ evi satılır.( 9 sotda 270 kv.m ) Bu ərazini bilənlər bilir mayakın ən elitni bağlar massivindən sayılır. Enli küçələri var və qonşular çox mədəni qonşulardır. Sənədi : Çıxarışdır. Evin də torpağın da çıxarışı var ( Kupça ). Təmirdən sonra yaşayış olmayıb, yeni təmirdir. Tikilişi də yüksək səviyyədə dözümlü tikilibdir.\r\nHovuzu ( 11 metr uzunu - 4 metr eni ), əlavə yay mətbəxi, çardağı, manqalı, su çəni, həyətində dekorativ və digər ağacları, kamera sistemi, interkomu, pult ilə darvazası, qazanxana otağı, kombi sistemi və daimi olan suyu işığı qazı mövcuddur. Ev tam olaraq isti döşəmə ilə təchiz olunubdur.\r\n1-ci mərtəbə : Zal, mətbəx, 2 sanitar qovşaq və veranda.\r\n2-ci mərtəbə : 5 otaq və 2 sanitar qovşaq. Bağın ümumilikdə 4 sanitar qovşağı var.\r\nSahibindən satılır, vasitəçilik deyil.",
+    "deleted_at": "2026-10-06T19:32:40.097553+00:00",
+    "price_history": [
+      {
+        "price": 550000,
+        "date": "2026-10-05T19:37:40.509054+00:00"
+      }
+    ]
+  },
+  {
     "id": "6519195",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F18%2F04%2F33%2Fe8b27b15-90c9-4c02-ad61-7b0496490254%2F91578_DERnXFCFYLS5V5yw2XxVVg.jpg",
     "price": 450000,
@@ -9860,6 +9830,40 @@
       {
         "price": 450000,
         "date": "2026-10-05T19:37:39.643704+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6519563",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F19%2F58%2F44%2Ff5502f70-94e8-419c-8b03-8b81ab56f05e%2F72749_rx816Z5MBemBk-7FvDKffQ.jpg",
+    "price": 89000,
+    "location": "Saray q.",
+    "location_id": "111",
+    "location_name": "Saray",
+    "rooms": "4 otaqlı",
+    "area_m2": 130,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-05T20:05:06+04:00",
+    "category": "house",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6519563",
+    "lat": 40.53189517038077,
+    "lng": 49.74631882529288,
+    "land_area_sot": 2.5,
+    "building_type": "Həyət evi/Bağ evi",
+    "title": "Satılır 4 otaqlı həyət evi/bağ evi 130 m²",
+    "description": "Salam tecili satilir!!!  Paket kupcadir 9 daş kursude 40x40 fundamentde inşa edilib genis 4 maşinliq heyeti var qaz işiq su sayqaclar qoyulub. Merkezi kanalzasiyaya var qowulub Qapinin qarşisi avtobus dayanaciqi yerlewir. Şehere ve sumqayita geden avtobuslar qapinin onunden kecir. Real aliciyla qiymet danişilacaq. Ev tam hazirdir",
+    "deleted_at": "2026-10-06T19:32:40.097568+00:00",
+    "price_history": [
+      {
+        "price": 89000,
+        "date": "2026-10-05T19:37:38.762640+00:00"
       }
     ]
   },

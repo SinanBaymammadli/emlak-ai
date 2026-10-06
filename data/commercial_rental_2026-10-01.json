@@ -1216,38 +1216,6 @@
     ]
   },
   {
-    "id": "6506693",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F11%2F05%2F44%2F6ef5dad2-09ce-43f3-9c40-37420c0d86d9%2F38632_ZSnh4n7T9tkVk5V4UeDuew.jpg",
-    "price": 2500,
-    "location": "28 May m.",
-    "area_m2": 200,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.38330402431574,
-    "lng": 49.84631496044925,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-01T14:43:31+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir obyekt 200 m²",
-    "description": "🏢 28 MAY METROSUNA YAXIN | PREMIUM OBYEKT | 200 M² | 6 OTAQ\r\n\r\nŞəhərin ən prestijli və biznes baxımından əlverişli ərazilərindən birində — 28 May ərazisində, Səməd Vurğun parkının yaxınlığında yerləşən 200 m²-lik geniş obyekt icarəyə verilir.\r\n\r\nObyekt 3 mərtəbəli binanın 1-ci mərtəbəsində yerləşir və ümumilikdə 6 otaqdan ibarətdir. Geniş sahəsi və əlverişli planlaşdırılması müxtəlif biznes və fəaliyyət istiqamətləri üçün uyğun şərait yaradır.\r\n\r\n📍 Ünvan: 28 May ərazisi, Səməd Vurğun parkının yaxınlığı\r\n📐 Sahə: 200 m²\r\n🏢 Mərtəbə: 1/3\r\n🚪 Otaq sayı: 6\r\n🔨 Təmir: Təmirli\r\n🏗️ Tikili: Köhnə tikili\r\n💼 Obyekt: Kommersiya fəaliyyəti üçün əlverişli\r\n\r\n⭐ ÜSTÜNLÜKLƏR:\r\n\r\n* Səməd Vurğun parkına yaxın prestijli lokasiya\r\n* 28 May ərazisinin yüksək piyada və avtomobil axını\r\n* Geniş və funksional 200 m² sahə\r\n* 6 otaqlı rahat planlama\r\n* 1-ci mərtəbədə yerləşməsi\r\n* Təmirli vəziyyətdə olması\r\n* Ofis, tədris mərkəzi, klinika, salon, nümayəndəlik və digər kommersiya fəaliyyətləri üçün uyğun imkan\r\n\r\n💰 Aylıq icarə haqqı: 2.500 AZN\r\n\r\nPrestijli ünvanda geniş, hazır və biznes üçün əlverişli obyekt axtaranlar üçün ideal seçimdir.\r\n\r\n📞 Ətraflı məlumat və baxış üçün əlaqə saxlaya bilərsiniz.",
-    "building_type": "Obyekt",
-    "location_id": "8",
-    "location_name": "28 May",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6506693",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 2500,
-        "date": "2026-10-01T12:04:48.504532+00:00"
-      }
-    ]
-  },
-  {
     "id": "6507781",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F14%2F45%2F25%2Ff1ab822f-de73-49a8-aa66-73e30e98f390%2F71084_SFRRZqW7gURoRhXHHIunqQ.jpg",
     "price": 4250,
@@ -2432,6 +2400,38 @@
       {
         "price": 540,
         "date": "2026-10-06T12:58:00.013010+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6506693",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F11%2F05%2F44%2F6ef5dad2-09ce-43f3-9c40-37420c0d86d9%2F38632_ZSnh4n7T9tkVk5V4UeDuew.jpg",
+    "price": 2500,
+    "location": "28 May m.",
+    "area_m2": 200,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.38330402431574,
+    "lng": 49.84631496044925,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T18:04:00+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir obyekt 200 m²",
+    "description": "🏢 28 MAY METROSUNA YAXIN | PREMIUM OBYEKT | 200 M² | 6 OTAQ\r\n\r\nŞəhərin ən prestijli və biznes baxımından əlverişli ərazilərindən birində — 28 May ərazisində, Səməd Vurğun parkının yaxınlığında yerləşən 200 m²-lik geniş obyekt icarəyə verilir.\r\n\r\nObyekt 3 mərtəbəli binanın 1-ci mərtəbəsində yerləşir və ümumilikdə 6 otaqdan ibarətdir. Geniş sahəsi və əlverişli planlaşdırılması müxtəlif biznes və fəaliyyət istiqamətləri üçün uyğun şərait yaradır.\r\n\r\n📍 Ünvan: 28 May ərazisi, Səməd Vurğun parkının yaxınlığı\r\n📐 Sahə: 200 m²\r\n🏢 Mərtəbə: 1/3\r\n🚪 Otaq sayı: 6\r\n🔨 Təmir: Təmirli\r\n🏗️ Tikili: Köhnə tikili\r\n💼 Obyekt: Kommersiya fəaliyyəti üçün əlverişli\r\n\r\n⭐ ÜSTÜNLÜKLƏR:\r\n\r\n* Səməd Vurğun parkına yaxın prestijli lokasiya\r\n* 28 May ərazisinin yüksək piyada və avtomobil axını\r\n* Geniş və funksional 200 m² sahə\r\n* 6 otaqlı rahat planlama\r\n* 1-ci mərtəbədə yerləşməsi\r\n* Təmirli vəziyyətdə olması\r\n* Ofis, tədris mərkəzi, klinika, salon, nümayəndəlik və digər kommersiya fəaliyyətləri üçün uyğun imkan\r\n\r\n💰 Aylıq icarə haqqı: 2.500 AZN\r\n\r\nPrestijli ünvanda geniş, hazır və biznes üçün əlverişli obyekt axtaranlar üçün ideal seçimdir.\r\n\r\n📞 Ətraflı məlumat və baxış üçün əlaqə saxlaya bilərsiniz.",
+    "building_type": "Obyekt",
+    "location_id": "8",
+    "location_name": "28 May",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6506693",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 2500,
+        "date": "2026-10-01T12:04:48.504532+00:00"
       }
     ]
   },

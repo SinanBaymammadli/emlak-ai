@@ -2016,38 +2016,6 @@
     ]
   },
   {
-    "id": "6508044",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F15%2F38%2F07%2F5e23ac31-adf8-41b4-a9b1-dcb2ac8272ae%2F48133_i6HzDaaSz7ixgsNkCHlN4A.jpg",
-    "price": 3000000,
-    "location": "Gənclik m.",
-    "area_m2": 137,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.40809500017415,
-    "lng": 49.84889339620872,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": null,
-    "updated_at_site": "2026-10-05T17:39:39+04:00",
-    "is_featured": false,
-    "title": "Satılır obyekt 137 m²",
-    "description": "Gənclik metro stansiyası cıxışı Atatturk pr yola baxır Cıxarış qeyriyaşayış .hal hazırda icarədədir 7000 az 2 giriş qapısı var 5 böyuk vitrin pəncərələri yola baxır ",
-    "building_type": "Obyekt",
-    "location_id": "2",
-    "location_name": "Gənclik",
-    "category": "commercial",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6508044",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 3000000,
-        "date": "2026-10-01T12:04:44.942966+00:00"
-      }
-    ]
-  },
-  {
     "id": "6507730",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F14%2F34%2F12%2F0ce98295-f8fb-4d2b-a188-5b6bf870e053%2F16177_1hz4iBAYQM9TJ3bGMXlmxw.jpg",
     "price": 320000,
@@ -2176,6 +2144,38 @@
       {
         "price": 270000,
         "date": "2026-10-01T12:04:44.944298+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6508044",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F15%2F38%2F07%2F5e23ac31-adf8-41b4-a9b1-dcb2ac8272ae%2F48133_i6HzDaaSz7ixgsNkCHlN4A.jpg",
+    "price": 3000000,
+    "location": "Gənclik m.",
+    "area_m2": 137,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.40809500017415,
+    "lng": 49.84889339620872,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T17:39:39+04:00",
+    "is_featured": false,
+    "title": "Satılır obyekt 137 m²",
+    "description": "Gənclik metro stansiyası cıxışı Atatturk pr yola baxır Cıxarış qeyriyaşayış .hal hazırda icarədədir 7000 az 2 giriş qapısı var 5 böyuk vitrin pəncərələri yola baxır ",
+    "building_type": "Obyekt",
+    "location_id": "2",
+    "location_name": "Gənclik",
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6508044",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 3000000,
+        "date": "2026-10-01T12:04:44.942966+00:00"
       }
     ]
   },

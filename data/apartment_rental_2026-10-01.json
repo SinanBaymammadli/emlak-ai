@@ -13538,39 +13538,6 @@
     ]
   },
   {
-    "id": "6506988",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F12%2F05%2F31%2F34a72bdb-92d5-4958-b6b5-601cbbeb3cfa%2F16185_7u832PhAi3moBOIH9PMNPA.jpg",
-    "price": 1400,
-    "location": "Nəsimi r.",
-    "rooms": "2 otaqlı",
-    "area_m2": 100,
-    "floor": "9/16 mərtəbə",
-    "is_agency": true,
-    "lat": 40.39498174190933,
-    "lng": 49.83860157440265,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 9,
-    "updated_at_site": "2026-10-01T20:59:23+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı yeni tikili 100 m²",
-    "description": "🏡 RİFAH PLAZADA KİRAYƏ MƏNZİL\r\n\r\n📍 Ağ Çiçəyim-in arxasında — Rifah Plaza\r\n🏢 16/9 mərtəbə\r\n✨ 100 KVM | Qanuni 2 otaq\r\n🆕 Mənzildə yaşayış olmayıb\r\n🛋️ Tam əşyalı və təchiz olunmuş\r\n🔑 Tam hazır vəziyyətdə\r\n\r\n💰 Aylıq: 1.400 AZN\r\n✅ Depozit tələb olunmur\r\n🏢 Ofis haqqı: 30%\r\n\r\n📞 Ətraflı məlumat və baxış üçün əlaqə saxlayın.",
-    "building_type": "Yeni tikili",
-    "location_id": "190",
-    "location_name": "Nəsimi",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6506988",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1400,
-        "date": "2026-10-01T12:05:23.585915+00:00"
-      }
-    ]
-  },
-  {
     "id": "6507179",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F12%2F38%2F28%2F12c568a3-5394-4310-8243-efb057f86216%2F75498_bLPjBTEjkVaxgnCB9AUFPQ.jpg",
     "price": 3400,
@@ -13835,39 +13802,6 @@
       {
         "price": 750,
         "date": "2026-10-01T12:05:23.579260+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6507161",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F12%2F27%2F42%2Fb64981e4-389f-4eee-a3ed-b0e7bfdd2d2e%2F75490_-nGiXHr_w8OZKf3PbUkL_w.jpg",
-    "price": 1500,
-    "location": "Nizami m.",
-    "rooms": "3 otaqlı",
-    "area_m2": 167,
-    "floor": "20/21 mərtəbə",
-    "is_agency": true,
-    "lat": 40.38008959912496,
-    "lng": 49.83216885380286,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 20,
-    "updated_at_site": "2026-10-02T12:36:48+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 3 otaqlı yeni tikili 167 m²",
-    "description": "Tam təmirli, tam şəraitli, evə lazımlı olan bütün əşyalarla təmin olunmuş, dəniz mənzərəli mənzil. Şəhərn mərkəzində, Nizami metrosundan 3 dəq aralı. Əlavə məlumat üçün əlaqə saxlayın.",
-    "building_type": "Yeni tikili",
-    "location_id": "35",
-    "location_name": "Nizami",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6507161",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1500,
-        "date": "2026-10-01T12:05:23.584750+00:00"
       }
     ]
   },
@@ -15648,39 +15582,6 @@
     ]
   },
   {
-    "id": "6507329",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F13%2F11%2F56%2F9f446d52-44e3-4d67-9422-0d3f8ffaf85e%2F75507_I-v2R6uMcLZW3N3QJaPKsA.jpg",
-    "price": 200,
-    "location": "28 May m.",
-    "rooms": "1 otaqlı",
-    "area_m2": 50,
-    "floor": "9/18 mərtəbə",
-    "is_agency": false,
-    "lat": 40.38025651050786,
-    "lng": 49.84842419700563,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 9,
-    "updated_at_site": "2026-10-06T08:29:43+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 1 otaqlı yeni tikili 50 m²",
-    "description": "Oğlan otaq yoldaşı axtarılır 1 nəfər. 28May metrosuna yaxın piyada məsafədə Şərq bazarının yanında yerləşir yeni tikili binadır. Məsuliyyətli təmizkar şəxs əlaqə saxlasın. Yalnız whatsapp aktivdir.",
-    "building_type": "Yeni tikili",
-    "location_id": "8",
-    "location_name": "28 May",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6507329",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 200,
-        "date": "2026-10-01T12:05:23.583745+00:00"
-      }
-    ]
-  },
-  {
     "id": "6507790",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F14%2F46%2F16%2Faad24138-bfee-4d6f-8909-017a6de720a6%2F16177_yZmTgAw1L1nKTsb8vpU3ng.jpg",
     "price": 3000,
@@ -15710,39 +15611,6 @@
       {
         "price": 3000,
         "date": "2026-10-01T12:05:23.581197+00:00"
-      }
-    ]
-  },
-  {
-    "id": "4473607",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2024%2F07%2F13%2F01%2F45%2F49%2Fb7092fa6-fa39-4079-bcf9-1eead443b776%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
-    "price": 150,
-    "location": "İçəri Şəhər m.",
-    "rooms": "4 otaqlı",
-    "area_m2": 180,
-    "floor": "7/14 mərtəbə",
-    "is_agency": false,
-    "lat": 40.36888147464533,
-    "lng": 49.82774429284796,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 7,
-    "updated_at_site": "2026-10-06T09:42:02+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 4 otaqlı yeni tikili 180 m²",
-    "description": "Gunluk. (посуточно) ! Iceri sheher metrosu, Axundov bagi, Nizami kucesi, yeni binada , yeni temirli 4 otaqlı mənzil., 3 yataq otagi, 1 salon , 3 sanuzel,  super yeni euro təmir, hər bir şəraiti var, mərkəzi istilik sistemi,  vstr mətbəx mebeli ve mətbəx avadanligi, yumşağ mebel desti,  3 yataq otagi mebeli, her otaqda split kondisionerler, mikrodalgali soba, paltaryuyan masin,qabyuyan masin, sputnik katv, her otaga mexsus suretli internet wi-fi, 3 gunden az verilmir. Menzil yalniz ailelere ve xaricden gelen qonaqlara verilir, Qiymet: 150-250 azn.\r\n____________ посуточно квартиры в баку! новостройка. 4х комнатная, три спальная комната , 1 зал,  3 санузла, центре города, около метро Ичери Шехер, по улице Низами . Рядом с Ахундовский садик, свежие супер новый евро ремонт, встроенная кухонная мебель, мягкая мебель+ 3 компл. двухспальные мебели, посуда, чистое постельное белье, горячая и холодная вода постоянно, плазменный смарт тв , (кабельное тв), в каждом комната сплит-кондиционер ,микроволновая печь. также есть интернет wi-fi, стиральная машина, вся обстановка для комфортного проживания. сдаю не менее 3х дней семья и иностранцам , сдаю сам. оплата 150-250 манат",
-    "building_type": "Yeni tikili",
-    "location_id": "37",
-    "location_name": "İçəri Şəhər",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/4473607",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 150,
-        "date": "2026-10-01T12:05:23.581324+00:00"
       }
     ]
   },
@@ -16382,39 +16250,6 @@
     ]
   },
   {
-    "id": "5213058",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F05%2F19%2F04%2F06%2F48%2Fe5a27d5b-107c-478e-b47c-0e366e5f048e%2F66008_-f1hpkebL9FYqnHCOa3oWQ.jpg",
-    "price": 60,
-    "location": "28 May m.",
-    "rooms": "3 otaqlı",
-    "area_m2": 160,
-    "floor": "12/18 mərtəbə",
-    "is_agency": false,
-    "lat": 40.38407907199318,
-    "lng": 49.84116200889896,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 12,
-    "updated_at_site": "2026-10-06T13:06:45+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 3 otaqlı yeni tikili 160 m²",
-    "description": "Посуточно квартиры в Баку! новостройка. 3-x комнатная, в центре города,около метро 28 мая и 28 молл .над aqua park евро ремонт, встроенная кухонная мебель, мягкая мебель+ 2 компл. двухспальные мебели, посуда, чистое постельное белье, горячая и холодная вода постоянно, плазменный тв (кабельное тв), сплит-кондиционер ,микроволновая печь. также есть интернет wi-fi, стиральная машина, вся обстановка для комфортного проживания. сдаю не менее 3-4 дней. сдаю сам. оплата 60-90 манат‐------------- ---------Gunluk. (посуточно) ! 28 may metrosu, 28 Moll ve milli banka yaxin, aqua park ustunde, yeni binada 3 otaqlı mənzil.euro təmir, hər bir şəraiti var, mərkəzi istilik sistemi vstr mətbəx mebeli ve mətbəx avadanligi, yumşağ mebel, 2 yataq otagi mebeli, split kondisionerler,mikrodalgali soba, paltaryuyan masin, sputnik katv,suretli internet wi-fi, saatliq ve qeyri etik meqsedlet ucun verilmir. 60-90 azn.--",
-    "building_type": "Yeni tikili",
-    "location_id": "8",
-    "location_name": "28 May",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/5213058",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 60,
-        "date": "2026-10-01T12:05:23.581273+00:00"
-      }
-    ]
-  },
-  {
     "id": "6420737",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F10%2F17%2F07%2F97d8ddac-8e8e-4033-b94e-6a4fe4a69122%2F16162_hf-_u2OIVRXvNGY0L4IR0A.jpg",
     "price": 1150,
@@ -16922,6 +16757,208 @@
       {
         "price": 1150,
         "date": "2026-10-06T12:58:50.168094+00:00"
+      }
+    ]
+  },
+  {
+    "id": "4804966",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2024%2F12%2F01%2F05%2F28%2F57%2Fc0735ba6-7703-4d86-9920-5e23ad004ddc%2F15247_eRuz4Do5pS0g3SY6jF6RZg.jpg",
+    "price": 80,
+    "location": "28 May m.",
+    "rooms": "4 otaqlı",
+    "area_m2": 210,
+    "floor": "3/20 mərtəbə",
+    "is_agency": false,
+    "lat": 40.38034466345635,
+    "lng": 49.84102930184633,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 3,
+    "updated_at_site": "2026-10-06T17:11:24+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 4 otaqlı yeni tikili 210 m²",
+    "description": "Посуточно квартиры в баку! новостройка. 4х комнатная, в центре города,около зимнего парка, над цирком. Дом AF Centr , евро ремонт, встроенная кухонная мебель, кухонные приборы , мягкая мебель+ 3 компл Двуспальная мебели, постельное белье, горячая и холодная вода постоянно, плазменный тв (кабельное тв), сплит-кондиционер ,микроволновая печь. также есть интернет wi-fi, стиральная машина, посудомоечная машина утюг, фен, вся обстановка для комфортного проживания. сдаю не менее 3-4 дней. сдаю сам. оплата 80-130 ман._____-------- Gunluk. (посуточно) ! 28 may ve Sahil metrosuna yaxin, 28 mall ve milli banka yaxin, Af Centr binasi, Sirkin ustu, yeni binada 4 otaqlı mənzil. euro təmir, hər bir şəraiti var, kombi istilik sistemi vstr mətbəx mebeli ve mətbəx avadanligi, qonaq otagi mebel, 3 yataq otagi mebeli, 2 hamam, 4 split kondisionerler,mikrodalgali soba, paltaryuyan masin, sputnik katv,suretli internet wi-fi, saatliq ve 1 gunluk verilmir. 80-130 azn",
+    "building_type": "Yeni tikili",
+    "location_id": "8",
+    "location_name": "28 May",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/4804966",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 80,
+        "date": "2026-10-01T12:05:23.581334+00:00"
+      }
+    ]
+  },
+  {
+    "id": "4473607",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2024%2F07%2F13%2F01%2F45%2F49%2Fb7092fa6-fa39-4079-bcf9-1eead443b776%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+    "price": 150,
+    "location": "İçəri Şəhər m.",
+    "rooms": "4 otaqlı",
+    "area_m2": 180,
+    "floor": "7/14 mərtəbə",
+    "is_agency": false,
+    "lat": 40.36888147464533,
+    "lng": 49.82774429284796,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 7,
+    "updated_at_site": "2026-10-06T17:42:02+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 4 otaqlı yeni tikili 180 m²",
+    "description": "Gunluk. (посуточно) ! Iceri sheher metrosu, Axundov bagi, Nizami kucesi, yeni binada , yeni temirli 4 otaqlı mənzil., 3 yataq otagi, 1 salon , 3 sanuzel,  super yeni euro təmir, hər bir şəraiti var, mərkəzi istilik sistemi,  vstr mətbəx mebeli ve mətbəx avadanligi, yumşağ mebel desti,  3 yataq otagi mebeli, her otaqda split kondisionerler, mikrodalgali soba, paltaryuyan masin,qabyuyan masin, sputnik katv, her otaga mexsus suretli internet wi-fi, 3 gunden az verilmir. Menzil yalniz ailelere ve xaricden gelen qonaqlara verilir, Qiymet: 150-250 azn.\r\n____________ посуточно квартиры в баку! новостройка. 4х комнатная, три спальная комната , 1 зал,  3 санузла, центре города, около метро Ичери Шехер, по улице Низами . Рядом с Ахундовский садик, свежие супер новый евро ремонт, встроенная кухонная мебель, мягкая мебель+ 3 компл. двухспальные мебели, посуда, чистое постельное белье, горячая и холодная вода постоянно, плазменный смарт тв , (кабельное тв), в каждом комната сплит-кондиционер ,микроволновая печь. также есть интернет wi-fi, стиральная машина, вся обстановка для комфортного проживания. сдаю не менее 3х дней семья и иностранцам , сдаю сам. оплата 150-250 манат",
+    "building_type": "Yeni tikili",
+    "location_id": "37",
+    "location_name": "İçəri Şəhər",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/4473607",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 150,
+        "date": "2026-10-01T12:05:23.581324+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6507161",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F12%2F27%2F42%2Fb64981e4-389f-4eee-a3ed-b0e7bfdd2d2e%2F75490_-nGiXHr_w8OZKf3PbUkL_w.jpg",
+    "price": 1450,
+    "location": "Nizami m.",
+    "rooms": "3 otaqlı",
+    "area_m2": 167,
+    "floor": "20/21 mərtəbə",
+    "is_agency": true,
+    "lat": 40.38008959912496,
+    "lng": 49.83216885380286,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 20,
+    "updated_at_site": "2026-10-06T18:13:39+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 3 otaqlı yeni tikili 167 m²",
+    "description": "Tam təmirli, tam şəraitli, evə lazımlı olan bütün əşyalarla təmin olunmuş, dəniz mənzərəli mənzil. Şəhərn mərkəzində, Nizami metrosundan 3 dəq aralı. Əlavə məlumat üçün əlaqə saxlayın.",
+    "building_type": "Yeni tikili",
+    "location_id": "35",
+    "location_name": "Nizami",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6507161",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1500,
+        "date": "2026-10-01T12:05:23.584750+00:00"
+      },
+      {
+        "price": 1450,
+        "date": "2026-10-06T19:32:32.338873+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6506988",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F12%2F05%2F31%2F34a72bdb-92d5-4958-b6b5-601cbbeb3cfa%2F16185_7u832PhAi3moBOIH9PMNPA.jpg",
+    "price": 1400,
+    "location": "Nəsimi r.",
+    "rooms": "2 otaqlı",
+    "area_m2": 100,
+    "floor": "9/16 mərtəbə",
+    "is_agency": true,
+    "lat": 40.39498174190933,
+    "lng": 49.83860157440265,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 9,
+    "updated_at_site": "2026-10-06T18:21:14+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı yeni tikili 100 m²",
+    "description": "🏡 RİFAH PLAZADA KİRAYƏ MƏNZİL\r\n\r\n📍 Ağ Çiçəyim-in arxasında — Rifah Plaza\r\n🏢 16/9 mərtəbə\r\n✨ 100 KVM | Qanuni 2 otaq\r\n🆕 Mənzildə yaşayış olmayıb\r\n🛋️ Tam əşyalı və təchiz olunmuş\r\n🔑 Tam hazır vəziyyətdə\r\n\r\n💰 Aylıq: 1.400 AZN\r\n✅ Depozit tələb olunmur\r\n🏢 Ofis haqqı: 30%\r\n\r\n📞 Ətraflı məlumat və baxış üçün əlaqə saxlayın.",
+    "building_type": "Yeni tikili",
+    "location_id": "190",
+    "location_name": "Nəsimi",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6506988",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1400,
+        "date": "2026-10-01T12:05:23.585915+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5213058",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F05%2F19%2F04%2F06%2F48%2Fe5a27d5b-107c-478e-b47c-0e366e5f048e%2F66008_-f1hpkebL9FYqnHCOa3oWQ.jpg",
+    "price": 60,
+    "location": "28 May m.",
+    "rooms": "3 otaqlı",
+    "area_m2": 160,
+    "floor": "12/18 mərtəbə",
+    "is_agency": false,
+    "lat": 40.38407907199318,
+    "lng": 49.84116200889896,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 12,
+    "updated_at_site": "2026-10-06T21:06:45+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 3 otaqlı yeni tikili 160 m²",
+    "description": "Посуточно квартиры в Баку! новостройка. 3-x комнатная, в центре города,около метро 28 мая и 28 молл .над aqua park евро ремонт, встроенная кухонная мебель, мягкая мебель+ 2 компл. двухспальные мебели, посуда, чистое постельное белье, горячая и холодная вода постоянно, плазменный тв (кабельное тв), сплит-кондиционер ,микроволновая печь. также есть интернет wi-fi, стиральная машина, вся обстановка для комфортного проживания. сдаю не менее 3-4 дней. сдаю сам. оплата 60-90 манат‐------------- ---------Gunluk. (посуточно) ! 28 may metrosu, 28 Moll ve milli banka yaxin, aqua park ustunde, yeni binada 3 otaqlı mənzil.euro təmir, hər bir şəraiti var, mərkəzi istilik sistemi vstr mətbəx mebeli ve mətbəx avadanligi, yumşağ mebel, 2 yataq otagi mebeli, split kondisionerler,mikrodalgali soba, paltaryuyan masin, sputnik katv,suretli internet wi-fi, saatliq ve qeyri etik meqsedlet ucun verilmir. 60-90 azn.--",
+    "building_type": "Yeni tikili",
+    "location_id": "8",
+    "location_name": "28 May",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/5213058",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 60,
+        "date": "2026-10-01T12:05:23.581273+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6507329",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F13%2F11%2F56%2F9f446d52-44e3-4d67-9422-0d3f8ffaf85e%2F75507_I-v2R6uMcLZW3N3QJaPKsA.jpg",
+    "price": 200,
+    "location": "28 May m.",
+    "rooms": "1 otaqlı",
+    "area_m2": 50,
+    "floor": "9/18 mərtəbə",
+    "is_agency": false,
+    "lat": 40.38025651050786,
+    "lng": 49.84842419700563,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 9,
+    "updated_at_site": "2026-10-06T21:46:54+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 1 otaqlı yeni tikili 50 m²",
+    "description": "Oğlan otaq yoldaşı axtarılır 1 nəfər. 28May metrosuna yaxın piyada məsafədə Şərq bazarının yanında yerləşir yeni tikili binadır. Məsuliyyətli təmizkar şəxs əlaqə saxlasın. Yalnız whatsapp aktivdir.",
+    "building_type": "Yeni tikili",
+    "location_id": "8",
+    "location_name": "28 May",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6507329",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 200,
+        "date": "2026-10-01T12:05:23.583745+00:00"
       }
     ]
   },
@@ -19009,39 +19046,6 @@
       {
         "price": 950,
         "date": "2026-10-01T12:05:23.586418+00:00"
-      }
-    ]
-  },
-  {
-    "id": "4804966",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2024%2F12%2F01%2F05%2F28%2F57%2Fc0735ba6-7703-4d86-9920-5e23ad004ddc%2F15247_eRuz4Do5pS0g3SY6jF6RZg.jpg",
-    "price": 80,
-    "location": "28 May m.",
-    "rooms": "4 otaqlı",
-    "area_m2": 210,
-    "floor": "3/20 mərtəbə",
-    "is_agency": false,
-    "lat": 40.38034466345635,
-    "lng": 49.84102930184633,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 3,
-    "updated_at_site": "2026-10-05T17:11:24+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 4 otaqlı yeni tikili 210 m²",
-    "description": "Посуточно квартиры в баку! новостройка. 4х комнатная, в центре города,около зимнего парка, над цирком. Дом AF Centr , евро ремонт, встроенная кухонная мебель, кухонные приборы , мягкая мебель+ 3 компл Двуспальная мебели, постельное белье, горячая и холодная вода постоянно, плазменный тв (кабельное тв), сплит-кондиционер ,микроволновая печь. также есть интернет wi-fi, стиральная машина, посудомоечная машина утюг, фен, вся обстановка для комфортного проживания. сдаю не менее 3-4 дней. сдаю сам. оплата 80-130 ман._____-------- Gunluk. (посуточно) ! 28 may ve Sahil metrosuna yaxin, 28 mall ve milli banka yaxin, Af Centr binasi, Sirkin ustu, yeni binada 4 otaqlı mənzil. euro təmir, hər bir şəraiti var, kombi istilik sistemi vstr mətbəx mebeli ve mətbəx avadanligi, qonaq otagi mebel, 3 yataq otagi mebeli, 2 hamam, 4 split kondisionerler,mikrodalgali soba, paltaryuyan masin, sputnik katv,suretli internet wi-fi, saatliq ve 1 gunluk verilmir. 80-130 azn",
-    "building_type": "Yeni tikili",
-    "location_id": "8",
-    "location_name": "28 May",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/4804966",
-    "deleted_at": "2026-10-06T13:13:38.316090+00:00",
-    "price_history": [
-      {
-        "price": 80,
-        "date": "2026-10-01T12:05:23.581334+00:00"
       }
     ]
   }

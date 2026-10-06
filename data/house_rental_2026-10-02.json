@@ -3060,40 +3060,6 @@
     ]
   },
   {
-    "id": "6511831",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F18%2F42%2F52%2F9ef36f80-1386-4fc8-abda-e8ccedc776eb%2F75527_oII0IjYbun4-AlCkRtgQGw.jpg",
-    "price": 1000,
-    "location": "Şüvəlan q.",
-    "rooms": "3 otaqlı",
-    "area_m2": 150,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.49620054181106,
-    "lng": 50.20347023541036,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-02T18:44:59+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 3 otaqlı həyət evi/bağ evi 150 m²",
-    "description": "Şüvəlan | Qış mövsümü üçün bağ evi kirayə verilir\r\nŞüvəlanda yerləşən bağ evi may ayına qədər uzunmüddətli kirayə verilir.\r\n-\r\nÜmumi 3 otaq, 2 yataq otağı\r\nİsti pol sistemi\r\nBütün zəruri məişət əşyaları ilə təchiz olunub\r\nAsfalt yol. Qış aylarında yaşayış üçün əlverişli şərait\r\nUzunmüddətli qalmaq və şəhər səs-küyündən uzaq, rahat yaşayış axtaranlar üçün uyğun seçimdir.\r\n-\r\nƏtraflı məlumat və qiymət üçün əlaqə saxlaya bilərsiniz.",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "110",
-    "location_name": "Şüvəlan",
-    "land_area_sot": 5,
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6511831",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1000,
-        "date": "2026-10-02T14:51:29.246959+00:00"
-      }
-    ]
-  },
-  {
     "id": "6511872",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F18%2F50%2F31%2F57c4ba23-9234-4354-a9e6-69597e1b6d5d%2F32856__bpEOYuzWgnJ8EWAH7kROA.jpg",
     "price": 180,
@@ -3540,116 +3506,6 @@
     ]
   },
   {
-    "id": "6511795",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F18%2F31%2F25%2Fedbdf5c3-cf83-44a9-9e3c-3099c99d5318%2F79389_M0WyCHv9F9SYotV128wDJw.jpg",
-    "price": 420,
-    "location": "Lökbatan q.",
-    "rooms": "3 otaqlı",
-    "area_m2": 100,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.31769879431236,
-    "lng": 49.72370546213531,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-04T23:49:00+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 3 otaqlı həyət evi/bağ evi 100 m²",
-    "description": "Lokbatan qesebesinde temirli butun eşyalar verilir 3 otaqli heyet evi aileli sexslere kiraye verilir",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "20",
-    "location_name": "Lökbatan",
-    "land_area_sot": 3,
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6511795",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 480,
-        "date": "2026-10-02T14:51:29.247007+00:00"
-      },
-      {
-        "price": 420,
-        "date": "2026-10-06T12:57:45.626718+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6510612",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F14%2F24%2F39%2F9449b07f-692f-4cb3-aaf2-edc5316ec47f%2F16170_oTboX13lAGT5GTO2mcxYiw.jpg",
-    "price": 420,
-    "location": "Lökbatan q.",
-    "rooms": "3 otaqlı",
-    "area_m2": 100,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.31857930691461,
-    "lng": 49.724327730033,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-04T23:50:38+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 3 otaqlı həyət evi/bağ evi 100 m²",
-    "description": "Qaradağ rayon lokbatan qəsəbəsində 3 otaqli əşyali heyet evi ailəli şəxslərə kiraye verilir.",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "20",
-    "location_name": "Lökbatan",
-    "land_area_sot": 3,
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6510612",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 450,
-        "date": "2026-10-02T14:51:29.247976+00:00"
-      },
-      {
-        "price": 420,
-        "date": "2026-10-06T12:57:45.828175+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6509323",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F23%2F27%2F27%2F82ca6f85-f4c4-4b4d-a9ef-e9b7973d0fd6%2F23220_GpjoF7xr6Z1McD4QCZkPWw.jpg",
-    "price": 700,
-    "location": "Binəqədi r.",
-    "rooms": "4 otaqlı",
-    "area_m2": 160,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.56228235861531,
-    "lng": 49.85982375986246,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-05T22:06:47+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 4 otaqlı həyət evi/bağ evi 160 m²",
-    "description": "Fatmayı bağlarında dənizə yaxın,sakit və prestijli ərazidə ,təmirli və hər bir şəraiti olan\r\n2 mərtəbəli, 4 otaqlı bağ evi tam əşyalı aylıq kirayə verilir\r\nBağda rahat dincəlməyiniz üçün söhbətgah,yelləncək,manqal və samovar var\r\nVasitəçi deyiləm öz bağımdı",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "58",
-    "location_name": "Binəqədi",
-    "land_area_sot": 14,
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6509323",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 700,
-        "date": "2026-10-02T14:51:29.249294+00:00"
-      }
-    ]
-  },
-  {
     "id": "6275290",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F08%2F15%2F48%2F58%2F03d16830-9f53-45bf-91e8-4cc3e034bf21%2F95231__iixvzNzajgT65bJU_Farw.jpg",
     "price": 450,
@@ -3922,6 +3778,116 @@
       {
         "price": 190,
         "date": "2026-10-02T14:51:29.247952+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6510612",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F14%2F24%2F39%2F9449b07f-692f-4cb3-aaf2-edc5316ec47f%2F16170_oTboX13lAGT5GTO2mcxYiw.jpg",
+    "price": 400,
+    "location": "Lökbatan q.",
+    "rooms": "3 otaqlı",
+    "area_m2": 100,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.31857930691461,
+    "lng": 49.724327730033,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T18:53:20+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 3 otaqlı həyət evi/bağ evi 100 m²",
+    "description": "Qaradağ rayon lokbatan qəsəbəsində 3 otaqli əşyali heyet evi ailəli şəxslərə kiraye verilir.",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "20",
+    "location_name": "Lökbatan",
+    "land_area_sot": 3,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6510612",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 450,
+        "date": "2026-10-02T14:51:29.247976+00:00"
+      },
+      {
+        "price": 420,
+        "date": "2026-10-06T12:57:45.828175+00:00"
+      },
+      {
+        "price": 400,
+        "date": "2026-10-06T19:32:03.646711+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6511831",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F18%2F42%2F52%2F9ef36f80-1386-4fc8-abda-e8ccedc776eb%2F75527_oII0IjYbun4-AlCkRtgQGw.jpg",
+    "price": 1000,
+    "location": "Şüvəlan q.",
+    "rooms": "3 otaqlı",
+    "area_m2": 150,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.49620054181106,
+    "lng": 50.20347023541036,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T18:57:30+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 3 otaqlı həyət evi/bağ evi 150 m²",
+    "description": "Şüvəlan | Qış mövsümü üçün bağ evi kirayə verilir\r\nŞüvəlanda yerləşən bağ evi may ayına qədər uzunmüddətli kirayə verilir.\r\n-\r\nÜmumi 3 otaq, 2 yataq otağı\r\nİsti pol sistemi\r\nBütün zəruri məişət əşyaları ilə təchiz olunub\r\nAsfalt yol. Qış aylarında yaşayış üçün əlverişli şərait\r\nUzunmüddətli qalmaq və şəhər səs-küyündən uzaq, rahat yaşayış axtaranlar üçün uyğun seçimdir.\r\n-\r\nƏtraflı məlumat və qiymət üçün əlaqə saxlaya bilərsiniz.",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "110",
+    "location_name": "Şüvəlan",
+    "land_area_sot": 5,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6511831",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1000,
+        "date": "2026-10-02T14:51:29.246959+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6509323",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F23%2F27%2F27%2F82ca6f85-f4c4-4b4d-a9ef-e9b7973d0fd6%2F23220_GpjoF7xr6Z1McD4QCZkPWw.jpg",
+    "price": 700,
+    "location": "Binəqədi r.",
+    "rooms": "4 otaqlı",
+    "area_m2": 160,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.56228235861531,
+    "lng": 49.85982375986246,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T22:06:48+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 4 otaqlı həyət evi/bağ evi 160 m²",
+    "description": "Fatmayı bağlarında dənizə yaxın,sakit və prestijli ərazidə ,təmirli və hər bir şəraiti olan\r\n2 mərtəbəli, 4 otaqlı bağ evi tam əşyalı aylıq kirayə verilir\r\nBağda rahat dincəlməyiniz üçün söhbətgah,yelləncək,manqal və samovar var\r\nVasitəçi deyiləm öz bağımdı",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "58",
+    "location_name": "Binəqədi",
+    "land_area_sot": 14,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6509323",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 700,
+        "date": "2026-10-02T14:51:29.249294+00:00"
       }
     ]
   },
@@ -4296,6 +4262,44 @@
       {
         "price": 900,
         "date": "2026-10-02T14:51:29.248338+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6511795",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F18%2F31%2F25%2Fedbdf5c3-cf83-44a9-9e3c-3099c99d5318%2F79389_M0WyCHv9F9SYotV128wDJw.jpg",
+    "price": 420,
+    "location": "Lökbatan q.",
+    "rooms": "3 otaqlı",
+    "area_m2": 100,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.31769879431236,
+    "lng": 49.72370546213531,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-04T23:49:00+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 3 otaqlı həyət evi/bağ evi 100 m²",
+    "description": "Lokbatan qesebesinde temirli butun eşyalar verilir 3 otaqli heyet evi aileli sexslere kiraye verilir",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "20",
+    "location_name": "Lökbatan",
+    "land_area_sot": 3,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6511795",
+    "deleted_at": "2026-10-06T19:32:17.118811+00:00",
+    "price_history": [
+      {
+        "price": 480,
+        "date": "2026-10-02T14:51:29.247007+00:00"
+      },
+      {
+        "price": 420,
+        "date": "2026-10-06T12:57:45.626718+00:00"
       }
     ]
   }

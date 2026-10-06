@@ -384,38 +384,6 @@
     ]
   },
   {
-    "id": "6508359",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F16%2F53%2F21%2Fd3d6eadd-649d-4d77-9288-48663f3bf0a2%2F75546_pbjMCt76cJ8QXTtI_LhkmQ.jpg",
-    "price": 700,
-    "location": "İçəri Şəhər m.",
-    "area_m2": 33,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.36147989634204,
-    "lng": 49.82272560002595,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-01T17:21:44+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir obyekt 33 m²",
-    "description": "Elmlərdə Parlament pr. 20 saylı mektebin yaxınlığında mehleye düşən obyekt Gozellik salonu butun avadanliqlarla birlikdə icareye verilir. Sanuzel, metbex var. 33 kv.m sahesi var.\nQiymət 700 AZN \nOfis xidmət haqqı 30% təşkil edir.",
-    "building_type": "Obyekt",
-    "location_id": "37",
-    "location_name": "İçəri Şəhər",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6508359",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 700,
-        "date": "2026-10-02T14:51:35.962262+00:00"
-      }
-    ]
-  },
-  {
     "id": "6066399",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F04%2F22%2F13%2F45%2F30%2F54a88c03-c01a-43de-ba96-25339190a153%2F27022__NMHUvw7WCeOclZJosNJ5g.jpg",
     "price": 12000,
@@ -3104,38 +3072,6 @@
     ]
   },
   {
-    "id": "6511508",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F17%2F25%2F47%2Fb02392ef-b3ef-4143-9acd-3d8a5a424ce4%2F75542_V8N5Qj4F5gggszMdTd4yag.jpg",
-    "price": 5000,
-    "location": "Memar Əcəmi m.",
-    "area_m2": 150,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.41064110897534,
-    "lng": 49.81503211617904,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-02T18:33:49+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir obyekt 150 m²",
-    "description": "📍 Memar Əcəmi metrosunun düz üzərində klinika icarəyə verilir!\r\n\r\nKlinikanın bütün lazımi lisenziyaları mövcuddur.\r\n\r\n🔹 Hissəli şəkildə: 5 000 AZN\r\n🔹 Tam şəkildə: 12 000 AZN\r\n\r\nKlinika müxtəlif tibbi fəaliyyət istiqamətləri üçün əlverişlidir.\r\n\r\n📞 Ətraflı məlumat və icarə şərtləri ilə bağlı əlaqə saxlaya bilərsiniz.",
-    "building_type": "Obyekt",
-    "location_id": "59",
-    "location_name": "Memar Əcəmi",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6511508",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 5000,
-        "date": "2026-10-02T14:35:48.891222+00:00"
-      }
-    ]
-  },
-  {
     "id": "6511799",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F18%2F33%2F40%2F61d029ae-ed67-49f9-a54a-bd67a0f392da%2F16152_0zRgs7xwWruqOyHkr-W8cQ.jpg",
     "price": 2500,
@@ -3528,38 +3464,6 @@
     ]
   },
   {
-    "id": "6508323",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F16%2F43%2F05%2F0a9fa604-8244-4ef4-879b-630e847e7156%2F4902_fR2SC5O1iyJTJ9ovZB5MZg.jpg",
-    "price": 9000,
-    "location": "Şah İsmayıl Xətai m.",
-    "area_m2": 400,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.38182899469271,
-    "lng": 49.86672784210445,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-05T18:22:13+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir obyekt 400 m²",
-    "description": "Pub Restoran icareye verilir . Biznes satisi var Maraqlananlar whatsapp vasitesile elaqe saxlasin. ",
-    "building_type": "Obyekt",
-    "location_id": "36",
-    "location_name": "Şah İsmayıl Xətai",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6508323",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 9000,
-        "date": "2026-10-02T14:51:35.962359+00:00"
-      }
-    ]
-  },
-  {
     "id": "6509892",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F11%2F51%2F39%2F5665e3f6-98b2-4194-8140-79169741a71a%2F71355_JYmq4SeondPFmUl4OSjyxQ.jpg",
     "price": 720,
@@ -3792,38 +3696,6 @@
     ]
   },
   {
-    "id": "6509311",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F23%2F19%2F04%2F83f7f4e9-d7ef-460f-b650-ecc5cc73f561%2F79389_91xzduOp57ZxUpV8PEKQFQ.jpg",
-    "price": 4000,
-    "location": "Nəriman Nərimanov m.",
-    "area_m2": 250,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.40055067859546,
-    "lng": 49.87356972176507,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-06T15:17:15+04:00",
-    "is_featured": true,
-    "title": "İcarəyə verilir obyekt 250 m²",
-    "description": "VASİTECİ MUKAFATLANIR.\n\n✅BUTIK GEYIM UCUN IDEAL VARIANTDIR\n\n✅GOZELLIK SALONU\nUMUMİ SAHƏSİ 250KV.\n📍Nərimanov rayonu Metro parkın yanı Azinko yaşayış kompleksi ilə uzbəuz\n\nMƏRKƏZİ YOLA BOYUK VİTRİNİ VAR\nTAM TƏMİRLİ \n\nKamera sistemi\nSiqnalizasiya\nİşiqlanma \nİsti pol \nKondisoner var.",
-    "building_type": "Obyekt",
-    "location_id": "1",
-    "location_name": "Nəriman Nərimanov",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6509311",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 4000,
-        "date": "2026-10-02T14:35:48.891588+00:00"
-      }
-    ]
-  },
-  {
     "id": "6510566",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F13%2F51%2F07%2F00df75f0-579e-4038-bad0-c44402f34105%2F16127_sWPWI_TYtfJGgIVzoMDEPg.jpg",
     "price": 3490,
@@ -3924,6 +3796,134 @@
       {
         "price": 2250,
         "date": "2026-10-06T12:57:59.259144+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6508323",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F16%2F43%2F05%2F0a9fa604-8244-4ef4-879b-630e847e7156%2F4902_fR2SC5O1iyJTJ9ovZB5MZg.jpg",
+    "price": 9000,
+    "location": "Şah İsmayıl Xətai m.",
+    "area_m2": 400,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38182899469271,
+    "lng": 49.86672784210445,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T18:22:13+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir obyekt 400 m²",
+    "description": "Pub Restoran icareye verilir . Biznes satisi var Maraqlananlar whatsapp vasitesile elaqe saxlasin. ",
+    "building_type": "Obyekt",
+    "location_id": "36",
+    "location_name": "Şah İsmayıl Xətai",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6508323",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 9000,
+        "date": "2026-10-02T14:51:35.962359+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6511508",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F17%2F25%2F47%2Fb02392ef-b3ef-4143-9acd-3d8a5a424ce4%2F75542_V8N5Qj4F5gggszMdTd4yag.jpg",
+    "price": 5000,
+    "location": "Memar Əcəmi m.",
+    "area_m2": 150,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.41064110897534,
+    "lng": 49.81503211617904,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T21:29:03+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir obyekt 150 m²",
+    "description": "📍 Memar Əcəmi metrosunun düz üzərində klinika icarəyə verilir!\r\n\r\nKlinikanın bütün lazımi lisenziyaları mövcuddur.\r\n\r\n🔹 Hissəli şəkildə: 5 000 AZN\r\n🔹 Tam şəkildə: 12 000 AZN\r\n\r\nKlinika müxtəlif tibbi fəaliyyət istiqamətləri üçün əlverişlidir.\r\n\r\n📞 Ətraflı məlumat və icarə şərtləri ilə bağlı əlaqə saxlaya bilərsiniz.",
+    "building_type": "Obyekt",
+    "location_id": "59",
+    "location_name": "Memar Əcəmi",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6511508",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 5000,
+        "date": "2026-10-02T14:35:48.891222+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6509311",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F23%2F19%2F04%2F83f7f4e9-d7ef-460f-b650-ecc5cc73f561%2F79389_91xzduOp57ZxUpV8PEKQFQ.jpg",
+    "price": 4000,
+    "location": "Nəriman Nərimanov m.",
+    "area_m2": 250,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.40055067859546,
+    "lng": 49.87356972176507,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T23:17:15+04:00",
+    "is_featured": true,
+    "title": "İcarəyə verilir obyekt 250 m²",
+    "description": "VASİTECİ MUKAFATLANIR.\n\n✅BUTIK GEYIM UCUN IDEAL VARIANTDIR\n\n✅GOZELLIK SALONU\nUMUMİ SAHƏSİ 250KV.\n📍Nərimanov rayonu Metro parkın yanı Azinko yaşayış kompleksi ilə uzbəuz\n\nMƏRKƏZİ YOLA BOYUK VİTRİNİ VAR\nTAM TƏMİRLİ \n\nKamera sistemi\nSiqnalizasiya\nİşiqlanma \nİsti pol \nKondisoner var.",
+    "building_type": "Obyekt",
+    "location_id": "1",
+    "location_name": "Nəriman Nərimanov",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6509311",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 4000,
+        "date": "2026-10-02T14:35:48.891588+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6508359",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F16%2F53%2F21%2Fd3d6eadd-649d-4d77-9288-48663f3bf0a2%2F75546_pbjMCt76cJ8QXTtI_LhkmQ.jpg",
+    "price": 700,
+    "location": "İçəri Şəhər m.",
+    "area_m2": 33,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.36147989634204,
+    "lng": 49.82272560002595,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-01T17:21:44+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir obyekt 33 m²",
+    "description": "Elmlərdə Parlament pr. 20 saylı mektebin yaxınlığında mehleye düşən obyekt Gozellik salonu butun avadanliqlarla birlikdə icareye verilir. Sanuzel, metbex var. 33 kv.m sahesi var.\nQiymət 700 AZN \nOfis xidmət haqqı 30% təşkil edir.",
+    "building_type": "Obyekt",
+    "location_id": "37",
+    "location_name": "İçəri Şəhər",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6508359",
+    "deleted_at": "2026-10-06T19:32:04.860503+00:00",
+    "price_history": [
+      {
+        "price": 700,
+        "date": "2026-10-02T14:51:35.962262+00:00"
       }
     ]
   },

@@ -565,105 +565,6 @@
     "rooms": "2 otaqlı"
   },
   {
-    "id": "6516125",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F17%2F18%2F15%2F726b3b71-02e3-4579-bf89-034e8ed311b0%2F16148_BbkkCHZyWLbYViavEEKYFQ.jpg",
-    "price": 27900,
-    "location": "Şah İsmayıl Xətai m.",
-    "area_m2": 930,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.38360347958694,
-    "lng": 49.88161771525986,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-05T17:36:44+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 20 otaqlı ofis 930 m²",
-    "description": "​White City-də premium klassa aid ofislər icarəyə verilir\r\n​Mərtəbə: 11 mərtəbəli bina (ofislər 3-dən 9-cu mərtəbəyədək yerləşir).\r\n​Sahə: 42 m²-dən 930 m²-dək (1 000 m²-dək götürmək mümkündür).\r\n​Vəziyyəti: Tam təmirli, istifadəyə hazır (yalnız mebel lazımdır).\r\n​Təchizat: Mitsubishi markalı havalandırma, kondisioner və lift sistemləri. Açılan pəncərələr.\r\n​Qiymətə daxildir: Resepşn, təmizlik, lift xidməti, isti və soyuq su.\r\n​Parkinq: Hər 42 m² üçün 1 pulsuz parkinq yeri.\r\n​İcarəçi tərəfindən ödənilir: Elektrik enerjisi və internet.\r\n​Biznesiniz üçün çox əlverişli yerləşmə və rahat infrastruktura.\r\n​Текст на русском языке:\r\n​Сдаются офисы премиум-класса в White City\r\n​Этажность: 11-этажное здание (офисы расположены с 3 по 9 этаж).\r\n​Площадь: от 42 м² до 930 м² (возможность аренды до 1 000 м²).\r\n​Состояние: Новый качественный ремонт, офисы готовы к эксплуатации (требуется только мебель).\r\n​Оснащение: Вентиляция, кондиционирование и лифты марки Mitsubishi. Открывающиеся окна.\r\n​В стоимость входит: Ресепшн, уборка, обслуживание лифтов, горячая и холодная вода.\r\n​Парковка: 1 бесплатное парковочное место на каждые 42 м².\r\n​Оплата арендатором: Электричество и интернет.\r\n​Отличное расположение и удобная инфраструктура для вашего бизнеса.",
-    "building_type": "Ofis",
-    "location_id": "36",
-    "location_name": "Şah İsmayıl Xətai",
-    "category": "office",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6516125",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 27900,
-        "date": "2026-10-04T16:35:35.580738+00:00"
-      }
-    ],
-    "rooms": "20 otaqlı"
-  },
-  {
-    "id": "6516112",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F17%2F13%2F07%2F3e622571-b325-47d7-83e1-5538935c6214%2F4902_AsaUuNFgabGuwDez4DFt1Q.jpg",
-    "price": 2590,
-    "location": "Şah İsmayıl Xətai m.",
-    "area_m2": 74,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.38363143831732,
-    "lng": 49.8816868601422,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-05T17:37:19+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı ofis 74 m²",
-    "description": "​White City-də premium klassa aid ofislər icarəyə verilir\r\n​Mərtəbə: 11 mərtəbəli bina (ofislər 3-dən 9-cu mərtəbəyədək yerləşir).\r\n​Sahə: 42 m²-dən 142 m²-dək (1 000 m²-dək götürmək mümkündür).\r\n​Vəziyyəti: Tam təmirli, istifadəyə hazır (yalnız mebel lazımdır).\r\n​Təchizat: Mitsubishi markalı havalandırma, kondisioner və lift sistemləri. Açılan pəncərələr.\r\n​Qiymətə daxildir: Resepşn, təmizlik, lift xidməti, isti və soyuq su.\r\n​Parkinq: Hər 42 m² üçün 1 pulsuz parkinq yeri.\r\n​İcarəçi tərəfindən ödənilir: Elektrik enerjisi və internet.\r\n​Biznesiniz üçün çox əlverişli yerləşmə və rahat infrastruktura.\r\n​Текст на русском языке:\r\n​Сдаются офисы премиум-класса в White City\r\n​Этажность: 11-этажное здание (офисы расположены с 3 по 9 этаж).\r\n​Площадь: от 42 м² до 142 м² (возможность аренды до 1 000 м²).\r\n​Состояние: Новый качественный ремонт, офисы готовы к эксплуатации (требуется только мебель).\r\n​Оснащение: Вентиляция, кондиционирование и лифты марки Mitsubishi. Открывающиеся окна.\r\n​В стоимость входит: Ресепшн, уборка, обслуживание лифтов, горячая и холодная вода.\r\n​Парковка: 1 бесплатное парковочное место на каждые 42 м².\r\n​Оплата арендатором: Электричество и интернет.\r\n​Отличное расположение и удобная инфраструктура для вашего бизнеса.",
-    "building_type": "Ofis",
-    "location_id": "36",
-    "location_name": "Şah İsmayıl Xətai",
-    "category": "office",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6516112",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 2590,
-        "date": "2026-10-04T16:35:35.580722+00:00"
-      }
-    ],
-    "rooms": "2 otaqlı"
-  },
-  {
-    "id": "6516100",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F17%2F08%2F43%2F92d282f6-62d4-4584-b401-46bc7d308bb3%2F75491_8UQz2dhpuCM9mKsTTRmVtg.jpg",
-    "price": 1435,
-    "location": "Şah İsmayıl Xətai m.",
-    "area_m2": 42,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.3832226795864,
-    "lng": 49.88198054427889,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-05T17:38:00+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı ofis 42 m²",
-    "description": "​White City-də premium klassa aid ofislər icarəyə verilir\r\n​Mərtəbə: 11 mərtəbəli bina (ofislər 3-dən 9-cu mərtəbəyədək yerləşir).\r\n​Sahə: 42 m²-dən 142 m²-dək (1 000 m²-dək götürmək mümkündür).\r\n​Vəziyyəti: Tam təmirli, istifadəyə hazır (yalnız mebel lazımdır).\r\n​Təchizat: Mitsubishi markalı havalandırma, kondisioner və lift sistemləri. Açılan pəncərələr.\r\n​Qiymətə daxildir: Resepşn, təmizlik, lift xidməti, isti və soyuq su.\r\n​Parkinq: Hər 42 m² üçün 1 pulsuz parkinq yeri.\r\n​İcarəçi tərəfindən ödənilir: Elektrik enerjisi və internet.\r\n​Biznesiniz üçün çox əlverişli yerləşmə və rahat infrastruktura.\r\n​Текст на русском языке:\r\n​Сдаются офисы премиум-класса в White City\r\n​Этажность: 11-этажное здание (офисы расположены с 3 по 9 этаж).\r\n​Площадь: от 42 м² до 142 м² (возможность аренды до 1 000 м²).\r\n​Состояние: Новый качественный ремонт, офисы готовы к эксплуатации (требуется только мебель).\r\n​Оснащение: Вентиляция, кондиционирование и лифты марки Mitsubishi. Открывающиеся окна.\r\n​В стоимость входит: Ресепшн, уборка, обслуживание лифтов, горячая и холодная вода.\r\n​Парковка: 1 бесплатное парковочное место на каждые 42 м².\r\n​Оплата арендатором: Электричество и интернет.\r\n​Отличное расположение и удобная инфраструктура для вашего бизнеса.",
-    "building_type": "Ofis",
-    "location_id": "36",
-    "location_name": "Şah İsmayıl Xətai",
-    "category": "office",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6516100",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1435,
-        "date": "2026-10-04T16:35:35.580706+00:00"
-      }
-    ],
-    "rooms": "2 otaqlı"
-  },
-  {
     "id": "6514824",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F00%2F43%2F00%2F010705c4-037d-402c-98bd-0826e876113c%2F75501_6vZIi8v0HjCiviCnYUFnvg.jpg",
     "price": 400,
@@ -728,5 +629,104 @@
       }
     ],
     "rooms": "1 otaqlı"
+  },
+  {
+    "id": "6516125",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F17%2F18%2F15%2F726b3b71-02e3-4579-bf89-034e8ed311b0%2F16148_BbkkCHZyWLbYViavEEKYFQ.jpg",
+    "price": 27900,
+    "location": "Şah İsmayıl Xətai m.",
+    "area_m2": 930,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.38360347958694,
+    "lng": 49.88161771525986,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T17:36:42+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 20 otaqlı ofis 930 m²",
+    "description": "​White City-də premium klassa aid ofislər icarəyə verilir\r\n​Mərtəbə: 11 mərtəbəli bina (ofislər 3-dən 9-cu mərtəbəyədək yerləşir).\r\n​Sahə: 42 m²-dən 930 m²-dək (1 000 m²-dək götürmək mümkündür).\r\n​Vəziyyəti: Tam təmirli, istifadəyə hazır (yalnız mebel lazımdır).\r\n​Təchizat: Mitsubishi markalı havalandırma, kondisioner və lift sistemləri. Açılan pəncərələr.\r\n​Qiymətə daxildir: Resepşn, təmizlik, lift xidməti, isti və soyuq su.\r\n​Parkinq: Hər 42 m² üçün 1 pulsuz parkinq yeri.\r\n​İcarəçi tərəfindən ödənilir: Elektrik enerjisi və internet.\r\n​Biznesiniz üçün çox əlverişli yerləşmə və rahat infrastruktura.\r\n​Текст на русском языке:\r\n​Сдаются офисы премиум-класса в White City\r\n​Этажность: 11-этажное здание (офисы расположены с 3 по 9 этаж).\r\n​Площадь: от 42 м² до 930 м² (возможность аренды до 1 000 м²).\r\n​Состояние: Новый качественный ремонт, офисы готовы к эксплуатации (требуется только мебель).\r\n​Оснащение: Вентиляция, кондиционирование и лифты марки Mitsubishi. Открывающиеся окна.\r\n​В стоимость входит: Ресепшн, уборка, обслуживание лифтов, горячая и холодная вода.\r\n​Парковка: 1 бесплатное парковочное место на каждые 42 м².\r\n​Оплата арендатором: Электричество и интернет.\r\n​Отличное расположение и удобная инфраструктура для вашего бизнеса.",
+    "building_type": "Ofis",
+    "location_id": "36",
+    "location_name": "Şah İsmayıl Xətai",
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6516125",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 27900,
+        "date": "2026-10-04T16:35:35.580738+00:00"
+      }
+    ],
+    "rooms": "20 otaqlı"
+  },
+  {
+    "id": "6516100",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F17%2F08%2F45%2Fe788a150-a6c5-4d14-a506-6b5da3d554e4%2F75532_9ntm7d2oVSkYeGoL73lCBQ.jpg",
+    "price": 1435,
+    "location": "Şah İsmayıl Xətai m.",
+    "area_m2": 42,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.3832226795864,
+    "lng": 49.88198054427889,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T19:57:23+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı ofis 42 m²",
+    "description": "​White City-də premium klassa aid ofislər icarəyə verilir\r\n​Mərtəbə: 11 mərtəbəli bina (ofislər 3-dən 9-cu mərtəbəyədək yerləşir).\r\n​Sahə: 42 m²-dən 142 m²-dək (1 000 m²-dək götürmək mümkündür).\r\n​Vəziyyəti: Tam təmirli, istifadəyə hazır (yalnız mebel lazımdır).\r\n​Təchizat: Mitsubishi markalı havalandırma, kondisioner və lift sistemləri. Açılan pəncərələr.\r\n​Qiymətə daxildir: Resepşn, təmizlik, lift xidməti, isti və soyuq su.\r\n​Parkinq: Hər 42 m² üçün 1 pulsuz parkinq yeri.\r\n​İcarəçi tərəfindən ödənilir: Elektrik enerjisi və internet.\r\n​Biznesiniz üçün çox əlverişli yerləşmə və rahat infrastruktura.\r\n​Текст на русском языке:\r\n​Сдаются офисы премиум-класса в White City\r\n​Этажность: 11-этажное здание (офисы расположены с 3 по 9 этаж).\r\n​Площадь: от 42 м² до 142 м² (возможность аренды до 1 000 м²).\r\n​Состояние: Новый качественный ремонт, офисы готовы к эксплуатации (требуется только мебель).\r\n​Оснащение: Вентиляция, кондиционирование и лифты марки Mitsubishi. Открывающиеся окна.\r\n​В стоимость входит: Ресепшн, уборка, обслуживание лифтов, горячая и холодная вода.\r\n​Парковка: 1 бесплатное парковочное место на каждые 42 м².\r\n​Оплата арендатором: Электричество и интернет.\r\n​Отличное расположение и удобная инфраструктура для вашего бизнеса.",
+    "building_type": "Ofis",
+    "location_id": "36",
+    "location_name": "Şah İsmayıl Xətai",
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6516100",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1435,
+        "date": "2026-10-04T16:35:35.580706+00:00"
+      }
+    ],
+    "rooms": "1 otaqlı"
+  },
+  {
+    "id": "6516112",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F17%2F13%2F06%2F143335ec-38cb-4faf-8555-2fb93e4eb183%2F66669_2h-gycfKjQopbXsxMTNIEw.jpg",
+    "price": 2590,
+    "location": "Şah İsmayıl Xətai m.",
+    "area_m2": 74,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.38363143831732,
+    "lng": 49.8816868601422,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T19:57:32+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı ofis 74 m²",
+    "description": "​White City-də premium klassa aid ofislər icarəyə verilir\r\n​Mərtəbə: 11 mərtəbəli bina (ofislər 3-dən 9-cu mərtəbəyədək yerləşir).\r\n​Sahə: 42 m²-dən 142 m²-dək (1 000 m²-dək götürmək mümkündür).\r\n​Vəziyyəti: Tam təmirli, istifadəyə hazır (yalnız mebel lazımdır).\r\n​Təchizat: Mitsubishi markalı havalandırma, kondisioner və lift sistemləri. Açılan pəncərələr.\r\n​Qiymətə daxildir: Resepşn, təmizlik, lift xidməti, isti və soyuq su.\r\n​Parkinq: Hər 42 m² üçün 1 pulsuz parkinq yeri.\r\n​İcarəçi tərəfindən ödənilir: Elektrik enerjisi və internet.\r\n​Biznesiniz üçün çox əlverişli yerləşmə və rahat infrastruktura.\r\n​Текст на русском языке:\r\n​Сдаются офисы премиум-класса в White City\r\n​Этажность: 11-этажное здание (офисы расположены с 3 по 9 этаж).\r\n​Площадь: от 42 м² до 142 м² (возможность аренды до 1 000 м²).\r\n​Состояние: Новый качественный ремонт, офисы готовы к эксплуатации (требуется только мебель).\r\n​Оснащение: Вентиляция, кондиционирование и лифты марки Mitsubishi. Открывающиеся окна.\r\n​В стоимость входит: Ресепшн, уборка, обслуживание лифтов, горячая и холодная вода.\r\n​Парковка: 1 бесплатное парковочное место на каждые 42 м².\r\n​Оплата арендатором: Электричество и интернет.\r\n​Отличное расположение и удобная инфраструктура для вашего бизнеса.",
+    "building_type": "Ofis",
+    "location_id": "36",
+    "location_name": "Şah İsmayıl Xətai",
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6516112",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 2590,
+        "date": "2026-10-04T16:35:35.580722+00:00"
+      }
+    ],
+    "rooms": "2 otaqlı"
   }
 ]

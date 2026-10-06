@@ -1152,38 +1152,6 @@
     ]
   },
   {
-    "id": "6512266",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F22%2F50%2F13%2F453add0e-5e4d-48e2-8934-3f546e4c9134%2F66669_q99k1ZTRyBi0Waz51D4JNg.jpg",
-    "price": 700,
-    "location": "Nizami m.",
-    "area_m2": 90,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.38422761456151,
-    "lng": 49.83394055803226,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-03T14:12:12+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir obyekt 90 m²",
-    "description": "90 m² Depo-Anbar — İcarəyə Verilir |Kubinkada\r\n\r\nKubinkada, Zabitlər Bağı və Təzə Bazara yaxın ərazidə 90 m² geniş depo-anbar icarəyə verilir.\r\n\r\nObyekt quru, təmiz və genişdir. Girişi rahatdır, avtomobillə giriş imkanı var. Daimi işıqlandırma mövcuddur.\r\n\r\n📍 Zabitlər Bağına yaxın\r\n📍 Təzə Bazara yaxın\r\n📍 Nizami metrosuna yaxın\r\n📍 Caspian Plaza yaxınlığı\r\n📍 Tarqovuya təxminən 5 dəqiqəlik məsafədə\r\n\r\nUzunmüddətli və ciddi müştərilərə üstünlük verilir.\r\n\r\n💰 Qiymət: 700 AZN\r\nReal müştəri ilə qiymətdə razılaşmaq mümkündür.\r\n\r\nƏtraflı məlumat üçün əlaqə saxlaya bilərsiniz.\r\n",
-    "building_type": "Obyekt",
-    "location_id": "35",
-    "location_name": "Nizami",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6512266",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 700,
-        "date": "2026-10-03T19:31:58.165902+00:00"
-      }
-    ]
-  },
-  {
     "id": "6414016",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F28%2F16%2F00%2F56%2Ff60bdb10-6b82-4d10-b2b3-83307f1301a8%2F68146_GRl1CIxkEyUHIAaYFeCSkA.jpg",
     "price": 1500,
@@ -1212,38 +1180,6 @@
       {
         "price": 1500,
         "date": "2026-10-03T19:31:58.164819+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6513287",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F14%2F17%2F58%2Fac361958-c3bf-4779-8982-267ce54b715b%2F75487_UZpsvhuZBLqC6-RmaKNqbg.jpg",
-    "price": 2700,
-    "location": "28 May m.",
-    "area_m2": 180,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.38133443613841,
-    "lng": 49.84642224880984,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-03T14:18:31+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir obyekt 180 m²",
-    "description": "Obyekt tam Azadlıq prospektinin üstündə yerləşir. \r\n28 may tərəfə gedəndə sağ tərəfdədir. 180 kv metrdir. Qiyməti 2700 manatdır.XİDMƏT HAQQI 30 FAİZDİR.",
-    "building_type": "Obyekt",
-    "location_id": "8",
-    "location_name": "28 May",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6513287",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 2700,
-        "date": "2026-10-03T19:31:58.164810+00:00"
       }
     ]
   },
@@ -1756,38 +1692,6 @@
       {
         "price": 3500,
         "date": "2026-10-03T19:31:58.164373+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6513875",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F16%2F36%2F19%2F3ba171fa-a086-4e5d-a88e-1fa2953b306e%2F5012_0zMqbqVvBzR2K74aGPRayw.jpg",
-    "price": 2200,
-    "location": "Nəsimi r.",
-    "area_m2": 100,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.39207560154718,
-    "lng": 49.84540903641874,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-03T16:43:22+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir obyekt 100 m²",
-    "description": "Gənclikdə. Gənclik metrosunun yaxınlığında, Dədə Qorqud parkının və kola parkının yaxınlığında, Ceyhun Hacıbəyli küçəsində düz yolun üstündə insanların və maşınların sıx hərəkətdə olduğu yerdə 100 kv metr sahəsi olan tam təmirli obiyekt icarəyə verilir.\r\n\r\nƏlavə məlumatla bağlı əlaqə saxlaya bilərsiz",
-    "building_type": "Obyekt",
-    "location_id": "190",
-    "location_name": "Nəsimi",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6513875",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 2200,
-        "date": "2026-10-03T19:31:58.164364+00:00"
       }
     ]
   },
@@ -2628,38 +2532,6 @@
     ]
   },
   {
-    "id": "6512548",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F10%2F47%2F44%2F78d50228-b44d-4f12-8da1-fae7c317e609%2F36766_wyz38vZ3yatUqgBSqQpi4A.jpg",
-    "price": 22000,
-    "location": "Sahil m.",
-    "area_m2": 800,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.37108165996838,
-    "lng": 49.84020149496065,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-06T15:30:09+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir obyekt 800 m²",
-    "description": "Şəhərin Mərkəzində 17 otaqdan ibarət otel icarə verilir \r\nOtel otaqları Standart Standar Dubl  Delux DElux dubl və Vip\r\nolaraq bölünür \r\nözünə aid Səhər yeməyi üçün zona mövcuddur \r\nƏtraflı məlumat və baxış keçirmək üçün əlaqə saxlayın  ",
-    "building_type": "Obyekt",
-    "location_id": "38",
-    "location_name": "Sahil",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6512548",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 22000,
-        "date": "2026-10-03T19:31:58.165601+00:00"
-      }
-    ]
-  },
-  {
     "id": "6029062",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F08%2F14%2F11%2F29%2F9cc5e5f3-0a45-44e3-8b8b-baa1a10866c2%2F83405_bFaB0ox_G2-2rkaQnWeFrQ.jpg",
     "price": 2700,
@@ -2756,6 +2628,70 @@
     ]
   },
   {
+    "id": "6513287",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F14%2F17%2F58%2Fac361958-c3bf-4779-8982-267ce54b715b%2F75487_UZpsvhuZBLqC6-RmaKNqbg.jpg",
+    "price": 2700,
+    "location": "28 May m.",
+    "area_m2": 180,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.38133443613841,
+    "lng": 49.84642224880984,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T21:38:04+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir obyekt 180 m²",
+    "description": "Obyekt tam Azadlıq prospektinin üstündə yerləşir. \r\n28 may tərəfə gedəndə sağ tərəfdədir. 180 kv metrdir. Qiyməti 2700 manatdır.XİDMƏT HAQQI 30 FAİZDİR.",
+    "building_type": "Obyekt",
+    "location_id": "8",
+    "location_name": "28 May",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6513287",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 2700,
+        "date": "2026-10-03T19:31:58.164810+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6512548",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F10%2F47%2F44%2F78d50228-b44d-4f12-8da1-fae7c317e609%2F36766_wyz38vZ3yatUqgBSqQpi4A.jpg",
+    "price": 22000,
+    "location": "Sahil m.",
+    "area_m2": 800,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.37108165996838,
+    "lng": 49.84020149496065,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T23:30:10+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir obyekt 800 m²",
+    "description": "Şəhərin Mərkəzində 17 otaqdan ibarət otel icarə verilir \r\nOtel otaqları Standart Standar Dubl  Delux DElux dubl və Vip\r\nolaraq bölünür \r\nözünə aid Səhər yeməyi üçün zona mövcuddur \r\nƏtraflı məlumat və baxış keçirmək üçün əlaqə saxlayın  ",
+    "building_type": "Obyekt",
+    "location_id": "38",
+    "location_name": "Sahil",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6512548",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 22000,
+        "date": "2026-10-03T19:31:58.165601+00:00"
+      }
+    ]
+  },
+  {
     "id": "6512126",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F20%2F51%2F06%2F17c41da7-dfdb-47a9-b1d1-de0738e640f1%2F37623_9jVvE0nM1JucShwNc6seFA.jpg",
     "price": 400,
@@ -2816,6 +2752,70 @@
       {
         "price": 1300,
         "date": "2026-10-03T19:31:58.165529+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6512266",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F22%2F50%2F13%2F453add0e-5e4d-48e2-8934-3f546e4c9134%2F66669_q99k1ZTRyBi0Waz51D4JNg.jpg",
+    "price": 700,
+    "location": "Nizami m.",
+    "area_m2": 90,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38422761456151,
+    "lng": 49.83394055803226,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-03T14:12:12+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir obyekt 90 m²",
+    "description": "90 m² Depo-Anbar — İcarəyə Verilir |Kubinkada\r\n\r\nKubinkada, Zabitlər Bağı və Təzə Bazara yaxın ərazidə 90 m² geniş depo-anbar icarəyə verilir.\r\n\r\nObyekt quru, təmiz və genişdir. Girişi rahatdır, avtomobillə giriş imkanı var. Daimi işıqlandırma mövcuddur.\r\n\r\n📍 Zabitlər Bağına yaxın\r\n📍 Təzə Bazara yaxın\r\n📍 Nizami metrosuna yaxın\r\n📍 Caspian Plaza yaxınlığı\r\n📍 Tarqovuya təxminən 5 dəqiqəlik məsafədə\r\n\r\nUzunmüddətli və ciddi müştərilərə üstünlük verilir.\r\n\r\n💰 Qiymət: 700 AZN\r\nReal müştəri ilə qiymətdə razılaşmaq mümkündür.\r\n\r\nƏtraflı məlumat üçün əlaqə saxlaya bilərsiniz.\r\n",
+    "building_type": "Obyekt",
+    "location_id": "35",
+    "location_name": "Nizami",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6512266",
+    "deleted_at": "2026-10-06T19:32:04.860529+00:00",
+    "price_history": [
+      {
+        "price": 700,
+        "date": "2026-10-03T19:31:58.165902+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6513875",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F16%2F36%2F19%2F3ba171fa-a086-4e5d-a88e-1fa2953b306e%2F5012_0zMqbqVvBzR2K74aGPRayw.jpg",
+    "price": 2200,
+    "location": "Nəsimi r.",
+    "area_m2": 100,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.39207560154718,
+    "lng": 49.84540903641874,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-03T16:43:22+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir obyekt 100 m²",
+    "description": "Gənclikdə. Gənclik metrosunun yaxınlığında, Dədə Qorqud parkının və kola parkının yaxınlığında, Ceyhun Hacıbəyli küçəsində düz yolun üstündə insanların və maşınların sıx hərəkətdə olduğu yerdə 100 kv metr sahəsi olan tam təmirli obiyekt icarəyə verilir.\r\n\r\nƏlavə məlumatla bağlı əlaqə saxlaya bilərsiz",
+    "building_type": "Obyekt",
+    "location_id": "190",
+    "location_name": "Nəsimi",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6513875",
+    "deleted_at": "2026-10-06T19:32:04.860534+00:00",
+    "price_history": [
+      {
+        "price": 2200,
+        "date": "2026-10-03T19:31:58.164364+00:00"
       }
     ]
   },
