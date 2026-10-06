@@ -35,6 +35,7 @@ let activeTab   = 'listings';
 let activeModal = null;
 
 const cache = {};
+let manifestCache = null;
 let allListings = [];
 let filtered = [];
 let loading = false;
@@ -92,14 +93,29 @@ function normName(s) {
 }
 
 // ── Data loading ──────────────────────────────────────────────────────────────
+async function loadManifest() {
+  if (manifestCache) return manifestCache;
+  try {
+    const res = await fetch('data/manifest.json');
+    if (!res.ok) throw new Error(res.status);
+    manifestCache = await res.json();
+  } catch { manifestCache = {}; }
+  return manifestCache;
+}
+
 async function loadFile(cat, type) {
   const key = `${cat}_${type}`;
   if (cache[key]) return cache[key];
-  try {
-    const res = await fetch(`data/${cat}_${type}.json`);
-    if (!res.ok) throw new Error(res.status);
-    cache[key] = await res.json();
-  } catch { cache[key] = []; }
+  const manifest = await loadManifest();
+  const stem = `${cat}_${type}`;
+  const dates = manifest[stem] || [];
+  if (!dates.length) { cache[key] = []; return cache[key]; }
+  const results = await Promise.all(
+    dates.map(d => fetch(`data/${stem}_${d}.json`).then(r => r.ok ? r.json() : []).catch(() => []))
+  );
+  const merged = new Map();
+  for (const arr of results) for (const l of arr) merged.set(l.id, l);
+  cache[key] = [...merged.values()];
   return cache[key];
 }
 

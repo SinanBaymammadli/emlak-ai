@@ -1,0 +1,270 @@
+[
+  {
+    "id": "6507502",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F13%2F49%2F38%2F19f57e5b-1d95-4c90-bb7e-43d44c47c335%2F16140_wdkmTFCkI-ggLf65Jgs0Aw.jpg",
+    "price": 20000,
+    "location": "Elmlər Akademiyası m.",
+    "rooms": "",
+    "area_m2": 25,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.37871971519131,
+    "lng": 49.80693506347656,
+    "has_repair": null,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-01T16:57:12+04:00",
+    "is_featured": false,
+    "title": "Satılır qaraj 25 m²",
+    "description": "Həsən Bəy Zərdabi kucəsi 24 kv sənəd Bələdiyyə",
+    "building_type": "Qaraj",
+    "location_id": "34",
+    "location_name": "Elmlər Akademiyası",
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6507502",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 20000,
+        "date": "2026-10-02T14:50:57.978292+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6509479",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F09%2F50%2F56%2F25b35a62-3d2e-4d38-b17c-df7be6222532%2F75545_Ai3tfTyhlUHpQpzdELB2kA.jpg",
+    "price": 65000,
+    "location": "Nərimanov r.",
+    "rooms": "",
+    "area_m2": 40,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.3921060906405,
+    "lng": 49.85737990651409,
+    "has_repair": null,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-02T09:52:37+04:00",
+    "is_featured": false,
+    "title": "Satılır qaraj 40 m²",
+    "description": "Nərimanov R. Təbriz küçəsində, (çapayev) yeni tikili binada, qaraj satılır.  \r\n\r\nAy-1 MTK -tikdiyi bina, yaşayışa təhvil verilib.\r\n\r\nBina çox əlverişli yerdə yerləşir.\r\n\r\nİki qaraj-40kv. Rahat 2-maşın daxil olur.\r\n\r\nTək-təkdə satılır.\r\n\r\nSənəd Müqavilə, \r\n\r\nYaxın zamanda binaya Çıxarış veriləcək.\r\n\r\nBarter etmək mümkündür.",
+    "building_type": "Qaraj",
+    "location_id": "10",
+    "location_name": "Nərimanov",
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6509479",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 65000,
+        "date": "2026-10-02T14:35:37.394600+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6228421",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F20%2F19%2F18%2F10%2Fb2a06ce1-1da4-45c3-a47e-35d772ca7a5b%2F30726_7zLfwd66Wcuah_cjsO9gGA.jpg",
+    "price": 42000,
+    "location": "Gənclik m.",
+    "rooms": "",
+    "area_m2": 18,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.40325603231286,
+    "lng": 49.85420685488656,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-02T14:12:43+04:00",
+    "is_featured": false,
+    "title": "Satılır qaraj 18 m²",
+    "description": "KUPÇALI...\r\nGənclik metrosuna 3 dəqiqə piyada məsafədə İnqilabda kupçada 18 kv sahəsi olan daş qaraj satılır. Qaraj məhlə içindədir və yanında bərbər yeri, meyve terevez, ofis var (əvvəl daş qaraj olub). Ətraflı məlumat üçün əlaqə saxlayın. Real alıcıya cuzi endirim olacaq!! Ofis haqqı 500azn",
+    "building_type": "Qaraj",
+    "location_id": "2",
+    "location_name": "Gənclik",
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6228421",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 42000,
+        "date": "2026-10-02T14:35:37.394520+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6510863",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F15%2F16%2F27%2Fe508645d-bafa-4395-bfea-f81aba705060%2F16169_oI-MQpLiLFQ-CL3AtnwQOg.jpg",
+    "price": 36000,
+    "location": "Memar Əcəmi m.",
+    "rooms": "",
+    "area_m2": 28,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.40903339334785,
+    "lng": 49.81093437678751,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-02T15:18:18+04:00",
+    "is_featured": false,
+    "title": "Satılır qaraj 28 m²",
+    "description": "Daşla tikilmiş qarajdır, obyekt üçün yararlıdır",
+    "building_type": "Qaraj",
+    "location_id": "59",
+    "location_name": "Memar Əcəmi",
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6510863",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 36000,
+        "date": "2026-10-02T14:35:37.394495+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6510903",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F15%2F25%2F30%2Ff17d660e-ebca-48c7-8a02-044f40e09ef1%2F16143_ewyPzBoJbD9hVCgm5kUz5Q.jpg",
+    "price": 18000,
+    "location": "Xalqlar Dostluğu m.",
+    "rooms": "",
+    "area_m2": 22,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.39400692760681,
+    "lng": 49.95673721267691,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-02T15:29:44+04:00",
+    "is_featured": false,
+    "title": "Satılır qaraj 22 m²",
+    "description": "S.Ə. Şirvani küçəsində 86 saylı binanın qarşısında tam təmirli, sənədli, elektrik sayğaclı geniş daş tikili qaraj.",
+    "building_type": "Qaraj",
+    "location_id": "54",
+    "location_name": "Xalqlar Dostluğu",
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6510903",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 18000,
+        "date": "2026-10-02T14:35:37.394483+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6510918",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F15%2F30%2F07%2Fdaaf2e84-501e-43ff-8c09-460b39c784e0%2F16169_FLnzaIkd5Xk9XdnhmaUFkw.jpg",
+    "price": 18000,
+    "location": "Xalqlar Dostluğu m.",
+    "rooms": "",
+    "area_m2": 22,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.39411589960543,
+    "lng": 49.95672094176282,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-02T15:32:00+04:00",
+    "is_featured": false,
+    "title": "Satılır qaraj 22 m²",
+    "description": "Tam təmirli , sənədli , rəsmi elektrik sayğaclı daş qaraj. ",
+    "building_type": "Qaraj",
+    "location_id": "54",
+    "location_name": "Xalqlar Dostluğu",
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6510918",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 18000,
+        "date": "2026-10-02T14:35:37.394468+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6328134",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F28%2F15%2F23%2F12%2Ffa17b278-5a35-44c0-92be-02644612b774%2F64446_8RfWIMMQNaOt33Oav-0wlg.jpg",
+    "price": 25000,
+    "location": "Memar Əcəmi m.",
+    "rooms": "",
+    "area_m2": 18,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.41329049889505,
+    "lng": 49.80998547920185,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-03T14:30:16+04:00",
+    "is_featured": false,
+    "title": "Satılır qaraj 18 m²",
+    "description": "",
+    "building_type": "Qaraj",
+    "location_id": "59",
+    "location_name": "Memar Əcəmi",
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6328134",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 30000,
+        "date": "2026-10-02T14:50:57.978238+00:00"
+      },
+      {
+        "price": 25000,
+        "date": "2026-10-03T19:31:56.986744+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6384777",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F17%2F22%2F45%2F16%2Fc7176632-949c-43b3-8fe8-2b3b39311a86%2F12553_YadhW8k1RR1TtHXQNi5-5g.jpg",
+    "price": 23500,
+    "location": "8 Noyabr m.",
+    "rooms": "",
+    "area_m2": 10.4,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.39599312648016,
+    "lng": 49.8146263195589,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-04T13:04:43+04:00",
+    "is_featured": false,
+    "title": "Satılır qaraj 10.4 m²",
+    "description": "Grand Həyat yaşayış kompleksi, Bina 1, -3 düz liftin yanında şəxsi qaraj təcili satılır. Sənəd kupçadır. ",
+    "building_type": "Qaraj",
+    "location_id": "279",
+    "location_name": "8 Noyabr",
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6384777",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 23500,
+        "date": "2026-10-02T14:35:37.394546+00:00"
+      }
+    ]
+  }
+]

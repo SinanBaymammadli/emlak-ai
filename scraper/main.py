@@ -11,6 +11,7 @@ import asyncio
 import json
 import os
 import urllib.request
+from collections import defaultdict
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -77,24 +78,68 @@ def telegram_notify(text: str) -> None:
         print(f"  Telegram notify failed: {exc}")
 
 
-def load_existing(category: str, deal_type: str) -> dict[str, dict]:
-    path = DATA_DIR / f"{_file_stem(category, deal_type)}.json"
-    if not path.exists():
-        return {}
-    listings = _json_loads(path.read_text(encoding="utf-8"))
-    return {l["id"]: l for l in listings}
+_DATED_GLOB = "_20[0-9][0-9]-[0-9][0-9]-[0-9][0-9].json"
 
 
-def save_listings(category: str, deal_type: str, listings: dict[str, dict]) -> None:
+def load_existing(category: str, deal_type: str) -> tuple[dict[str, dict], dict[str, str]]:
+    stem = _file_stem(category, deal_type)
+    listings: dict[str, dict] = {}
+    file_map: dict[str, str] = {}
+    for path in sorted(DATA_DIR.glob(f"{stem}{_DATED_GLOB}")):
+        for l in _json_loads(path.read_text(encoding="utf-8")):
+            listings[l["id"]] = l
+            file_map[l["id"]] = path.name
+    return listings, file_map
+
+
+def _update_manifest(stem: str, filenames: set[str]) -> None:
+    manifest_path = DATA_DIR / "manifest.json"
+    try:
+        manifest = _json_loads(manifest_path.read_text(encoding="utf-8")) if manifest_path.exists() else {}
+    except Exception:
+        manifest = {}
+    existing_dates = set(manifest.get(stem, []))
+    for name in filenames:
+        # extract date from e.g. "apartment_sale_2026-10-06.json"
+        suffix = name[len(stem) + 1:-5]  # strip "{stem}_" prefix and ".json" suffix
+        if len(suffix) == 10:
+            existing_dates.add(suffix)
+    manifest[stem] = sorted(existing_dates)
+    output = _json_dumps(manifest)
+    manifest_path.write_text(output, encoding="utf-8")
+
+
+def save_listings(
+    category: str,
+    deal_type: str,
+    existing: dict[str, dict],
+    file_map: dict[str, str],
+    dirty_ids: set[str],
+    today_filename: str,
+) -> None:
     DATA_DIR.mkdir(exist_ok=True)
-    path = DATA_DIR / f"{_file_stem(category, deal_type)}.json"
-    sorted_listings = sorted(
-        listings.values(),
-        key=lambda l: (l["deleted_at"] is not None, l.get("updated_at_site") or ""),
-    )
-    output = _json_dumps(sorted_listings)
-    output = output.replace("\u2028", "\\u2028").replace("\u2029", "\\u2029")
-    path.write_text(output, encoding="utf-8")
+    stem = _file_stem(category, deal_type)
+
+    dirty_files = {file_map.get(id_, today_filename) for id_ in dirty_ids}
+    if not dirty_files:
+        return
+
+    # group all listings by their source file
+    by_file: dict[str, list] = defaultdict(list)
+    for id_, listing in existing.items():
+        by_file[file_map.get(id_, today_filename)].append(listing)
+
+    for filename in dirty_files:
+        path = DATA_DIR / filename
+        sorted_listings = sorted(
+            by_file.get(filename, []),
+            key=lambda l: (l["deleted_at"] is not None, l.get("updated_at_site") or ""),
+        )
+        output = _json_dumps(sorted_listings)
+        output = output.replace("\u2028", "\\u2028").replace("\u2029", "\\u2029")
+        path.write_text(output, encoding="utf-8")
+
+    _update_manifest(stem, dirty_files)
 
 
 # ── ESItem parsing ────────────────────────────────────────────────────────────
@@ -192,12 +237,14 @@ async def scrape_category(page, cfg: dict) -> None:
     deal_type = cfg["deal_type"]
     print(f"\n→ {category}/{deal_type}")
 
-    existing = load_existing(category, deal_type)
+    existing, file_map = load_existing(category, deal_type)
+    today_filename = f"{_file_stem(category, deal_type)}_{datetime.now(timezone.utc).date().isoformat()}.json"
     cat_id = CATEGORY_IDS[category]
     leased = deal_type == "rental"
 
     seen_ids: set[str] = set()
     new_ids: list[str] = []
+    dirty_ids: set[str] = set()
     counts = {"new": 0, "updated": 0, "unchanged": 0}
     cursor = None
     total_count = None
@@ -230,6 +277,10 @@ async def scrape_category(page, cfg: dict) -> None:
             counts[result] += 1
             if result == "new":
                 new_ids.append(item_id)
+                file_map[item_id] = today_filename
+                dirty_ids.add(item_id)
+            elif result == "updated":
+                dirty_ids.add(item_id)
 
         page_num += 1
         total_str = f"/{total_count}" if total_count else ""
@@ -284,11 +335,12 @@ async def scrape_category(page, cfg: dict) -> None:
         for id_, record in existing.items():
             if id_ not in seen_ids and not record.get("deleted_at"):
                 record["deleted_at"] = _now()
+                dirty_ids.add(id_)
                 deleted += 1
         if deleted:
             print(f"  marked {deleted} as deleted")
 
-    save_listings(category, deal_type, existing)
+    save_listings(category, deal_type, existing, file_map, dirty_ids, today_filename)
     print(
         f"  new={counts['new']} updated={counts['updated']} "
         f"unchanged={counts['unchanged']} → saved {len(existing)} total"
@@ -323,13 +375,21 @@ async def main(categories: list | None = None) -> None:
     )
 
     lines = ["✅ <b>emlak-ai scrape complete</b>"]
-    for f in sorted(DATA_DIR.glob("*.json")):
-        try:
-            listings = _json_loads(f.read_text(encoding="utf-8"))
-            active = sum(1 for l in listings if l.get("deleted_at") is None)
-            lines.append(f"  {f.stem}: {active} active")
-        except Exception:
-            pass
+    manifest_path = DATA_DIR / "manifest.json"
+    try:
+        manifest = _json_loads(manifest_path.read_text(encoding="utf-8")) if manifest_path.exists() else {}
+    except Exception:
+        manifest = {}
+    for stem, dates in sorted(manifest.items()):
+        total_active = 0
+        for date_str in dates:
+            path = DATA_DIR / f"{stem}_{date_str}.json"
+            try:
+                listings = _json_loads(path.read_text(encoding="utf-8"))
+                total_active += sum(1 for l in listings if l.get("deleted_at") is None)
+            except Exception:
+                pass
+        lines.append(f"  {stem}: {total_active} active")
     if errors:
         lines.append("\n⚠️ Errors:")
         lines.extend(f"  • {e}" for e in errors)

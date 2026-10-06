@@ -1,0 +1,134 @@
+[
+  {
+    "id": "6507411",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F13%2F28%2F34%2F888411a2-2fe8-4a93-882e-a030f9915229%2F75546_vg3pAT3EcJQBcCRg2LXsyg.jpg",
+    "price": 800000,
+    "location": "Şah İsmayıl Xətai m.",
+    "area_m2": 220,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38387651191373,
+    "lng": 49.8721063847171,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-01T13:31:08+04:00",
+    "is_featured": false,
+    "title": "Satılır 6 otaqlı ofis 220 m²",
+    "description": "📍Xetai metrosunun arxasinda 2-ci mertebede yerleshen, tam temirli ve eshyali 220kv ofis satilir. \r\n▪️6 otaq - genish ve funksional planlama ( ish otaqlari , rehberlik otaqi, iclas otaqi, ve s. ucun uygundur ) \r\n▪️2 sanuzel - emekdashlar ve qonaqlar ucun rahat istifade imkani. \r\n▪️Eshyali satilir- ofis mebelleri, kondisioner ve diger avadanliqlar daxildir. \r\n▪️Internet , telefon ve butun kommunikasiya xetleri hazirdir. \r\n▪️Binada daimi su, qaz , ishiq , rahat girish ve cixish var. \r\n✅ Huquq, maliyye , tehsil , dizayn , klinika , shirket numayendeliyi ve diger saheler uzre hazir shekilde istifade edile biler. \r\n📞Real aliciya endirim mumkundur. ",
+    "building_type": "Ofis",
+    "location_id": "36",
+    "location_name": "Şah İsmayıl Xətai",
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6507411",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 800000,
+        "date": "2026-10-01T12:04:32.417933+00:00"
+      }
+    ],
+    "rooms": "6 otaqlı"
+  },
+  {
+    "id": "6507686",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F14%2F25%2F17%2Fc54751af-12ae-4551-a3b2-8d005a97c0d8%2F38214_696kpIKmPIJCiA-64O_uyA.jpg",
+    "price": 695000,
+    "location": "Şah İsmayıl Xətai m.",
+    "area_m2": 250,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.38882595041879,
+    "lng": 49.8693625245477,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-01T14:32:07+04:00",
+    "is_featured": false,
+    "title": "Satılır 6 otaqlı ofis 250 m²",
+    "description": "Obyekt Xetai metrosu yaxinliqinda 18 mertebeli biznes merkezinin 10 cu mertebesinde yerlesir sahesi 250 kvm dir...cox gozel menzereli genis otaqlari var... seneti xususi mulkiyyet cixarisdir...qiymet endirim olunacaq...",
+    "building_type": "Ofis",
+    "location_id": "36",
+    "location_name": "Şah İsmayıl Xətai",
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6507686",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 695000,
+        "date": "2026-10-01T12:04:32.417921+00:00"
+      }
+    ],
+    "rooms": "6 otaqlı"
+  },
+  {
+    "id": "5760317",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F12%2F23%2F18%2F40%2F14%2F496f1b6b-2a2c-4c9c-8f95-e5de48514d69%2F22572_Rmszncw3msR53rFokRpvnQ.jpg",
+    "price": 3800000,
+    "location": "Ağ şəhər q.",
+    "area_m2": 840,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38149240594302,
+    "lng": 49.88565510020827,
+    "has_repair": false,
+    "has_bill_of_sale": false,
+    "has_mortgage": true,
+    "floor_number": null,
+    "updated_at_site": "2026-10-01T15:02:20+04:00",
+    "is_featured": false,
+    "title": "Satılır 20 otaqlı ofis 840 m²",
+    "description": "Ağ şəhərin mərkəzində muasir yaşayiş kompleksində umumi sahəsi 840kv ibarət dəniz göruntulu ofis tipli obyekt satilir. Obyekt barədə məlumat genişdi ətrafli muzakirə etmak mumkundu.",
+    "building_type": "Ofis",
+    "location_id": "314",
+    "location_name": "Ağ şəhər",
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5760317",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 3800000,
+        "date": "2026-10-01T12:04:32.417903+00:00"
+      }
+    ],
+    "rooms": "20 otaqlı"
+  },
+  {
+    "id": "5765081",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F12%2F25%2F19%2F30%2F06%2F8f2fb4e2-d591-4026-a263-25308c64076d%2F80707_kMuU2xyabcg9IvnwulRE8A.jpg",
+    "price": 1250000,
+    "location": "Nəriman Nərimanov m.",
+    "area_m2": 349,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.40886350128034,
+    "lng": 49.86515026766732,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": null,
+    "updated_at_site": "2026-10-01T15:06:14+04:00",
+    "is_featured": false,
+    "title": "Satılır 10 otaqlı ofis 349 m²",
+    "description": "Nərimanov və Gənclik metrolarinin yaxinliginda Şəhər baglari yaşayiş kompleksinin yaninda muasir yaşayiş kompleksinin 1-ci mərtəbəsində 349kv təmirli ofis tipli obyekt satilir. Obyekt Ofis, Tədris mərkəzi, Klinika, Uşag bağcasi və digər bizneslərə tam yararlidi. Obyektin video göruntusun vatsap vastəsiylə göstərmək mumkundu. Obyektin kupcasi var satişa tam hazirdi. Obyekt hazirda uzun mudətli mugavilə əsasinda 4000m icarəyə verilib fəaliyət göstərir.",
+    "building_type": "Ofis",
+    "location_id": "1",
+    "location_name": "Nəriman Nərimanov",
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5765081",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1250000,
+        "date": "2026-10-01T12:04:32.417591+00:00"
+      }
+    ],
+    "rooms": "10 otaqlı"
+  }
+]
