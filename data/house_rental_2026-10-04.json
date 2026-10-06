@@ -1,39 +1,5 @@
 [
   {
-    "id": "2511175",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2021%2F12%2F14%2F23%2F41%2F43%2F492ad232-2c0f-4aad-a159-06995e048cf5%2F10364_LcwxZriiFU3ulB8w5ygkHA.jpg",
-    "price": 2500,
-    "location": "Nardaran q.",
-    "location_id": "119",
-    "location_name": "Nardaran",
-    "rooms": null,
-    "area_m2": 300,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-09-05T12:46:47+04:00",
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/2511175",
-    "lat": 40.58527322219923,
-    "lng": 49.9933800423584,
-    "land_area_sot": 25,
-    "building_type": "Həyət evi/Bağ evi",
-    "title": "İcarəyə verilir həyət evi/bağ evi 300 m²",
-    "description": "Nardaran ekaloji temiz denize merkezi yola yaxin mesafede prestij sakit mekan modern yeni tehciz 25 sot 3 yataq 3 sanuzel 1 genis qonaq zali kombi kondisaner smart tv modern metbex fikterli hovuz bisteka manqal veranda balkon decorativ agaclar ideal yasliqla tehciz yolu asfalt bag ideal seraitde icareye verlir buryub zeng ede bilersiz",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 2500,
-        "date": "2026-10-04T18:34:13.061091+00:00"
-      }
-    ]
-  },
-  {
     "id": "2911838",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2022%2F07%2F28%2F12%2F43%2F32%2F59eab2b1-b15b-4689-83e6-68a99b3855c0%2F32138_eb7ZZoj6OtqGONQ9pSB2-w.jpg",
     "price": 1000,
@@ -200,40 +166,6 @@
       {
         "price": 15000,
         "date": "2026-10-04T18:34:01.037943+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6193043",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F08%2F00%2F58%2F42%2F97f8adef-738a-49c3-8e31-5c7c1ef6ff11%2F12693_IQzBVcPHN41Uz1Ow45Y9fw.jpg",
-    "price": 77000,
-    "location": "Mehdiabad q.",
-    "rooms": "3 otaqlı",
-    "area_m2": 80,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.50451929679878,
-    "lng": 49.84757434579698,
-    "has_repair": null,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-04T00:53:41+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 3 otaqlı həyət evi/bağ evi 80 m²",
-    "description": "Salam dəyərli müştərilər Mehdiabadda Yeni Tikili Rahat Həyət Evi Satışda!\n\n📍 Abşeron rayonu, Mehdiabad qəsəbəsi\n Sakit və yaşayış üçün əlverişli ərazidə yerləşir\n\n3 otaq\n80 m² yaşayış sahəsi\n1,4sot torpaq sahəsi\n Evin və torpağın kupçası var\n Qiymət: 77.000 AZN\n\nEv geniş və rahat planlaşdırılıb\n Otaqlar işıqlı və ferahdır\n Həyəti geniş olub ailəvi istirahət üçün çox əlverişlidir\n\n Maşın saxlamaq üçün rahat imkan\n Market, məktəb, dayanacaq və digər vacib obyektlərə yaxın yerləşir\n Təmiz hava və sakit mühitdə yerləşən gözəl həyət evidir\n\n Həm yaşayış, həm də yatırım üçün əla seçim!\n\n Ətraflı məlumat və baxış üçün əlaqə saxlayın.\n\nHörmətlə Tərlan Makler",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "112",
-    "location_name": "Mehdiabad",
-    "land_area_sot": 1.4,
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6193043",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 77000,
-        "date": "2026-10-04T16:35:53.646278+00:00"
       }
     ]
   },
@@ -483,7 +415,7 @@
     "rooms": "7 otaqlı",
     "area_m2": 600,
     "floor": null,
-    "is_agency": true,
+    "is_agency": false,
     "lat": 40.32425603218276,
     "lng": 49.80788689612813,
     "has_repair": true,
@@ -612,40 +544,6 @@
     ]
   },
   {
-    "id": "6515333",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F13%2F04%2F12%2Fde4cb076-8151-4425-8b49-3bb87dba93a9%2F75535_Wj5IWOGUbTBrRkWC-Ycw3g.jpg",
-    "price": 250,
-    "location": "Buzovna q.",
-    "rooms": "4 otaqlı",
-    "area_m2": 220,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.5156142,
-    "lng": 50.10132739999995,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-04T13:05:20+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 4 otaqlı həyət evi/bağ evi 220 m²",
-    "description": "🏡 Buzovnada ideal vəziyyətdə bağ evi — 250 AZN!\r\n\r\n✨ Səliqəli və rahat bağ evi\r\n💰 Qiymət: 250 AZN\r\n📍 Buzovna\r\n\r\nCiddi şəxslər əlaqə saxlasın.\r\n🏠 Müxtəlif ərazilərdə və fərqli qiymətlərdə hər cür bağ evlərimiz mövcuddur. Siz də müraciət edə bilərsiniz.\r\n\r\n📩 Ətraflı məlumat üçün əlaqə saxlayın.",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "117",
-    "location_name": "Buzovna",
-    "land_area_sot": 5,
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6515333",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 250,
-        "date": "2026-10-04T16:35:53.645575+00:00"
-      }
-    ]
-  },
-  {
     "id": "6515399",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F13%2F22%2F15%2F6b1ee1ac-c162-4ff8-b25a-3790d802921c%2F48133_cA70wLLo00_j5RYVTPhadw.jpg",
     "price": 750,
@@ -748,40 +646,6 @@
     ]
   },
   {
-    "id": "6515287",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F12%2F50%2F17%2F10a9837b-288b-43bd-a13d-efa46835735f%2F16187_YsgHeqFZLKKlDQfP4gViwg.jpg",
-    "price": 380,
-    "location": "Balaxanı q.",
-    "rooms": "2 otaqlı",
-    "area_m2": 55,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.44928008455258,
-    "lng": 49.92818616628725,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-04T13:47:43+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı həyət evi/bağ evi 55 m²",
-    "description": "Koroğlu metrosuna 10 dəqiqəlik məsafədə əsas yola yaxın,evin yaxınlığından koroğlu metrosuna,gənclik metrosuna,neftçilər metrosuna,xalqlar metrosuna maşurut gedir.\nEv öz evimdir yalnız ciddi maraglananlar zəng etsinlər ev ylanız ailəyə və tələbə xanımlara veriləcək.Evdən bütün əşyalar götürülüb sadəcə evdə televizor,xaladelnik,paltaryuyan qalacaq.",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "243",
-    "location_name": "Balaxanı",
-    "land_area_sot": 1,
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6515287",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 380,
-        "date": "2026-10-04T16:35:53.645641+00:00"
-      }
-    ]
-  },
-  {
     "id": "6515498",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F13%2F49%2F55%2F88f6979a-e743-4132-8624-4c23b8a2620d%2F92843_F4_YgJ9-I1Ty-wCPG_LQ_w.jpg",
     "price": 350,
@@ -846,40 +710,6 @@
       {
         "price": 300,
         "date": "2026-10-04T16:35:53.645330+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6515404",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F13%2F24%2F46%2F65f6595f-ff55-4b34-ae8a-233f7b14494f%2F95197_cidHRlZupPjpUc187cosBA.jpg",
-    "price": 500,
-    "location": "İnşaatçılar m.",
-    "rooms": "2 otaqlı",
-    "area_m2": 55,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.3940196287336,
-    "lng": 49.79900542766178,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-04T14:09:38+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı həyət evi/bağ evi 55 m²",
-    "description": "Iki otaq hersey ayri verilir Hamam tualet ayri paltar yuyan metbext hersey daxil verilir orta temirlidi ne ehtiyac varsa dixldi Telebeler ucun daha uygundu Aileyen verilir usaqsiz olan yeni aile \r\nencox uc qiz telebeye verilir",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "7",
-    "location_name": "İnşaatçılar",
-    "land_area_sot": 0.6,
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6515404",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 500,
-        "date": "2026-10-04T16:35:53.645317+00:00"
       }
     ]
   },
@@ -1462,40 +1292,6 @@
     ]
   },
   {
-    "id": "6516402",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F19%2F09%2F36%2F4f14618d-d35a-4ba9-a5ff-47589fe9b16e%2F75554_YsDzJXJwGAkuY_Ua54hTrg.jpg",
-    "price": 700,
-    "location": "Koroğlu m.",
-    "rooms": "5 otaqlı",
-    "area_m2": 150,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.41724228942339,
-    "lng": 49.91914331575343,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-04T19:13:56+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 5 otaqlı həyət evi/bağ evi 150 m²",
-    "description": "Koroglu metrosuna yaxin.Tam temirli 5 otaqli menzil .Herbir seraiti movcuddur. Masin saxlamaga genis heyeti var.Ofisin xidmet haqqi 30 faiz ",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "4",
-    "location_name": "Koroğlu",
-    "land_area_sot": 1,
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6516402",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 700,
-        "date": "2026-10-04T16:35:53.644552+00:00"
-      }
-    ]
-  },
-  {
     "id": "6516459",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F19%2F45%2F19%2F72c6feb1-0388-497d-a23d-9dbc58f2e2f0%2F75502_AUAUnPl7vUiqnS6oXqdgwg.jpg",
     "price": 250,
@@ -1594,6 +1390,214 @@
       {
         "price": 17000,
         "date": "2026-10-04T18:33:56.679593+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6516402",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F19%2F09%2F36%2F4f14618d-d35a-4ba9-a5ff-47589fe9b16e%2F75554_YsDzJXJwGAkuY_Ua54hTrg.jpg",
+    "price": 700,
+    "location": "Koroğlu m.",
+    "rooms": "5 otaqlı",
+    "area_m2": 150,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.41724228942339,
+    "lng": 49.91914331575343,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-05T13:16:27+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 5 otaqlı həyət evi/bağ evi 150 m²",
+    "description": "Koroglu metrosuna yaxin.Tam temirli 5 otaqli menzil .Herbir seraiti movcuddur. Masin saxlamaga genis heyeti var.Ofisin xidmet haqqi 30 faiz ",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "4",
+    "location_name": "Koroğlu",
+    "land_area_sot": 1,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6516402",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 700,
+        "date": "2026-10-04T16:35:53.644552+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6515333",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F13%2F04%2F12%2Fde4cb076-8151-4425-8b49-3bb87dba93a9%2F75535_Wj5IWOGUbTBrRkWC-Ycw3g.jpg",
+    "price": 180,
+    "location": "Buzovna q.",
+    "rooms": "4 otaqlı",
+    "area_m2": 220,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.5156142,
+    "lng": 50.10132739999995,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T00:06:50+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 4 otaqlı həyət evi/bağ evi 220 m²",
+    "description": "🏡 Buzovnada ideal vəziyyətdə bağ evi — 250 AZN!\r\n\r\n✨ Səliqəli və rahat bağ evi\r\n💰 Qiymət: 250 AZN\r\n📍 Buzovna\r\n\r\nCiddi şəxslər əlaqə saxlasın.\r\n🏠 Müxtəlif ərazilərdə və fərqli qiymətlərdə hər cür bağ evlərimiz mövcuddur. Siz də müraciət edə bilərsiniz.\r\n\r\n📩 Ətraflı məlumat üçün əlaqə saxlayın.",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "117",
+    "location_name": "Buzovna",
+    "land_area_sot": 5,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6515333",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 250,
+        "date": "2026-10-04T16:35:53.645575+00:00"
+      },
+      {
+        "price": 180,
+        "date": "2026-10-06T12:57:42.765286+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6193043",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F08%2F00%2F58%2F42%2F97f8adef-738a-49c3-8e31-5c7c1ef6ff11%2F12693_IQzBVcPHN41Uz1Ow45Y9fw.jpg",
+    "price": 77000,
+    "location": "Mehdiabad q.",
+    "rooms": "3 otaqlı",
+    "area_m2": 80,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.50451929679878,
+    "lng": 49.84757434579698,
+    "has_repair": null,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T00:53:41+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 3 otaqlı həyət evi/bağ evi 80 m²",
+    "description": "Salam dəyərli müştərilər Mehdiabadda Yeni Tikili Rahat Həyət Evi Satışda!\n\n📍 Abşeron rayonu, Mehdiabad qəsəbəsi\n Sakit və yaşayış üçün əlverişli ərazidə yerləşir\n\n3 otaq\n80 m² yaşayış sahəsi\n1,4sot torpaq sahəsi\n Evin və torpağın kupçası var\n Qiymət: 77.000 AZN\n\nEv geniş və rahat planlaşdırılıb\n Otaqlar işıqlı və ferahdır\n Həyəti geniş olub ailəvi istirahət üçün çox əlverişlidir\n\n Maşın saxlamaq üçün rahat imkan\n Market, məktəb, dayanacaq və digər vacib obyektlərə yaxın yerləşir\n Təmiz hava və sakit mühitdə yerləşən gözəl həyət evidir\n\n Həm yaşayış, həm də yatırım üçün əla seçim!\n\n Ətraflı məlumat və baxış üçün əlaqə saxlayın.\n\nHörmətlə Tərlan Makler",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "112",
+    "location_name": "Mehdiabad",
+    "land_area_sot": 1.4,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6193043",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 77000,
+        "date": "2026-10-04T16:35:53.646278+00:00"
+      }
+    ]
+  },
+  {
+    "id": "2511175",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2021%2F12%2F14%2F23%2F41%2F43%2F492ad232-2c0f-4aad-a159-06995e048cf5%2F10364_LcwxZriiFU3ulB8w5ygkHA.jpg",
+    "price": 2500,
+    "location": "Nardaran q.",
+    "location_id": "119",
+    "location_name": "Nardaran",
+    "rooms": null,
+    "area_m2": 300,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-09-05T12:46:47+04:00",
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/2511175",
+    "lat": 40.58527322219923,
+    "lng": 49.9933800423584,
+    "land_area_sot": 25,
+    "building_type": "Həyət evi/Bağ evi",
+    "title": "İcarəyə verilir həyət evi/bağ evi 300 m²",
+    "description": "Nardaran ekaloji temiz denize merkezi yola yaxin mesafede prestij sakit mekan modern yeni tehciz 25 sot 3 yataq 3 sanuzel 1 genis qonaq zali kombi kondisaner smart tv modern metbex fikterli hovuz bisteka manqal veranda balkon decorativ agaclar ideal yasliqla tehciz yolu asfalt bag ideal seraitde icareye verlir buryub zeng ede bilersiz",
+    "deleted_at": "2026-10-06T12:58:06.278402+00:00",
+    "price_history": [
+      {
+        "price": 2500,
+        "date": "2026-10-04T18:34:13.061091+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6515287",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F12%2F50%2F17%2F10a9837b-288b-43bd-a13d-efa46835735f%2F16187_YsgHeqFZLKKlDQfP4gViwg.jpg",
+    "price": 380,
+    "location": "Balaxanı q.",
+    "rooms": "2 otaqlı",
+    "area_m2": 55,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.44928008455258,
+    "lng": 49.92818616628725,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-04T13:47:43+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı həyət evi/bağ evi 55 m²",
+    "description": "Koroğlu metrosuna 10 dəqiqəlik məsafədə əsas yola yaxın,evin yaxınlığından koroğlu metrosuna,gənclik metrosuna,neftçilər metrosuna,xalqlar metrosuna maşurut gedir.\nEv öz evimdir yalnız ciddi maraglananlar zəng etsinlər ev ylanız ailəyə və tələbə xanımlara veriləcək.Evdən bütün əşyalar götürülüb sadəcə evdə televizor,xaladelnik,paltaryuyan qalacaq.",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "243",
+    "location_name": "Balaxanı",
+    "land_area_sot": 1,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6515287",
+    "deleted_at": "2026-10-06T12:58:06.278408+00:00",
+    "price_history": [
+      {
+        "price": 380,
+        "date": "2026-10-04T16:35:53.645641+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6515404",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F13%2F24%2F46%2F65f6595f-ff55-4b34-ae8a-233f7b14494f%2F95197_cidHRlZupPjpUc187cosBA.jpg",
+    "price": 500,
+    "location": "İnşaatçılar m.",
+    "rooms": "2 otaqlı",
+    "area_m2": 55,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.3940196287336,
+    "lng": 49.79900542766178,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-04T14:09:38+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı həyət evi/bağ evi 55 m²",
+    "description": "Iki otaq hersey ayri verilir Hamam tualet ayri paltar yuyan metbext hersey daxil verilir orta temirlidi ne ehtiyac varsa dixldi Telebeler ucun daha uygundu Aileyen verilir usaqsiz olan yeni aile \r\nencox uc qiz telebeye verilir",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "7",
+    "location_name": "İnşaatçılar",
+    "land_area_sot": 0.6,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6515404",
+    "deleted_at": "2026-10-06T12:58:06.278409+00:00",
+    "price_history": [
+      {
+        "price": 500,
+        "date": "2026-10-04T16:35:53.645317+00:00"
       }
     ]
   }

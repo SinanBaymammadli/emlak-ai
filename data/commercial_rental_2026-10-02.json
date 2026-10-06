@@ -640,38 +640,6 @@
     ]
   },
   {
-    "id": "6508614",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F17%2F53%2F10%2F4b012f2a-b641-47df-94da-373906dc51eb%2F75502_RebnKXOXElhZ3GpYwkTc9Q.jpg",
-    "price": 3000,
-    "location": "28 May m.",
-    "area_m2": 120,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.3853984597047,
-    "lng": 49.84451861198163,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-01T17:53:49+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir obyekt 120 m²",
-    "description": "AZADLIQ PROSPEKTİNDƏ 120 M² KOMMERSİYA OBYEKTİ İCARƏYƏ VERİLİR!\r\n\r\nAzadlıq prospekti | Əlverişli və görünən lokasiya\r\n-Obyekt binanın 2-ci mərtəbəsində yerləşir. Girişi birbaşa 1-ci mərtəbədən, Azadlıq prospekti tərəfdəndir. Yarı-vitrin giriş sahəsi mövcuddur.\r\n-Sahə: 120 m²\r\n-Mərtəbə: 2-ci mərtəbə\r\n-Giriş: Azadlıq prospektinə baxan yarı-vitrin giriş\r\n-Sərbəst planlama imkanı\r\n-Tam təmirli\r\n-3 fazalı elektrik sistemi\r\n-Coilover/kondisioner sistemi\r\n-Kombi və isitmə sistemi\r\n-Kamera müşahidə sistemi\r\n-Yanğın siqnalizasiya sistemi\r\n-Səs sistemi\r\n-Mətbəx\r\n-Sanitar qovşaq\r\n  Müxtəlif fəaliyyətlər üçün uyğundur:\r\n-Ofis və şirkət nümayəndəliyi\r\n-Bank və maliyyə xidməti\r\n-Sığorta şirkəti\r\n-Tədris mərkəzi\r\n-Klinika və xidmət sahələri\r\n-Showroom\r\n-Salon\r\n-Digər kommersiya fəaliyyətləri\r\n\r\nQiymət 3000 AZN \r\nOfis xidmət haqqı 30%",
-    "building_type": "Obyekt",
-    "location_id": "8",
-    "location_name": "28 May",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6508614",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 3000,
-        "date": "2026-10-02T14:51:35.961869+00:00"
-      }
-    ]
-  },
-  {
     "id": "6508403",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F17%2F04%2F28%2F603c78d6-035f-4f04-aebd-3347b11265ca%2F75540_85jjlCwhRbosjd6kr4gTzA.jpg",
     "price": 500,
@@ -800,38 +768,6 @@
     ]
   },
   {
-    "id": "6508727",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F18%2F21%2F10%2Faca72504-4ea9-4834-9de0-e2837d670a24%2F75523_UBfIsfORSSWnv97jWAD9Yw.jpg",
-    "price": 5000,
-    "location": "28 May m.",
-    "area_m2": 160,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.38567399209006,
-    "lng": 49.844469600647,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-01T18:22:25+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir obyekt 160 m²",
-    "description": "Azadlıq pr. əsas yolda obyektlərin sırasında 160 kv.m sahəsi olan obyekt icarəyə verilir. Biznes üçün uygun, Azad planlama imkanı. Giriş Azadliq prospekti.  \r\n\r\n- Kondisioner sistemi \r\n- Kombi isitme\r\n- 3 Faza elektrik\r\n- Yangin sistemi\r\n- Guvenlik sistemi \r\n-  WC \r\n- Metbex\r\n\r\nBir çox fəaliyyət növlərinə uyğundur.\r\n\r\nQiymət 5000 AZN\r\nOfis xidmət haqqı 30% təşkil edir.",
-    "building_type": "Obyekt",
-    "location_id": "8",
-    "location_name": "28 May",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6508727",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 5000,
-        "date": "2026-10-02T14:51:35.961777+00:00"
-      }
-    ]
-  },
-  {
     "id": "6508760",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F18%2F30%2F46%2F9835bc5a-c69b-478a-93c3-9aa248aa35c3%2F75493_rT80E9PMJwGj4tBSvtC7_Q.jpg",
     "price": 2000,
@@ -892,38 +828,6 @@
       {
         "price": 3500,
         "date": "2026-10-02T14:51:35.961710+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6508323",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F16%2F43%2F05%2F0a9fa604-8244-4ef4-879b-630e847e7156%2F4902_fR2SC5O1iyJTJ9ovZB5MZg.jpg",
-    "price": 9000,
-    "location": "Şah İsmayıl Xətai m.",
-    "area_m2": 400,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.38182899469271,
-    "lng": 49.86672784210445,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-01T18:54:20+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir obyekt 400 m²",
-    "description": "Pub Restoran icareye verilir . Biznes satisi var Maraqlananlar whatsapp vasitesile elaqe saxlasin. ",
-    "building_type": "Obyekt",
-    "location_id": "36",
-    "location_name": "Şah İsmayıl Xətai",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6508323",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 9000,
-        "date": "2026-10-02T14:51:35.962359+00:00"
       }
     ]
   },
@@ -1504,38 +1408,6 @@
     ]
   },
   {
-    "id": "6509531",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F10%2F27%2F01%2F5d52787e-16cd-4166-bbd7-54b77ae9a571%2F49549_WGvEcEEql8TypQm-nn0WWw.jpg",
-    "price": 5000,
-    "location": "Memar Əcəmi m.",
-    "area_m2": 520,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.41604161129737,
-    "lng": 49.81436500478516,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-02T10:29:16+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir obyekt 520 m²",
-    "description": "Əcəmi metrosu yaxınlığında 16 mərtəbəli yeni tikilinin 2-ci mərtəbəsində müxtəlif profillərə (uşaq baxçası,şirkət ofisi,klinika,tədris mərkəzi və s.) uyğun ümumi sahəsi 520 kvm.olan 18 otaqlı obyekt uzun müddətə kirayə verilir.Obyektdə mətbəx,sanuzel və s.təmir olunub və əla vəziyyətdədir.Kombi istilik sistemidir.Bütün otaqlarda kondisioner var.Şirkət və ofislər,tədris mərkəzi üçün əşyalar var.Ətraflı məlumat üçün əlaqə saxlaya bilərsiniz.Ofisin rüsumu 30%.",
-    "building_type": "Obyekt",
-    "location_id": "59",
-    "location_name": "Memar Əcəmi",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6509531",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 5000,
-        "date": "2026-10-02T14:35:48.894423+00:00"
-      }
-    ]
-  },
-  {
     "id": "6509572",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F10%2F42%2F11%2F9b1f1e0a-b9f1-45ae-9587-d6df08b79fa2%2F60210_mFCRy8fccs7aYPG28eFfyA.jpg",
     "price": 3500,
@@ -1756,38 +1628,6 @@
       {
         "price": 800,
         "date": "2026-10-02T14:35:48.893588+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6509910",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F11%2F59%2F14%2F28cbdfb2-40bd-4b25-aa68-4bb597f46bd8%2F16162_db6l4fYbnzWzPjmVu4rvfA.jpg",
-    "price": 800,
-    "location": "28 May m.",
-    "area_m2": 25,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.38003581097678,
-    "lng": 49.84855830442911,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-02T12:18:50+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir obyekt 25 m²",
-    "description": "🏡 28 MAY METROSUNUN YAXINLIĞINDA PREMIUM OBİYEK!\r\n\r\n📍 Tesla Parkın arxasında, əlverişli və prestijli ərazidə yerləşir.\r\n\r\n✨ 25 m²\r\n🏢 Binanın 2-ci mərtəbəsi\r\n🛋️ Tam əşyalı\r\n🔑 Premium təmirli və hazır vəziyyətdə\r\n💰 Aylıq kirayə: 800 AZN\r\n\r\nObyek çox gözəl və əlverişli lokasiyada yerləşir. Premium təmir, əşyalı vəziyyət və ideal yerləşmə axtaranlar üçün əla seçimdir.\r\n\r\n📞 Ətraflı məlumat və baxış üçün aşağıdakı nömrə ilə əlaqə saxlaya bilərsiniz.\r\n\r\n🔥 Təcili kirayə verilir!",
-    "building_type": "Obyekt",
-    "location_id": "8",
-    "location_name": "28 May",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6509910",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 800,
-        "date": "2026-10-02T14:35:48.893544+00:00"
       }
     ]
   },
@@ -3168,38 +3008,6 @@
     ]
   },
   {
-    "id": "6417619",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F30%2F00%2F44%2F50%2Fc5210018-9225-4786-942c-30c907269447%2F68115_NsL-UG1L6jHjhEQGA0zOEQ.jpg",
-    "price": 950,
-    "location": "Bayıl q.",
-    "area_m2": 360,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.3392708997364,
-    "lng": 49.83213116321437,
-    "has_repair": false,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-02T18:00:51+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir obyekt 360 m²",
-    "description": "📐 Sahə: 120–360 m²\n🚪 Ayrı giriş\n📏 Tavan hündürlüyü: 3.2 metr\n🔨 Hazırda təmirsizdir\n📍 Landau məktəbinə yaxın\nObyekt ofis, kurs, tədris mərkəzi, anbar, studiya və digər fəaliyyət sahələri üçün əlverişlidir.\nƏtraflı məlumat və qiymət üçün əlaqə saxlaya bilərsiniz.Obyekt hazırda təmirsiz vəziyyətdədir və icarəçinin istəyinə uyğun olaraq razılaşma yolu ilə təmir edilə bilər, Və ya obyektin təmir xərclərini öz hesabıma qarşılayacağam.",
-    "building_type": "Obyekt",
-    "location_id": "49",
-    "location_name": "Bayıl",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6417619",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 950,
-        "date": "2026-10-02T14:35:48.891391+00:00"
-      }
-    ]
-  },
-  {
     "id": "6277410",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F09%2F12%2F51%2F34%2F18d35859-60d2-41b2-bb14-05f4a0a14fac%2F55746__ZbeVglHe1rWCqSSGv6QGA.jpg",
     "price": 3500,
@@ -3460,38 +3268,6 @@
     ]
   },
   {
-    "id": "6510566",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F13%2F51%2F07%2Fae1117f5-b858-4e8b-8eea-5228849bbaa9%2F16142_wMoAHXIc9BZp__mvJOKRtg.jpg",
-    "price": 3490,
-    "location": "Sahil m.",
-    "area_m2": 30,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.37690218323992,
-    "lng": 49.84268567764577,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-03T11:37:40+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir obyekt 30 m²",
-    "description": "Obyekt Şəhərin mərkəzində bülbül prospektində yerli əhalinin və turistlərin sıx hərəkət etdiyi ərazidə yerləşir \r\n2 böyük vitrin şüşəsi  obyektin içərisi və reklamı küçədən rahat görünür\r\nObyekt mağaza, ofis, salon, xidmət məntəqəsi, showroom və digər kommersiya fəaliyyətləri üçün əlverişlidir\r\n📞 Ətraflı məlumat və baxış üçün əlaqə saxlayın.",
-    "building_type": "Obyekt",
-    "location_id": "38",
-    "location_name": "Sahil",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6510566",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 3490,
-        "date": "2026-10-02T14:35:48.892643+00:00"
-      }
-    ]
-  },
-  {
     "id": "6510820",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F15%2F07%2F09%2Fad45f375-8a9e-4441-bf57-e95de06ea937%2F16155_19kSjqSi7NbXhBX-Ud-gVg.jpg",
     "price": 1500,
@@ -3524,42 +3300,6 @@
     ]
   },
   {
-    "id": "6509758",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F11%2F29%2F39%2Feceffc76-33c6-4340-a246-825e99572864%2F95197_9-YxLLk15bvXpxK8uBSn7A.jpg",
-    "price": 2499,
-    "location": "İnşaatçılar m.",
-    "area_m2": 65,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.39003870219528,
-    "lng": 49.80722595969691,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-03T16:03:53+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir obyekt 65 m²",
-    "description": "İCARƏYƏ VERİLİR — 65 KV.M QEYRI-YAŞAYIŞ OBYEKTİ\r\n\r\n📍 Baku Mall-a yaxın, tam yol kənarında yerləşən, əlverişli və görünən lokasiyaya malik obyekt icarəyə verilir.\r\n\r\n🔹 Sahəsi — 65 kv.m\r\n🔹 1-ci mərtəbə\r\n🔹 Ayrıca giriş-çıxış\r\n🔹 Yeni təmirli\r\n🔹 Şəxsi sanitar qovşağı\r\n🔹 Tam yol kənarında yerləşir\r\n🔹 Müxtəlif fəaliyyət sahələri üçün əlverişlidir\r\n\r\nObyekt həm yerləşmə, həm də giriş-çıxış baxımından biznes üçün əlverişli məkandır.\r\n\r\n📞 Ətraflı məlumat və obyektə baxış üçün əlaqə saxlayın.",
-    "building_type": "Obyekt",
-    "location_id": "7",
-    "location_name": "İnşaatçılar",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6509758",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 2500,
-        "date": "2026-10-02T14:35:48.893807+00:00"
-      },
-      {
-        "price": 2499,
-        "date": "2026-10-03T19:31:58.166746+00:00"
-      }
-    ]
-  },
-  {
     "id": "6511232",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F16%2F25%2F54%2F2336a536-77c0-4dc2-a169-8bd111c96fe5%2F75537_gePMGy1gmzfpWR6etJ3dxA.jpg",
     "price": 1500,
@@ -3588,70 +3328,6 @@
       {
         "price": 1500,
         "date": "2026-10-02T14:35:48.891898+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6509986",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F12%2F16%2F41%2F6676a7da-1b5d-4a45-aeec-46fe25230754%2F4902_cO5ptDXGPSlN0Ji2A5zjxA.jpg",
-    "price": 550,
-    "location": "Nəsimi m.",
-    "area_m2": 40,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.42460091569767,
-    "lng": 49.82492950035859,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-03T18:10:52+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir obyekt 40 m²",
-    "description": "Daha ətraflı məlumat üçün bizimlə əlaqə saxlayın. Komissiya: 30%.",
-    "building_type": "Obyekt",
-    "location_id": "60",
-    "location_name": "Nəsimi",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6509986",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 550,
-        "date": "2026-10-02T14:35:48.893372+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6508545",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F18%2F07%2F48%2F1ec6851a-668b-4df8-b911-35769613afd0%2F74653_RiUnzxV8Phf8mylgRd3HHA.jpg",
-    "price": 4500,
-    "location": "Müşfiqabad q.",
-    "area_m2": 850,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.45108226340784,
-    "lng": 49.68536894226074,
-    "has_repair": false,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-03T18:14:16+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir obyekt 850 m²",
-    "description": "                   Obyekt İcarə verilir \r\n          850 kv.m Müşviqabad yol kənarı\r\n    Anbar Fitness Tikiş sexi Soyuducu Kameralar \r\n        İstehsal və digər fəalliyyətlərə uyğundur\r\n                        4.500 manat",
-    "building_type": "Obyekt",
-    "location_id": "98",
-    "location_name": "Müşfiqabad",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6508545",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 4500,
-        "date": "2026-10-02T14:51:35.961932+00:00"
       }
     ]
   },
@@ -3724,166 +3400,6 @@
     ]
   },
   {
-    "id": "6509667",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F11%2F09%2F52%2Fbbe530d2-a7d3-45fd-b922-6a8e8ac15d87%2F75517_xgicl6hZKdAuRWWfnx0xSQ.jpg",
-    "price": 3000,
-    "location": "Xətai r.",
-    "area_m2": 340,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.3789089903681,
-    "lng": 49.9150325587984,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-04T11:37:42+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir obyekt 340 m²",
-    "description": "Xəzər tv-nin yanında əsas yol qırağında 2 mərtəbəli obyektin 340 kv.m zirzəmi hissəsi icarəyə verilir. ( Avtomobil birbaşa içərisinə daxil ola bilir ) Fotolardan göründüyü kimi sex kimi icarədədir, lakin digər müxtəlif təyinatlar üçün də icarəyə verilə bilər. ( Məsələn : Avto təmir, avto ehtiyyat hissələri mağazası və digər uyğun mağazalar, istehsalat, anbar və s. digər..) Sahibindən verilir icarəyə, vasitəçilik deyil. Obyektin - sanitar qovşağı, əlavə otaq hissəsi, qarşısında və arxa tərəfdə avto parklanması mövcuddur. Ünvan : Xətai rayonu, Süleyman Əhmədov küçəsi 4a, Xəzər tv-nin yanı. Qarşısından müxtəlif istiqamətlərə marşrut xəttləri də işləyir. Qeyd : Ehtiyac olarsa üst hissəsi 1-ci mərtəbəsi də icarəyə verilə bilər, o isə 300 kv.m-dir, tam təmirlidir. Tək-tək də verilə bilər, bir yerdə də verilə bilər.",
-    "building_type": "Obyekt",
-    "location_id": "16",
-    "location_name": "Xətai",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6509667",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 3000,
-        "date": "2026-10-02T14:35:48.894069+00:00"
-      }
-    ]
-  },
-  {
-    "id": "5911701",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F02%2F23%2F11%2F08%2F58%2Fdcd579c0-a351-4a13-b258-037cd1db08a2%2F6516_xv6vqexyyGQHD-nadK0vPw.jpg",
-    "price": 3500,
-    "location": "Koroğlu m.",
-    "area_m2": 350,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.42080891388711,
-    "lng": 49.91239039617311,
-    "has_repair": false,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-04T14:30:58+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir obyekt 350 m²",
-    "description": "Atletlər kəndində yerləşən Olympic Residence-də 1m²-i 10₼-dən başlayan qiymətlərlə kommersiya sahələri təklif edilir!\r\n\r\nŞəhərin prestijli ərazisində - Heydər Əliyev prospektində yerləşən Olympic Village biznesinizin inkişafı üçün mükəmməl fürsət təqdim edir. Müasir və yüksək standartlara cavab verən ofis sahəsi komandalarınızın birgə fəaliyyətini və yaradıcılığını dəstəkləyən ideal iş mühiti yaradacaq.\r\n\r\n• Şəhər mərkəzində yerləşmə – Milli Gimanstika Arenası ilə üzbəüz;\r\n• Müxtəlif planlama və sahə seçimləri;\r\n• Şəhərcik daxilində fəaliyyət göstərən kofeşop;\r\n• Yeraltı və yerüstü parkinq imkanları;\r\n• 24/7 təhlükəsizlik və texniki dəstək\r\n\r\nQeyd 1: Qiymətə xidmət haqqı və ƏDV daxil deyil.\r\nQeyd 2: Icarə müddəti minimum 12 ay olmalıdır.\r\n\r\nCommercial spaces are offered at Olympic Residence, located in the Athletes’ Village, starting from 10 AZN per 1 m²!\r\n\r\nLocated in one of the city’s most prestigious areas – Heydar Aliyev Avenue – Olympic Village offers an excellent opportunity for the growth of your business. Modern office spaces that meet high standards provide an ideal working environment that supports collaboration and creativity within your team.\r\n\r\n• Central location – directly across from the National Gymnastics Arena\r\n• Various layout and space options\r\n• On-site coffee shop within the complex\r\n• Underground and surface parking options\r\n• 24/7 security and technical support\r\n\r\nNote 1: The price does not include the service fee and VAT.\r\nNote 2: The rental period must be a minimum of 12 months.",
-    "building_type": "Obyekt",
-    "location_id": "4",
-    "location_name": "Koroğlu",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/5911701",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 3500,
-        "date": "2026-10-02T14:35:48.892585+00:00"
-      }
-    ]
-  },
-  {
-    "id": "5911715",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F02%2F23%2F11%2F10%2F50%2F39a0ed79-b5a3-4cdd-a0cf-f6b7d5e49df8%2F81108_naCs5ytT6a7ZSXMLx4hgJA.jpg",
-    "price": 8500,
-    "location": "Koroğlu m.",
-    "area_m2": 850,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.42061288415299,
-    "lng": 49.91286246495973,
-    "has_repair": false,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-04T14:32:01+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir obyekt 850 m²",
-    "description": "Atletlər kəndində yerləşən Olympic Residence-də 1m²-i 10₼-dən başlayan qiymətlərlə kommersiya sahələri təklif edilir!\r\n\r\nŞəhərin prestijli ərazisində - Heydər Əliyev prospektində yerləşən Olympic Village biznesinizin inkişafı üçün mükəmməl fürsət təqdim edir. Müasir və yüksək standartlara cavab verən ofis sahəsi komandalarınızın birgə fəaliyyətini və yaradıcılığını dəstəkləyən ideal iş mühiti yaradacaq.\r\n\r\n• Şəhər mərkəzində yerləşmə – Milli Gimanstika Arenası ilə üzbəüz;\r\n• Müxtəlif planlama və sahə seçimləri;\r\n• Şəhərcik daxilində fəaliyyət göstərən kofeşop;\r\n• Yeraltı və yerüstü parkinq imkanları;\r\n• 24/7 təhlükəsizlik və texniki dəstək\r\n\r\nQeyd 1: Qiymətə xidmət haqqı və ƏDV daxil deyil.\r\nQeyd 2: Icarə müddəti minimum 12 ay olmalıdır.\r\n\r\nCommercial spaces are offered at Olympic Residence, located in the Athletes’ Village, starting from 10 AZN per 1 m²!\r\n\r\nLocated in one of the city’s most prestigious areas – Heydar Aliyev Avenue – Olympic Village offers an excellent opportunity for the growth of your business. Modern office spaces that meet high standards provide an ideal working environment that supports collaboration and creativity within your team.\r\n\r\n• Central location – directly across from the National Gymnastics Arena\r\n• Various layout and space options\r\n• On-site coffee shop within the complex\r\n• Underground and surface parking options\r\n• 24/7 security and technical support\r\n\r\nNote 1: The price does not include the service fee and VAT.\r\nNote 2: The rental period must be a minimum of 12 months.",
-    "building_type": "Obyekt",
-    "location_id": "4",
-    "location_name": "Koroğlu",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/5911715",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 8500,
-        "date": "2026-10-02T14:35:48.892527+00:00"
-      }
-    ]
-  },
-  {
-    "id": "5911661",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F02%2F23%2F11%2F00%2F20%2F3f1018c3-1256-4fde-881c-83f1464adf9b%2F61780_JFKybNCIGhIU5eYkGRkFZQ.jpg",
-    "price": 20000,
-    "location": "Koroğlu m.",
-    "area_m2": 2000,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.42045084619805,
-    "lng": 49.91281101336207,
-    "has_repair": false,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-04T14:33:57+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir obyekt 2000 m²",
-    "description": "Atletlər kəndində yerləşən Olympic Residence-də 1m²-i 10₼-dən başlayan qiymətlərlə kommersiya sahələri təklif edilir!\r\n\r\nŞəhərin prestijli ərazisində - Heydər Əliyev prospektində yerləşən Olympic Village biznesinizin inkişafı üçün mükəmməl fürsət təqdim edir. Müasir və yüksək standartlara cavab verən ofis sahəsi komandalarınızın birgə fəaliyyətini və yaradıcılığını dəstəkləyən ideal iş mühiti yaradacaq.\r\n\r\n• Şəhər mərkəzində yerləşmə – Milli Gimanstika Arenası ilə üzbəüz;\r\n• Müxtəlif planlama və sahə seçimləri;\r\n• Şəhərcik daxilində fəaliyyət göstərən kofeşop;\r\n• Yeraltı və yerüstü parkinq imkanları;\r\n• 24/7 təhlükəsizlik və texniki dəstək\r\n\r\nQeyd 1: Qiymətə xidmət haqqı və ƏDV daxil deyil.\r\nQeyd 2: Icarə müddəti minimum 12 ay olmalıdır.\r\n\r\nCommercial spaces are offered at Olympic Residence, located in the Athletes’ Village, starting from 10 AZN per 1 m²!\r\n\r\nLocated in one of the city’s most prestigious areas – Heydar Aliyev Avenue – Olympic Village offers an excellent opportunity for the growth of your business. Modern office spaces that meet high standards provide an ideal working environment that supports collaboration and creativity within your team.\r\n\r\n• Central location – directly across from the National Gymnastics Arena\r\n• Various layout and space options\r\n• On-site coffee shop within the complex\r\n• Underground and surface parking options\r\n• 24/7 security and technical support\r\n\r\nNote 1: The price does not include the service fee and VAT.\r\nNote 2: The rental period must be a minimum of 12 months.",
-    "building_type": "Obyekt",
-    "location_id": "4",
-    "location_name": "Koroğlu",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/5911661",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 20000,
-        "date": "2026-10-02T14:35:48.892512+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6509892",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F11%2F51%2F39%2F5665e3f6-98b2-4194-8140-79169741a71a%2F71355_JYmq4SeondPFmUl4OSjyxQ.jpg",
-    "price": 720,
-    "location": "Xalqlar Dostluğu m.",
-    "area_m2": 60,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.406597080278,
-    "lng": 49.95381628046038,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-04T15:40:16+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir obyekt 60 m²",
-    "description": "Nizami rayonu Neftciler Xalqlar Dostlugu Melhem Hospitalin yaxinliqi Planet In Hotel yaxinliqi  ve 8 ci km bazari yaxinliqinda 9 mertebeli binanin 1 ci mertebesinde 3 otaqli  obyekt icareye verilir her cur tekliflere haziriq etrafli melumat ucun zeng edin\r\nXidmet haqqi 30%",
-    "building_type": "Obyekt",
-    "location_id": "54",
-    "location_name": "Xalqlar Dostluğu",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6509892",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 720,
-        "date": "2026-10-02T14:35:48.893558+00:00"
-      }
-    ]
-  },
-  {
     "id": "6509990",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F12%2F17%2F20%2F1b66b1e9-36f3-44dc-8f6e-556f9cad88a6%2F75530_pl8aaPvJoTIeqzK1hIvSVQ.jpg",
     "price": 2500,
@@ -3916,38 +3432,6 @@
     ]
   },
   {
-    "id": "6509311",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F23%2F19%2F02%2Fc6e8cfee-349b-4100-9aac-30018c45a97a%2F37623_8tGT-qA4rj0Q7wStOAQgLw.jpg",
-    "price": 4000,
-    "location": "Nəriman Nərimanov m.",
-    "area_m2": 250,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.40055067859546,
-    "lng": 49.87356972176507,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-04T18:13:50+04:00",
-    "is_featured": true,
-    "title": "İcarəyə verilir obyekt 250 m²",
-    "description": "VASİTECİ MUKAFATLANIR.\n\n✅BUTIK GEYIM UCUN IDEAL VARIANTDIR\n\n✅GOZELLIK SALONU\nUMUMİ SAHƏSİ 250KV.\n📍Nərimanov rayonu Metro parkın yanı Azinko yaşayış kompleksi ilə uzbəuz\n\nMƏRKƏZİ YOLA BOYUK VİTRİNİ VAR\nTAM TƏMİRLİ \n\nKamera sistemi\nSiqnalizasiya\nİşiqlanma \nİsti pol \nKondisoner var.",
-    "building_type": "Obyekt",
-    "location_id": "1",
-    "location_name": "Nəriman Nərimanov",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6509311",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 4000,
-        "date": "2026-10-02T14:35:48.891588+00:00"
-      }
-    ]
-  },
-  {
     "id": "6509201",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F21%2F45%2F50%2F2f16f7a3-27c0-475c-917a-df5736b8de8c%2F75500_-N9ROqUJY_LW2VVNnk_Qsw.jpg",
     "price": 2500,
@@ -3976,6 +3460,534 @@
       {
         "price": 2500,
         "date": "2026-10-02T14:51:35.960853+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6509910",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F11%2F59%2F14%2F28cbdfb2-40bd-4b25-aa68-4bb597f46bd8%2F16162_db6l4fYbnzWzPjmVu4rvfA.jpg",
+    "price": 800,
+    "location": "28 May m.",
+    "area_m2": 25,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.38003581097678,
+    "lng": 49.84855830442911,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-05T12:50:29+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir obyekt 25 m²",
+    "description": "🏡 28 MAY METROSUNUN YAXINLIĞINDA PREMIUM OBİYEK!\r\n\r\n📍 Tesla Parkın arxasında, əlverişli və prestijli ərazidə yerləşir.\r\n\r\n✨ 25 m²\r\n🏢 Binanın 2-ci mərtəbəsi\r\n🛋️ Tam əşyalı\r\n🔑 Premium təmirli və hazır vəziyyətdə\r\n💰 Aylıq kirayə: 800 AZN\r\n\r\nObyek çox gözəl və əlverişli lokasiyada yerləşir. Premium təmir, əşyalı vəziyyət və ideal yerləşmə axtaranlar üçün əla seçimdir.\r\n\r\n📞 Ətraflı məlumat və baxış üçün aşağıdakı nömrə ilə əlaqə saxlaya bilərsiniz.\r\n\r\n🔥 Təcili kirayə verilir!",
+    "building_type": "Obyekt",
+    "location_id": "8",
+    "location_name": "28 May",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6509910",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 800,
+        "date": "2026-10-02T14:35:48.893544+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6509986",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F12%2F16%2F41%2F6676a7da-1b5d-4a45-aeec-46fe25230754%2F4902_cO5ptDXGPSlN0Ji2A5zjxA.jpg",
+    "price": 550,
+    "location": "Nəsimi m.",
+    "area_m2": 40,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.42460091569767,
+    "lng": 49.82492950035859,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-05T14:35:25+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir obyekt 40 m²",
+    "description": "Daha ətraflı məlumat üçün bizimlə əlaqə saxlayın. Komissiya: 30%.",
+    "building_type": "Obyekt",
+    "location_id": "60",
+    "location_name": "Nəsimi",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6509986",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 550,
+        "date": "2026-10-02T14:35:48.893372+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6508323",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F16%2F43%2F05%2F0a9fa604-8244-4ef4-879b-630e847e7156%2F4902_fR2SC5O1iyJTJ9ovZB5MZg.jpg",
+    "price": 9000,
+    "location": "Şah İsmayıl Xətai m.",
+    "area_m2": 400,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38182899469271,
+    "lng": 49.86672784210445,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-05T18:22:13+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir obyekt 400 m²",
+    "description": "Pub Restoran icareye verilir . Biznes satisi var Maraqlananlar whatsapp vasitesile elaqe saxlasin. ",
+    "building_type": "Obyekt",
+    "location_id": "36",
+    "location_name": "Şah İsmayıl Xətai",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6508323",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 9000,
+        "date": "2026-10-02T14:51:35.962359+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6509892",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F11%2F51%2F39%2F5665e3f6-98b2-4194-8140-79169741a71a%2F71355_JYmq4SeondPFmUl4OSjyxQ.jpg",
+    "price": 720,
+    "location": "Xalqlar Dostluğu m.",
+    "area_m2": 60,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.406597080278,
+    "lng": 49.95381628046038,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-05T18:45:38+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir obyekt 60 m²",
+    "description": "Nizami rayonu Neftciler Xalqlar Dostlugu Melhem Hospitalin yaxinliqi Planet In Hotel yaxinliqi  ve 8 ci km bazari yaxinliqinda 9 mertebeli binanin 1 ci mertebesinde 3 otaqli  obyekt icareye verilir her cur tekliflere haziriq etrafli melumat ucun zeng edin\r\nXidmet haqqi 30%",
+    "building_type": "Obyekt",
+    "location_id": "54",
+    "location_name": "Xalqlar Dostluğu",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6509892",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 720,
+        "date": "2026-10-02T14:35:48.893558+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6509531",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F10%2F27%2F01%2Fc9f6c854-6b37-4c01-9607-fcee20948905%2F21482_36uzDUn3rW3IOsHUgDnC_A.jpg",
+    "price": 4500,
+    "location": "Memar Əcəmi m.",
+    "area_m2": 520,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.41604161129737,
+    "lng": 49.81436500478516,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-05T18:50:16+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir obyekt 520 m²",
+    "description": "Əcəmi metrosu yaxınlığında 16 mərtəbəli yeni tikilinin 2-ci mərtəbəsində müxtəlif profillərə (uşaq baxçası,şirkət ofisi,klinika,tədris mərkəzi və s.) uyğun ümumi sahəsi 520 kvm.olan 18 otaqlı obyekt uzun müddətə kirayə verilir.Obyektdə mətbəx,sanuzel və s.təmir olunub və əla vəziyyətdədir.Kombi istilik sistemidir.Bütün otaqlarda kondisioner var.Şirkət və ofislər,tədris mərkəzi üçün əşyalar var.Ətraflı məlumat üçün əlaqə saxlaya bilərsiniz.Ofisin rüsumu 30%.",
+    "building_type": "Obyekt",
+    "location_id": "59",
+    "location_name": "Memar Əcəmi",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6509531",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 5000,
+        "date": "2026-10-02T14:35:48.894423+00:00"
+      },
+      {
+        "price": 4500,
+        "date": "2026-10-06T12:57:59.450509+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6417619",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F09%2F26%2F31%2F0bac7fc0-115f-4b3a-abe4-eac826b367b7%2F60560_rwUrMoiBPDUxDATLONoc-A.jpg",
+    "price": 750,
+    "location": "Bayıl q.",
+    "area_m2": 360,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.3392708997364,
+    "lng": 49.83213116321437,
+    "has_repair": false,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T10:04:14+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir obyekt 360 m²",
+    "description": "📐 Sahə: 120–360 m²\n🚪 Ayrı giriş\n📏 Tavan hündürlüyü: 3.2 metr\n🔨 Hazırda təmirsizdir\n📍 Landau məktəbinə yaxın\nObyekt ofis, kurs, tədris mərkəzi, anbar, studiya və digər fəaliyyət sahələri üçün əlverişlidir.\nƏtraflı məlumat və qiymət üçün əlaqə saxlaya bilərsiniz.Obyekt hazırda təmirsiz vəziyyətdədir və icarəçinin istəyinə uyğun olaraq razılaşma yolu ilə təmir edilə bilər, Və ya obyektin təmir xərclərini öz hesabıma qarşılayacağam.",
+    "building_type": "Obyekt",
+    "location_id": "49",
+    "location_name": "Bayıl",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6417619",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 950,
+        "date": "2026-10-02T14:35:48.891391+00:00"
+      },
+      {
+        "price": 750,
+        "date": "2026-10-06T12:57:58.665267+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6509667",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F11%2F09%2F52%2Fbbe530d2-a7d3-45fd-b922-6a8e8ac15d87%2F75517_xgicl6hZKdAuRWWfnx0xSQ.jpg",
+    "price": 3000,
+    "location": "Xətai r.",
+    "area_m2": 340,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.3789089903681,
+    "lng": 49.9150325587984,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T11:37:43+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir obyekt 340 m²",
+    "description": "Xəzər tv-nin yanında əsas yol qırağında 2 mərtəbəli obyektin 340 kv.m zirzəmi hissəsi icarəyə verilir. ( Avtomobil birbaşa içərisinə daxil ola bilir ) Fotolardan göründüyü kimi sex kimi icarədədir, lakin digər müxtəlif təyinatlar üçün də icarəyə verilə bilər. ( Məsələn : Avto təmir, avto ehtiyyat hissələri mağazası və digər uyğun mağazalar, istehsalat, anbar və s. digər..) Sahibindən verilir icarəyə, vasitəçilik deyil. Obyektin - sanitar qovşağı, əlavə otaq hissəsi, qarşısında və arxa tərəfdə avto parklanması mövcuddur. Ünvan : Xətai rayonu, Süleyman Əhmədov küçəsi 4a, Xəzər tv-nin yanı. Qarşısından müxtəlif istiqamətlərə marşrut xəttləri də işləyir. Qeyd : Ehtiyac olarsa üst hissəsi 1-ci mərtəbəsi də icarəyə verilə bilər, o isə 300 kv.m-dir, tam təmirlidir. Tək-tək də verilə bilər, bir yerdə də verilə bilər.",
+    "building_type": "Obyekt",
+    "location_id": "16",
+    "location_name": "Xətai",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6509667",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 3000,
+        "date": "2026-10-02T14:35:48.894069+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5911701",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F02%2F23%2F11%2F08%2F58%2Fdcd579c0-a351-4a13-b258-037cd1db08a2%2F6516_xv6vqexyyGQHD-nadK0vPw.jpg",
+    "price": 3500,
+    "location": "Koroğlu m.",
+    "area_m2": 350,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.42080891388711,
+    "lng": 49.91239039617311,
+    "has_repair": false,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T14:30:58+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir obyekt 350 m²",
+    "description": "Atletlər kəndində yerləşən Olympic Residence-də 1m²-i 10₼-dən başlayan qiymətlərlə kommersiya sahələri təklif edilir!\r\n\r\nŞəhərin prestijli ərazisində - Heydər Əliyev prospektində yerləşən Olympic Village biznesinizin inkişafı üçün mükəmməl fürsət təqdim edir. Müasir və yüksək standartlara cavab verən ofis sahəsi komandalarınızın birgə fəaliyyətini və yaradıcılığını dəstəkləyən ideal iş mühiti yaradacaq.\r\n\r\n• Şəhər mərkəzində yerləşmə – Milli Gimanstika Arenası ilə üzbəüz;\r\n• Müxtəlif planlama və sahə seçimləri;\r\n• Şəhərcik daxilində fəaliyyət göstərən kofeşop;\r\n• Yeraltı və yerüstü parkinq imkanları;\r\n• 24/7 təhlükəsizlik və texniki dəstək\r\n\r\nQeyd 1: Qiymətə xidmət haqqı və ƏDV daxil deyil.\r\nQeyd 2: Icarə müddəti minimum 12 ay olmalıdır.\r\n\r\nCommercial spaces are offered at Olympic Residence, located in the Athletes’ Village, starting from 10 AZN per 1 m²!\r\n\r\nLocated in one of the city’s most prestigious areas – Heydar Aliyev Avenue – Olympic Village offers an excellent opportunity for the growth of your business. Modern office spaces that meet high standards provide an ideal working environment that supports collaboration and creativity within your team.\r\n\r\n• Central location – directly across from the National Gymnastics Arena\r\n• Various layout and space options\r\n• On-site coffee shop within the complex\r\n• Underground and surface parking options\r\n• 24/7 security and technical support\r\n\r\nNote 1: The price does not include the service fee and VAT.\r\nNote 2: The rental period must be a minimum of 12 months.",
+    "building_type": "Obyekt",
+    "location_id": "4",
+    "location_name": "Koroğlu",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/5911701",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 3500,
+        "date": "2026-10-02T14:35:48.892585+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5911715",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F02%2F23%2F11%2F10%2F50%2F39a0ed79-b5a3-4cdd-a0cf-f6b7d5e49df8%2F81108_naCs5ytT6a7ZSXMLx4hgJA.jpg",
+    "price": 8500,
+    "location": "Koroğlu m.",
+    "area_m2": 850,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.42061288415299,
+    "lng": 49.91286246495973,
+    "has_repair": false,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T14:32:01+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir obyekt 850 m²",
+    "description": "Atletlər kəndində yerləşən Olympic Residence-də 1m²-i 10₼-dən başlayan qiymətlərlə kommersiya sahələri təklif edilir!\r\n\r\nŞəhərin prestijli ərazisində - Heydər Əliyev prospektində yerləşən Olympic Village biznesinizin inkişafı üçün mükəmməl fürsət təqdim edir. Müasir və yüksək standartlara cavab verən ofis sahəsi komandalarınızın birgə fəaliyyətini və yaradıcılığını dəstəkləyən ideal iş mühiti yaradacaq.\r\n\r\n• Şəhər mərkəzində yerləşmə – Milli Gimanstika Arenası ilə üzbəüz;\r\n• Müxtəlif planlama və sahə seçimləri;\r\n• Şəhərcik daxilində fəaliyyət göstərən kofeşop;\r\n• Yeraltı və yerüstü parkinq imkanları;\r\n• 24/7 təhlükəsizlik və texniki dəstək\r\n\r\nQeyd 1: Qiymətə xidmət haqqı və ƏDV daxil deyil.\r\nQeyd 2: Icarə müddəti minimum 12 ay olmalıdır.\r\n\r\nCommercial spaces are offered at Olympic Residence, located in the Athletes’ Village, starting from 10 AZN per 1 m²!\r\n\r\nLocated in one of the city’s most prestigious areas – Heydar Aliyev Avenue – Olympic Village offers an excellent opportunity for the growth of your business. Modern office spaces that meet high standards provide an ideal working environment that supports collaboration and creativity within your team.\r\n\r\n• Central location – directly across from the National Gymnastics Arena\r\n• Various layout and space options\r\n• On-site coffee shop within the complex\r\n• Underground and surface parking options\r\n• 24/7 security and technical support\r\n\r\nNote 1: The price does not include the service fee and VAT.\r\nNote 2: The rental period must be a minimum of 12 months.",
+    "building_type": "Obyekt",
+    "location_id": "4",
+    "location_name": "Koroğlu",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/5911715",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 8500,
+        "date": "2026-10-02T14:35:48.892527+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5911661",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F02%2F23%2F11%2F00%2F20%2F3f1018c3-1256-4fde-881c-83f1464adf9b%2F61780_JFKybNCIGhIU5eYkGRkFZQ.jpg",
+    "price": 20000,
+    "location": "Koroğlu m.",
+    "area_m2": 2000,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.42045084619805,
+    "lng": 49.91281101336207,
+    "has_repair": false,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T14:33:56+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir obyekt 2000 m²",
+    "description": "Atletlər kəndində yerləşən Olympic Residence-də 1m²-i 10₼-dən başlayan qiymətlərlə kommersiya sahələri təklif edilir!\r\n\r\nŞəhərin prestijli ərazisində - Heydər Əliyev prospektində yerləşən Olympic Village biznesinizin inkişafı üçün mükəmməl fürsət təqdim edir. Müasir və yüksək standartlara cavab verən ofis sahəsi komandalarınızın birgə fəaliyyətini və yaradıcılığını dəstəkləyən ideal iş mühiti yaradacaq.\r\n\r\n• Şəhər mərkəzində yerləşmə – Milli Gimanstika Arenası ilə üzbəüz;\r\n• Müxtəlif planlama və sahə seçimləri;\r\n• Şəhərcik daxilində fəaliyyət göstərən kofeşop;\r\n• Yeraltı və yerüstü parkinq imkanları;\r\n• 24/7 təhlükəsizlik və texniki dəstək\r\n\r\nQeyd 1: Qiymətə xidmət haqqı və ƏDV daxil deyil.\r\nQeyd 2: Icarə müddəti minimum 12 ay olmalıdır.\r\n\r\nCommercial spaces are offered at Olympic Residence, located in the Athletes’ Village, starting from 10 AZN per 1 m²!\r\n\r\nLocated in one of the city’s most prestigious areas – Heydar Aliyev Avenue – Olympic Village offers an excellent opportunity for the growth of your business. Modern office spaces that meet high standards provide an ideal working environment that supports collaboration and creativity within your team.\r\n\r\n• Central location – directly across from the National Gymnastics Arena\r\n• Various layout and space options\r\n• On-site coffee shop within the complex\r\n• Underground and surface parking options\r\n• 24/7 security and technical support\r\n\r\nNote 1: The price does not include the service fee and VAT.\r\nNote 2: The rental period must be a minimum of 12 months.",
+    "building_type": "Obyekt",
+    "location_id": "4",
+    "location_name": "Koroğlu",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/5911661",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 20000,
+        "date": "2026-10-02T14:35:48.892512+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6509311",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F23%2F19%2F04%2F83f7f4e9-d7ef-460f-b650-ecc5cc73f561%2F79389_91xzduOp57ZxUpV8PEKQFQ.jpg",
+    "price": 4000,
+    "location": "Nəriman Nərimanov m.",
+    "area_m2": 250,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.40055067859546,
+    "lng": 49.87356972176507,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T15:17:15+04:00",
+    "is_featured": true,
+    "title": "İcarəyə verilir obyekt 250 m²",
+    "description": "VASİTECİ MUKAFATLANIR.\n\n✅BUTIK GEYIM UCUN IDEAL VARIANTDIR\n\n✅GOZELLIK SALONU\nUMUMİ SAHƏSİ 250KV.\n📍Nərimanov rayonu Metro parkın yanı Azinko yaşayış kompleksi ilə uzbəuz\n\nMƏRKƏZİ YOLA BOYUK VİTRİNİ VAR\nTAM TƏMİRLİ \n\nKamera sistemi\nSiqnalizasiya\nİşiqlanma \nİsti pol \nKondisoner var.",
+    "building_type": "Obyekt",
+    "location_id": "1",
+    "location_name": "Nəriman Nərimanov",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6509311",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 4000,
+        "date": "2026-10-02T14:35:48.891588+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6510566",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F13%2F51%2F07%2F00df75f0-579e-4038-bad0-c44402f34105%2F16127_sWPWI_TYtfJGgIVzoMDEPg.jpg",
+    "price": 3490,
+    "location": "Sahil m.",
+    "area_m2": 30,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.37690218323992,
+    "lng": 49.84268567764577,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T15:38:02+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir obyekt 30 m²",
+    "description": "Obyekt Şəhərin mərkəzində bülbül prospektində yerli əhalinin və turistlərin sıx hərəkət etdiyi ərazidə yerləşir \r\n2 böyük vitrin şüşəsi  obyektin içərisi və reklamı küçədən rahat görünür\r\nObyekt mağaza, ofis, salon, xidmət məntəqəsi, showroom və digər kommersiya fəaliyyətləri üçün əlverişlidir\r\n📞 Ətraflı məlumat və baxış üçün əlaqə saxlayın.",
+    "building_type": "Obyekt",
+    "location_id": "38",
+    "location_name": "Sahil",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6510566",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 3490,
+        "date": "2026-10-02T14:35:48.892643+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6508545",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F18%2F07%2F48%2F1ec6851a-668b-4df8-b911-35769613afd0%2F74653_RiUnzxV8Phf8mylgRd3HHA.jpg",
+    "price": 4500,
+    "location": "Müşfiqabad q.",
+    "area_m2": 850,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.45108226340784,
+    "lng": 49.68536894226074,
+    "has_repair": false,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T16:49:46+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir obyekt 850 m²",
+    "description": "                   Obyekt İcarə verilir \r\n          850 kv.m Müşviqabad yol kənarı\r\n    Anbar Fitness Tikiş sexi Soyuducu Kameralar \r\n        İstehsal və digər fəalliyyətlərə uyğundur\r\n                        4.500 manat",
+    "building_type": "Obyekt",
+    "location_id": "98",
+    "location_name": "Müşfiqabad",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6508545",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 4500,
+        "date": "2026-10-02T14:51:35.961932+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6509758",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F11%2F29%2F39%2Feceffc76-33c6-4340-a246-825e99572864%2F95197_9-YxLLk15bvXpxK8uBSn7A.jpg",
+    "price": 2250,
+    "location": "İnşaatçılar m.",
+    "area_m2": 65,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.39003870219528,
+    "lng": 49.80722595969691,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T16:56:20+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir obyekt 65 m²",
+    "description": "İCARƏYƏ VERİLİR — 65 KV.M QEYRI-YAŞAYIŞ OBYEKTİ\r\n\r\n📍 Baku Mall-a yaxın, tam yol kənarında yerləşən, əlverişli və görünən lokasiyaya malik obyekt icarəyə verilir.\r\n\r\n🔹 Sahəsi — 65 kv.m\r\n🔹 1-ci mərtəbə\r\n🔹 Ayrıca giriş-çıxış\r\n🔹 Yeni təmirli\r\n🔹 Şəxsi sanitar qovşağı\r\n🔹 Tam yol kənarında yerləşir\r\n🔹 Müxtəlif fəaliyyət sahələri üçün əlverişlidir\r\n\r\nObyekt həm yerləşmə, həm də giriş-çıxış baxımından biznes üçün əlverişli məkandır.\r\n\r\n📞 Ətraflı məlumat və obyektə baxış üçün əlaqə saxlayın.",
+    "building_type": "Obyekt",
+    "location_id": "7",
+    "location_name": "İnşaatçılar",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6509758",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 2500,
+        "date": "2026-10-02T14:35:48.893807+00:00"
+      },
+      {
+        "price": 2499,
+        "date": "2026-10-03T19:31:58.166746+00:00"
+      },
+      {
+        "price": 2250,
+        "date": "2026-10-06T12:57:59.259144+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6508614",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F17%2F53%2F10%2F4b012f2a-b641-47df-94da-373906dc51eb%2F75502_RebnKXOXElhZ3GpYwkTc9Q.jpg",
+    "price": 3000,
+    "location": "28 May m.",
+    "area_m2": 120,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.3853984597047,
+    "lng": 49.84451861198163,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-01T17:53:49+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir obyekt 120 m²",
+    "description": "AZADLIQ PROSPEKTİNDƏ 120 M² KOMMERSİYA OBYEKTİ İCARƏYƏ VERİLİR!\r\n\r\nAzadlıq prospekti | Əlverişli və görünən lokasiya\r\n-Obyekt binanın 2-ci mərtəbəsində yerləşir. Girişi birbaşa 1-ci mərtəbədən, Azadlıq prospekti tərəfdəndir. Yarı-vitrin giriş sahəsi mövcuddur.\r\n-Sahə: 120 m²\r\n-Mərtəbə: 2-ci mərtəbə\r\n-Giriş: Azadlıq prospektinə baxan yarı-vitrin giriş\r\n-Sərbəst planlama imkanı\r\n-Tam təmirli\r\n-3 fazalı elektrik sistemi\r\n-Coilover/kondisioner sistemi\r\n-Kombi və isitmə sistemi\r\n-Kamera müşahidə sistemi\r\n-Yanğın siqnalizasiya sistemi\r\n-Səs sistemi\r\n-Mətbəx\r\n-Sanitar qovşaq\r\n  Müxtəlif fəaliyyətlər üçün uyğundur:\r\n-Ofis və şirkət nümayəndəliyi\r\n-Bank və maliyyə xidməti\r\n-Sığorta şirkəti\r\n-Tədris mərkəzi\r\n-Klinika və xidmət sahələri\r\n-Showroom\r\n-Salon\r\n-Digər kommersiya fəaliyyətləri\r\n\r\nQiymət 3000 AZN \r\nOfis xidmət haqqı 30%",
+    "building_type": "Obyekt",
+    "location_id": "8",
+    "location_name": "28 May",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6508614",
+    "deleted_at": "2026-10-06T12:58:20.360313+00:00",
+    "price_history": [
+      {
+        "price": 3000,
+        "date": "2026-10-02T14:51:35.961869+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6508727",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F18%2F21%2F10%2Faca72504-4ea9-4834-9de0-e2837d670a24%2F75523_UBfIsfORSSWnv97jWAD9Yw.jpg",
+    "price": 5000,
+    "location": "28 May m.",
+    "area_m2": 160,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.38567399209006,
+    "lng": 49.844469600647,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-01T18:22:25+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir obyekt 160 m²",
+    "description": "Azadlıq pr. əsas yolda obyektlərin sırasında 160 kv.m sahəsi olan obyekt icarəyə verilir. Biznes üçün uygun, Azad planlama imkanı. Giriş Azadliq prospekti.  \r\n\r\n- Kondisioner sistemi \r\n- Kombi isitme\r\n- 3 Faza elektrik\r\n- Yangin sistemi\r\n- Guvenlik sistemi \r\n-  WC \r\n- Metbex\r\n\r\nBir çox fəaliyyət növlərinə uyğundur.\r\n\r\nQiymət 5000 AZN\r\nOfis xidmət haqqı 30% təşkil edir.",
+    "building_type": "Obyekt",
+    "location_id": "8",
+    "location_name": "28 May",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6508727",
+    "deleted_at": "2026-10-06T12:58:20.360317+00:00",
+    "price_history": [
+      {
+        "price": 5000,
+        "date": "2026-10-02T14:51:35.961777+00:00"
       }
     ]
   },

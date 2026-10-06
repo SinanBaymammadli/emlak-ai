@@ -1,0 +1,70 @@
+[
+  {
+    "id": "6516795",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F00%2F56%2F38%2Fbd8d961f-472a-4391-85e5-c4a7f4e0135c%2F16186_rLIoEE9xHJQ2YQuh4uSq2g.jpg",
+    "price": 275,
+    "location": "İnşaatçılar m.",
+    "location_id": "7",
+    "location_name": "İnşaatçılar",
+    "rooms": null,
+    "area_m2": 20,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": null,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-05T01:00:44+04:00",
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6516795",
+    "lat": 40.38591336985534,
+    "lng": 49.80876305171709,
+    "land_area_sot": null,
+    "building_type": "Qaraj",
+    "title": "İcarəyə verilir qaraj 20 m²",
+    "description": "🚗 Qarajın kirayəsi / Аренда гаража (ancaq mashin saxlamaq ucun , moyka acmaq istiyenler narahat elemesinler)\r\n\r\n📍 Yasamal rayonu, Tri Koronalar yaşayış kompleksi / Район Ясамал, ЖК «Три Короны»\r\n✅ Qaraja düz və dönməyi olmayan yol\r\n✅ Avtomatik qapılar rahat giriş üçün\r\n✅ Daxili işıqlandırma və 24/7 mühafizə\r\n✅ Təhlükəsizlik və rahatlıq\r\n✅ Yaxınlıqda avtomobil yuma xidməti\r\n📏 Avtomobil və ya anbar üçün geniş qaraj\r\n📦 Avtomobil və ya saxlama üçün ideal\r\n\r\n💰 Qiymət / Цена: 275 AZN / ay",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 275,
+        "date": "2026-10-06T12:57:45.074816+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6519740",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F21%2F43%2F54%2Fa3e6cf0b-55a8-4df5-997a-e18de3270355%2F91580_z7dbz03vQxyNu1ZdgdKYHA.jpg",
+    "price": 150,
+    "location": "8-ci kilometr q.",
+    "location_id": "74",
+    "location_name": "8-ci kilometr",
+    "rooms": null,
+    "area_m2": 18,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": null,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-05T21:49:16+04:00",
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6519740",
+    "lat": 40.40605304872989,
+    "lng": 49.93184037931518,
+    "land_area_sot": null,
+    "building_type": "Qaraj",
+    "title": "İcarəyə verilir qaraj 18 m²",
+    "description": "Avtomobil təmiri ilə məşğul olanlar üçün əla fürsət! İllərdi bu ərazidə təmir qarajları fəaliyyət göstərdiyi üçün Nizami rayonunda təmir üçün gəlinən birinci yerlərdəndir. Ay ışığı şadlıq sarayının sağ tərəfində yerləşir. Daş qarajdır.",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 150,
+        "date": "2026-10-06T12:57:45.074756+00:00"
+      }
+    ]
+  }
+]

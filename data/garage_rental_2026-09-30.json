@@ -1,71 +1,5 @@
 [
   {
-    "id": "6434731",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F05%2F08%2F57%2F36%2F2b1a6586-8994-4a9b-8a15-88eb75b0ca5d%2F72294_OYWa97czaT42inqB16hz0w.jpg",
-    "price": 110,
-    "location": "Nəriman Nərimanov m.",
-    "rooms": "",
-    "area_m2": 21,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.4063103240313,
-    "lng": 49.87557679653993,
-    "has_repair": null,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-05T09:01:11+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir qaraj 21 m²",
-    "description": "Nərimanov rayonu.\n\" Azenco \" yeni \ntikili binanın zirzəmisində 21 kv.metr sahədə ÇIXARIŞLİ qaraj icarəyə verilir.\nİstifadə imkanları:\n- Anbar/saxlama sahəsi\n- Emalatxana və ya xırda istehsal\n- Ofis və ya xidməti otaq kimi uyğunlaşdırma imkanı\n- Ev-eşya, konservləşdirilmiş məhsullar və digər materialların toplanması üçün əlverişlidir.",
-    "building_type": "Qaraj",
-    "location_id": "1",
-    "location_name": "Nəriman Nərimanov",
-    "category": "garage",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6434731",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 110,
-        "date": "2026-09-30T19:56:33.655028+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6434775",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F05%2F09%2F58%2F55%2F415bf921-be82-4b5a-90eb-e6162fe7e754%2F72335_ApC5ZqAly-fr0ouL0C_ZxQ.jpg",
-    "price": 110,
-    "location": "Ağ şəhər q.",
-    "rooms": "",
-    "area_m2": 18,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.38530679018758,
-    "lng": 49.88540651181899,
-    "has_repair": null,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-05T09:59:03+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir qaraj 18 m²",
-    "description": "Suşi by fərəhlə üzbəüz. Lamilandın yanl",
-    "building_type": "Qaraj",
-    "location_id": "314",
-    "location_name": "Ağ şəhər",
-    "category": "garage",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6434775",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 110,
-        "date": "2026-09-30T19:56:33.655000+00:00"
-      }
-    ]
-  },
-  {
     "id": "6444228",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F08%2F16%2F59%2F28%2Fe6a43b5d-6642-415e-ae47-75b6c84bfc91%2F63804_wWyfToausXOYqpHdDwuPmg.jpg",
     "price": 65,
@@ -660,39 +594,6 @@
     ]
   },
   {
-    "id": "6434735",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F05%2F09%2F02%2F40%2F79614ab0-0904-4663-9416-bfacb8d56149%2F63812_dbzHuDKGrbzkK9v0GhE-Iw.jpg",
-    "price": 600,
-    "location": "Nəriman Nərimanov m.",
-    "rooms": "",
-    "area_m2": 160,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.40622591821091,
-    "lng": 49.87557276955359,
-    "has_repair": null,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-22T14:40:33+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir qaraj 160 m²",
-    "description": "Nərimanov rayonu, \" Azenco \" yeni \ntikili binanın zirzəmisində 160 kv.metr sahədə ÇIXARIŞLİ qaraj icarəyə verilir.\nİstifadə imkanları:\n- Moyka \n- Anbar/saxlama sahəsi\n- Emalatxana və ya xırda istehsal\n- Ofis və ya xidməti otaq kimi uyğunlaşdırma imkanı\n- Ev-eşya, konservləşdirilmiş məhsullar və digər materialların toplanması üçün əlverişlidir.",
-    "building_type": "Qaraj",
-    "location_id": "1",
-    "location_name": "Nəriman Nərimanov",
-    "category": "garage",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6434735",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 600,
-        "date": "2026-09-30T19:56:33.655019+00:00"
-      }
-    ]
-  },
-  {
     "id": "6482926",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F17%2F47%2F24%2F0589a862-becc-4046-9024-26a301f7b85f%2F22769_K-zRJVf3lfKodPna8I-c5A.jpg",
     "price": 150,
@@ -1155,39 +1056,6 @@
     ]
   },
   {
-    "id": "6474192",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F19%2F14%2F03%2F49%2Fbeefa196-e6c3-4036-af19-459281095957%2F68276_nWKuzTWaHOWByigO-GLiLA.jpg",
-    "price": 250,
-    "location": "8 Noyabr m.",
-    "rooms": "",
-    "area_m2": 30,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.39789706964218,
-    "lng": 49.8213382251913,
-    "has_repair": null,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-30T18:29:18+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir qaraj 30 m²",
-    "description": "⚜️Qaraj kirayə verilir! Anbar, mebel sexi və ya sklad kimi yararlıdır!\n⚜️ Həsən Əliyev küç., ilə Tbilisi dairəsinin kəsişməsində, Çıraq Plaza ilə Qafqaz otelin yaxınlığında, Rahat market arxa həyətində, Azər Əliyev 7a ünvanında yerləşır.\n⚜️ İşığı, suyu və kanalizasiya sistemi var (qeyri yaşayış kimi qeydə alınıb)!\n⚜️ Yeni tikili binanın arxasındakı məhəllədə yerləşir, anbar kimi firmalara, və ya sklad kimi tam uyğundur.\n⚜️Ümumi sahəsi 30 kv.m. Hündürliyi 3 metr. \n⚜️ 24 saat kamera müşahidə sistemi və mühafizəsi var.\n      #anbar #sklad #arendasklad",
-    "building_type": "Qaraj",
-    "location_id": "279",
-    "location_name": "8 Noyabr",
-    "category": "garage",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6474192",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 250,
-        "date": "2026-09-30T19:56:33.654865+00:00"
-      }
-    ]
-  },
-  {
     "id": "6354991",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F07%2F08%2F57%2F59%2F52286aed-4bdb-4c76-b5d4-cf0c7ed67fbc%2F88537_iqo5jojBxuVQYeqBv3w5mA.jpg",
     "price": 200,
@@ -1324,6 +1192,109 @@
       {
         "price": 2000,
         "date": "2026-10-04T17:00:40.483176+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6434731",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F05%2F08%2F57%2F36%2F2b1a6586-8994-4a9b-8a15-88eb75b0ca5d%2F72294_OYWa97czaT42inqB16hz0w.jpg",
+    "price": 110,
+    "location": "Nəriman Nərimanov m.",
+    "rooms": "",
+    "area_m2": 21,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.4063103240313,
+    "lng": 49.87557679653993,
+    "has_repair": null,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-05T09:10:51+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 21 m²",
+    "description": "Nərimanov rayonu.\n\" Azenco \" yeni \ntikili binanın zirzəmisində 21 kv.metr sahədə ÇIXARIŞLİ qaraj icarəyə verilir.\nİstifadə imkanları:\n- Anbar/saxlama sahəsi\n- Emalatxana və ya xırda istehsal\n- Ofis və ya xidməti otaq kimi uyğunlaşdırma imkanı\n- Ev-eşya, konservləşdirilmiş məhsullar və digər materialların toplanması üçün əlverişlidir.",
+    "building_type": "Qaraj",
+    "location_id": "1",
+    "location_name": "Nəriman Nərimanov",
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6434731",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 110,
+        "date": "2026-09-30T19:56:33.655028+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6434735",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F05%2F09%2F02%2F40%2F79614ab0-0904-4663-9416-bfacb8d56149%2F63812_dbzHuDKGrbzkK9v0GhE-Iw.jpg",
+    "price": 600,
+    "location": "Nəriman Nərimanov m.",
+    "rooms": "",
+    "area_m2": 160,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.40622591821091,
+    "lng": 49.87557276955359,
+    "has_repair": null,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-05T09:12:05+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 160 m²",
+    "description": "Nərimanov rayonu, \" Azenco \" yeni \ntikili binanın zirzəmisində 160 kv.metr sahədə ÇIXARIŞLİ qaraj icarəyə verilir.\nİstifadə imkanları:\n- Moyka \n- Anbar/saxlama sahəsi\n- Emalatxana və ya xırda istehsal\n- Ofis və ya xidməti otaq kimi uyğunlaşdırma imkanı\n- Ev-eşya, konservləşdirilmiş məhsullar və digər materialların toplanması üçün əlverişlidir.",
+    "building_type": "Qaraj",
+    "location_id": "1",
+    "location_name": "Nəriman Nərimanov",
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6434735",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 600,
+        "date": "2026-09-30T19:56:33.655019+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6474192",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F19%2F14%2F03%2F49%2Fbeefa196-e6c3-4036-af19-459281095957%2F68276_nWKuzTWaHOWByigO-GLiLA.jpg",
+    "price": 350,
+    "location": "8 Noyabr m.",
+    "rooms": "",
+    "area_m2": 30,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.39789706964218,
+    "lng": 49.8213382251913,
+    "has_repair": null,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-05T15:32:28+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 30 m²",
+    "description": "⚜️Qaraj kirayə verilir! Anbar, mebel sexi və ya sklad kimi yararlıdır!\n⚜️ Həsən Əliyev küç., ilə Tbilisi dairəsinin kəsişməsində, Çıraq Plaza ilə Qafqaz otelin yaxınlığında, Rahat market arxa həyətində, Azər Əliyev 7a ünvanında yerləşır.\n⚜️ İşığı, suyu və kanalizasiya sistemi var (qeyri yaşayış kimi qeydə alınıb)!\n⚜️ Yeni tikili binanın arxasındakı məhəllədə yerləşir, anbar kimi firmalara, və ya sklad kimi tam uyğundur.\n⚜️Ümumi sahəsi 30 kv.m. Hündürliyi 3 metr. \n⚜️ 24 saat kamera müşahidə sistemi və mühafizəsi var.\n      #anbar #sklad #arendasklad",
+    "building_type": "Qaraj",
+    "location_id": "279",
+    "location_name": "8 Noyabr",
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6474192",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 250,
+        "date": "2026-09-30T19:56:33.654865+00:00"
+      },
+      {
+        "price": 350,
+        "date": "2026-10-06T12:57:45.218391+00:00"
       }
     ]
   },
@@ -1522,6 +1493,39 @@
       {
         "price": 170,
         "date": "2026-09-30T19:56:33.655010+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6434775",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F05%2F09%2F58%2F55%2F415bf921-be82-4b5a-90eb-e6162fe7e754%2F72335_ApC5ZqAly-fr0ouL0C_ZxQ.jpg",
+    "price": 110,
+    "location": "Ağ şəhər q.",
+    "rooms": "",
+    "area_m2": 18,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38530679018758,
+    "lng": 49.88540651181899,
+    "has_repair": null,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-09-05T09:59:03+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 18 m²",
+    "description": "Suşi by fərəhlə üzbəüz. Lamilandın yanl",
+    "building_type": "Qaraj",
+    "location_id": "314",
+    "location_name": "Ağ şəhər",
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6434775",
+    "deleted_at": "2026-10-06T12:57:45.477874+00:00",
+    "price_history": [
+      {
+        "price": 110,
+        "date": "2026-09-30T19:56:33.655000+00:00"
       }
     ]
   },

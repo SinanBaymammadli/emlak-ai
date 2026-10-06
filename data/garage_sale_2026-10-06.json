@@ -1,0 +1,138 @@
+[
+  {
+    "id": "6285234",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F12%2F13%2F05%2F36%2F59b63192-48b2-41bc-a136-57a370bddbcb%2F11865_M6y-Dxs9nC0f_JDFovei_w.jpg",
+    "price": 39500,
+    "location": "Sea Breeze q.",
+    "location_id": "380",
+    "location_name": "Sea Breeze",
+    "rooms": null,
+    "area_m2": 25,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": null,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-05T12:10:17+04:00",
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6285234",
+    "lat": 40.58769692179242,
+    "lng": 49.96793735042604,
+    "land_area_sot": null,
+    "building_type": "Qaraj",
+    "title": "Satılır qaraj 25 m²",
+    "description": " Tecili Sea Breezde  Polo Rezidensde qaraj satılır 25 kv. Baxmaq isteyenler zehmet olmasa elaqe saxlasin yeri telefonda sorusulmasin. Bu qiymete Sea Breezde qaraj yoxdur. Erazisi böyük qarajlardan sayılır. Bir maşın ve qolf kar rahatlıqla yerləşir. Sezonda raharlıqla 1500 Azne icareye verilir. Liftin yaxınlığında yerleşir. \n\n",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 39500,
+        "date": "2026-10-06T12:57:40.500559+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6517477",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F12%2F20%2F24%2Ff243c111-36f2-4e6e-98e7-8620365e0300%2F75550_xeq6Z0SC1CpEgAH74OdtJw.jpg",
+    "price": 25000,
+    "location": "Nəriman Nərimanov m.",
+    "location_id": "1",
+    "location_name": "Nəriman Nərimanov",
+    "rooms": null,
+    "area_m2": 12,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-05T13:04:20+04:00",
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6517477",
+    "lat": 40.40294727276287,
+    "lng": 49.8708660550781,
+    "land_area_sot": null,
+    "building_type": "Qaraj",
+    "title": "Satılır qaraj 12 m²",
+    "description": "Nerimanov rayonu Heyder Əliyem merkezin yanında qaraj Satılır ",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 25000,
+        "date": "2026-10-06T12:57:40.500546+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6519933",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F09%2F52%2F49%2F9dceede8-278e-4867-a83e-bde8570f7793%2F50030_qf5-b7avovxzY1pd80kpGg.jpg",
+    "price": 10000,
+    "location": "Hövsan q.",
+    "location_id": "93",
+    "location_name": "Hövsan",
+    "rooms": null,
+    "area_m2": 18,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": null,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-06T10:44:56+04:00",
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6519933",
+    "lat": 40.35712340347283,
+    "lng": 50.07723138358921,
+    "land_area_sot": null,
+    "building_type": "Qaraj",
+    "title": "Satılır qaraj 18 m²",
+    "description": "Satılır daş garaj",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 10000,
+        "date": "2026-10-06T12:57:40.500499+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6520855",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F13%2F31%2F38%2F7220f40f-63ba-40ea-8073-034b5b0a0348%2F37089_7C-EwG22KepdQVdu2BnKpA.jpg",
+    "price": 76000,
+    "location": "Nəsimi r.",
+    "location_id": "190",
+    "location_name": "Nəsimi",
+    "rooms": null,
+    "area_m2": 24,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-06T16:21:25+04:00",
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6520855",
+    "lat": 40.39410217022061,
+    "lng": 49.83552497136004,
+    "land_area_sot": null,
+    "building_type": "Qaraj",
+    "title": "Satılır qaraj 24 m²",
+    "description": "Dash garaj✅\r\nDam shifer✅\r\nAglayli ✅\r\n7/24 Su✅\r\nKanalizaciya✅\r\nElave 6 kv anbar ✅\r\nYigilma mebel✅\r\nVorota pultla✅\r\nİshig saygac✅\r\nTexniki pasport✅",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 76000,
+        "date": "2026-10-06T12:57:40.500430+00:00"
+      }
+    ]
+  }
+]

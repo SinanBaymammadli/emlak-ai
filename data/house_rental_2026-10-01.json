@@ -1462,36 +1462,36 @@
     ]
   },
   {
-    "id": "6508006",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F15%2F34%2F49%2F446ad161-9610-4ecc-a979-e466eec33f2e%2F704_jU0Rtlpa5NSd9K-mQY3mWA.jpg",
-    "price": 650,
-    "location": "Badamdar q.",
-    "rooms": "1 otaqlı",
-    "area_m2": 45,
+    "id": "6508110",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F15%2F58%2F50%2F172d32d6-2ddd-40cb-8397-70cc767f96c4%2F75506_1Sj4Q8zHaNIBKgdgNj5SLw.jpg",
+    "price": 350,
+    "location": "İnşaatçılar m.",
+    "rooms": "3 otaqlı",
+    "area_m2": 65,
     "floor": null,
     "is_agency": false,
-    "lat": 40.34648578894166,
-    "lng": 49.80333854937458,
+    "lat": 40.394,
+    "lng": 49.795,
     "has_repair": true,
     "has_bill_of_sale": false,
     "has_mortgage": false,
     "floor_number": null,
-    "updated_at_site": "2026-10-04T08:59:42+04:00",
+    "updated_at_site": "2026-10-05T07:43:34+04:00",
     "is_featured": false,
-    "title": "İcarəyə verilir 1 otaqlı həyət evi/bağ evi 45 m²",
-    "description": "Badamdar qəsəsbəsi 1 massiv . Kommunal odeniw evin kiraye puluna daxildir. Evin qarwisinda parklanma sahesi de var. Kuce bawdan bawa iwiglandirilir. Avtobus dayanacagina 10 deqiqe . Əsasən tələbə xanimlara və gənc ailələrə nəzərdə tutulub.",
+    "title": "İcarəyə verilir 3 otaqlı həyət evi/bağ evi 65 m²",
+    "description": "Salam ev aileye verilir ve ya telebe xanimlara uzun muddetli ev uc otaqdan ibaretdir esyasi var bezi seyler catismir onuda qoymaq olar kamunal men terefden odenilecek makler deyilem oz evimdir 77 ve 211 sayli marsurutlar duz evin yanindan kecir buyurub zeng ede bilersiniz ",
     "building_type": "Həyət evi/Bağ evi",
-    "location_id": "46",
-    "location_name": "Badamdar",
+    "location_id": "7",
+    "location_name": "İnşaatçılar",
     "land_area_sot": 1,
     "category": "house",
     "deal_type": "rental",
-    "url": "https://bina.az/items/6508006",
+    "url": "https://bina.az/items/6508110",
     "deleted_at": null,
     "price_history": [
       {
-        "price": 650,
-        "date": "2026-10-01T12:04:45.788498+00:00"
+        "price": 350,
+        "date": "2026-10-01T12:04:45.788368+00:00"
       }
     ]
   },
@@ -1510,7 +1510,7 @@
     "has_bill_of_sale": false,
     "has_mortgage": false,
     "floor_number": null,
-    "updated_at_site": "2026-10-04T13:15:58+04:00",
+    "updated_at_site": "2026-10-05T13:15:59+04:00",
     "is_featured": false,
     "title": "İcarəyə verilir 8 otaqlı həyət evi/bağ evi 500 m²",
     "description": "Ev 24 sot torpaqda yerləşir, 500 kv-dır. İkimərtəbəlidir, 8 otaq+mətbəx, hər iki mərtəbədə sanitar qovşaq və hamam otağı mövcuddur. Evin ikinci mərtəbəsində 2 balkon, 3-cü mərtəbədə isə terras mövcuddur. Hər mərtəbənin ayrı girişi-çıxışı da var. Ev dolu vəziyyətdədir, hər otaqda kondisioner, istilik sistemi isə kombi (1-ci mərtəbə isti pol).\r\nWi-fi, qaz, işıq, su (artizan).\r\nHəyətdə 18/4-ə qapalı hovuzu, bliyard zalı, istəyə bağlı trinajor zalı, yay-qış otağı, manqal yeri, açıq bisetka, 2 sanitar qovşaq, bir neçə maşın saxlamaq üçün geniş ərazi mövcuddur. Ev çox sakit və səliqəli məhlədə yerləşir.\r\nEv günlük, aylıq və illik olaraq icarəyə verilir.\r\nqeyd: Reabilitasiya, Qocalar evi, Qadın və Uşaq sığınacaq və s. sosial yardım mərkəzlərinə də verilir.\r\nUzunmüddətli icarədə endirim edilir.",
@@ -1530,6 +1530,40 @@
     ]
   },
   {
+    "id": "6508006",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F15%2F34%2F49%2F446ad161-9610-4ecc-a979-e466eec33f2e%2F704_jU0Rtlpa5NSd9K-mQY3mWA.jpg",
+    "price": 650,
+    "location": "Badamdar q.",
+    "rooms": "1 otaqlı",
+    "area_m2": 45,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.34648578894166,
+    "lng": 49.80333854937458,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T08:59:47+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 1 otaqlı həyət evi/bağ evi 45 m²",
+    "description": "Badamdar qəsəsbəsi 1 massiv . Kommunal odeniw evin kiraye puluna daxildir. Evin qarwisinda parklanma sahesi de var. Kuce bawdan bawa iwiglandirilir. Avtobus dayanacagina 10 deqiqe . Əsasən tələbə xanimlara və gənc ailələrə nəzərdə tutulub.",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "46",
+    "location_name": "Badamdar",
+    "land_area_sot": 1,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6508006",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 650,
+        "date": "2026-10-01T12:04:45.788498+00:00"
+      }
+    ]
+  },
+  {
     "id": "6384567",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F17%2F20%2F24%2F47%2F813d5de8-a340-4e53-ae3e-24af027a8e77%2F36852_V54SRwFM6psGlwqsWVu68g.jpg",
     "price": 150,
@@ -1544,7 +1578,7 @@
     "has_bill_of_sale": false,
     "has_mortgage": false,
     "floor_number": null,
-    "updated_at_site": "2026-10-04T13:59:47+04:00",
+    "updated_at_site": "2026-10-06T13:59:49+04:00",
     "is_featured": true,
     "title": "İcarəyə verilir 4 otaqlı həyət evi/bağ evi 160 m²",
     "description": "Şüvəlanda Mirmövsüm ağa tərəfdə Bağ evi. İsti hovuz, besetka, manqalni, 4 otaq, 2 sanuzel samavar bütün şərait mövcuddur. Sizdə sevdiklərinizlə birgə müraciət edib istirahət edə bilərsiniz.adam sayina gore qiymet deyisir",
@@ -1578,7 +1612,7 @@
     "has_bill_of_sale": false,
     "has_mortgage": false,
     "floor_number": null,
-    "updated_at_site": "2026-10-04T14:10:22+04:00",
+    "updated_at_site": "2026-10-06T14:10:22+04:00",
     "is_featured": false,
     "title": "İcarəyə verilir 4 otaqlı həyət evi/bağ evi 180 m²",
     "description": "Merdekanda yola yaxin ela temirli bag evi kiraye verilir. Yasamaq ucun her bir seraiti var. Istilik yerden isitmedir.  Genis yasilliqli heyeti, qis metbexi, manqali var. Bagin heyetine agaclarina bagban qulluq edir. Ama ozu orda yasamir her gun gelir. Iyul ayina kimi verilir. Vasiteci deyilem oz bagimizdir. ",
@@ -1696,40 +1730,6 @@
       {
         "price": 450,
         "date": "2026-10-01T12:04:45.788645+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6508110",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F15%2F58%2F50%2F172d32d6-2ddd-40cb-8397-70cc767f96c4%2F75506_1Sj4Q8zHaNIBKgdgNj5SLw.jpg",
-    "price": 350,
-    "location": "İnşaatçılar m.",
-    "rooms": "3 otaqlı",
-    "area_m2": "65 m²",
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.394,
-    "lng": 49.795,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-01T15:59:34+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 3 otaqlı həyət evi/bağ evi 65 m²",
-    "description": "Salam ev aileye verilir ve ya telebe xanimlara uzun muddetli ev uc otaqdan ibaretdir esyasi var bezi seyler catismir onuda qoymaq olar kamunal men terefden odenilecek makler deyilem oz evimdir 77 ve 211 sayli marsurutlar duz evin yanindan kecir buyurub zeng ede bilersiniz ",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "7",
-    "location_name": "İnşaatçılar",
-    "land_area_sot": 1,
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6508110",
-    "deleted_at": "2026-10-04T18:34:13.656422+00:00",
-    "price_history": [
-      {
-        "price": 350,
-        "date": "2026-10-01T12:04:45.788368+00:00"
       }
     ]
   }
