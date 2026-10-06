@@ -64,30 +64,48 @@ base = (
 def active_ids(listings):
     return {l["id"] for l in listings if l.get("deleted_at") is None}
 
+def load_cat_listings(cat: str) -> list:
+    manifest_path = Path("data") / "manifest.json"
+    manifest = json.loads(manifest_path.read_text(encoding="utf-8")) if manifest_path.exists() else {}
+    dates = manifest.get(cat, [])
+    listings = []
+    for d in dates:
+        p = Path("data") / f"{cat}_{d}.json"
+        if p.exists():
+            listings.extend(json.loads(p.read_text(encoding="utf-8")))
+    return listings
+
+
 lines = [f"{icon} <b>emlak-ai scrape complete</b> ({result})\n"]
 for cat in CATEGORIES:
-    f = Path("data") / f"{cat}.json"
     try:
-        listings = json.loads(f.read_text(encoding="utf-8"))
+        listings = load_cat_listings(cat)
         ids = active_ids(listings)
         total = len(ids)
 
         new_count = 0
         if base:
             try:
-                old = subprocess.check_output(
-                    ["git", "show", f"{base}:data/{f.name}"],
+                # count IDs in the today-dated file that weren't active at base
+                from datetime import date as _date
+                today_file = f"data/{cat}_{_date.today().isoformat()}.json"
+                old_raw = subprocess.check_output(
+                    ["git", "show", f"{base}:{today_file}"],
                     text=True,
                     stderr=subprocess.DEVNULL,
                 )
-                new_count = len(ids - active_ids(json.loads(old)))
+                new_count = len(ids - active_ids(json.loads(old_raw)))
             except subprocess.CalledProcessError:
-                new_count = total  # file is new this run
+                # today's file is brand new — all its listings are new
+                today_path = Path("data") / f"{cat}_{_date.today().isoformat()}.json"
+                if today_path.exists():
+                    new_count = len(active_ids(json.loads(today_path.read_text(encoding="utf-8"))))
 
         new_str = f"  <b>+{new_count} new</b>" if new_count else ""
         fail_str = "  ❌ <b>FAILED</b>" if cat in failed_categories else ""
         lines.append(f"  <b>{cat}</b>: {total} total{new_str}{fail_str}")
-    except Exception:
+    except Exception as exc:
+        print(f"  {cat} summary error: {exc}")
         fail_str = "  ❌ <b>FAILED</b>" if cat in failed_categories else ""
         lines.append(f"  <b>{cat}</b>: ⚠️ error{fail_str}")
 
