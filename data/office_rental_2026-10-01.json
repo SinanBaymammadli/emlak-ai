@@ -561,39 +561,6 @@
     "rooms": "4 otaqlı"
   },
   {
-    "id": "6507508",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F13%2F50%2F35%2F6f0ea75d-cb26-4cfe-9dd7-c6200555ae77%2F60581_5QdO4goQY7-EGtl1FcCdvA.jpg",
-    "price": 450,
-    "location": "Bakıxanov q.",
-    "area_m2": 60,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.41800996331385,
-    "lng": 49.9617788524449,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-01T13:54:34+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı ofis 60 m²",
-    "description": "Obyekt icarəyə verilir\r\n\r\nRazində İcra Hakimiyyəti tərəfdə\r\n\r\nYol kənarı\r\n\r\n2 ayrı obyekt\r\n\r\nTəmirdən yeni çıxıb\r\n\r\n",
-    "building_type": "Ofis",
-    "location_id": "69",
-    "location_name": "Bakıxanov",
-    "category": "office",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6507508",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 450,
-        "date": "2026-10-01T12:04:32.464110+00:00"
-      }
-    ],
-    "rooms": "2 otaqlı"
-  },
-  {
     "id": "6507602",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F14%2F09%2F50%2Fa2b815fb-9272-481a-85b4-8b8ce4a33520%2F91538_j1CUibR_kE1-giWHHo9dag.jpg",
     "price": 650,
@@ -858,39 +825,6 @@
     "rooms": "1 otaqlı"
   },
   {
-    "id": "6508007",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F15%2F36%2F16%2F16e54485-b644-4466-9ef4-f9e6381771f8%2F48615_RbH3_tHKf4xVoiahkc9Z9A.jpg",
-    "price": 300,
-    "location": "Nərimanov r.",
-    "area_m2": 30,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.4293695119805,
-    "lng": 49.89189457375482,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-01T15:37:17+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 1 otaqlı ofis 30 m²",
-    "description": "Bütün standartlara cavab verən Yeni Tam Təmirli 30 Kv.m Ofis icarəyə verilir ( Xadiməsi, Mühafizə xidməti və bütün kommunal xidmətləri bu qiymətə daxildir ) -- Nərimanov rayonu , Ulduz metrosuna yaxın , Ziya Bünyadov prospekti , Topdan satış tikinti materialları bazarında , Tanınmış Santral mağazasının yanı , Avtobus dayanacağının yanı ( Luk Oil yanacaqdoldurma məntəqəsi ilə üzbəüz ,Əsas mərkəz trasa 120 metr )\u2028Yeni inşa olunmuş Bina ümumilikdə 3500 Kv.m təşkil edir , Aşağı mərtəbəsi Al Market , Dalğa Restoranı ( Yeməkxana ) və ümumi 28 ədəd Müxtəlif mağazalardan ibarətdir. 2-ci mərtəbəsi isə Ofis otaqlarından ibarətdir.\u2028Daimi Şirin suyu (isti-soyuq) , daimi işığı ,mətbəxi, 4 Sanitar qovşağı , Mətbəxi , Binanın arxasında və qabağında geniş Parkovkası , İnternet wi-fiyı , Kombi istilik sistemi , 24 saat Gözətçisi və tam olaraq kamera sistemi ilə əhatə olunub.",
-    "building_type": "Ofis",
-    "location_id": "10",
-    "location_name": "Nərimanov",
-    "category": "office",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6508007",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 300,
-        "date": "2026-10-01T12:04:32.463749+00:00"
-      }
-    ],
-    "rooms": "1 otaqlı"
-  },
-  {
     "id": "5012992",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F02%2F26%2F19%2F19%2F04%2F7987aff1-cac8-4b03-b699-b3d0c59c734c%2F710_n_84bQNwZvpGSEPPCvJ-ng.jpg",
     "price": 20000,
@@ -922,39 +856,6 @@
       }
     ],
     "rooms": "20 otaqlı"
-  },
-  {
-    "id": "6507090",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F12%2F24%2F21%2Fb9dfaf35-84bb-4013-9932-361bc8404bfe%2F75534_B-kbdDfzQ-iDXMrr8_1Ydw.jpg",
-    "price": 2200,
-    "location": "28 May m.",
-    "area_m2": 176,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.38043747804063,
-    "lng": 49.84647052857211,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-03T14:53:49+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 5 otaqlı ofis 176 m²",
-    "description": "🏢 28 May metrosu yaxınlığında 5 otaqlı ofis icarəyə verilir!\r\n\r\n📍 Əlverişli və mərkəzi ərazidə yerləşir.\r\n🔹 5 otaq\r\n🔹 Ofis üçün ideal planlama\r\n🔹 İşgüzar fəaliyyət üçün əlverişli məkan\r\n🔹 Metroya və əsas infrastruktura yaxın\r\n\r\nƏtraflı məlumat və baxış üçün əlaqə saxlaya bilərsiniz. 📞",
-    "building_type": "Ofis",
-    "location_id": "8",
-    "location_name": "28 May",
-    "category": "office",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6507090",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 2200,
-        "date": "2026-10-01T12:04:32.464305+00:00"
-      }
-    ],
-    "rooms": "5 otaqlı"
   },
   {
     "id": "6506796",
@@ -990,39 +891,6 @@
     "rooms": "2 otaqlı"
   },
   {
-    "id": "5796168",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F01%2F10%2F19%2F49%2F49%2Fe58743c8-6aca-48e6-bad5-9633e007acc5%2F46628_U3uQrnr3aQUuI6stpgm12Q.jpg",
-    "price": 1400,
-    "location": "28 May m.",
-    "area_m2": 120,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.37905931351924,
-    "lng": 49.86282000905837,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-04T13:49:38+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 3 otaqlı ofis 120 m²",
-    "description": "Port Baku 2 More More restoraninin arxasinda  9 mərtəbəli binanin 9 cu\nmərtəbəsində  3otaq 2 sanuzel… Təmirli Home ofis kirayə verilir… ofis əşyaları ilə...27 nömrəli məktəbin yaninda...Qiymeti 1400….",
-    "building_type": "Ofis",
-    "location_id": "8",
-    "location_name": "28 May",
-    "category": "office",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/5796168",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1400,
-        "date": "2026-10-01T12:04:32.464593+00:00"
-      }
-    ],
-    "rooms": "3 otaqlı"
-  },
-  {
     "id": "6136034",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F16%2F17%2F24%2F42%2F45eca17e-a91c-45e5-84c2-3aa8d155893c%2F68036_SGDUTyb76OcldMI8l0C-ag.jpg",
     "price": 650,
@@ -1051,6 +919,138 @@
       {
         "price": 650,
         "date": "2026-10-01T12:04:32.464784+00:00"
+      }
+    ],
+    "rooms": "3 otaqlı"
+  },
+  {
+    "id": "6507090",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F17%2F44%2F29%2F575ece84-abdb-4165-8124-006873866ac2%2F72373_Iy80n5MN9cHck3er7jqfxA.jpg",
+    "price": 2200,
+    "location": "28 May m.",
+    "area_m2": 176,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.38043747804063,
+    "lng": 49.84647052857211,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T01:50:18+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 5 otaqlı ofis 176 m²",
+    "description": "🏢 28 May metrosu yaxınlığında 5 otaqlı ofis icarəyə verilir!\r\n\r\n📍 Əlverişli və mərkəzi ərazidə yerləşir.\r\n🔹 5 otaq\r\n🔹 Ofis üçün ideal planlama\r\n🔹 İşgüzar fəaliyyət üçün əlverişli məkan\r\n🔹 Metroya və əsas infrastruktura yaxın\r\n\r\nƏtraflı məlumat və baxış üçün əlaqə saxlaya bilərsiniz. 📞",
+    "building_type": "Ofis",
+    "location_id": "8",
+    "location_name": "28 May",
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6507090",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 2200,
+        "date": "2026-10-01T12:04:32.464305+00:00"
+      }
+    ],
+    "rooms": "5 otaqlı"
+  },
+  {
+    "id": "6507508",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F13%2F50%2F35%2F6f0ea75d-cb26-4cfe-9dd7-c6200555ae77%2F60581_5QdO4goQY7-EGtl1FcCdvA.jpg",
+    "price": 450,
+    "location": "Bakıxanov q.",
+    "area_m2": 60,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.41800996331385,
+    "lng": 49.9617788524449,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T08:26:22+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı ofis 60 m²",
+    "description": "Obyekt icarəyə verilir\r\n\r\nRazində İcra Hakimiyyəti tərəfdə\r\n\r\nYol kənarı\r\n\r\n2 ayrı obyekt\r\n\r\nTəmirdən yeni çıxıb\r\n\r\n",
+    "building_type": "Ofis",
+    "location_id": "69",
+    "location_name": "Bakıxanov",
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6507508",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 450,
+        "date": "2026-10-01T12:04:32.464110+00:00"
+      }
+    ],
+    "rooms": "2 otaqlı"
+  },
+  {
+    "id": "6508007",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F15%2F36%2F16%2F16e54485-b644-4466-9ef4-f9e6381771f8%2F48615_RbH3_tHKf4xVoiahkc9Z9A.jpg",
+    "price": 300,
+    "location": "Nərimanov r.",
+    "area_m2": 30,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.4293695119805,
+    "lng": 49.89189457375482,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T10:55:00+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 1 otaqlı ofis 30 m²",
+    "description": "Bütün standartlara cavab verən Yeni Tam Təmirli 30 Kv.m Ofis icarəyə verilir ( Xadiməsi, Mühafizə xidməti və bütün kommunal xidmətləri bu qiymətə daxildir ) -- Nərimanov rayonu , Ulduz metrosuna yaxın , Ziya Bünyadov prospekti , Topdan satış tikinti materialları bazarında , Tanınmış Santral mağazasının yanı , Avtobus dayanacağının yanı ( Luk Oil yanacaqdoldurma məntəqəsi ilə üzbəüz ,Əsas mərkəz trasa 120 metr )\u2028Yeni inşa olunmuş Bina ümumilikdə 3500 Kv.m təşkil edir , Aşağı mərtəbəsi Al Market , Dalğa Restoranı ( Yeməkxana ) və ümumi 28 ədəd Müxtəlif mağazalardan ibarətdir. 2-ci mərtəbəsi isə Ofis otaqlarından ibarətdir.\u2028Daimi Şirin suyu (isti-soyuq) , daimi işığı ,mətbəxi, 4 Sanitar qovşağı , Mətbəxi , Binanın arxasında və qabağında geniş Parkovkası , İnternet wi-fiyı , Kombi istilik sistemi , 24 saat Gözətçisi və tam olaraq kamera sistemi ilə əhatə olunub.",
+    "building_type": "Ofis",
+    "location_id": "10",
+    "location_name": "Nərimanov",
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6508007",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 300,
+        "date": "2026-10-01T12:04:32.463749+00:00"
+      }
+    ],
+    "rooms": "1 otaqlı"
+  },
+  {
+    "id": "5796168",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F01%2F10%2F19%2F49%2F49%2Fe58743c8-6aca-48e6-bad5-9633e007acc5%2F46628_U3uQrnr3aQUuI6stpgm12Q.jpg",
+    "price": 1400,
+    "location": "28 May m.",
+    "area_m2": 120,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.37905931351924,
+    "lng": 49.86282000905837,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T13:49:38+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 3 otaqlı ofis 120 m²",
+    "description": "Port Baku 2 More More restoraninin arxasinda  9 mərtəbəli binanin 9 cu\nmərtəbəsində  3otaq 2 sanuzel… Təmirli Home ofis kirayə verilir… ofis əşyaları ilə...27 nömrəli məktəbin yaninda...Qiymeti 1400….",
+    "building_type": "Ofis",
+    "location_id": "8",
+    "location_name": "28 May",
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/5796168",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1400,
+        "date": "2026-10-01T12:04:32.464593+00:00"
       }
     ],
     "rooms": "3 otaqlı"

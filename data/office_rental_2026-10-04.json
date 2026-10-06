@@ -1,38 +1,5 @@
 [
   {
-    "id": "6514824",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F00%2F43%2F00%2F010705c4-037d-402c-98bd-0826e876113c%2F75501_6vZIi8v0HjCiviCnYUFnvg.jpg",
-    "price": 400,
-    "location": "Nizami m.",
-    "area_m2": 20,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.38723562309075,
-    "lng": 49.82828571326558,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-04T08:09:05+04:00",
-    "is_featured": true,
-    "title": "İcarəyə verilir 1 otaqlı ofis 20 m²",
-    "description": "İcarəyə otaq verilir – Nizami metrosu yaxınlığında\n\nNizami metrosundan piyada cəmi 7 dəqiqəlik məsafədə, Caspian Plaza və Qlobus Centre yaxınlığında yerləşən 3 otaqlı mənzilin 1 otağı kirayə verilir.\n\nMənzil 7-ci mərtəbədə yerləşir, lift işlək vəziyyətdədir və iş üçün çox rahat şəraitə malikdir.\n ( xanımlara icare verilmesi daha üstünlük təşkil edir) \n\nMənzilin üstünlükləri:\n\n* 20 kv.m otaq\n* Mətbəx istifadəsi mövcuddur\n* Təmiz və səliqəli sanitar qovşağı (hamam və tualet)\n* Balkon var\n* Wi-Fi mövcuddur\n* İşıq və daimi isti su təmin olunur\n* Binanın həyətində avtomobillər üçün parking var\n* Mühafizəli və sakit həyət\n\nƏtrafında Bravo və Araz marketləri yerləşir.\n\nQiymət: 400 AZN",
-    "building_type": "Ofis",
-    "location_id": "35",
-    "location_name": "Nizami",
-    "category": "office",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6514824",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 400,
-        "date": "2026-10-04T16:35:35.581978+00:00"
-      }
-    ],
-    "rooms": "1 otaqlı"
-  },
-  {
     "id": "6279076",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F09%2F20%2F38%2F03%2F7f43c6b5-9937-4751-8040-1270ef2b02ca%2F77765_wGGmXqYcTWiSq-jPhNqQZQ.jpg",
     "price": 800,
@@ -61,39 +28,6 @@
       {
         "price": 800,
         "date": "2026-10-04T16:35:35.581618+00:00"
-      }
-    ],
-    "rooms": "1 otaqlı"
-  },
-  {
-    "id": "6279064",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F09%2F20%2F30%2F42%2F01c9e71e-a2de-423c-b61c-05c4e2f0367f%2F29894_MX033_2R3TGl5UNoUY0Q5g.jpg",
-    "price": 550,
-    "location": "28 May m.",
-    "area_m2": 14,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.3766209830905,
-    "lng": 49.84164273514777,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-04T12:05:08+04:00",
-    "is_featured": true,
-    "title": "İcarəyə verilir 1 otaqlı ofis 14 m²",
-    "description": "Qiymətə daxildi: \r\nMühasibat xidməti (hesabatların hazırlanması və təqdim edilməsi, əmək haqqı hesablanması, kadr sənədləşməsi, vergi məsləhəti)\r\nresepşn xidməti\r\nİnternet\r\nTəmizlik\r\n14 % icarə vergisi (ÖMV)\r\nÇay servisi\r\nMebel\r\nKomunal xərclər\r\nÜnvan:\r\nAf mall 3-cü mərtəbə , “Tb Group” şirkəti, 12-ci ofis",
-    "building_type": "Ofis",
-    "location_id": "8",
-    "location_name": "28 May",
-    "category": "office",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6279064",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 550,
-        "date": "2026-10-04T16:35:35.581602+00:00"
       }
     ],
     "rooms": "1 otaqlı"
@@ -264,39 +198,6 @@
     "rooms": "9 otaqlı"
   },
   {
-    "id": "6515587",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F14%2F13%2F46%2Fffcb08e2-0bae-42d3-98ca-c5f9867a96cf%2F16146_Q0Drv4l1YKHNcAK6XKGJ6Q.jpg",
-    "price": 1500,
-    "location": "28 May m.",
-    "area_m2": 45,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.38133044594873,
-    "lng": 49.84578911842285,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-04T14:15:51+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı ofis 45 m²",
-    "description": "28 May metrosunun yaxınlığında obyekt icarəyə verilir!\r\n\r\nObyekt yeni təmirlidir və 2 otaq + sanitar qovşaqdan ibarətdir. Bəzi əşyalarla birlikdə icarəyə verilir. Obyektdə resepsiyon masası, iş masası və digər aksesuarlar mövcuddur.\r\n\r\nObyektin həm yuxarı, həm də aşağı hissədən ayrıca girişi var. Çox gediş-gəlişli, əlverişli və perspektivli ərazidə yerləşir.\r\n\r\nOfis, xidmət sahəsi, studio, gözəllik salonu, paltar mağazası, yemək və digər biznes fəaliyyətləri üçün əlverişlidir.\r\n\r\n📍 Ünvan: 28 May metrosu yaxınlığı\r\n🏢 Vəziyyət: Yeni təmirli\r\n🚪 Giriş: Həm yuxarı, həm aşağı tərəfdən\r\n🛋️ Əlavə: Bəzi əşyalarla birlikdə verilir\r\n\r\nƏtraflı məlumat və baxış üçün əlaqə saxlaya bilərsiniz.",
-    "building_type": "Ofis",
-    "location_id": "8",
-    "location_name": "28 May",
-    "category": "office",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6515587",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1500,
-        "date": "2026-10-04T16:35:35.581239+00:00"
-      }
-    ],
-    "rooms": "2 otaqlı"
-  },
-  {
     "id": "6515697",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F14%2F48%2F29%2F59692488-5ea0-406b-82a5-002528714930%2F16137_B3ouT_fXSTls7Vsk3BwEgA.jpg",
     "price": 550,
@@ -462,138 +363,6 @@
     "rooms": "4 otaqlı"
   },
   {
-    "id": "6516125",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F17%2F18%2F15%2F726b3b71-02e3-4579-bf89-034e8ed311b0%2F16148_BbkkCHZyWLbYViavEEKYFQ.jpg",
-    "price": 27900,
-    "location": "Şah İsmayıl Xətai m.",
-    "area_m2": 930,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.38360347958694,
-    "lng": 49.88161771525986,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-04T17:36:42+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 20 otaqlı ofis 930 m²",
-    "description": "​White City-də premium klassa aid ofislər icarəyə verilir\r\n​Mərtəbə: 11 mərtəbəli bina (ofislər 3-dən 9-cu mərtəbəyədək yerləşir).\r\n​Sahə: 42 m²-dən 930 m²-dək (1 000 m²-dək götürmək mümkündür).\r\n​Vəziyyəti: Tam təmirli, istifadəyə hazır (yalnız mebel lazımdır).\r\n​Təchizat: Mitsubishi markalı havalandırma, kondisioner və lift sistemləri. Açılan pəncərələr.\r\n​Qiymətə daxildir: Resepşn, təmizlik, lift xidməti, isti və soyuq su.\r\n​Parkinq: Hər 42 m² üçün 1 pulsuz parkinq yeri.\r\n​İcarəçi tərəfindən ödənilir: Elektrik enerjisi və internet.\r\n​Biznesiniz üçün çox əlverişli yerləşmə və rahat infrastruktura.\r\n​Текст на русском языке:\r\n​Сдаются офисы премиум-класса в White City\r\n​Этажность: 11-этажное здание (офисы расположены с 3 по 9 этаж).\r\n​Площадь: от 42 м² до 930 м² (возможность аренды до 1 000 м²).\r\n​Состояние: Новый качественный ремонт, офисы готовы к эксплуатации (требуется только мебель).\r\n​Оснащение: Вентиляция, кондиционирование и лифты марки Mitsubishi. Открывающиеся окна.\r\n​В стоимость входит: Ресепшн, уборка, обслуживание лифтов, горячая и холодная вода.\r\n​Парковка: 1 бесплатное парковочное место на каждые 42 м².\r\n​Оплата арендатором: Электричество и интернет.\r\n​Отличное расположение и удобная инфраструктура для вашего бизнеса.",
-    "building_type": "Ofis",
-    "location_id": "36",
-    "location_name": "Şah İsmayıl Xətai",
-    "category": "office",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6516125",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 27900,
-        "date": "2026-10-04T16:35:35.580738+00:00"
-      }
-    ],
-    "rooms": "20 otaqlı"
-  },
-  {
-    "id": "6516112",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F17%2F13%2F07%2F3e622571-b325-47d7-83e1-5538935c6214%2F4902_AsaUuNFgabGuwDez4DFt1Q.jpg",
-    "price": 2590,
-    "location": "Şah İsmayıl Xətai m.",
-    "area_m2": 74,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.38363143831732,
-    "lng": 49.8816868601422,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-04T17:37:19+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı ofis 74 m²",
-    "description": "​White City-də premium klassa aid ofislər icarəyə verilir\r\n​Mərtəbə: 11 mərtəbəli bina (ofislər 3-dən 9-cu mərtəbəyədək yerləşir).\r\n​Sahə: 42 m²-dən 142 m²-dək (1 000 m²-dək götürmək mümkündür).\r\n​Vəziyyəti: Tam təmirli, istifadəyə hazır (yalnız mebel lazımdır).\r\n​Təchizat: Mitsubishi markalı havalandırma, kondisioner və lift sistemləri. Açılan pəncərələr.\r\n​Qiymətə daxildir: Resepşn, təmizlik, lift xidməti, isti və soyuq su.\r\n​Parkinq: Hər 42 m² üçün 1 pulsuz parkinq yeri.\r\n​İcarəçi tərəfindən ödənilir: Elektrik enerjisi və internet.\r\n​Biznesiniz üçün çox əlverişli yerləşmə və rahat infrastruktura.\r\n​Текст на русском языке:\r\n​Сдаются офисы премиум-класса в White City\r\n​Этажность: 11-этажное здание (офисы расположены с 3 по 9 этаж).\r\n​Площадь: от 42 м² до 142 м² (возможность аренды до 1 000 м²).\r\n​Состояние: Новый качественный ремонт, офисы готовы к эксплуатации (требуется только мебель).\r\n​Оснащение: Вентиляция, кондиционирование и лифты марки Mitsubishi. Открывающиеся окна.\r\n​В стоимость входит: Ресепшн, уборка, обслуживание лифтов, горячая и холодная вода.\r\n​Парковка: 1 бесплатное парковочное место на каждые 42 м².\r\n​Оплата арендатором: Электричество и интернет.\r\n​Отличное расположение и удобная инфраструктура для вашего бизнеса.",
-    "building_type": "Ofis",
-    "location_id": "36",
-    "location_name": "Şah İsmayıl Xətai",
-    "category": "office",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6516112",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 2590,
-        "date": "2026-10-04T16:35:35.580722+00:00"
-      }
-    ],
-    "rooms": "2 otaqlı"
-  },
-  {
-    "id": "6516100",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F17%2F08%2F43%2F92d282f6-62d4-4584-b401-46bc7d308bb3%2F75491_8UQz2dhpuCM9mKsTTRmVtg.jpg",
-    "price": 1435,
-    "location": "Şah İsmayıl Xətai m.",
-    "area_m2": 42,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.3832226795864,
-    "lng": 49.88198054427889,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-04T17:37:58+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı ofis 42 m²",
-    "description": "​White City-də premium klassa aid ofislər icarəyə verilir\r\n​Mərtəbə: 11 mərtəbəli bina (ofislər 3-dən 9-cu mərtəbəyədək yerləşir).\r\n​Sahə: 42 m²-dən 142 m²-dək (1 000 m²-dək götürmək mümkündür).\r\n​Vəziyyəti: Tam təmirli, istifadəyə hazır (yalnız mebel lazımdır).\r\n​Təchizat: Mitsubishi markalı havalandırma, kondisioner və lift sistemləri. Açılan pəncərələr.\r\n​Qiymətə daxildir: Resepşn, təmizlik, lift xidməti, isti və soyuq su.\r\n​Parkinq: Hər 42 m² üçün 1 pulsuz parkinq yeri.\r\n​İcarəçi tərəfindən ödənilir: Elektrik enerjisi və internet.\r\n​Biznesiniz üçün çox əlverişli yerləşmə və rahat infrastruktura.\r\n​Текст на русском языке:\r\n​Сдаются офисы премиум-класса в White City\r\n​Этажность: 11-этажное здание (офисы расположены с 3 по 9 этаж).\r\n​Площадь: от 42 м² до 142 м² (возможность аренды до 1 000 м²).\r\n​Состояние: Новый качественный ремонт, офисы готовы к эксплуатации (требуется только мебель).\r\n​Оснащение: Вентиляция, кондиционирование и лифты марки Mitsubishi. Открывающиеся окна.\r\n​В стоимость входит: Ресепшн, уборка, обслуживание лифтов, горячая и холодная вода.\r\n​Парковка: 1 бесплатное парковочное место на каждые 42 м².\r\n​Оплата арендатором: Электричество и интернет.\r\n​Отличное расположение и удобная инфраструктура для вашего бизнеса.",
-    "building_type": "Ofis",
-    "location_id": "36",
-    "location_name": "Şah İsmayıl Xətai",
-    "category": "office",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6516100",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1435,
-        "date": "2026-10-04T16:35:35.580706+00:00"
-      }
-    ],
-    "rooms": "2 otaqlı"
-  },
-  {
-    "id": "6516215",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F17%2F58%2F01%2F003c2819-161f-4c07-a247-c3dbc0e28264%2F71355_Cgm5-0kQvTKJisMzTGB4Jw.jpg",
-    "price": 350,
-    "location": "Elmlər Akademiyası m.",
-    "area_m2": 50,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.37540360924393,
-    "lng": 49.81510486071775,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-04T17:59:27+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 1 otaqlı ofis 50 m²",
-    "description": "🏛️ İCARƏYƏ VERİLİR — PREMİUM BİZNES MƏRKƏZİNDƏ OTAQLAR\r\n\r\n⭐ OTAQLAR 350 AZN-DƏN BAŞLAYIR\r\n\r\nSaatlıq • Gündəlik • Həftəlik • Aylıq icarə\r\n\r\nBakı şəhərinin prestijli ərazilərindən birində, Elmlər Akademiyası metrosunun yaxınlığında, müxtəlif təyinatlı çoxsaylı otaqlar icarəyə verilir.\r\n\r\n📍 Ünvan: Bakı şəhəri, Yasamal rayonu, Elmlər Akademiyası metrosunun yaxınlığı\r\n\r\n🏛️ 4 MƏRTƏBƏLİ PREMİUM BİZNES MƏRKƏZİ\r\n\r\nPeşəkar fəaliyyət, biznes görüşləri, şəxsi kabinet və müxtəlif xidmət sahələri üçün rahat, təhlükəsiz və prestijli iş mühiti.\r\n\r\n🔹 4 mərtəbəli biznes mərkəzi\r\n🔹 Resepsion və qarşılanma xidməti\r\n🔹 Qonaqların qarşılanması və yönləndirilməsi\r\n🔹 Lift\r\n🔹 24 saat mühafizə\r\n🔹 24 saat video müşahidə\r\n🔹 Otaqlarda təhlükəsizlik kameraları\r\n🔹 24 saat qaz, su və elektrik\r\n🔹 Kombi istilik sistemi\r\n🔹 Qaz, su və işıq icarə qiymətinə daxildir\r\n🔹 Yeməkxana\r\n🔹 Ayrı-ayrı otaqların icarəsi\r\n🔹 Elmlər Akademiyası metrosuna çox yaxın yerləşmə\r\n\r\n💼 FƏALİYYƏTİNİZ ÜÇÜN UYĞUN OTAQLAR\r\n\r\nMəkan müxtəlif peşə və biznes istiqamətləri üçün əlverişlidir:\r\n\r\n💼 Şirkət və ofis fəaliyyəti\r\n👨‍💼 Direktor və rəhbər kabinetləri\r\n🧑‍💻 Fərdi iş və konsultasiya\r\n🧠 Psixoloq kabinetləri\r\n🎓 Kurs və tədris fəaliyyəti\r\n👩‍🏫 Repetitor və hazırlıq dərsləri\r\n💆 Masaj və wellness\r\n💇 Gözəllik və baxım xidmətləri\r\n🏋️ Fitness və idman\r\n🧘 Yoga və pilates\r\n💃 Rəqs və məşq fəaliyyəti\r\n🎨 Yaradıcılıq fəaliyyəti\r\n📸 Studio fəaliyyəti\r\nvə digər peşəkar fəaliyyət istiqamətləri.\r\n\r\nFəaliyyətiniz fərqlidirsə, onu da bizimlə müzakirə edə bilərsiniz.\r\n\r\n⭐ VIP VƏ SUPER OTAQLAR\r\n\r\nDaha yüksək komfort və xüsusi iş mühiti istəyənlər üçün VIP və SUPER otaq seçimləri də mövcuddur.\r\n\r\n💰 Qiymətlər 350 AZN-dən başlayır.\r\n\r\n📅 Saatlıq, gündəlik, həftəlik və aylıq icarə mümkündür.\r\n\r\n🔐 TƏHLÜKƏSİZLİK • RAHATLIQ • PRESTİJ\r\n\r\nBurada siz sadəcə otaq icarəyə götürmürsünüz.\r\n\r\nFəaliyyətinizi inkişaf etdirə biləcəyiniz, müştərilərinizi peşəkar şəkildə qəbul edə biləcəyiniz və işinizi rahat şəkildə idarə edə biləcəyiniz bir biznes mühiti seçirsiniz.\r\n\r\nResepsion xidməti, 24 saat mühafizə və müşahidə sistemi, lift, fasiləsiz kommunal təminat və əlverişli lokasiya — bütün bunlar sizin üçün daha rahat və etibarlı iş şəraiti yaradır.\r\n\r\n📍 Ünvan: Bakı şəhəri, Yasamal rayonu, Elmlər Akademiyası metrosunun yaxınlığı\r\n\r\n📞 Ətraflı məlumat, mövcud otaqlar, qiymətlər və baxış üçün əlaqə saxlayın.\r\n\r\nSizin fəaliyyətiniz. Sizin məkanınız. Sizin nüfuzunuz.",
-    "building_type": "Ofis",
-    "location_id": "34",
-    "location_name": "Elmlər Akademiyası",
-    "category": "office",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6516215",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 350,
-        "date": "2026-10-04T16:35:35.580641+00:00"
-      }
-    ],
-    "rooms": "1 otaqlı"
-  },
-  {
     "id": "6105234",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F24%2F00%2F45%2F25%2F327275ff-29d3-4a74-8d3f-5a64500feddf%2F55361_u7O7kBNTi9c4ow-Dnh29Pw.jpg",
     "price": 2600,
@@ -728,5 +497,236 @@
         "date": "2026-10-04T18:34:26.845282+00:00"
       }
     ]
+  },
+  {
+    "id": "6516215",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F17%2F58%2F01%2F003c2819-161f-4c07-a247-c3dbc0e28264%2F71355_Cgm5-0kQvTKJisMzTGB4Jw.jpg",
+    "price": 350,
+    "location": "Elmlər Akademiyası m.",
+    "area_m2": 50,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.37540360924393,
+    "lng": 49.81510486071775,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-05T09:50:03+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 1 otaqlı ofis 50 m²",
+    "description": "🏛️ İCARƏYƏ VERİLİR — PREMİUM BİZNES MƏRKƏZİNDƏ OTAQLAR\r\n\r\n⭐ OTAQLAR 350 AZN-DƏN BAŞLAYIR\r\n\r\nSaatlıq • Gündəlik • Həftəlik • Aylıq icarə\r\n\r\nBakı şəhərinin prestijli ərazilərindən birində, Elmlər Akademiyası metrosunun yaxınlığında, müxtəlif təyinatlı çoxsaylı otaqlar icarəyə verilir.\r\n\r\n📍 Ünvan: Bakı şəhəri, Yasamal rayonu, Elmlər Akademiyası metrosunun yaxınlığı\r\n\r\n🏛️ 4 MƏRTƏBƏLİ PREMİUM BİZNES MƏRKƏZİ\r\n\r\nPeşəkar fəaliyyət, biznes görüşləri, şəxsi kabinet və müxtəlif xidmət sahələri üçün rahat, təhlükəsiz və prestijli iş mühiti.\r\n\r\n🔹 4 mərtəbəli biznes mərkəzi\r\n🔹 Resepsion və qarşılanma xidməti\r\n🔹 Qonaqların qarşılanması və yönləndirilməsi\r\n🔹 Lift\r\n🔹 24 saat mühafizə\r\n🔹 24 saat video müşahidə\r\n🔹 Otaqlarda təhlükəsizlik kameraları\r\n🔹 24 saat qaz, su və elektrik\r\n🔹 Kombi istilik sistemi\r\n🔹 Qaz, su və işıq icarə qiymətinə daxildir\r\n🔹 Yeməkxana\r\n🔹 Ayrı-ayrı otaqların icarəsi\r\n🔹 Elmlər Akademiyası metrosuna çox yaxın yerləşmə\r\n\r\n💼 FƏALİYYƏTİNİZ ÜÇÜN UYĞUN OTAQLAR\r\n\r\nMəkan müxtəlif peşə və biznes istiqamətləri üçün əlverişlidir:\r\n\r\n💼 Şirkət və ofis fəaliyyəti\r\n👨‍💼 Direktor və rəhbər kabinetləri\r\n🧑‍💻 Fərdi iş və konsultasiya\r\n🧠 Psixoloq kabinetləri\r\n🎓 Kurs və tədris fəaliyyəti\r\n👩‍🏫 Repetitor və hazırlıq dərsləri\r\n💆 Masaj və wellness\r\n💇 Gözəllik və baxım xidmətləri\r\n🏋️ Fitness və idman\r\n🧘 Yoga və pilates\r\n💃 Rəqs və məşq fəaliyyəti\r\n🎨 Yaradıcılıq fəaliyyəti\r\n📸 Studio fəaliyyəti\r\nvə digər peşəkar fəaliyyət istiqamətləri.\r\n\r\nFəaliyyətiniz fərqlidirsə, onu da bizimlə müzakirə edə bilərsiniz.\r\n\r\n⭐ VIP VƏ SUPER OTAQLAR\r\n\r\nDaha yüksək komfort və xüsusi iş mühiti istəyənlər üçün VIP və SUPER otaq seçimləri də mövcuddur.\r\n\r\n💰 Qiymətlər 350 AZN-dən başlayır.\r\n\r\n📅 Saatlıq, gündəlik, həftəlik və aylıq icarə mümkündür.\r\n\r\n🔐 TƏHLÜKƏSİZLİK • RAHATLIQ • PRESTİJ\r\n\r\nBurada siz sadəcə otaq icarəyə götürmürsünüz.\r\n\r\nFəaliyyətinizi inkişaf etdirə biləcəyiniz, müştərilərinizi peşəkar şəkildə qəbul edə biləcəyiniz və işinizi rahat şəkildə idarə edə biləcəyiniz bir biznes mühiti seçirsiniz.\r\n\r\nResepsion xidməti, 24 saat mühafizə və müşahidə sistemi, lift, fasiləsiz kommunal təminat və əlverişli lokasiya — bütün bunlar sizin üçün daha rahat və etibarlı iş şəraiti yaradır.\r\n\r\n📍 Ünvan: Bakı şəhəri, Yasamal rayonu, Elmlər Akademiyası metrosunun yaxınlığı\r\n\r\n📞 Ətraflı məlumat, mövcud otaqlar, qiymətlər və baxış üçün əlaqə saxlayın.\r\n\r\nSizin fəaliyyətiniz. Sizin məkanınız. Sizin nüfuzunuz.",
+    "building_type": "Ofis",
+    "location_id": "34",
+    "location_name": "Elmlər Akademiyası",
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6516215",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 350,
+        "date": "2026-10-04T16:35:35.580641+00:00"
+      }
+    ],
+    "rooms": "1 otaqlı"
+  },
+  {
+    "id": "6515587",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F14%2F13%2F46%2Fffcb08e2-0bae-42d3-98ca-c5f9867a96cf%2F16146_Q0Drv4l1YKHNcAK6XKGJ6Q.jpg",
+    "price": 1500,
+    "location": "28 May m.",
+    "area_m2": 45,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.38133044594873,
+    "lng": 49.84578911842285,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-05T11:00:27+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı ofis 45 m²",
+    "description": "28 May metrosunun yaxınlığında obyekt icarəyə verilir!\r\n\r\nObyekt yeni təmirlidir və 2 otaq + sanitar qovşaqdan ibarətdir. Bəzi əşyalarla birlikdə icarəyə verilir. Obyektdə resepsiyon masası, iş masası və digər aksesuarlar mövcuddur.\r\n\r\nObyektin həm yuxarı, həm də aşağı hissədən ayrıca girişi var. Çox gediş-gəlişli, əlverişli və perspektivli ərazidə yerləşir.\r\n\r\nOfis, xidmət sahəsi, studio, gözəllik salonu, paltar mağazası, yemək və digər biznes fəaliyyətləri üçün əlverişlidir.\r\n\r\n📍 Ünvan: 28 May metrosu yaxınlığı\r\n🏢 Vəziyyət: Yeni təmirli\r\n🚪 Giriş: Həm yuxarı, həm aşağı tərəfdən\r\n🛋️ Əlavə: Bəzi əşyalarla birlikdə verilir\r\n\r\nƏtraflı məlumat və baxış üçün əlaqə saxlaya bilərsiniz.",
+    "building_type": "Ofis",
+    "location_id": "8",
+    "location_name": "28 May",
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6515587",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1500,
+        "date": "2026-10-04T16:35:35.581239+00:00"
+      }
+    ],
+    "rooms": "2 otaqlı"
+  },
+  {
+    "id": "6516125",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F17%2F18%2F15%2F726b3b71-02e3-4579-bf89-034e8ed311b0%2F16148_BbkkCHZyWLbYViavEEKYFQ.jpg",
+    "price": 27900,
+    "location": "Şah İsmayıl Xətai m.",
+    "area_m2": 930,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.38360347958694,
+    "lng": 49.88161771525986,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-05T17:36:44+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 20 otaqlı ofis 930 m²",
+    "description": "​White City-də premium klassa aid ofislər icarəyə verilir\r\n​Mərtəbə: 11 mərtəbəli bina (ofislər 3-dən 9-cu mərtəbəyədək yerləşir).\r\n​Sahə: 42 m²-dən 930 m²-dək (1 000 m²-dək götürmək mümkündür).\r\n​Vəziyyəti: Tam təmirli, istifadəyə hazır (yalnız mebel lazımdır).\r\n​Təchizat: Mitsubishi markalı havalandırma, kondisioner və lift sistemləri. Açılan pəncərələr.\r\n​Qiymətə daxildir: Resepşn, təmizlik, lift xidməti, isti və soyuq su.\r\n​Parkinq: Hər 42 m² üçün 1 pulsuz parkinq yeri.\r\n​İcarəçi tərəfindən ödənilir: Elektrik enerjisi və internet.\r\n​Biznesiniz üçün çox əlverişli yerləşmə və rahat infrastruktura.\r\n​Текст на русском языке:\r\n​Сдаются офисы премиум-класса в White City\r\n​Этажность: 11-этажное здание (офисы расположены с 3 по 9 этаж).\r\n​Площадь: от 42 м² до 930 м² (возможность аренды до 1 000 м²).\r\n​Состояние: Новый качественный ремонт, офисы готовы к эксплуатации (требуется только мебель).\r\n​Оснащение: Вентиляция, кондиционирование и лифты марки Mitsubishi. Открывающиеся окна.\r\n​В стоимость входит: Ресепшн, уборка, обслуживание лифтов, горячая и холодная вода.\r\n​Парковка: 1 бесплатное парковочное место на каждые 42 м².\r\n​Оплата арендатором: Электричество и интернет.\r\n​Отличное расположение и удобная инфраструктура для вашего бизнеса.",
+    "building_type": "Ofis",
+    "location_id": "36",
+    "location_name": "Şah İsmayıl Xətai",
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6516125",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 27900,
+        "date": "2026-10-04T16:35:35.580738+00:00"
+      }
+    ],
+    "rooms": "20 otaqlı"
+  },
+  {
+    "id": "6516112",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F17%2F13%2F07%2F3e622571-b325-47d7-83e1-5538935c6214%2F4902_AsaUuNFgabGuwDez4DFt1Q.jpg",
+    "price": 2590,
+    "location": "Şah İsmayıl Xətai m.",
+    "area_m2": 74,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.38363143831732,
+    "lng": 49.8816868601422,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-05T17:37:19+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı ofis 74 m²",
+    "description": "​White City-də premium klassa aid ofislər icarəyə verilir\r\n​Mərtəbə: 11 mərtəbəli bina (ofislər 3-dən 9-cu mərtəbəyədək yerləşir).\r\n​Sahə: 42 m²-dən 142 m²-dək (1 000 m²-dək götürmək mümkündür).\r\n​Vəziyyəti: Tam təmirli, istifadəyə hazır (yalnız mebel lazımdır).\r\n​Təchizat: Mitsubishi markalı havalandırma, kondisioner və lift sistemləri. Açılan pəncərələr.\r\n​Qiymətə daxildir: Resepşn, təmizlik, lift xidməti, isti və soyuq su.\r\n​Parkinq: Hər 42 m² üçün 1 pulsuz parkinq yeri.\r\n​İcarəçi tərəfindən ödənilir: Elektrik enerjisi və internet.\r\n​Biznesiniz üçün çox əlverişli yerləşmə və rahat infrastruktura.\r\n​Текст на русском языке:\r\n​Сдаются офисы премиум-класса в White City\r\n​Этажность: 11-этажное здание (офисы расположены с 3 по 9 этаж).\r\n​Площадь: от 42 м² до 142 м² (возможность аренды до 1 000 м²).\r\n​Состояние: Новый качественный ремонт, офисы готовы к эксплуатации (требуется только мебель).\r\n​Оснащение: Вентиляция, кондиционирование и лифты марки Mitsubishi. Открывающиеся окна.\r\n​В стоимость входит: Ресепшн, уборка, обслуживание лифтов, горячая и холодная вода.\r\n​Парковка: 1 бесплатное парковочное место на каждые 42 м².\r\n​Оплата арендатором: Электричество и интернет.\r\n​Отличное расположение и удобная инфраструктура для вашего бизнеса.",
+    "building_type": "Ofis",
+    "location_id": "36",
+    "location_name": "Şah İsmayıl Xətai",
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6516112",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 2590,
+        "date": "2026-10-04T16:35:35.580722+00:00"
+      }
+    ],
+    "rooms": "2 otaqlı"
+  },
+  {
+    "id": "6516100",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F17%2F08%2F43%2F92d282f6-62d4-4584-b401-46bc7d308bb3%2F75491_8UQz2dhpuCM9mKsTTRmVtg.jpg",
+    "price": 1435,
+    "location": "Şah İsmayıl Xətai m.",
+    "area_m2": 42,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.3832226795864,
+    "lng": 49.88198054427889,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-05T17:38:00+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı ofis 42 m²",
+    "description": "​White City-də premium klassa aid ofislər icarəyə verilir\r\n​Mərtəbə: 11 mərtəbəli bina (ofislər 3-dən 9-cu mərtəbəyədək yerləşir).\r\n​Sahə: 42 m²-dən 142 m²-dək (1 000 m²-dək götürmək mümkündür).\r\n​Vəziyyəti: Tam təmirli, istifadəyə hazır (yalnız mebel lazımdır).\r\n​Təchizat: Mitsubishi markalı havalandırma, kondisioner və lift sistemləri. Açılan pəncərələr.\r\n​Qiymətə daxildir: Resepşn, təmizlik, lift xidməti, isti və soyuq su.\r\n​Parkinq: Hər 42 m² üçün 1 pulsuz parkinq yeri.\r\n​İcarəçi tərəfindən ödənilir: Elektrik enerjisi və internet.\r\n​Biznesiniz üçün çox əlverişli yerləşmə və rahat infrastruktura.\r\n​Текст на русском языке:\r\n​Сдаются офисы премиум-класса в White City\r\n​Этажность: 11-этажное здание (офисы расположены с 3 по 9 этаж).\r\n​Площадь: от 42 м² до 142 м² (возможность аренды до 1 000 м²).\r\n​Состояние: Новый качественный ремонт, офисы готовы к эксплуатации (требуется только мебель).\r\n​Оснащение: Вентиляция, кондиционирование и лифты марки Mitsubishi. Открывающиеся окна.\r\n​В стоимость входит: Ресепшн, уборка, обслуживание лифтов, горячая и холодная вода.\r\n​Парковка: 1 бесплатное парковочное место на каждые 42 м².\r\n​Оплата арендатором: Электричество и интернет.\r\n​Отличное расположение и удобная инфраструктура для вашего бизнеса.",
+    "building_type": "Ofis",
+    "location_id": "36",
+    "location_name": "Şah İsmayıl Xətai",
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6516100",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1435,
+        "date": "2026-10-04T16:35:35.580706+00:00"
+      }
+    ],
+    "rooms": "2 otaqlı"
+  },
+  {
+    "id": "6514824",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F00%2F43%2F00%2F010705c4-037d-402c-98bd-0826e876113c%2F75501_6vZIi8v0HjCiviCnYUFnvg.jpg",
+    "price": 400,
+    "location": "Nizami m.",
+    "area_m2": 20,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38723562309075,
+    "lng": 49.82828571326558,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T00:56:57+04:00",
+    "is_featured": true,
+    "title": "İcarəyə verilir 1 otaqlı ofis 20 m²",
+    "description": "İcarəyə otaq verilir – Nizami metrosu yaxınlığında\n\nNizami metrosundan piyada cəmi 7 dəqiqəlik məsafədə, Caspian Plaza və Qlobus Centre yaxınlığında yerləşən 3 otaqlı mənzilin 1 otağı kirayə verilir.\n\nMənzil 7-ci mərtəbədə yerləşir, lift işlək vəziyyətdədir və iş üçün çox rahat şəraitə malikdir.\n ( xanımlara icare verilmesi daha üstünlük təşkil edir) \n\nMənzilin üstünlükləri:\n\n* 20 kv.m otaq\n* Mətbəx istifadəsi mövcuddur\n* Təmiz və səliqəli sanitar qovşağı (hamam və tualet)\n* Balkon var\n* Wi-Fi mövcuddur\n* İşıq və daimi isti su təmin olunur\n* Binanın həyətində avtomobillər üçün parking var\n* Mühafizəli və sakit həyət\n\nƏtrafında Bravo və Araz marketləri yerləşir.\n\nQiymət: 400 AZN",
+    "building_type": "Ofis",
+    "location_id": "35",
+    "location_name": "Nizami",
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6514824",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 400,
+        "date": "2026-10-04T16:35:35.581978+00:00"
+      }
+    ],
+    "rooms": "1 otaqlı"
+  },
+  {
+    "id": "6279064",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F09%2F20%2F30%2F42%2F01c9e71e-a2de-423c-b61c-05c4e2f0367f%2F29894_MX033_2R3TGl5UNoUY0Q5g.jpg",
+    "price": 550,
+    "location": "28 May m.",
+    "area_m2": 14,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.3766209830905,
+    "lng": 49.84164273514777,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T12:05:09+04:00",
+    "is_featured": true,
+    "title": "İcarəyə verilir 1 otaqlı ofis 14 m²",
+    "description": "Qiymətə daxildi: \r\nMühasibat xidməti (hesabatların hazırlanması və təqdim edilməsi, əmək haqqı hesablanması, kadr sənədləşməsi, vergi məsləhəti)\r\nresepşn xidməti\r\nİnternet\r\nTəmizlik\r\n14 % icarə vergisi (ÖMV)\r\nÇay servisi\r\nMebel\r\nKomunal xərclər\r\nÜnvan:\r\nAf mall 3-cü mərtəbə , “Tb Group” şirkəti, 12-ci ofis",
+    "building_type": "Ofis",
+    "location_id": "8",
+    "location_name": "28 May",
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6279064",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 550,
+        "date": "2026-10-04T16:35:35.581602+00:00"
+      }
+    ],
+    "rooms": "1 otaqlı"
   }
 ]
