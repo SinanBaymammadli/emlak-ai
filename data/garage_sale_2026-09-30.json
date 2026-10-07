@@ -1,104 +1,5 @@
 [
   {
-    "id": "6184757",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F04%2F14%2F43%2F24%2F0a1807b5-e7e3-4c82-aa45-907d3457d7ca%2F34591_8ziHj0SHGMRN38nnsZYsQA.jpg",
-    "price": 2900000,
-    "location": "Şah İsmayıl Xətai m.",
-    "rooms": "",
-    "area_m2": 2900,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.38112878429121,
-    "lng": 49.8670037474057,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-07T09:31:06+04:00",
-    "is_featured": false,
-    "title": "Satılır qaraj 2900 m²",
-    "description": "yeni tikilinin -2 qatında 80 yerliy avtomobil dayanacağı satılır.",
-    "building_type": "Qaraj",
-    "location_id": "36",
-    "location_name": "Şah İsmayıl Xətai",
-    "category": "garage",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6184757",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 2900000,
-        "date": "2026-09-30T19:56:44.487090+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6352313",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F06%2F11%2F13%2F41%2F53b5a409-58bb-4207-862d-65e038aec4de%2F21700_D3WAVB_8-KmZgCQdypKXNg.jpg",
-    "price": 29000,
-    "location": "Şah İsmayıl Xətai m.",
-    "rooms": "",
-    "area_m2": 19.2,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.37868898225753,
-    "lng": 49.86225520169925,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-07T10:29:28+04:00",
-    "is_featured": false,
-    "title": "Satılır qaraj 19.2 m²",
-    "description": "Xətai rayonunda, Port Baku Walk yaxınlığında yerləşən 19.2 kv.m sahəsi olan qaraj satışa təqdim olunur.\r\n\r\n📐 Sahə: 19.2 kv.m\r\n📏 Ölçüləri: 3.20 × 6 metr\r\n📍 Əlverişli və mərkəzi lokasiya\r\n\r\nQaraj həm şəxsi avtomobil üçün, həm də investisiya məqsədilə əlverişlidir.\r\n\r\nID: 537872 ",
-    "building_type": "Qaraj",
-    "location_id": "36",
-    "location_name": "Şah İsmayıl Xətai",
-    "category": "garage",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6352313",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 29000,
-        "date": "2026-09-30T19:56:44.487081+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6353445",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F06%2F15%2F28%2F37%2Fc6c336d1-08d2-472c-8853-aac30970b27b%2F88521_C6RgNwjKOe2NJTAXjVkUTA.jpg",
-    "price": 46000,
-    "location": "Ağ şəhər q.",
-    "rooms": "",
-    "area_m2": 20,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.38458538623943,
-    "lng": 49.88641296638672,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": null,
-    "updated_at_site": "2026-09-07T10:31:28+04:00",
-    "is_featured": false,
-    "title": "Satılır qaraj 20 m²",
-    "description": "AQ  ŞƏHƏR  !!!\r\nTəcili !!! \r\nPark Cinar 3-də, \r\nMənfi 1-də, \r\n2 ədəd Qaraj\r\n\"Əkiz Qüllələr\" və \"McDonalds White City\"  yanında\r\nSənəd kupça\r\n\r\nQarajlar liftdən çıxan kimi, yan yana yerləşir. İkisinin arasına beton sütun düşmür. İstəyə görə bağlayıb Jalüz qapı da qoymaq olar.\r\nQiymət 1 qaraj üçün nəzərdə tutulub.\r\nHər qaraj 20 kv.m-dir\r\n\r\nReal alıcıya qiymətdə endirim olunacaq\r\n\r\nHəmin binada  2 ədəd  (24 kv.m və 44 kv.m) kupçalı Anbar da satılır.\r\n\r\nƏlavə məlumat üçün əlaqə saxlaya bilərsiz.\r\n",
-    "building_type": "Qaraj",
-    "location_id": "314",
-    "location_name": "Ağ şəhər",
-    "category": "garage",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6353445",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 46000,
-        "date": "2026-09-30T19:56:44.487073+00:00"
-      }
-    ]
-  },
-  {
     "id": "6290011",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F14%2F12%2F01%2F16%2F9bb98c5f-fb39-4bef-b1c2-fee894113b01%2F93759_Q3_kjdiYU21LHP7D0TgUrw.jpg",
     "price": 25000,
@@ -260,39 +161,6 @@
       {
         "price": 28000,
         "date": "2026-09-30T19:56:44.486993+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6439697",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F07%2F11%2F15%2F00%2F83007eee-ea25-4cc9-ba5b-a43014065598%2F58701_wUZE5TvQadqQjI1bZ-LKvA.jpg",
-    "price": 59900,
-    "location": "Ağ şəhər q.",
-    "rooms": "",
-    "area_m2": 18,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.38269200531152,
-    "lng": 49.89169808587681,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-10T11:03:38+04:00",
-    "is_featured": false,
-    "title": "Satılır qaraj 18 m²",
-    "description": "                    QARAJ DƏYƏRİNDƏN AŞAĞI QİYMƏTƏ SATILIR \n\n                                   BARTER MÜMKÜNDÜR \n                 UYĞUN MAŞIN VƏ YA TORPAQ SAHƏSİ İLƏ\n                      QİYMƏTDƏ RAZILAŞMA MÜMKÜNDÜR  \n                                  Ağ şəhər Raffle tower.\n\n                                Sahəsi 18 m² qaraj satılır..\n                             Sənədləri tam qaydasındadır ..\n\nQEYD EDİM Kİ,HAZIRDA KOMPLEKSDƏ QARAJLARIN DƏYƏRİ 65-75 MİN MANATDIR\n ",
-    "building_type": "Qaraj",
-    "location_id": "314",
-    "location_name": "Ağ şəhər",
-    "category": "garage",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6439697",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 59900,
-        "date": "2026-09-30T19:56:44.487064+00:00"
       }
     ]
   },
@@ -2409,39 +2277,6 @@
     ]
   },
   {
-    "id": "6435689",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F05%2F13%2F59%2F51%2Fbdee2824-384f-4084-bfd3-07098a6ac119%2F72296_7cpyj70lONuQab3NIuWw7A.jpg",
-    "price": 36500,
-    "location": "Ağ şəhər q.",
-    "rooms": "",
-    "area_m2": 18,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.38758262946408,
-    "lng": 49.89060478113251,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-02T00:42:20+04:00",
-    "is_featured": false,
-    "title": "Satılır qaraj 18 m²",
-    "description": "Ag saray rezidence - AG seherde -Qarabag atlarin yaninda yerlewir\n-1 mertebe . senedi var qaydasindadir .\nTəcili saılır.",
-    "building_type": "Qaraj",
-    "location_id": "314",
-    "location_name": "Ağ şəhər",
-    "category": "garage",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6435689",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 36500,
-        "date": "2026-09-30T19:56:44.486476+00:00"
-      }
-    ]
-  },
-  {
     "id": "6331203",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F10%2F13%2F27%2F21%2F352c0e3a-bf17-43df-9df9-9868855c3a12%2F59780_4Zl38ZTM2UWLZyJSISTiow.jpg",
     "price": 49000,
@@ -3056,113 +2891,6 @@
     ]
   },
   {
-    "id": "6483578",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F21%2F47%2F34%2Fbd8f70ef-d26b-4930-8a92-90e1930e469a%2F78748_e7bMn4plmB1JM1CnRk663w.jpg",
-    "price": 38000,
-    "location": "Sea Breeze q.",
-    "rooms": "",
-    "area_m2": 22,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.587075,
-    "lng": 49.962589,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-06T10:44:51+04:00",
-    "is_featured": false,
-    "title": "Satılır qaraj 22 m²",
-    "description": "🚘 MARINA | PARKİNQ \r\n\r\nAvtomobiliniz üçün rahat, təhlükəsiz və əlçatan parkinq yeri axtarırsınız?\r\n\r\nMarina ərazisində qaraj/parkinq yerləri satışdadır.\r\n\r\n✨ Əmlakınızı qorumaq üçün rahat həll\r\n✨ Yaşayış və istirahət məkanlarına yaxınlıq\r\n✨ Sea Breeze Marina ərazisində əlverişli lokasiya\r\n✨ Həm şəxsi istifadə, həm də investisiya üçün uyğun seçim\r\n\r\nAvtomobiliniz üçün yerinizi əvvəlcədən təmin edin və Marina-da komfortlu yaşayışın bir detalını da tamamlayın.\r\n\r\n📩 Ətraflı məlumat və qiymət üçün əlaqə saxlayın.",
-    "building_type": "Qaraj",
-    "location_id": "380",
-    "location_name": "Sea Breeze",
-    "category": "garage",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6483578",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 43000,
-        "date": "2026-09-30T19:56:44.486166+00:00"
-      },
-      {
-        "price": 38000,
-        "date": "2026-10-03T19:31:56.986481+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6313821",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F22%2F22%2F57%2F52%2Fc6d45175-d1cd-4648-b3c7-b8b88dcc67e1%2F76434_68uPeoMGGgY_mGEnMWNVOg.jpg",
-    "price": 57000,
-    "location": "28 May m.",
-    "rooms": "",
-    "area_m2": 45,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.38532495638751,
-    "lng": 49.83989843482218,
-    "has_repair": null,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-06T11:04:02+04:00",
-    "is_featured": false,
-    "title": "Satılır qaraj 45 m²",
-    "description": "Qaraj iki avtomobilin yan bayan saxlanilmasi uchun nezerde tutulub. Qaraj shexerin merkezinde yerleshir. Qaraj pultnan jaluz qapilari ile baglanir. Hemde ambar kimi istifade oluna biler. ",
-    "building_type": "Qaraj",
-    "location_id": "8",
-    "location_name": "28 May",
-    "category": "garage",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6313821",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 60000,
-        "date": "2026-09-30T19:56:44.487038+00:00"
-      },
-      {
-        "price": 57000,
-        "date": "2026-10-03T19:31:56.986873+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6480874",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F09%2F52%2F45%2F536a3442-34c3-4d37-a33e-36ff9093692d%2F90006_4q8HiSWyu5QrlKQztmf6zQ.jpg",
-    "price": 78000,
-    "location": "Əhmədli q.",
-    "rooms": "",
-    "area_m2": 100,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.38215895188218,
-    "lng": 49.96818495180752,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-06T13:44:21+04:00",
-    "is_featured": false,
-    "title": "Satılır qaraj 100 m²",
-    "description": "Xətai rayonunun aktiv və perspektivli ərazisində, General Şıxlinski küçəsində, tam yaşayışlı yeni tikili binanın altında yerləşən qaraj satışa çıxarılıb. Bu obyekt həm icarə, həm də uzunmüddətli yatırım üçün əla seçimdir. Tavanın hündürlüyu imkan verirki, 7 avtomobillik qarajın ustundə əlavə 100m2 anbar yaradılıb arendaya vermək ola. Yəni, 7 avtomobillik parkovkaç və üstündə 100m2 anbar. Səkillər mümkün variant göstərilib. Obyekt OBA marketin altinda yerləşir. Xahiş olunur watsupa yazasınız. Sahə: 100 kv.m 🔹 Tutum: 7 avtomobillik yer 🔹 Yerləşmə: Yeni tikili binanın altı (bina tam yaşayışlıdır) 🔹 Sənəd: Çıxarış – qeyri-yaşayış 🔹 Təyinat: Qaraj / investisiya obyekti Niyə bu qaraj sərfəlidir? • 🚗 Avtomobil sıxlığı olan ərazi – daimi tələbat • 💰 7 maşınlıq yer – yüksək aylıq icarə potensialı • 🏢 Yaşayışlı bina – stabil müştəri axını • 📈 Dəyər artımı perspektivi yüksək • ⚡ Təcili satış – bazardan aşağı qiymət imkanı Bu tip obyektlər nadir hallarda satışa çıxır və investorlar üçün hazır gəlir mənbəyidir.\r\n\r\n",
-    "building_type": "Qaraj",
-    "location_id": "100",
-    "location_name": "Əhmədli",
-    "category": "garage",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6480874",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 78000,
-        "date": "2026-09-30T19:56:44.486666+00:00"
-      }
-    ]
-  },
-  {
     "id": "6492377",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F25%2F20%2F08%2F13%2Fff474c5a-ad90-4562-ad73-98db9d9e7cb5%2F71643_Dh9q3RrJ7oVW0aDqRALR9A.jpg",
     "price": 18000,
@@ -3200,42 +2928,153 @@
     ]
   },
   {
-    "id": "6457741",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F13%2F17%2F42%2F49%2F9e5b2c3c-8053-4567-9291-c21ca6ed82f7%2F63806_DIRamA7pPAg37K3Lbr7g1w.jpg",
-    "price": 40000,
+    "id": "6435689",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F05%2F13%2F59%2F51%2Fbdee2824-384f-4084-bfd3-07098a6ac119%2F72296_7cpyj70lONuQab3NIuWw7A.jpg",
+    "price": 37000,
     "location": "Ağ şəhər q.",
     "rooms": "",
-    "area_m2": 25,
+    "area_m2": 18,
     "floor": null,
     "is_agency": false,
-    "lat": 40.38252094655981,
-    "lng": 49.89488212348122,
+    "lat": 40.38758262946408,
+    "lng": 49.89060478113251,
     "has_repair": null,
     "has_bill_of_sale": true,
     "has_mortgage": false,
     "floor_number": null,
-    "updated_at_site": "2026-10-06T17:56:10+04:00",
-    "is_featured": true,
-    "title": "Satılır qaraj 25 m²",
-    "description": "Sea Tower Premium Residence, Ağ şəhər\r\n\r\nSahəsi 25 m² qaraj satılır. \r\n\r\nQaraj dəyərindən aşağı qiymətə verilir.\r\n\r\nSənədləri tam qaydasındadır.",
+    "updated_at_site": "2026-10-07T00:33:32+04:00",
+    "is_featured": false,
+    "title": "Satılır qaraj 18 m²",
+    "description": "Ag saray rezidence - AG seherde -Qarabag atlarin yaninda yerlewir\n-1 mertebe . senedi var qaydasindadir .\nTəcili saılır.",
     "building_type": "Qaraj",
     "location_id": "314",
     "location_name": "Ağ şəhər",
     "category": "garage",
     "deal_type": "sale",
-    "url": "https://bina.az/items/6457741",
+    "url": "https://bina.az/items/6435689",
     "deleted_at": null,
     "price_history": [
       {
-        "price": 40000,
-        "date": "2026-09-30T19:56:44.486202+00:00"
+        "price": 36500,
+        "date": "2026-09-30T19:56:44.486476+00:00"
+      },
+      {
+        "price": 37000,
+        "date": "2026-10-07T19:31:31.807310+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6352313",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F06%2F11%2F13%2F41%2F53b5a409-58bb-4207-862d-65e038aec4de%2F21700_D3WAVB_8-KmZgCQdypKXNg.jpg",
+    "price": 29000,
+    "location": "Şah İsmayıl Xətai m.",
+    "rooms": "",
+    "area_m2": 19.2,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.37868898225753,
+    "lng": 49.86225520169925,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-07T10:35:27+04:00",
+    "is_featured": false,
+    "title": "Satılır qaraj 19.2 m²",
+    "description": "Xətai rayonunda, Port Baku Walk yaxınlığında yerləşən 19.2 kv.m sahəsi olan qaraj satışa təqdim olunur.\r\n\r\n📐 Sahə: 19.2 kv.m\r\n📏 Ölçüləri: 3.20 × 6 metr\r\n📍 Əlverişli və mərkəzi lokasiya\r\n\r\nQaraj həm şəxsi avtomobil üçün, həm də investisiya məqsədilə əlverişlidir.\r\n\r\nID: 537872 ",
+    "building_type": "Qaraj",
+    "location_id": "36",
+    "location_name": "Şah İsmayıl Xətai",
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6352313",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 29000,
+        "date": "2026-09-30T19:56:44.487081+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6483578",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F21%2F47%2F34%2Fbd8f70ef-d26b-4930-8a92-90e1930e469a%2F78748_e7bMn4plmB1JM1CnRk663w.jpg",
+    "price": 38000,
+    "location": "Sea Breeze q.",
+    "rooms": "",
+    "area_m2": 22,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.587075,
+    "lng": 49.962589,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-07T10:44:49+04:00",
+    "is_featured": false,
+    "title": "Satılır qaraj 22 m²",
+    "description": "🚘 MARINA | PARKİNQ \r\n\r\nAvtomobiliniz üçün rahat, təhlükəsiz və əlçatan parkinq yeri axtarırsınız?\r\n\r\nMarina ərazisində qaraj/parkinq yerləri satışdadır.\r\n\r\n✨ Əmlakınızı qorumaq üçün rahat həll\r\n✨ Yaşayış və istirahət məkanlarına yaxınlıq\r\n✨ Sea Breeze Marina ərazisində əlverişli lokasiya\r\n✨ Həm şəxsi istifadə, həm də investisiya üçün uyğun seçim\r\n\r\nAvtomobiliniz üçün yerinizi əvvəlcədən təmin edin və Marina-da komfortlu yaşayışın bir detalını da tamamlayın.\r\n\r\n📩 Ətraflı məlumat və qiymət üçün əlaqə saxlayın.",
+    "building_type": "Qaraj",
+    "location_id": "380",
+    "location_name": "Sea Breeze",
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6483578",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 43000,
+        "date": "2026-09-30T19:56:44.486166+00:00"
+      },
+      {
+        "price": 38000,
+        "date": "2026-10-03T19:31:56.986481+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6313821",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F22%2F22%2F57%2F52%2Fc6d45175-d1cd-4648-b3c7-b8b88dcc67e1%2F76434_68uPeoMGGgY_mGEnMWNVOg.jpg",
+    "price": 57000,
+    "location": "28 May m.",
+    "rooms": "",
+    "area_m2": 45,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38532495638751,
+    "lng": 49.83989843482218,
+    "has_repair": null,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-07T11:04:02+04:00",
+    "is_featured": false,
+    "title": "Satılır qaraj 45 m²",
+    "description": "Qaraj iki avtomobilin yan bayan saxlanilmasi uchun nezerde tutulub. Qaraj shexerin merkezinde yerleshir. Qaraj pultnan jaluz qapilari ile baglanir. Hemde ambar kimi istifade oluna biler. ",
+    "building_type": "Qaraj",
+    "location_id": "8",
+    "location_name": "28 May",
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6313821",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 60000,
+        "date": "2026-09-30T19:56:44.487038+00:00"
+      },
+      {
+        "price": 57000,
+        "date": "2026-10-03T19:31:56.986873+00:00"
       }
     ]
   },
   {
     "id": "6474526",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F19%2F15%2F23%2F44%2Ffc6dc87c-058e-42be-b09c-83387dc1f30c%2F75319_4CwxvksiY-yxP0lqhIaq-Q.jpg",
-    "price": 36000,
+    "price": 36001,
     "location": "28 May m.",
     "rooms": "",
     "area_m2": 20,
@@ -3247,7 +3086,7 @@
     "has_bill_of_sale": true,
     "has_mortgage": false,
     "floor_number": null,
-    "updated_at_site": "2026-10-06T23:20:46+04:00",
+    "updated_at_site": "2026-10-07T12:07:06+04:00",
     "is_featured": false,
     "title": "Satılır qaraj 20 m²",
     "description": "OBYEKT / OFİS KİMİ İSTİFADƏYƏ YARARLI QARAJ SATILIR!\r\n\r\n📍 Bülbül prospekti 41–43\r\n📐 20 m²\r\n📄 Texniki pasport\r\n⚡ Elektrik sayğacı və xətti var\r\n💼 Hazırda icarədədir – icarəçi ilə birlikdə satıla bilər\r\n💰 36 000 AZN\r\n\r\nNotarial qaydada alqı-satqı.\r\n\r\nXidmət haqqı: 1000 AZN",
@@ -3278,13 +3117,17 @@
       {
         "price": 36000,
         "date": "2026-10-06T19:31:52.021894+00:00"
+      },
+      {
+        "price": 36001,
+        "date": "2026-10-07T19:31:31.936922+00:00"
       }
     ]
   },
   {
     "id": "6282181",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F11%2F00%2F39%2F24%2F3a33ac2a-db1a-4064-a305-b3fc95d2b2c0%2F29353__9wUYrY8PRCmeuakv30Qjw.jpg",
-    "price": 22000,
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F04%2F18%2F27%2F30%2F9ce7f54b-2776-4c0b-a849-d7ce2b563172%2F23616_FR6QD5eGS-Yqs716RJycBg.jpg",
+    "price": 22001,
     "location": "Azadlıq Prospekti m.",
     "rooms": "",
     "area_m2": 16.7,
@@ -3296,7 +3139,7 @@
     "has_bill_of_sale": true,
     "has_mortgage": false,
     "floor_number": null,
-    "updated_at_site": "2026-10-06T23:21:07+04:00",
+    "updated_at_site": "2026-10-07T12:10:39+04:00",
     "is_featured": false,
     "title": "Satılır qaraj 16.7 m²",
     "description": "Qarajın sənədi texpasport, alqı-satqı notarial qaydada olacaq. Qarajın işığı çəkilib, sayğacı var. Qarajda hazırda icarəçi var və alıcının istəyinə uyğun olaraq icarəçi ilə birlikdə satıla bilər.\nXidmət haqqı 1000 manat təşkil edəcək.",
@@ -3327,6 +3170,208 @@
       {
         "price": 22000,
         "date": "2026-10-06T19:31:52.688932+00:00"
+      },
+      {
+        "price": 22001,
+        "date": "2026-10-07T19:31:32.065408+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6353445",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F06%2F15%2F28%2F37%2Fc6c336d1-08d2-472c-8853-aac30970b27b%2F88521_C6RgNwjKOe2NJTAXjVkUTA.jpg",
+    "price": 46000,
+    "location": "Ağ şəhər q.",
+    "rooms": "",
+    "area_m2": 20,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.38458538623943,
+    "lng": 49.88641296638672,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": null,
+    "updated_at_site": "2026-10-07T12:44:48+04:00",
+    "is_featured": false,
+    "title": "Satılır qaraj 20 m²",
+    "description": "AQ  ŞƏHƏR  !!!\r\nTəcili !!! \r\nPark Cinar 3-də, \r\nMənfi 1-də, \r\n2 ədəd Qaraj\r\n\"Əkiz Qüllələr\" və \"McDonalds White City\"  yanında\r\nSənəd kupça\r\n\r\nQarajlar liftdən çıxan kimi, yan yana yerləşir. İkisinin arasına beton sütun düşmür. İstəyə görə bağlayıb Jalüz qapı da qoymaq olar.\r\nQiymət 1 qaraj üçün nəzərdə tutulub.\r\nHər qaraj 20 kv.m-dir\r\n\r\nReal alıcıya qiymətdə endirim olunacaq\r\n\r\nHəmin binada  2 ədəd  (24 kv.m və 44 kv.m) kupçalı Anbar da satılır.\r\n\r\nƏlavə məlumat üçün əlaqə saxlaya bilərsiz.\r\n",
+    "building_type": "Qaraj",
+    "location_id": "314",
+    "location_name": "Ağ şəhər",
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6353445",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 46000,
+        "date": "2026-09-30T19:56:44.487073+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6480874",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F22%2F09%2F52%2F45%2F536a3442-34c3-4d37-a33e-36ff9093692d%2F90006_4q8HiSWyu5QrlKQztmf6zQ.jpg",
+    "price": 78000,
+    "location": "Əhmədli q.",
+    "rooms": "",
+    "area_m2": 100,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38215895188218,
+    "lng": 49.96818495180752,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-07T13:44:20+04:00",
+    "is_featured": false,
+    "title": "Satılır qaraj 100 m²",
+    "description": "Xətai rayonunun aktiv və perspektivli ərazisində, General Şıxlinski küçəsində, tam yaşayışlı yeni tikili binanın altında yerləşən qaraj satışa çıxarılıb. Bu obyekt həm icarə, həm də uzunmüddətli yatırım üçün əla seçimdir. Tavanın hündürlüyu imkan verirki, 7 avtomobillik qarajın ustundə əlavə 100m2 anbar yaradılıb arendaya vermək ola. Yəni, 7 avtomobillik parkovkaç və üstündə 100m2 anbar. Səkillər mümkün variant göstərilib. Obyekt OBA marketin altinda yerləşir. Xahiş olunur watsupa yazasınız. Sahə: 100 kv.m 🔹 Tutum: 7 avtomobillik yer 🔹 Yerləşmə: Yeni tikili binanın altı (bina tam yaşayışlıdır) 🔹 Sənəd: Çıxarış – qeyri-yaşayış 🔹 Təyinat: Qaraj / investisiya obyekti Niyə bu qaraj sərfəlidir? • 🚗 Avtomobil sıxlığı olan ərazi – daimi tələbat • 💰 7 maşınlıq yer – yüksək aylıq icarə potensialı • 🏢 Yaşayışlı bina – stabil müştəri axını • 📈 Dəyər artımı perspektivi yüksək • ⚡ Təcili satış – bazardan aşağı qiymət imkanı Bu tip obyektlər nadir hallarda satışa çıxır və investorlar üçün hazır gəlir mənbəyidir.\r\n\r\n",
+    "building_type": "Qaraj",
+    "location_id": "100",
+    "location_name": "Əhmədli",
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6480874",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 78000,
+        "date": "2026-09-30T19:56:44.486666+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6422945",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F01%2F11%2F08%2F34%2Fd2bc1880-b167-4f66-93f6-974dc2d810ad%2F72317_3eJtbrPvcR_HZNCEK47HYA.jpg",
+    "price": 28000,
+    "location": "Elmlər Akademiyası m.",
+    "rooms": "",
+    "area_m2": 23,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.3793109771296,
+    "lng": 49.81833258479789,
+    "has_repair": null,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-07T13:52:05+04:00",
+    "is_featured": false,
+    "title": "Satılır qaraj 23 m²",
+    "description": "Sexsi qarajimdi. Dash garajdi, girish cixish cox rahatdi, yola cox yaxindi. Icersi seliqeli temizdir.",
+    "building_type": "Qaraj",
+    "location_id": "34",
+    "location_name": "Elmlər Akademiyası",
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6422945",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 28000,
+        "date": "2026-09-30T19:56:44.487296+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6274454",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F08%2F12%2F36%2F32%2F0dacd1b4-56b4-47a1-bc62-aaaf05aa2eef%2F89611_E127GtoPZx3v8hhv_0BkhA.jpg",
+    "price": 17500,
+    "location": "Nəriman Nərimanov m.",
+    "rooms": "",
+    "area_m2": 21.3,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.40626781367889,
+    "lng": 49.87559471798138,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-07T16:19:09+04:00",
+    "is_featured": false,
+    "title": "Satılır qaraj 21.3 m²",
+    "description": "Təcili 7 ədəd Çıxarışli qaraj satılır.\r\nNərimanov rayonu, Ə. Əliyev küçəsi 26 ünvanında yerləşən Azenco binalarının zirzəmisində yerləşir.\r\n\r\n- 7 ədədin qiyməti 110000 azn.\r\n- 1 ədədin qiyməti   17500 azn.",
+    "building_type": "Qaraj",
+    "location_id": "1",
+    "location_name": "Nəriman Nərimanov",
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6274454",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 17500,
+        "date": "2026-09-30T19:56:44.487099+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6352222",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F06%2F10%2F48%2F35%2Fddab4a74-89ce-4aba-9268-233ff7fe5139%2F64470_7bm9nLk-DB4rsYkR3H9J6w.jpg",
+    "price": 150000,
+    "location": "Nəriman Nərimanov m.",
+    "rooms": "",
+    "area_m2": 160,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.40634881249459,
+    "lng": 49.87567153115181,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-07T16:19:30+04:00",
+    "is_featured": false,
+    "title": "Satılır qaraj 160 m²",
+    "description": "Nərimanov rayonu, \" Azenco \" yeni tikili binanın zirzəmisində\n160 kv/metr obyekt satılır.\nİstifadə imkanları:\n- Moyka \n- Anbar/saxlama sahəsi\n- Emalatxana və ya xırda istehsal\n- Ofis və ya xidməti otaq kimi uyğunlaşdırma\n- Ev-eşya, konservləşdirilmiş məhsullar və digər materialların toplanması üçün əlverişlidir.\nBarter olunur. ",
+    "building_type": "Qaraj",
+    "location_id": "1",
+    "location_name": "Nəriman Nərimanov",
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6352222",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 150000,
+        "date": "2026-09-30T19:56:44.487126+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6457741",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F13%2F17%2F42%2F49%2F9e5b2c3c-8053-4567-9291-c21ca6ed82f7%2F63806_DIRamA7pPAg37K3Lbr7g1w.jpg",
+    "price": 40000,
+    "location": "Ağ şəhər q.",
+    "rooms": "",
+    "area_m2": 25,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38252094655981,
+    "lng": 49.89488212348122,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-07T17:56:11+04:00",
+    "is_featured": true,
+    "title": "Satılır qaraj 25 m²",
+    "description": "Sea Tower Premium Residence, Ağ şəhər\r\n\r\nSahəsi 25 m² qaraj satılır. \r\n\r\nQaraj dəyərindən aşağı qiymətə verilir.\r\n\r\nSənədləri tam qaydasındadır.",
+    "building_type": "Qaraj",
+    "location_id": "314",
+    "location_name": "Ağ şəhər",
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6457741",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 40000,
+        "date": "2026-09-30T19:56:44.486202+00:00"
       }
     ]
   },
@@ -3393,39 +3438,6 @@
       {
         "price": 35000,
         "date": "2026-09-30T19:56:44.487278+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6422945",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F01%2F11%2F08%2F34%2Fd2bc1880-b167-4f66-93f6-974dc2d810ad%2F72317_3eJtbrPvcR_HZNCEK47HYA.jpg",
-    "price": 28000,
-    "location": "Elmlər Akademiyası m.",
-    "rooms": "",
-    "area_m2": "23 m²",
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.3793109771296,
-    "lng": 49.81833258479789,
-    "has_repair": null,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-01T13:48:32+04:00",
-    "is_featured": false,
-    "title": "Satılır qaraj 23 m²",
-    "description": "Sexsi qarajimdi. Dash garajdi, girish cixish cox rahatdi, yola cox yaxindi. Icersi seliqeli temizdir.",
-    "building_type": "Qaraj",
-    "location_id": "34",
-    "location_name": "Elmlər Akademiyası",
-    "category": "garage",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6422945",
-    "deleted_at": "2026-10-04T18:34:31.749628+00:00",
-    "price_history": [
-      {
-        "price": 28000,
-        "date": "2026-09-30T19:56:44.487296+00:00"
       }
     ]
   },
@@ -3793,39 +3805,6 @@
     ]
   },
   {
-    "id": "6274454",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F08%2F12%2F36%2F32%2F0dacd1b4-56b4-47a1-bc62-aaaf05aa2eef%2F89611_E127GtoPZx3v8hhv_0BkhA.jpg",
-    "price": 17500,
-    "location": "Nəriman Nərimanov m.",
-    "rooms": "",
-    "area_m2": 21.3,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.40626781367889,
-    "lng": 49.87559471798138,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-06T20:00:38+04:00",
-    "is_featured": false,
-    "title": "Satılır qaraj 21.3 m²",
-    "description": "Təcili 7 ədəd Çıxarışli qaraj satılır.\r\nNərimanov rayonu, Ə. Əliyev küçəsi 26 ünvanında yerləşən Azenco binalarının zirzəmisində yerləşir.\r\n\r\n- 7 ədədin qiyməti 110000 azn.\r\n- 1 ədədin qiyməti   17500 azn.",
-    "building_type": "Qaraj",
-    "location_id": "1",
-    "location_name": "Nəriman Nərimanov",
-    "category": "garage",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6274454",
-    "deleted_at": "2026-10-06T19:31:53.031625+00:00",
-    "price_history": [
-      {
-        "price": 17500,
-        "date": "2026-09-30T19:56:44.487099+00:00"
-      }
-    ]
-  },
-  {
     "id": "6348445",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F04%2F18%2F24%2F11%2F9080207c-ab19-403b-a58c-ed0cd65496d0%2F64559_gUsjLTTlaccUFmp7a9RsUQ.jpg",
     "price": 99000,
@@ -3855,6 +3834,72 @@
       {
         "price": 99000,
         "date": "2026-09-30T19:56:44.487117+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6184757",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F04%2F14%2F43%2F24%2F0a1807b5-e7e3-4c82-aa45-907d3457d7ca%2F34591_8ziHj0SHGMRN38nnsZYsQA.jpg",
+    "price": 2900000,
+    "location": "Şah İsmayıl Xətai m.",
+    "rooms": "",
+    "area_m2": 2900,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38112878429121,
+    "lng": 49.8670037474057,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-09-07T09:31:06+04:00",
+    "is_featured": false,
+    "title": "Satılır qaraj 2900 m²",
+    "description": "yeni tikilinin -2 qatında 80 yerliy avtomobil dayanacağı satılır.",
+    "building_type": "Qaraj",
+    "location_id": "36",
+    "location_name": "Şah İsmayıl Xətai",
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6184757",
+    "deleted_at": "2026-10-07T19:31:32.368012+00:00",
+    "price_history": [
+      {
+        "price": 2900000,
+        "date": "2026-09-30T19:56:44.487090+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6439697",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F07%2F11%2F15%2F00%2F83007eee-ea25-4cc9-ba5b-a43014065598%2F58701_wUZE5TvQadqQjI1bZ-LKvA.jpg",
+    "price": 59900,
+    "location": "Ağ şəhər q.",
+    "rooms": "",
+    "area_m2": 18,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38269200531152,
+    "lng": 49.89169808587681,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-09-10T11:03:38+04:00",
+    "is_featured": false,
+    "title": "Satılır qaraj 18 m²",
+    "description": "                    QARAJ DƏYƏRİNDƏN AŞAĞI QİYMƏTƏ SATILIR \n\n                                   BARTER MÜMKÜNDÜR \n                 UYĞUN MAŞIN VƏ YA TORPAQ SAHƏSİ İLƏ\n                      QİYMƏTDƏ RAZILAŞMA MÜMKÜNDÜR  \n                                  Ağ şəhər Raffle tower.\n\n                                Sahəsi 18 m² qaraj satılır..\n                             Sənədləri tam qaydasındadır ..\n\nQEYD EDİM Kİ,HAZIRDA KOMPLEKSDƏ QARAJLARIN DƏYƏRİ 65-75 MİN MANATDIR\n ",
+    "building_type": "Qaraj",
+    "location_id": "314",
+    "location_name": "Ağ şəhər",
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6439697",
+    "deleted_at": "2026-10-07T19:31:32.368035+00:00",
+    "price_history": [
+      {
+        "price": 59900,
+        "date": "2026-09-30T19:56:44.487064+00:00"
       }
     ]
   },
@@ -4020,39 +4065,6 @@
       {
         "price": 25000,
         "date": "2026-09-30T19:56:44.486926+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6352222",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F06%2F10%2F48%2F35%2Fddab4a74-89ce-4aba-9268-233ff7fe5139%2F64470_7bm9nLk-DB4rsYkR3H9J6w.jpg",
-    "price": 150000,
-    "location": "Nəriman Nərimanov m.",
-    "rooms": "",
-    "area_m2": 160,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.40634881249459,
-    "lng": 49.87567153115181,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-30T10:38:35+04:00",
-    "is_featured": false,
-    "title": "Satılır qaraj 160 m²",
-    "description": "Nərimanov rayonu, \" Azenco \" yeni tikili binanın zirzəmisində\n160 kv/metr obyekt satılır.\nİstifadə imkanları:\n- Moyka \n- Anbar/saxlama sahəsi\n- Emalatxana və ya xırda istehsal\n- Ofis və ya xidməti otaq kimi uyğunlaşdırma\n- Ev-eşya, konservləşdirilmiş məhsullar və digər materialların toplanması üçün əlverişlidir.\nBarter olunur. ",
-    "building_type": "Qaraj",
-    "location_id": "1",
-    "location_name": "Nəriman Nərimanov",
-    "category": "garage",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6352222",
-    "deleted_at": "2026-10-06T12:57:41.411768+00:00",
-    "price_history": [
-      {
-        "price": 150000,
-        "date": "2026-09-30T19:56:44.487126+00:00"
       }
     ]
   },

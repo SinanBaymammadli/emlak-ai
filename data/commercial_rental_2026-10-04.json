@@ -224,38 +224,6 @@
     ]
   },
   {
-    "id": "6515315",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F12%2F59%2F03%2F74300de0-be0a-4563-84c9-d4f158a81bb4%2F16169_thE38WY_oQWqY2lxfQnMlQ.jpg",
-    "price": 6500,
-    "location": "Sahil m.",
-    "area_m2": 100,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.37314191288195,
-    "lng": 49.84445368879097,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-04T12:59:56+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir obyekt 100 m²",
-    "description": "Sahil metrosunun yaxınlığında obyekt icarəyə verilir.Real şəxslər əlaqə saxlasın.Uzun müddətli icarəyə təklif olunur. XİDMƏT HAQQI 30 FAİZ TƏŞKİL EDİR.",
-    "building_type": "Obyekt",
-    "location_id": "38",
-    "location_name": "Sahil",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6515315",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 6500,
-        "date": "2026-10-04T17:00:54.767043+00:00"
-      }
-    ]
-  },
-  {
     "id": "6515341",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F13%2F07%2F02%2Fe1dda5d3-01ad-4345-96c1-21ec473380e2%2F75497_JBgo8NEZdGty2DUO6g-9vA.jpg",
     "price": 2700,
@@ -928,38 +896,6 @@
     ]
   },
   {
-    "id": "6516349",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F18%2F49%2F23%2F3d498636-4e19-48dc-89fd-f407023d716b%2F92134_k77EohkllSQh4vqJIgh45g.jpg",
-    "price": 4500,
-    "location": "Xalqlar Dostluğu m.",
-    "area_m2": 118,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.39511746412388,
-    "lng": 49.95376259265138,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-04T18:53:14+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir obyekt 118 m²",
-    "description": "\r\n\r\n🔥 ƏHMƏDLİ XALQLAR KƏSİŞMƏSİ 🔥\r\n📍 MAŞIN YOLUNUN KƏNARI\r\n\r\n━━━━━━━━━━\r\n📐 SAHƏ: 118kv DUBLEKS\r\n📄 SƏNƏD: Qeyri yaşayış kupça\r\n🏢 Yeni tikili 1-ci mərtəbə\r\n🏢 VİTRAJ ŞÜŞƏLİ \r\n🚪 5 otaq + Gözləmə zalı\r\n🅿️ Avto dayanacaq | Yol kənarı\r\n💰 ARENDA: 4500 AZN - \r\n━━━━━━━━━━\r\nBOŞ VERİLİR \r\nTƏDRİS \r\nOFİS \r\nDİŞ KLİNİKASİ VƏ S \r\n\r\n💥 ƏLAVƏ MƏLUMAT UCUN BUYURUB ZƏNG EDERƏK MƏLUMAT OYRƏNƏ BİLƏRSİNİZ 💥\r\n💥 XİDMƏT HAQQI: 30 FAİZ  💥",
-    "building_type": "Obyekt",
-    "location_id": "54",
-    "location_name": "Xalqlar Dostluğu",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6516349",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 4500,
-        "date": "2026-10-04T17:00:54.764759+00:00"
-      }
-    ]
-  },
-  {
     "id": "6248628",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F28%2F19%2F02%2F11%2F7b9c03c1-44ed-4669-a102-c58b48aa9b17%2F30509_Fq1bKoeGH3cHwUESInghzQ.jpg",
     "price": 1700,
@@ -1020,38 +956,6 @@
       {
         "price": 7000,
         "date": "2026-10-04T17:00:54.764525+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6516533",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F20%2F28%2F49%2F95dfc2aa-a85c-446a-9ba8-92ca9062f1a5%2F16172_Z8BCb3aiNwTH5YRuDW343Q.jpg",
-    "price": 2200,
-    "location": "Nərimanov r.",
-    "area_m2": 75,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.41192594071401,
-    "lng": 49.84334374741245,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-04T20:31:10+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir obyekt 75 m²",
-    "description": "Təcili! Obyekt icarəyə verilir, şəhərin ən gözəl və prestijli yerində A.Sultanova heyətinin yanı, Ibrahimpaşa Dadaşov küc, əhalinin gür yerində, gedişli - gəlişli yerində yerləşir, yeni tikili binada, 17/1, ümumi sahəsi 75 kv.m, təmirli obyekt, (oktyabrın 30-boşalır), hər cür fəaliyyət növünə yararlıdır: aptek, ximcistka, ğözəlllik salonu, brend paltar butikı, marketa və sairə iaşə obyektlarina yararlıdır. Xidmət haqqı 30 %. Qiyməti: 2200 AZN/ay",
-    "building_type": "Obyekt",
-    "location_id": "10",
-    "location_name": "Nərimanov",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6516533",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 2200,
-        "date": "2026-10-04T17:00:54.764423+00:00"
       }
     ]
   },
@@ -1252,38 +1156,6 @@
     ]
   },
   {
-    "id": "6516343",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F18%2F43%2F11%2Ff12cd24f-7abb-43d3-856a-58838a6229bf%2F75498_PNt7pYmBcL9JLQtLJf5eUw.jpg",
-    "price": 7000,
-    "location": "Sabunçu r.",
-    "area_m2": 700,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.50946306634735,
-    "lng": 49.97752983093264,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-06T10:45:51+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir obyekt 700 m²",
-    "description": "700 kv.m obyekt + 9 sot qabağının asfaltlanmış avto parklanması + 3 sot arxasının hasarlı darvazalı həyəti ( Həyətindən də obyektə arxa giriş qapısı var ) Aylıq 7000 Azn icarə.\r\nTəmirinin tamamlanması təyinata uyğun danışıq yolu ilə yekunlaşacaq. Gediş-gəliş sıx olan əsas yoldur ( Zabrat-Maştağa yolunun üstü, Zabrat dairəsindən Maştağaya gedəndə sağda əsas yolda. )\r\nSupermarketlər, Tikinti Materialları mağazası, Avto Ehtiyyat hissələri mağazası, Mebel Mağazası, Elektronika Mağazası və digər müxtəlif Mağazalar, Restoran və Çay evləri, Klinikalar , Fitness və digər uyğun təyinatlar üçün icarəyə verilə bilər. Ön əsas qapıdan əlavə obyektin içindən əlavə həyətə giriş qapısı var. Qabağı tam şüşəli obyektdir. Obyektin qabağındakı parklanmadan əlavə yan tərəfdə də parklanması mövcuddur.",
-    "building_type": "Obyekt",
-    "location_id": "13",
-    "location_name": "Sabunçu",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6516343",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 7000,
-        "date": "2026-10-04T17:00:54.764845+00:00"
-      }
-    ]
-  },
-  {
     "id": "6515091",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F11%2F38%2F41%2F3ccfe675-0f23-4196-80bb-a8fe462be5d2%2F75528_SsHKpZYuVgBaFSTGEQY3Kw.jpg",
     "price": 1399,
@@ -1316,6 +1188,102 @@
     ]
   },
   {
+    "id": "6516343",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F18%2F43%2F11%2Ff12cd24f-7abb-43d3-856a-58838a6229bf%2F75498_PNt7pYmBcL9JLQtLJf5eUw.jpg",
+    "price": 7000,
+    "location": "Sabunçu r.",
+    "area_m2": 700,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.50946306634735,
+    "lng": 49.97752983093264,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-07T10:45:51+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir obyekt 700 m²",
+    "description": "700 kv.m obyekt + 9 sot qabağının asfaltlanmış avto parklanması + 3 sot arxasının hasarlı darvazalı həyəti ( Həyətindən də obyektə arxa giriş qapısı var ) Aylıq 7000 Azn icarə.\r\nTəmirinin tamamlanması təyinata uyğun danışıq yolu ilə yekunlaşacaq. Gediş-gəliş sıx olan əsas yoldur ( Zabrat-Maştağa yolunun üstü, Zabrat dairəsindən Maştağaya gedəndə sağda əsas yolda. )\r\nSupermarketlər, Tikinti Materialları mağazası, Avto Ehtiyyat hissələri mağazası, Mebel Mağazası, Elektronika Mağazası və digər müxtəlif Mağazalar, Restoran və Çay evləri, Klinikalar , Fitness və digər uyğun təyinatlar üçün icarəyə verilə bilər. Ön əsas qapıdan əlavə obyektin içindən əlavə həyətə giriş qapısı var. Qabağı tam şüşəli obyektdir. Obyektin qabağındakı parklanmadan əlavə yan tərəfdə də parklanması mövcuddur.",
+    "building_type": "Obyekt",
+    "location_id": "13",
+    "location_name": "Sabunçu",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6516343",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 7000,
+        "date": "2026-10-04T17:00:54.764845+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6516533",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F20%2F28%2F49%2F95dfc2aa-a85c-446a-9ba8-92ca9062f1a5%2F16172_Z8BCb3aiNwTH5YRuDW343Q.jpg",
+    "price": 2200,
+    "location": "Nərimanov r.",
+    "area_m2": 75,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.41192594071401,
+    "lng": 49.84334374741245,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-07T13:21:46+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir obyekt 75 m²",
+    "description": "Təcili! Obyekt icarəyə verilir, şəhərin ən gözəl və prestijli yerində A.Sultanova heyətinin yanı, Ibrahimpaşa Dadaşov küc, əhalinin gür yerində, gedişli - gəlişli yerində yerləşir, yeni tikili binada, 17/1, ümumi sahəsi 75 kv.m, təmirli obyekt, (oktyabrın 30-boşalır), hər cür fəaliyyət növünə yararlıdır: aptek, ximcistka, ğözəlllik salonu, brend paltar butikı, marketa və sairə iaşə obyektlarina yararlıdır. Xidmət haqqı 30 %. Qiyməti: 2200 AZN/ay",
+    "building_type": "Obyekt",
+    "location_id": "10",
+    "location_name": "Nərimanov",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6516533",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 2200,
+        "date": "2026-10-04T17:00:54.764423+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6515315",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F12%2F59%2F03%2F74300de0-be0a-4563-84c9-d4f158a81bb4%2F16169_thE38WY_oQWqY2lxfQnMlQ.jpg",
+    "price": 6500,
+    "location": "Sahil m.",
+    "area_m2": 100,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.37314191288195,
+    "lng": 49.84445368879097,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-07T17:24:37+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir obyekt 100 m²",
+    "description": "Sahil metrosunun yaxınlığında obyekt icarəyə verilir.Real şəxslər əlaqə saxlasın.Uzun müddətli icarəyə təklif olunur. XİDMƏT HAQQI 30 FAİZ TƏŞKİL EDİR.",
+    "building_type": "Obyekt",
+    "location_id": "38",
+    "location_name": "Sahil",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6515315",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 6500,
+        "date": "2026-10-04T17:00:54.767043+00:00"
+      }
+    ]
+  },
+  {
     "id": "6322326",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F29%2F15%2F16%2F52%2Fd61226cf-aadb-4d69-a346-45c7b998ce1f%2F64562_-H8VEexaorQNqxNsefdYWQ.jpg",
     "price": 2000,
@@ -1329,7 +1297,7 @@
     "has_bill_of_sale": false,
     "has_mortgage": false,
     "floor_number": null,
-    "updated_at_site": "2026-10-06T17:27:59+04:00",
+    "updated_at_site": "2026-10-07T17:28:00+04:00",
     "is_featured": true,
     "title": "İcarəyə verilir obyekt 500 m²",
     "description": "Tam yolun kənarında 12 sot ərazidə yerləşən. 600 nəfərlik hazır mərasim evi icarəyə verilir. İSTƏYƏ UYĞUN TƏYİNAT DƏYİŞƏRƏK BAŞQA MƏQSƏDLƏR ÜÇÜN İCARƏYƏ VERİLƏ BİLƏR. Bütün təchizatlar mövcuddur (kombi sistemi, komdisanerler, kameralar. Qaz, işıq və su daimidir) qiymətlə bağlı zəng edin. Obyektin önündə özünə məxsus 30 avtomobillik parkinq. Arxa hissəsində 9 sot hasara alınmış həyətyanı sahəsi və anbarı var",
@@ -1344,6 +1312,38 @@
       {
         "price": 2000,
         "date": "2026-10-04T17:00:54.765239+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6516349",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F18%2F49%2F23%2F3d498636-4e19-48dc-89fd-f407023d716b%2F92134_k77EohkllSQh4vqJIgh45g.jpg",
+    "price": 4500,
+    "location": "Xalqlar Dostluğu m.",
+    "area_m2": 118,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.39511746412388,
+    "lng": 49.95376259265138,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-07T19:53:13+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir obyekt 118 m²",
+    "description": "\r\n\r\n🔥 ƏHMƏDLİ XALQLAR KƏSİŞMƏSİ 🔥\r\n📍 MAŞIN YOLUNUN KƏNARI\r\n\r\n━━━━━━━━━━\r\n📐 SAHƏ: 118kv DUBLEKS\r\n📄 SƏNƏD: Qeyri yaşayış kupça\r\n🏢 Yeni tikili 1-ci mərtəbə\r\n🏢 VİTRAJ ŞÜŞƏLİ \r\n🚪 5 otaq + Gözləmə zalı\r\n🅿️ Avto dayanacaq | Yol kənarı\r\n💰 ARENDA: 4500 AZN - \r\n━━━━━━━━━━\r\nBOŞ VERİLİR \r\nTƏDRİS \r\nOFİS \r\nDİŞ KLİNİKASİ VƏ S \r\n\r\n💥 ƏLAVƏ MƏLUMAT UCUN BUYURUB ZƏNG EDERƏK MƏLUMAT OYRƏNƏ BİLƏRSİNİZ 💥\r\n💥 XİDMƏT HAQQI: 30 FAİZ  💥",
+    "building_type": "Obyekt",
+    "location_id": "54",
+    "location_name": "Xalqlar Dostluğu",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6516349",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 4500,
+        "date": "2026-10-04T17:00:54.764759+00:00"
       }
     ]
   }

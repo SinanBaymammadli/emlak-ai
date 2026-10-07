@@ -1,0 +1,104 @@
+[
+  {
+    "id": "6522939",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F10%2F11%2F30%2F902e6fb1-4fd1-4a00-bb24-09b4640b9828%2F37089_2YLK6L24lRDsjrT757fPqQ.jpg",
+    "price": 30000,
+    "location": "Nərimanov r.",
+    "location_id": "10",
+    "location_name": "Nərimanov",
+    "rooms": null,
+    "area_m2": 18,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "is_featured": false,
+    "updated_at_site": "2026-10-07T10:13:17+04:00",
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6522939",
+    "lat": 40.41018282561274,
+    "lng": 49.84566128528789,
+    "land_area_sot": null,
+    "building_type": "Qaraj",
+    "title": "Satılır qaraj 18 m²",
+    "description": "Sened texpasport(cixaris)",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 30000,
+        "date": "2026-10-07T19:31:31.642144+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6259433",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F02%2F16%2F54%2F07%2Ff024c200-2beb-4aa8-b5a0-fac26f492cd8%2F77780_4oyl8sEXVXeCxAPQcoyBiA.jpg",
+    "price": 30000,
+    "location": "Bayıl q.",
+    "location_id": "49",
+    "location_name": "Bayıl",
+    "rooms": null,
+    "area_m2": 19.5,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-07T14:53:59+04:00",
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6259433",
+    "lat": 40.33715349649894,
+    "lng": 49.82976527273868,
+    "land_area_sot": null,
+    "building_type": "Qaraj",
+    "title": "Satılır qaraj 19.5 m²",
+    "description": "Səbail rayonu Bayılda Bulvarla üzbə üz yerləşən Yeni Şəhər yaşayış kompleksində binanın altında qapalı qaraj satılır. Qarajın qapısı pultla açılıb bağlanır.Qarajın içində maşın üçün yerdən əlavə bağlı (kladovka) bir otaqda var. Hər iki hissə sənəddə öz əksini tapmışdır. Qaraj kupçalıdır. Real alıcı ilə qiymətdə razılaşa bilərik. Əlavə suallar üçün əlaqə saxlaya bilərsiniz.",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 30000,
+        "date": "2026-10-07T19:31:31.642090+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6039861",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F04%2F12%2F23%2F17%2F42%2F60cd91d9-c4c1-46a3-a03e-01f31f6ee1e7%2F92520_xTVktp1mvEx2H4IsWOx7bQ.jpg",
+    "price": 40000,
+    "location": "Şah İsmayıl Xətai m.",
+    "location_id": "36",
+    "location_name": "Şah İsmayıl Xətai",
+    "rooms": null,
+    "area_m2": 25,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": null,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-07T19:40:55+04:00",
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6039861",
+    "lat": 40.38290405030224,
+    "lng": 49.86996603560275,
+    "land_area_sot": null,
+    "building_type": "Qaraj",
+    "title": "Satılır qaraj 25 m²",
+    "description": "Yenitikili binanın altında bir və iki maşınlıq qarajlar. Barter həm maşına həm də əmlaka mövcuddur.",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 40000,
+        "date": "2026-10-07T19:31:31.642028+00:00"
+      }
+    ]
+  }
+]

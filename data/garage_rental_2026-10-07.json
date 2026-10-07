@@ -1,0 +1,36 @@
+[
+  {
+    "id": "6522861",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F08%2F31%2F36%2Fa0f060d9-e9c7-416a-b5e1-b34ac4fb14f8%2F60572_YVI0BYS6cpcOf4MW6UAvRg.jpg",
+    "price": 200,
+    "location": "Nərimanov r.",
+    "location_id": "10",
+    "location_name": "Nərimanov",
+    "rooms": null,
+    "area_m2": 24,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": null,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-07T08:33:27+04:00",
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6522861",
+    "lat": 40.40456508873984,
+    "lng": 49.83598737772352,
+    "land_area_sot": null,
+    "building_type": "Qaraj",
+    "title": "İcarəyə verilir qaraj 24 m²",
+    "description": "Qaraj icareye verilir Narimanov rayonu Azadliq prospekti ile Memmed Araz(evvelki Teymur eliyev)ile kesismede 51 sayli Notarius ile uz be uz.Masin saxlamaqa ve ya anbar ve diger meqsedler ucun istifade oluna biler.\r\nQeyd:uz be uzunde  masin saxlasa bele genisdir qapini acib masini salmaq ve ya anbardirsa mal cixardmaq olur manecilik olmur boyuk ustunlukdur.",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 200,
+        "date": "2026-10-07T19:31:35.426549+00:00"
+      }
+    ]
+  }
+]

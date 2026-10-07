@@ -825,39 +825,6 @@
     "rooms": "1 otaqlı"
   },
   {
-    "id": "5012992",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F02%2F26%2F19%2F19%2F04%2F7987aff1-cac8-4b03-b699-b3d0c59c734c%2F710_n_84bQNwZvpGSEPPCvJ-ng.jpg",
-    "price": 20000,
-    "location": "Ulduz m.",
-    "area_m2": 2000,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.41884452653985,
-    "lng": 49.88651610554142,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-01T16:03:44+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 20 otaqlı ofis 2000 m²",
-    "description": "Nərimanov rayonu, Ziya Bunyadov prospekti,,,, , Ulduz,,,,, metroya yaxin istiqametde, 3 mərtəbə, Ofis, Biznes mərkəzi, 1 ci mərtəbə,kecid  muhafize xidmeti, 2, ci mertebe, Umumi sahesi 940 kvm,,, Vip,, salon, 11 otak, konfrans zali,Metbex, 2 sanitar sanitar/ qovşaq,,,,, 3 cu mərtəbə, 960 kvm,,,, Vip,, salon, 14 otak, Mətbəx, sanitar / qovşaq, ,1,2,3 mərtəbə :Umumi sahesi, 2000 kvm,Otaklarin umumi sahesi 25 otak, İstilik, soyutma sistemləri, internet, qaz, su, işik 24 saat, , Transfamator 630 KV, Təmirlidir, ",
-    "building_type": "Ofis",
-    "location_id": "3",
-    "location_name": "Ulduz",
-    "category": "office",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/5012992",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 20000,
-        "date": "2026-10-01T12:04:32.463608+00:00"
-      }
-    ],
-    "rooms": "20 otaqlı"
-  },
-  {
     "id": "6506796",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F11%2F30%2F21%2Fab5cf5ed-f41e-4811-891c-3236a17b45b1%2F75547_g6pJIY9wVZMbQRk_G2oOyg.jpg",
     "price": 875,
@@ -1003,7 +970,7 @@
     "has_bill_of_sale": false,
     "has_mortgage": false,
     "floor_number": null,
-    "updated_at_site": "2026-10-06T10:55:00+04:00",
+    "updated_at_site": "2026-10-07T10:54:58+04:00",
     "is_featured": false,
     "title": "İcarəyə verilir 1 otaqlı ofis 30 m²",
     "description": "Bütün standartlara cavab verən Yeni Tam Təmirli 30 Kv.m Ofis icarəyə verilir ( Xadiməsi, Mühafizə xidməti və bütün kommunal xidmətləri bu qiymətə daxildir ) -- Nərimanov rayonu , Ulduz metrosuna yaxın , Ziya Bünyadov prospekti , Topdan satış tikinti materialları bazarında , Tanınmış Santral mağazasının yanı , Avtobus dayanacağının yanı ( Luk Oil yanacaqdoldurma məntəqəsi ilə üzbəüz ,Əsas mərkəz trasa 120 metr )\u2028Yeni inşa olunmuş Bina ümumilikdə 3500 Kv.m təşkil edir , Aşağı mərtəbəsi Al Market , Dalğa Restoranı ( Yeməkxana ) və ümumi 28 ədəd Müxtəlif mağazalardan ibarətdir. 2-ci mərtəbəsi isə Ofis otaqlarından ibarətdir.\u2028Daimi Şirin suyu (isti-soyuq) , daimi işığı ,mətbəxi, 4 Sanitar qovşağı , Mətbəxi , Binanın arxasında və qabağında geniş Parkovkası , İnternet wi-fiyı , Kombi istilik sistemi , 24 saat Gözətçisi və tam olaraq kamera sistemi ilə əhatə olunub.",
@@ -1023,6 +990,39 @@
     "rooms": "1 otaqlı"
   },
   {
+    "id": "5012992",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F02%2F26%2F19%2F19%2F04%2F7987aff1-cac8-4b03-b699-b3d0c59c734c%2F710_n_84bQNwZvpGSEPPCvJ-ng.jpg",
+    "price": 20000,
+    "location": "Ulduz m.",
+    "area_m2": 2000,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.41884452653985,
+    "lng": 49.88651610554142,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-07T12:23:38+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 20 otaqlı ofis 2000 m²",
+    "description": "Nərimanov rayonu, Ziya Bunyadov prospekti,,,, , Ulduz,,,,, metroya yaxin istiqametde, 3 mərtəbə, Ofis, Biznes mərkəzi, 1 ci mərtəbə,kecid  muhafize xidmeti, 2, ci mertebe, Umumi sahesi 940 kvm,,, Vip,, salon, 11 otak, konfrans zali,Metbex, 2 sanitar sanitar/ qovşaq,,,,, 3 cu mərtəbə, 960 kvm,,,, Vip,, salon, 14 otak, Mətbəx, sanitar / qovşaq, ,1,2,3 mərtəbə :Umumi sahesi, 2000 kvm,Otaklarin umumi sahesi 25 otak, İstilik, soyutma sistemləri, internet, qaz, su, işik 24 saat, , Transfamator 630 KV, Təmirlidir, ",
+    "building_type": "Ofis",
+    "location_id": "3",
+    "location_name": "Ulduz",
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/5012992",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 20000,
+        "date": "2026-10-01T12:04:32.463608+00:00"
+      }
+    ],
+    "rooms": "20 otaqlı"
+  },
+  {
     "id": "5796168",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F01%2F10%2F19%2F49%2F49%2Fe58743c8-6aca-48e6-bad5-9633e007acc5%2F46628_U3uQrnr3aQUuI6stpgm12Q.jpg",
     "price": 1400,
@@ -1036,7 +1036,7 @@
     "has_bill_of_sale": false,
     "has_mortgage": false,
     "floor_number": null,
-    "updated_at_site": "2026-10-06T13:49:38+04:00",
+    "updated_at_site": "2026-10-07T13:49:38+04:00",
     "is_featured": false,
     "title": "İcarəyə verilir 3 otaqlı ofis 120 m²",
     "description": "Port Baku 2 More More restoraninin arxasinda  9 mərtəbəli binanin 9 cu\nmərtəbəsində  3otaq 2 sanuzel… Təmirli Home ofis kirayə verilir… ofis əşyaları ilə...27 nömrəli məktəbin yaninda...Qiymeti 1400….",

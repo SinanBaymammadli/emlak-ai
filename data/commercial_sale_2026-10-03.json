@@ -1440,38 +1440,6 @@
     ]
   },
   {
-    "id": "6514661",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F21%2F37%2F59%2F4117941c-9310-467e-889b-12fcc8a2cc11%2F75547_vUBWIov6exHf2QyKRzRiAQ.jpg",
-    "price": 1800000,
-    "location": "Kubinka q.",
-    "area_m2": 576,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.39610285797463,
-    "lng": 49.83986519835025,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-03T21:42:21+04:00",
-    "is_featured": false,
-    "title": "Satılır obyekt 576 m²",
-    "description": "Nəsimi bazarın yaxın yeni tikilinin 1 ci və 2 ci mərtəbəli hal hazırda arendadadır cox təcili satıram",
-    "building_type": "Obyekt",
-    "location_id": "70",
-    "location_name": "Kubinka",
-    "category": "commercial",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6514661",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1800000,
-        "date": "2026-10-03T19:32:14.011612+00:00"
-      }
-    ]
-  },
-  {
     "id": "6117850",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F10%2F16%2F09%2F57%2Fd31a6ede-4817-4fdb-aaa1-10a0cbc5d771%2F75586_97ATlz6znEa4ODw4Wwi6sg.jpg",
     "price": 170000,
@@ -1500,38 +1468,6 @@
       {
         "price": 170000,
         "date": "2026-10-03T19:32:14.014176+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6512554",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F10%2F49%2F10%2F4b45210a-52c6-4dcd-b205-6839957c1138%2F36766_LC5D-hafKrNY8OisWWr-0Q.jpg",
-    "price": 200000,
-    "location": "Türkan q.",
-    "area_m2": 1000,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.37507689847563,
-    "lng": 50.19432817443847,
-    "has_repair": false,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-06T11:04:50+04:00",
-    "is_featured": true,
-    "title": "Satılır obyekt 1000 m²",
-    "description": "TƏCİLİ SATILIR! \nXəzər rayonu, Türkan qəsəbəsi (İmam Şamil küçəsi) ünvanında yerləşən, həm yaşayış, həm də hazır biznes / aqro-təsərrüfat üçün ideyal obyekt. Obyektin üstünlükləri və göstəriciləri: \n* Sənəd: Çıxarış (Kupça) – Xüsusi mülkiyyət \n* Torpaq sahəsi: 30 sot tam həyətyanı sahə \n* Yaşayış evi: 3 mərtəbəli, 6 otaqlı, 350 m² geniş və işıqlı bağ evi \n* Yardımçı tikililər : 1 mərtəbə 7m x 50m 350m2 ambar və sexlər \n* İstixana (Parnik): 1500 m² sahəsi olan, Xaricdən gətirilmiş 4.5 metr hündürlükdə Paslanmaz və möhkəm dəmir-metal konstruksiyadan yığılmış istixana (tingçilik, güllər, tərəvəz və ya anbar/istehsalat üçün yararlıdır) \n* Kommunal: İşıq, qaz, su daimidir. Həyətdə hovuz var Obyekt hazır kiçik fermer təsərrüfatı, stansiya, anbar və ya sakit bağ evi kimi istifadə üçün ideal seçimdir. \nQiymət: 279.000 AZN (Real alıcı ilə yerində razılaşma və endirim mümkündür).",
-    "building_type": "Obyekt",
-    "location_id": "94",
-    "location_name": "Türkan",
-    "category": "commercial",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6512554",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 200000,
-        "date": "2026-10-03T19:32:14.015648+00:00"
       }
     ]
   },
@@ -1568,6 +1504,70 @@
     ]
   },
   {
+    "id": "6512554",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F10%2F49%2F10%2F4b45210a-52c6-4dcd-b205-6839957c1138%2F36766_LC5D-hafKrNY8OisWWr-0Q.jpg",
+    "price": 200000,
+    "location": "Türkan q.",
+    "area_m2": 1000,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.37507689847563,
+    "lng": 50.19432817443847,
+    "has_repair": false,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-07T11:04:46+04:00",
+    "is_featured": true,
+    "title": "Satılır obyekt 1000 m²",
+    "description": "TƏCİLİ SATILIR! \nXəzər rayonu, Türkan qəsəbəsi (İmam Şamil küçəsi) ünvanında yerləşən, həm yaşayış, həm də hazır biznes / aqro-təsərrüfat üçün ideyal obyekt. Obyektin üstünlükləri və göstəriciləri: \n* Sənəd: Çıxarış (Kupça) – Xüsusi mülkiyyət \n* Torpaq sahəsi: 30 sot tam həyətyanı sahə \n* Yaşayış evi: 3 mərtəbəli, 6 otaqlı, 350 m² geniş və işıqlı bağ evi \n* Yardımçı tikililər : 1 mərtəbə 7m x 50m 350m2 ambar və sexlər \n* İstixana (Parnik): 1500 m² sahəsi olan, Xaricdən gətirilmiş 4.5 metr hündürlükdə Paslanmaz və möhkəm dəmir-metal konstruksiyadan yığılmış istixana (tingçilik, güllər, tərəvəz və ya anbar/istehsalat üçün yararlıdır) \n* Kommunal: İşıq, qaz, su daimidir. Həyətdə hovuz var Obyekt hazır kiçik fermer təsərrüfatı, stansiya, anbar və ya sakit bağ evi kimi istifadə üçün ideal seçimdir. \nQiymət: 279.000 AZN (Real alıcı ilə yerində razılaşma və endirim mümkündür).",
+    "building_type": "Obyekt",
+    "location_id": "94",
+    "location_name": "Türkan",
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6512554",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 200000,
+        "date": "2026-10-03T19:32:14.015648+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6513969",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F17%2F06%2F46%2F4183e03f-0eaa-4000-b24a-978f986f4df7%2F75548_8TyKHp76dbT1aBzQNUwl0Q.jpg",
+    "price": 200000,
+    "location": "Mərdəkan q.",
+    "area_m2": 200,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.48725261106163,
+    "lng": 50.15736060852049,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-07T14:06:49+04:00",
+    "is_featured": false,
+    "title": "Satılır obyekt 200 m²",
+    "description": "📍 Mərdəkan qəsəbəsində təcili obyekt satılır!\r\n\r\nÜmumi sahəsi: 200 kv.m\r\n\r\nHazırda şəbəkə market kimi fəaliyyət göstərir\r\n\r\nAylıq icarə gəliri: 1 000 AZN\r\n\r\nObyekt hazırda işlək vəziyyətdədir\r\n\r\nTəcili satılır\r\n\r\nƏtraflı məlumat və qiymət üçün əlaqə saxlaya bilərsiniz.",
+    "building_type": "Obyekt",
+    "location_id": "109",
+    "location_name": "Mərdəkan",
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6513969",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 200000,
+        "date": "2026-10-03T19:32:14.012649+00:00"
+      }
+    ]
+  },
+  {
     "id": "6513686",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F15%2F54%2F40%2F84dbd660-4d25-41bf-a221-0bbcc4640303%2F75500_jJIaJ7bFX239ELJfCoNKMA.jpg",
     "price": 750000,
@@ -1581,7 +1581,7 @@
     "has_bill_of_sale": true,
     "has_mortgage": false,
     "floor_number": null,
-    "updated_at_site": "2026-10-06T13:43:52+04:00",
+    "updated_at_site": "2026-10-07T14:45:33+04:00",
     "is_featured": false,
     "title": "Satılır obyekt 75 m²",
     "description": "EKSKLYUZİV TƏKLİF!!! Elmlər Akademiyası metrosu,SPACE T/K-nin yaxınlığında 75-kv.m QEYRI YASAYIS sahəsi olan, super təmirli obyekt satılır.Obyekt uzun müddətli icarəyə verilib. Ərazi olaraq cox ideal yerdə yerləşir. Daha ətraflı məlumat üçün əlaqə saxlayın....",
@@ -1604,38 +1604,6 @@
     ]
   },
   {
-    "id": "6513969",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F17%2F06%2F46%2F4183e03f-0eaa-4000-b24a-978f986f4df7%2F75548_8TyKHp76dbT1aBzQNUwl0Q.jpg",
-    "price": 200000,
-    "location": "Mərdəkan q.",
-    "area_m2": 200,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.48725261106163,
-    "lng": 50.15736060852049,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-06T14:06:47+04:00",
-    "is_featured": false,
-    "title": "Satılır obyekt 200 m²",
-    "description": "📍 Mərdəkan qəsəbəsində təcili obyekt satılır!\r\n\r\nÜmumi sahəsi: 200 kv.m\r\n\r\nHazırda şəbəkə market kimi fəaliyyət göstərir\r\n\r\nAylıq icarə gəliri: 1 000 AZN\r\n\r\nObyekt hazırda işlək vəziyyətdədir\r\n\r\nTəcili satılır\r\n\r\nƏtraflı məlumat və qiymət üçün əlaqə saxlaya bilərsiniz.",
-    "building_type": "Obyekt",
-    "location_id": "109",
-    "location_name": "Mərdəkan",
-    "category": "commercial",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6513969",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 200000,
-        "date": "2026-10-03T19:32:14.012649+00:00"
-      }
-    ]
-  },
-  {
     "id": "6513530",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F15%2F16%2F56%2Fbad7e47c-ca4e-43fa-b0a8-285f336fb2f7%2F4902_Ppq6Ho_vadK4I1bswNKJDg.jpg",
     "price": 775000,
@@ -1649,7 +1617,7 @@
     "has_bill_of_sale": true,
     "has_mortgage": false,
     "floor_number": null,
-    "updated_at_site": "2026-10-06T15:21:32+04:00",
+    "updated_at_site": "2026-10-07T15:21:32+04:00",
     "is_featured": false,
     "title": "Satılır obyekt 185.4 m²",
     "description": "✨ Geniş va əlverişli obyekt satışda!\r\n185.41m2, tam təmirli va istifadəyə hazır obyekt.\r\nObyekt geniş va funksional sahəyə malik, müxtəlif fəaliyyatlər üçün əlverişlidir.\r\nYerləşmə mövqeyi və geniş sahəsi obyektə müxtəlif\r\ntəyinatlar üçün üstünlük qazandırır. Sənədləri qaydasındadır.\r\n📞 Ətraflı məlumat və baxış üçün əıaqə saxlaya bilərsiniz.",
@@ -1681,8 +1649,8 @@
     "has_bill_of_sale": true,
     "has_mortgage": true,
     "floor_number": null,
-    "updated_at_site": "2026-10-06T18:40:29+04:00",
-    "is_featured": true,
+    "updated_at_site": "2026-10-07T19:41:08+04:00",
+    "is_featured": false,
     "title": "Satılır obyekt 35 m²",
     "description": "600 MANATA UZUNMÜDDƏTLİ İCARƏDƏ✅\r\nŞəhərin mərkəzində,Yasamalda,Premium Almaz Park yaşayış kompleksinin tam yanında,yeni tikili binanın altında yerləşən ümumi sahəsi 35 kv.m olan qeyri-yaşayış kupçalı moyka (avtoyuma) təcili olaraq satılır.Avtoyuma əsas yoldan cəmi 15 metr içəridə,obyektlər olan sırada yerləşir.5 ildir eyni icarəçi tərəfindən aylıq 600 manata icarədədir.Geniş müştəri bazası və ən əsası böyük parkinqi mövcuddur.Ətraf hamısı işlək obyektlər,hündür mərtəbəli yaşayış binalarıdır.Bu qiymətə şəhərdə kupçalı moyka yoxdur❌.Təcili satılmaq şərtilə 142000 manat son qiymət.Allah alanada,satanada,bizədə xeyir versin İNŞALLAH.Ofis haqqı 1%. ",
     "building_type": "Obyekt",
@@ -1713,7 +1681,7 @@
     "has_bill_of_sale": true,
     "has_mortgage": true,
     "floor_number": null,
-    "updated_at_site": "2026-10-06T20:18:40+04:00",
+    "updated_at_site": "2026-10-07T20:18:40+04:00",
     "is_featured": true,
     "title": "Satılır obyekt 213 m²",
     "description": "15 illik icarədə - AYLIQ 10 000 AZN GƏLİR \n\nAğ Şəhər Notarius Ofisi - Satılır\n\n(3 ildən bir qiymət artımı)\n\nÜmumi sahə: 213 kv.m (1-ci mərtəbə 120 kv.m, 2-ci mərtəbə 93 kv.m)\n3 Vitrin + 2 Qapı + Anbar\n\nULTRA LUX TƏMİRLİ, QEYRİ - YAŞAYIŞ OBYEKTİ\n\nLokasiya:\nAvropa Liseyinin qarşısı\nYaxınlıqda Qarabağ Atları kompleksi, Ağ Şəhər COP Biznes Mərkəzi, DTX binası, City Park Mall, 2 hektarlıq Ağ Şəhər Palıd Parkı və 2028-ci ildə istifadəyə veriləcək Ağ Şəhər Metrosu (Yaşıl xətt) – 1-2 dəqiqə məsafədə\n\n\n",
@@ -1760,6 +1728,38 @@
       {
         "price": 1150000,
         "date": "2026-10-03T19:32:14.014206+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6514661",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F21%2F37%2F59%2F4117941c-9310-467e-889b-12fcc8a2cc11%2F75547_vUBWIov6exHf2QyKRzRiAQ.jpg",
+    "price": 1800000,
+    "location": "Kubinka q.",
+    "area_m2": 576,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.39610285797463,
+    "lng": 49.83986519835025,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-03T21:42:21+04:00",
+    "is_featured": false,
+    "title": "Satılır obyekt 576 m²",
+    "description": "Nəsimi bazarın yaxın yeni tikilinin 1 ci və 2 ci mərtəbəli hal hazırda arendadadır cox təcili satıram",
+    "building_type": "Obyekt",
+    "location_id": "70",
+    "location_name": "Kubinka",
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6514661",
+    "deleted_at": "2026-10-07T19:31:48.372545+00:00",
+    "price_history": [
+      {
+        "price": 1800000,
+        "date": "2026-10-03T19:32:14.011612+00:00"
       }
     ]
   }

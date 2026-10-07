@@ -1,137 +1,5 @@
 [
   {
-    "id": "6439252",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F07%2F00%2F08%2F14%2Fde8a1bbe-0c3a-4160-8a79-94b3be1a9d47%2F63758_Xckw-83NE6wemlFILV3bkQ.jpg",
-    "price": 2500000,
-    "location": "İçəri Şəhər m.",
-    "area_m2": 166,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.3653612195609,
-    "lng": 49.83597999016779,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-07T10:50:29+04:00",
-    "is_featured": false,
-    "title": "Satılır 5 otaqlı ofis 166 m²",
-    "description": "İçərişəhərin Tarixi yerində ən gözəl yeri Kiçik Qala küçəsində əmlak satılır Arxitektur bina. Cümə məscidinin yanıdır. Qız Qalasına çox yaxın məsafədədir. Ev, Ofis, Obyekt kimi istifadəyə yararlıdır. Xahiş edirəm yalnız ciddi şəxslər əlaqə saxlasın. Xidmət haqqı, alıcı tərəfindən 1% təşkil edir. Whatsapp 7/24",
-    "building_type": "Ofis",
-    "location_id": "37",
-    "location_name": "İçəri Şəhər",
-    "category": "office",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6439252",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 2500000,
-        "date": "2026-09-30T19:56:43.510142+00:00"
-      }
-    ],
-    "rooms": "5 otaqlı"
-  },
-  {
-    "id": "6439946",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F07%2F12%2F08%2F08%2Fa0cc77d5-7c51-464c-b7ef-4c38bc4ecf02%2F63771_nSf2vmTHXH4o67nKxNZkhQ.jpg",
-    "price": 1070000,
-    "location": "Səbail r.",
-    "area_m2": 340,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.35454831753689,
-    "lng": 49.81095826138517,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": null,
-    "updated_at_site": "2026-09-07T12:11:37+04:00",
-    "is_featured": false,
-    "title": "Satılır 8 otaqlı ofis 340 m²",
-    "description": "Badamdar qesebesinde 50 qepik restoranin yaninda yeni tikili 16 mertebeli binanin 1 ci mertebesinde temirli 340 kv 8 otaqli ofis satilir.Ofisin suyu isigi istilik sistemi kondisoneri movcutdur,ofis cox elverisli erazide yerlesir Sened qeyri yasayis kupca (cixaris)\r\n\r\n",
-    "building_type": "Ofis",
-    "location_id": "12",
-    "location_name": "Səbail",
-    "category": "office",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6439946",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1070000,
-        "date": "2026-09-30T19:56:43.510132+00:00"
-      }
-    ],
-    "rooms": "8 otaqlı"
-  },
-  {
-    "id": "6439982",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F07%2F12%2F17%2F57%2F1a185dde-fc5b-4408-aeaf-75f98fc2e143%2F63764_7iGAEjtqUZZ9hX3rnN9_Og.jpg",
-    "price": 400000,
-    "location": "Azadlıq Prospekti m.",
-    "area_m2": 135,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.41883818326482,
-    "lng": 49.84550201819262,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": null,
-    "updated_at_site": "2026-09-07T12:19:15+04:00",
-    "is_featured": false,
-    "title": "Satılır 3 otaqlı ofis 135 m²",
-    "description": "Azadliq m st nin yaxinligi Cefer Xendan kucesinde yeni tikili 16 mertebeli binanin 2 ci mertebesinde temirli qeyri yasayis sahesi olan 135 kv 3 otaqli ofis satilir.Ofisin suyu isigi istilik sistemi soyutma sistemi movcutdur,ofis cox elverisli erazide yerlesir.ofisin ayrica 1 ci mertebeden girisi var\r\nSened yasayis kupca (cixaris)",
-    "building_type": "Ofis",
-    "location_id": "6",
-    "location_name": "Azadlıq Prospekti",
-    "category": "office",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6439982",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 400000,
-        "date": "2026-09-30T19:56:43.510111+00:00"
-      }
-    ],
-    "rooms": "3 otaqlı"
-  },
-  {
-    "id": "6440051",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F07%2F12%2F27%2F39%2F6c719106-8ffd-4131-9844-02711770f183%2F72304_wQIiAiXGQJKbeO3y0XXtCg.jpg",
-    "price": 400000,
-    "location": "Elmlər Akademiyası m.",
-    "area_m2": 167,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.37473819475711,
-    "lng": 49.80725173759596,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": null,
-    "updated_at_site": "2026-09-07T12:30:45+04:00",
-    "is_featured": false,
-    "title": "Satılır 7 otaqlı ofis 167 m²",
-    "description": "Elimler m st nin yaxinligi Mireli Seyidov kucesinde yeni tikili 18 mertebeli binanin 2 ci mertebesinde temirli 167 kv 7 otaqli ofis satilir.Ofisin suyu isigi istilik sistemi kondisoneri movcutdur Ofis qeyri yasayis sahesidir 1 ci mertebeden ayrica girisi var Sened qeyri yasayis kupca\r\n\r\n",
-    "building_type": "Ofis",
-    "location_id": "34",
-    "location_name": "Elmlər Akademiyası",
-    "category": "office",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6440051",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 400000,
-        "date": "2026-09-30T19:56:43.510103+00:00"
-      }
-    ],
-    "rooms": "7 otaqlı"
-  },
-  {
     "id": "5293451",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F06%2F20%2F12%2F44%2F06%2F03776c8b-9e45-4d5f-af71-b695b346a034%2F92313_wLbwyJGJi75X1LikQGRJwg.jpg",
     "price": 625000,
@@ -820,39 +688,6 @@
       {
         "price": 158000,
         "date": "2026-09-30T19:56:43.509719+00:00"
-      }
-    ],
-    "rooms": "3 otaqlı"
-  },
-  {
-    "id": "6464769",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F16%2F12%2F08%2F47%2F61e5c2d7-ec20-4190-9477-191ea64a312f%2F67039_Kb8sz6dRq_XZwXX1hbv7KQ.jpg",
-    "price": 340000,
-    "location": "28 May m.",
-    "area_m2": 111,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.38104839194688,
-    "lng": 49.84497027791689,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": null,
-    "updated_at_site": "2026-09-16T12:15:53+04:00",
-    "is_featured": false,
-    "title": "Satılır 3 otaqlı ofis 111 m²",
-    "description": "28 May metrosunun və 28 Mall Ticarət mərkəzinin yaxınlıgında  Cox Keyfiyyətli Yeni Tikilidə 111 kvadrat  sahəsi olan Ofis Təcili olaraq satılır. 2 otaqdan 3 otağa düzəldilmiş Ofis uzun illərdir ofis kimi fəaliyyət göstərir. Yaşamaq ücün də tam əla şərait var. Sənəd kupcadır, ipotekaya yararlıdır. Alıb yüksək məbləgə kirayə vermək olar. Xahiş olunur almaq istəyən ciddi müştərilər əlaqə saxlasın. Qiymət demək olar ki, Sonuncudur, xahiş olunur endirim tələb olunmasın.",
-    "building_type": "Ofis",
-    "location_id": "8",
-    "location_name": "28 May",
-    "category": "office",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6464769",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 340000,
-        "date": "2026-09-30T19:56:43.509710+00:00"
       }
     ],
     "rooms": "3 otaqlı"
@@ -2310,39 +2145,6 @@
     "rooms": "7 otaqlı"
   },
   {
-    "id": "6170451",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F30%2F13%2F36%2F09%2F7f95559d-e346-41d6-abc1-9ffc7475003b%2F72468_aYOFXFn1z9bjzC8vP6ryIg.jpg",
-    "price": 3400000,
-    "location": "28 May m.",
-    "area_m2": 615,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.37548771773007,
-    "lng": 49.85852992170113,
-    "has_repair": false,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-28T20:48:21+04:00",
-    "is_featured": false,
-    "title": "Satılır 15 otaqlı ofis 615 m²",
-    "description": "EKSKLUZİV  TƏKLİF !!!\n-Mərkəzdə, Dəniz vağzalı ilə üz-üzə, Port Baku ilə yan-yana möhtəşəm təzə tikilinin 3-cü mərtəbəsində ümumi sahəsi 615 kvm olan təmirsiz (podmayak) OBYEKT satılır.\n- Obyektin özünə məxsus ayrı MİTSUBİŞİ markalı lifti var\n- 2 mərtəbəli yeraltı parkinqi var və lift qaraja düşür\n-Obyekt iki tərəflidir, (skvaznoydur) hər iki tərəfə obyekt boyu bütöv balkonu var\n- Obyekt bütün fəaliyyət növlərinə yararlıdır.\n- Şəkillər həmin obyektə aiddir, xidmət ödənişlidir!\n\nÜzeyir Hacıbəyli küç",
-    "building_type": "Ofis",
-    "location_id": "8",
-    "location_name": "28 May",
-    "category": "office",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6170451",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 3400000,
-        "date": "2026-09-30T19:56:43.509290+00:00"
-      }
-    ],
-    "rooms": "15 otaqlı"
-  },
-  {
     "id": "6500257",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F28%2F22%2F23%2F41%2Ffafd8446-c445-4fea-8d30-e89e87020fae%2F91337_VNqBi-OJQsdb42ulnKtd0g.jpg",
     "price": 1130000,
@@ -2440,39 +2242,6 @@
       }
     ],
     "rooms": "16 otaqlı"
-  },
-  {
-    "id": "6502262",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F29%2F16%2F34%2F42%2F63460f79-823a-49e7-a56f-6a09c9b715b3%2F94087_6bWuSu4Gy8E64LJKzmjxvQ.jpg",
-    "price": 37000,
-    "location": "Elmlər Akademiyası m.",
-    "area_m2": 20,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.3770825206343,
-    "lng": 49.81988533397529,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-29T16:36:26+04:00",
-    "is_featured": false,
-    "title": "Satılır 1 otaqlı ofis 20 m²",
-    "description": "Qutqasinliqda ofis satilir yeni tikili binanin altinda kupca qeyri yasayis",
-    "building_type": "Ofis",
-    "location_id": "34",
-    "location_name": "Elmlər Akademiyası",
-    "category": "office",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6502262",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 37000,
-        "date": "2026-09-30T19:56:43.509254+00:00"
-      }
-    ],
-    "rooms": "1 otaqlı"
   },
   {
     "id": "6504194",
@@ -3139,142 +2908,6 @@
     "rooms": "6 otaqlı"
   },
   {
-    "id": "6491031",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F25%2F14%2F43%2F55%2F8d2c220f-7883-4cab-a74a-0a85f542ce9b%2F59338_lqL5_FqNbegEL_MhPUzgKA.jpg",
-    "price": 1150000,
-    "location": "Yeni Yasamal q.",
-    "area_m2": 564,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.39185912562219,
-    "lng": 49.7902333303554,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": null,
-    "updated_at_site": "2026-10-06T02:19:12+04:00",
-    "is_featured": false,
-    "title": "Satılır 17 otaqlı ofis 564 m²",
-    "description": "Yeni Yasamal qesebesinde Esed Ehmedov kucesinde yeni tikili 16 mertebeli binanin 2 ci mertebesinde temirli esyali 564 kv 17 otaqli ofis satilir.Ofisin suyu isigi istilik sistemi soyutma sistemi kamera sistemi uc faza sistemi ve suretli lifti movcutdur,ofis cox elverisli erazide yerlesir\r\n1 kv 2000 azn \r\nSened Qeyri yasayis kupca (cixaris)",
-    "building_type": "Ofis",
-    "location_id": "102",
-    "location_name": "Yeni Yasamal",
-    "category": "office",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6491031",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1150000,
-        "date": "2026-09-30T19:56:43.509106+00:00"
-      }
-    ],
-    "rooms": "17 otaqlı"
-  },
-  {
-    "id": "6412483",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F28%2F08%2F53%2F12%2F4d94e1be-b434-4ef6-a2a4-8dad9c517f07%2F34854_vRieEYRGW7ryKn7NapvQ_w.jpg",
-    "price": 309000,
-    "location": "İnşaatçılar m.",
-    "area_m2": 105,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.38417597497042,
-    "lng": 49.80945969626354,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-06T11:59:29+04:00",
-    "is_featured": true,
-    "title": "Satılır 3 otaqlı ofis 105 m²",
-    "description": "Ofis Musabəyov parkının yaxınlığında, Emerald Palaceda binanın ikinci mərtəbəsində yerləşir. Hazırda icarədədir. Bütün kommunal xidmətlərlə təchiz olunub. Yerləşim yeri çox əlverişli ərazidədir. Həm Elmlər Akademiyası metrosuna, həm də İnşaatçılar metrosuna yaxındır. İnvestisiya məqsədi üçün də ideal seçimdir. Çıxarışı (kupça) var və qeyri-yaşayış qeyd olunub. Real müştəri ilə qiymətdə razılaşmaq mümkündür. ",
-    "building_type": "Ofis",
-    "location_id": "7",
-    "location_name": "İnşaatçılar",
-    "category": "office",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6412483",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 309000,
-        "date": "2026-09-30T19:56:43.509132+00:00"
-      }
-    ],
-    "rooms": "3 otaqlı"
-  },
-  {
-    "id": "6500881",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F29%2F11%2F49%2F32%2Fdbcd8b5c-2b65-4ddf-b1d9-6a50b8b65dc0%2F91352_MPcFs3PgCBDfEExnkRI-aA.jpg",
-    "price": 1200000,
-    "location": "28 May m.",
-    "area_m2": 245,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.38540474172149,
-    "lng": 49.84843561130885,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": null,
-    "updated_at_site": "2026-10-06T12:00:20+04:00",
-    "is_featured": true,
-    "title": "Satılır 8 otaqlı ofis 245 m²",
-    "description": "Nəsimi rayonunda, 28 May metrostansiyasının yuxarı çıxışına yaxın, Təbriz (keçmiş Çapayev) küçəsi üzərində, əsas yolun kənarında yerləşən hazır və işlək obyekt satışa çıxarılır.\r\n\r\nObyekt 16 mərtəbəli binanın 2-ci mərtəbəsində yerləşir və ümumi sahəsi 240 kv.m-dir. Qeyri-yaşayış təyinatlı çıxarışlı (kupçalı) əmlakdır. Hazırda uzun müddətdir inkişaf və tədris mərkəzi kimi fəaliyyət göstərir və icarədədir. Bu baxımdan obyekt hazır biznes və stabil icarə gəliri üçün əlverişli seçimdir.\r\n\r\nObyekt tam təmirlidir və mərkəzləşdirilmiş HVAC havalandırma, isitmə və soyutma sistemi ilə təchiz olunub. Giriş hissəsində geniş gözləmə zalı, müxtəlif təyinatlı otaqlar, mətbəx və 3 sanitar qovşaq mövcuddur. Sanitar qovşaqlarından 2-si ümumi istifadədə, 1-i isə otaqlardan birinin daxilində yerləşir.\r\n\r\nBinanın qarşısında və yan hissəsində avtomobillər üçün parklanma imkanının olması obyektin üstünlüklərindən biridir. Ərazinin gediş-gəlişli və əlverişli lokasiyada yerləşməsi həm tədris mərkəzi, həm ofis, klinika, kurs və digər kommersiya fəaliyyətləri üçün geniş imkan yaradır. Ehtiyac olduğu halda bəzi arakəsmələrin dəyişdirilməsi və otaqların daha geniş formada birləşdirilməsi də mümkündür.\r\n\r\nSənədləri tam qaydasındadır, qeyri-yaşayış çıxarışı mövcuddur. Hazırda icarədə olan obyekt həm öz biznesini qurmaq, həm də hazır icarə gəliri əldə etmək istəyən şəxslər üçün nəzərdə tutulub.\r\n\r\nOfis haqqı 1% təşkil edir.\r\n",
-    "building_type": "Ofis",
-    "location_id": "8",
-    "location_name": "28 May",
-    "category": "office",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6500881",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1200000,
-        "date": "2026-09-30T19:56:43.509144+00:00"
-      }
-    ],
-    "rooms": "8 otaqlı"
-  },
-  {
-    "id": "6494959",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F26%2F19%2F54%2F37%2F273e22e6-6985-46ab-b8e3-1d05184e95a2%2F59333_3zYvhGB2UIR1vqvwSthooA.jpg",
-    "price": 485000,
-    "location": "Nərimanov r.",
-    "area_m2": 150,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.38874348356041,
-    "lng": 49.85271286446527,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": null,
-    "updated_at_site": "2026-10-06T12:00:51+04:00",
-    "is_featured": false,
-    "title": "Satılır 5 otaqlı ofis 150 m²",
-    "description": "🏢 **NƏRİMANOV RAYONU, TƏBRİZ KÜÇƏSİ — OBYEKT SATILIR!**\n\n📍 **Təfəkkür Liseyinin yanında** yerləşən, əlverişli lokasiyaya malik obyekt satışa çıxarılıb.\n\n🔹 Sahəsi: **150 m²**\n🔹 **Tam təmirli**\n🔹 **Çıxarışlı (Kupça)**\n🔹 Hazırda **icarədədir — 2.000 AZN/ay**\n🔹 Gəlir gətirən hazır biznes obyekti üçün ideal seçimdir.\n\n💰 **Ciddi alıcı ilə qiymətdə endirim mümkündür.**\n\n📞 **Ciddi maraqlanan şəxslər əlaqə saxlaya bilər.**\n\n",
-    "building_type": "Ofis",
-    "location_id": "10",
-    "location_name": "Nərimanov",
-    "category": "office",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6494959",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 495000,
-        "date": "2026-09-30T19:56:43.509214+00:00"
-      },
-      {
-        "price": 485000,
-        "date": "2026-10-03T19:31:57.878658+00:00"
-      }
-    ],
-    "rooms": "5 otaqlı"
-  },
-  {
     "id": "6444528",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F08%2F17%2F59%2F29%2Fe6d252cd-12b1-4da4-86fb-87d06e258a31%2F59600_UMT1niCMfig0_w0KBj0USg.jpg",
     "price": 730000,
@@ -3312,34 +2945,240 @@
     "rooms": "5 otaqlı"
   },
   {
-    "id": "6489766",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F25%2F08%2F34%2F51%2F1753026a-34a8-4234-be60-2cbceaf77a1a%2F59351_3qsXYJCdu3QxWEeKLW_lSw.jpg",
-    "price": 10500,
-    "location": "Ağ şəhər q.",
-    "area_m2": 20,
+    "id": "6491031",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F25%2F14%2F43%2F55%2F8d2c220f-7883-4cab-a74a-0a85f542ce9b%2F59338_lqL5_FqNbegEL_MhPUzgKA.jpg",
+    "price": 1150000,
+    "location": "Yeni Yasamal q.",
+    "area_m2": 564,
     "floor": null,
-    "is_agency": false,
-    "lat": 40.38274860751796,
-    "lng": 49.89164011275495,
+    "is_agency": true,
+    "lat": 40.39185912562219,
+    "lng": 49.7902333303554,
     "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
     "floor_number": null,
-    "updated_at_site": "2026-10-06T18:47:44+04:00",
-    "is_featured": true,
-    "title": "Satılır 1 otaqlı ofis 20 m²",
-    "description": "Ağ şəhərdə, Raffle Tower biznes mərkəzində (2ci mərtəbədə) Hazır tam təchiz olunmuş biznes-ofis satılır. \r\n\"Açar Təhvil\" Mebel, texnika + icarə müqaviləsinin yenidən rəsmiləşdirilməsi. Dərhal ofisə köçüb işə başlamaq imkanı, icarə hüququ rəsmi olaraq alıcının adlna keçirilir. Daşınmaz əmlakın özü mülkiyyətə verilmir, yalnız icarə əsası ilə. Mebel və texnika yeni vəziyyətindədir, işlənməyib.\r\n24/7 giriş imkani, mühafize xidməti, parkinq, ətrafda inkişaf etmiş infrastruktur.\r\nSahibindən satılır. Xahiş olunur ciddi şəxslər əlaqə saxlasın.",
+    "updated_at_site": "2026-10-07T02:19:12+04:00",
+    "is_featured": false,
+    "title": "Satılır 17 otaqlı ofis 564 m²",
+    "description": "Yeni Yasamal qesebesinde Esed Ehmedov kucesinde yeni tikili 16 mertebeli binanin 2 ci mertebesinde temirli esyali 564 kv 17 otaqli ofis satilir.Ofisin suyu isigi istilik sistemi soyutma sistemi kamera sistemi uc faza sistemi ve suretli lifti movcutdur,ofis cox elverisli erazide yerlesir\r\n1 kv 2000 azn \r\nSened Qeyri yasayis kupca (cixaris)",
     "building_type": "Ofis",
-    "location_id": "314",
-    "location_name": "Ağ şəhər",
+    "location_id": "102",
+    "location_name": "Yeni Yasamal",
     "category": "office",
     "deal_type": "sale",
-    "url": "https://bina.az/items/6489766",
+    "url": "https://bina.az/items/6491031",
     "deleted_at": null,
     "price_history": [
       {
-        "price": 10500,
-        "date": "2026-09-30T19:56:43.509157+00:00"
+        "price": 1150000,
+        "date": "2026-09-30T19:56:43.509106+00:00"
+      }
+    ],
+    "rooms": "17 otaqlı"
+  },
+  {
+    "id": "6412483",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F28%2F08%2F53%2F12%2F4d94e1be-b434-4ef6-a2a4-8dad9c517f07%2F34854_vRieEYRGW7ryKn7NapvQ_w.jpg",
+    "price": 309000,
+    "location": "İnşaatçılar m.",
+    "area_m2": 105,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38417597497042,
+    "lng": 49.80945969626354,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-07T11:59:30+04:00",
+    "is_featured": true,
+    "title": "Satılır 3 otaqlı ofis 105 m²",
+    "description": "Ofis Musabəyov parkının yaxınlığında, Emerald Palaceda binanın ikinci mərtəbəsində yerləşir. Hazırda icarədədir. Bütün kommunal xidmətlərlə təchiz olunub. Yerləşim yeri çox əlverişli ərazidədir. Həm Elmlər Akademiyası metrosuna, həm də İnşaatçılar metrosuna yaxındır. İnvestisiya məqsədi üçün də ideal seçimdir. Çıxarışı (kupça) var və qeyri-yaşayış qeyd olunub. Real müştəri ilə qiymətdə razılaşmaq mümkündür. ",
+    "building_type": "Ofis",
+    "location_id": "7",
+    "location_name": "İnşaatçılar",
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6412483",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 309000,
+        "date": "2026-09-30T19:56:43.509132+00:00"
+      }
+    ],
+    "rooms": "3 otaqlı"
+  },
+  {
+    "id": "6500881",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F29%2F11%2F49%2F32%2Fdbcd8b5c-2b65-4ddf-b1d9-6a50b8b65dc0%2F91352_MPcFs3PgCBDfEExnkRI-aA.jpg",
+    "price": 1200000,
+    "location": "28 May m.",
+    "area_m2": 245,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.38540474172149,
+    "lng": 49.84843561130885,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": null,
+    "updated_at_site": "2026-10-07T12:00:21+04:00",
+    "is_featured": true,
+    "title": "Satılır 8 otaqlı ofis 245 m²",
+    "description": "Nəsimi rayonunda, 28 May metrostansiyasının yuxarı çıxışına yaxın, Təbriz (keçmiş Çapayev) küçəsi üzərində, əsas yolun kənarında yerləşən hazır və işlək obyekt satışa çıxarılır.\r\n\r\nObyekt 16 mərtəbəli binanın 2-ci mərtəbəsində yerləşir və ümumi sahəsi 240 kv.m-dir. Qeyri-yaşayış təyinatlı çıxarışlı (kupçalı) əmlakdır. Hazırda uzun müddətdir inkişaf və tədris mərkəzi kimi fəaliyyət göstərir və icarədədir. Bu baxımdan obyekt hazır biznes və stabil icarə gəliri üçün əlverişli seçimdir.\r\n\r\nObyekt tam təmirlidir və mərkəzləşdirilmiş HVAC havalandırma, isitmə və soyutma sistemi ilə təchiz olunub. Giriş hissəsində geniş gözləmə zalı, müxtəlif təyinatlı otaqlar, mətbəx və 3 sanitar qovşaq mövcuddur. Sanitar qovşaqlarından 2-si ümumi istifadədə, 1-i isə otaqlardan birinin daxilində yerləşir.\r\n\r\nBinanın qarşısında və yan hissəsində avtomobillər üçün parklanma imkanının olması obyektin üstünlüklərindən biridir. Ərazinin gediş-gəlişli və əlverişli lokasiyada yerləşməsi həm tədris mərkəzi, həm ofis, klinika, kurs və digər kommersiya fəaliyyətləri üçün geniş imkan yaradır. Ehtiyac olduğu halda bəzi arakəsmələrin dəyişdirilməsi və otaqların daha geniş formada birləşdirilməsi də mümkündür.\r\n\r\nSənədləri tam qaydasındadır, qeyri-yaşayış çıxarışı mövcuddur. Hazırda icarədə olan obyekt həm öz biznesini qurmaq, həm də hazır icarə gəliri əldə etmək istəyən şəxslər üçün nəzərdə tutulub.\r\n\r\nOfis haqqı 1% təşkil edir.\r\n",
+    "building_type": "Ofis",
+    "location_id": "8",
+    "location_name": "28 May",
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6500881",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1200000,
+        "date": "2026-09-30T19:56:43.509144+00:00"
+      }
+    ],
+    "rooms": "8 otaqlı"
+  },
+  {
+    "id": "6494959",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F26%2F19%2F54%2F37%2F273e22e6-6985-46ab-b8e3-1d05184e95a2%2F59333_3zYvhGB2UIR1vqvwSthooA.jpg",
+    "price": 485000,
+    "location": "Nərimanov r.",
+    "area_m2": 150,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.38874348356041,
+    "lng": 49.85271286446527,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": null,
+    "updated_at_site": "2026-10-07T12:00:51+04:00",
+    "is_featured": false,
+    "title": "Satılır 5 otaqlı ofis 150 m²",
+    "description": "🏢 **NƏRİMANOV RAYONU, TƏBRİZ KÜÇƏSİ — OBYEKT SATILIR!**\n\n📍 **Təfəkkür Liseyinin yanında** yerləşən, əlverişli lokasiyaya malik obyekt satışa çıxarılıb.\n\n🔹 Sahəsi: **150 m²**\n🔹 **Tam təmirli**\n🔹 **Çıxarışlı (Kupça)**\n🔹 Hazırda **icarədədir — 2.000 AZN/ay**\n🔹 Gəlir gətirən hazır biznes obyekti üçün ideal seçimdir.\n\n💰 **Ciddi alıcı ilə qiymətdə endirim mümkündür.**\n\n📞 **Ciddi maraqlanan şəxslər əlaqə saxlaya bilər.**\n\n",
+    "building_type": "Ofis",
+    "location_id": "10",
+    "location_name": "Nərimanov",
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6494959",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 495000,
+        "date": "2026-09-30T19:56:43.509214+00:00"
+      },
+      {
+        "price": 485000,
+        "date": "2026-10-03T19:31:57.878658+00:00"
+      }
+    ],
+    "rooms": "5 otaqlı"
+  },
+  {
+    "id": "6464769",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F16%2F12%2F08%2F47%2F61e5c2d7-ec20-4190-9477-191ea64a312f%2F67039_Kb8sz6dRq_XZwXX1hbv7KQ.jpg",
+    "price": 355000,
+    "location": "28 May m.",
+    "area_m2": 111,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38104839194688,
+    "lng": 49.84497027791689,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": null,
+    "updated_at_site": "2026-10-07T14:19:02+04:00",
+    "is_featured": false,
+    "title": "Satılır 3 otaqlı ofis 111 m²",
+    "description": "28 May metrosunun və 28 Mall Ticarət mərkəzinin yaxınlıgında  Cox Keyfiyyətli Yeni Tikilidə 111 kvadrat  sahəsi olan Ofis Təcili olaraq satılır. 2 otaqdan 3 otağa düzəldilmiş Ofis uzun illərdir ofis kimi fəaliyyət göstərir. Yaşamaq ücün də tam əla şərait var. Sənəd kupcadır, ipotekaya yararlıdır. Alıb yüksək məbləgə kirayə vermək olar. Xahiş olunur almaq istəyən ciddi müştərilər əlaqə saxlasın. Qiymət demək olar ki, Sonuncudur, xahiş olunur endirim tələb olunmasın.",
+    "building_type": "Ofis",
+    "location_id": "8",
+    "location_name": "28 May",
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6464769",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 340000,
+        "date": "2026-09-30T19:56:43.509710+00:00"
+      },
+      {
+        "price": 355000,
+        "date": "2026-10-07T19:31:59.134764+00:00"
+      }
+    ],
+    "rooms": "3 otaqlı"
+  },
+  {
+    "id": "6170451",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F30%2F13%2F36%2F09%2F7f95559d-e346-41d6-abc1-9ffc7475003b%2F72468_aYOFXFn1z9bjzC8vP6ryIg.jpg",
+    "price": 3400000,
+    "location": "28 May m.",
+    "area_m2": 615,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.37548771773007,
+    "lng": 49.85852992170113,
+    "has_repair": false,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-07T16:16:22+04:00",
+    "is_featured": false,
+    "title": "Satılır 15 otaqlı ofis 615 m²",
+    "description": "EKSKLUZİV  TƏKLİF !!!\n-Mərkəzdə, Dəniz vağzalı ilə üz-üzə, Port Baku ilə yan-yana möhtəşəm təzə tikilinin 3-cü mərtəbəsində ümumi sahəsi 615 kvm olan təmirsiz (podmayak) OBYEKT satılır.\n- Obyektin özünə məxsus ayrı MİTSUBİŞİ markalı lifti var\n- 2 mərtəbəli yeraltı parkinqi var və lift qaraja düşür\n-Obyekt iki tərəflidir, (skvaznoydur) hər iki tərəfə obyekt boyu bütöv balkonu var\n- Obyekt bütün fəaliyyət növlərinə yararlıdır.\n- Şəkillər həmin obyektə aiddir, xidmət ödənişlidir!\n\nÜzeyir Hacıbəyli küç",
+    "building_type": "Ofis",
+    "location_id": "8",
+    "location_name": "28 May",
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6170451",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 3400000,
+        "date": "2026-09-30T19:56:43.509290+00:00"
+      }
+    ],
+    "rooms": "15 otaqlı"
+  },
+  {
+    "id": "6502262",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F29%2F16%2F34%2F42%2F63460f79-823a-49e7-a56f-6a09c9b715b3%2F94087_6bWuSu4Gy8E64LJKzmjxvQ.jpg",
+    "price": 37000,
+    "location": "Elmlər Akademiyası m.",
+    "area_m2": 20,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.3770825206343,
+    "lng": 49.81988533397529,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-07T18:08:07+04:00",
+    "is_featured": false,
+    "title": "Satılır 1 otaqlı ofis 20 m²",
+    "description": "Qutqasinliqda ofis satilir yeni tikili binanin altinda kupca qeyri yasayis",
+    "building_type": "Ofis",
+    "location_id": "34",
+    "location_name": "Elmlər Akademiyası",
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6502262",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 37000,
+        "date": "2026-09-30T19:56:43.509254+00:00"
       }
     ],
     "rooms": "1 otaqlı"
@@ -3603,6 +3442,138 @@
     "rooms": "20 otaqlı"
   },
   {
+    "id": "6439252",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F07%2F00%2F08%2F14%2Fde8a1bbe-0c3a-4160-8a79-94b3be1a9d47%2F63758_Xckw-83NE6wemlFILV3bkQ.jpg",
+    "price": 2500000,
+    "location": "İçəri Şəhər m.",
+    "area_m2": 166,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.3653612195609,
+    "lng": 49.83597999016779,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-09-07T10:50:29+04:00",
+    "is_featured": false,
+    "title": "Satılır 5 otaqlı ofis 166 m²",
+    "description": "İçərişəhərin Tarixi yerində ən gözəl yeri Kiçik Qala küçəsində əmlak satılır Arxitektur bina. Cümə məscidinin yanıdır. Qız Qalasına çox yaxın məsafədədir. Ev, Ofis, Obyekt kimi istifadəyə yararlıdır. Xahiş edirəm yalnız ciddi şəxslər əlaqə saxlasın. Xidmət haqqı, alıcı tərəfindən 1% təşkil edir. Whatsapp 7/24",
+    "building_type": "Ofis",
+    "location_id": "37",
+    "location_name": "İçəri Şəhər",
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6439252",
+    "deleted_at": "2026-10-07T19:31:59.451113+00:00",
+    "price_history": [
+      {
+        "price": 2500000,
+        "date": "2026-09-30T19:56:43.510142+00:00"
+      }
+    ],
+    "rooms": "5 otaqlı"
+  },
+  {
+    "id": "6439946",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F07%2F12%2F08%2F08%2Fa0cc77d5-7c51-464c-b7ef-4c38bc4ecf02%2F63771_nSf2vmTHXH4o67nKxNZkhQ.jpg",
+    "price": 1070000,
+    "location": "Səbail r.",
+    "area_m2": 340,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.35454831753689,
+    "lng": 49.81095826138517,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": null,
+    "updated_at_site": "2026-09-07T12:11:37+04:00",
+    "is_featured": false,
+    "title": "Satılır 8 otaqlı ofis 340 m²",
+    "description": "Badamdar qesebesinde 50 qepik restoranin yaninda yeni tikili 16 mertebeli binanin 1 ci mertebesinde temirli 340 kv 8 otaqli ofis satilir.Ofisin suyu isigi istilik sistemi kondisoneri movcutdur,ofis cox elverisli erazide yerlesir Sened qeyri yasayis kupca (cixaris)\r\n\r\n",
+    "building_type": "Ofis",
+    "location_id": "12",
+    "location_name": "Səbail",
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6439946",
+    "deleted_at": "2026-10-07T19:31:59.451139+00:00",
+    "price_history": [
+      {
+        "price": 1070000,
+        "date": "2026-09-30T19:56:43.510132+00:00"
+      }
+    ],
+    "rooms": "8 otaqlı"
+  },
+  {
+    "id": "6439982",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F07%2F12%2F17%2F57%2F1a185dde-fc5b-4408-aeaf-75f98fc2e143%2F63764_7iGAEjtqUZZ9hX3rnN9_Og.jpg",
+    "price": 400000,
+    "location": "Azadlıq Prospekti m.",
+    "area_m2": 135,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.41883818326482,
+    "lng": 49.84550201819262,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": null,
+    "updated_at_site": "2026-09-07T12:19:15+04:00",
+    "is_featured": false,
+    "title": "Satılır 3 otaqlı ofis 135 m²",
+    "description": "Azadliq m st nin yaxinligi Cefer Xendan kucesinde yeni tikili 16 mertebeli binanin 2 ci mertebesinde temirli qeyri yasayis sahesi olan 135 kv 3 otaqli ofis satilir.Ofisin suyu isigi istilik sistemi soyutma sistemi movcutdur,ofis cox elverisli erazide yerlesir.ofisin ayrica 1 ci mertebeden girisi var\r\nSened yasayis kupca (cixaris)",
+    "building_type": "Ofis",
+    "location_id": "6",
+    "location_name": "Azadlıq Prospekti",
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6439982",
+    "deleted_at": "2026-10-07T19:31:59.451143+00:00",
+    "price_history": [
+      {
+        "price": 400000,
+        "date": "2026-09-30T19:56:43.510111+00:00"
+      }
+    ],
+    "rooms": "3 otaqlı"
+  },
+  {
+    "id": "6440051",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F07%2F12%2F27%2F39%2F6c719106-8ffd-4131-9844-02711770f183%2F72304_wQIiAiXGQJKbeO3y0XXtCg.jpg",
+    "price": 400000,
+    "location": "Elmlər Akademiyası m.",
+    "area_m2": 167,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.37473819475711,
+    "lng": 49.80725173759596,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": null,
+    "updated_at_site": "2026-09-07T12:30:45+04:00",
+    "is_featured": false,
+    "title": "Satılır 7 otaqlı ofis 167 m²",
+    "description": "Elimler m st nin yaxinligi Mireli Seyidov kucesinde yeni tikili 18 mertebeli binanin 2 ci mertebesinde temirli 167 kv 7 otaqli ofis satilir.Ofisin suyu isigi istilik sistemi kondisoneri movcutdur Ofis qeyri yasayis sahesidir 1 ci mertebeden ayrica girisi var Sened qeyri yasayis kupca\r\n\r\n",
+    "building_type": "Ofis",
+    "location_id": "34",
+    "location_name": "Elmlər Akademiyası",
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6440051",
+    "deleted_at": "2026-10-07T19:31:59.451146+00:00",
+    "price_history": [
+      {
+        "price": 400000,
+        "date": "2026-09-30T19:56:43.510103+00:00"
+      }
+    ],
+    "rooms": "7 otaqlı"
+  },
+  {
     "id": "6432332",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F04%2F11%2F40%2F48%2F3107e3cb-8691-4bd6-8eed-955db916baa2%2F72295_Gl_aBXtKSaagbSpGsLKH5A.jpg",
     "price": 1800000,
@@ -3698,5 +3669,38 @@
         "date": "2026-09-30T19:56:43.510248+00:00"
       }
     ]
+  },
+  {
+    "id": "6489766",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F25%2F08%2F34%2F51%2F1753026a-34a8-4234-be60-2cbceaf77a1a%2F59351_3qsXYJCdu3QxWEeKLW_lSw.jpg",
+    "price": 10500,
+    "location": "Ağ şəhər q.",
+    "area_m2": 20,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38274860751796,
+    "lng": 49.89164011275495,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T18:47:44+04:00",
+    "is_featured": true,
+    "title": "Satılır 1 otaqlı ofis 20 m²",
+    "description": "Ağ şəhərdə, Raffle Tower biznes mərkəzində (2ci mərtəbədə) Hazır tam təchiz olunmuş biznes-ofis satılır. \r\n\"Açar Təhvil\" Mebel, texnika + icarə müqaviləsinin yenidən rəsmiləşdirilməsi. Dərhal ofisə köçüb işə başlamaq imkanı, icarə hüququ rəsmi olaraq alıcının adlna keçirilir. Daşınmaz əmlakın özü mülkiyyətə verilmir, yalnız icarə əsası ilə. Mebel və texnika yeni vəziyyətindədir, işlənməyib.\r\n24/7 giriş imkani, mühafize xidməti, parkinq, ətrafda inkişaf etmiş infrastruktur.\r\nSahibindən satılır. Xahiş olunur ciddi şəxslər əlaqə saxlasın.",
+    "building_type": "Ofis",
+    "location_id": "314",
+    "location_name": "Ağ şəhər",
+    "category": "office",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6489766",
+    "deleted_at": "2026-10-07T19:31:59.451168+00:00",
+    "price_history": [
+      {
+        "price": 10500,
+        "date": "2026-09-30T19:56:43.509157+00:00"
+      }
+    ],
+    "rooms": "1 otaqlı"
   }
 ]

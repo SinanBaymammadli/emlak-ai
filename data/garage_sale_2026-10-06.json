@@ -102,40 +102,6 @@
     ]
   },
   {
-    "id": "6520855",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F13%2F31%2F38%2F7220f40f-63ba-40ea-8073-034b5b0a0348%2F37089_7C-EwG22KepdQVdu2BnKpA.jpg",
-    "price": 76000,
-    "location": "Nəsimi r.",
-    "location_id": "190",
-    "location_name": "Nəsimi",
-    "rooms": null,
-    "area_m2": 24,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-06T16:21:25+04:00",
-    "category": "garage",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6520855",
-    "lat": 40.39410217022061,
-    "lng": 49.83552497136004,
-    "land_area_sot": null,
-    "building_type": "Qaraj",
-    "title": "Satılır qaraj 24 m²",
-    "description": "Dash garaj✅\r\nDam shifer✅\r\nAglayli ✅\r\n7/24 Su✅\r\nKanalizaciya✅\r\nElave 6 kv anbar ✅\r\nYigilma mebel✅\r\nVorota pultla✅\r\nİshig saygac✅\r\nTexniki pasport✅",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 76000,
-        "date": "2026-10-06T12:57:40.500430+00:00"
-      }
-    ]
-  },
-  {
     "id": "6521941",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F17%2F20%2F13%2F2da6e236-c423-47fc-ad32-fcdef5c4632f%2F56572_VwJ59zasqcm1j9YtBEPQMQ.jpg",
     "price": 65000,
@@ -200,6 +166,40 @@
       {
         "price": 22000,
         "date": "2026-10-06T19:31:51.824261+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6520855",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F13%2F31%2F38%2F7220f40f-63ba-40ea-8073-034b5b0a0348%2F37089_7C-EwG22KepdQVdu2BnKpA.jpg",
+    "price": 76000,
+    "location": "Nəsimi r.",
+    "location_id": "190",
+    "location_name": "Nəsimi",
+    "rooms": null,
+    "area_m2": 24,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-07T16:21:30+04:00",
+    "category": "garage",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6520855",
+    "lat": 40.39410217022061,
+    "lng": 49.83552497136004,
+    "land_area_sot": null,
+    "building_type": "Qaraj",
+    "title": "Satılır qaraj 24 m²",
+    "description": "Dash garaj✅\r\nDam shifer✅\r\nAglayli ✅\r\n7/24 Su✅\r\nKanalizaciya✅\r\nElave 6 kv anbar ✅\r\nYigilma mebel✅\r\nVorota pultla✅\r\nİshig saygac✅\r\nTexniki pasport✅",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 76000,
+        "date": "2026-10-06T12:57:40.500430+00:00"
       }
     ]
   }

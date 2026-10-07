@@ -782,40 +782,6 @@
     ]
   },
   {
-    "id": "5945775",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F03%2F06%2F19%2F53%2F58%2Fd977ff47-5fe3-469e-9eb2-160236a9d182%2F14227_H9pfVdf2glYC0Kk3N4mx5w.jpg",
-    "price": 400,
-    "location": "Memar Əcəmi m.",
-    "rooms": "2 otaqlı",
-    "area_m2": 40,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.4101205405072,
-    "lng": 49.82407393463704,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-04T14:41:03+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı həyət evi/bağ evi 40 m²",
-    "description": "Təmirli mənzil tipli həyət evi, paltaryuyan, soyuducu, kondisioner, mətbəx mebeli, yataq mebeli və s. var. ",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "59",
-    "location_name": "Memar Əcəmi",
-    "land_area_sot": 0.4,
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/5945775",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 400,
-        "date": "2026-10-04T16:35:53.645247+00:00"
-      }
-    ]
-  },
-  {
     "id": "6515220",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F12%2F28%2F15%2Fc343e88d-f48c-43ec-94ef-f6d7bd5d773c%2F90614_h6TzCbYAFpb2hJ2gk7AbBA.jpg",
     "price": 155,
@@ -1088,40 +1054,6 @@
     ]
   },
   {
-    "id": "6516170",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F17%2F39%2F07%2Fdde9210b-912e-402c-940b-c97613d2af5d%2F16186_IuuRWHc1XvBMAl5OlbTP-w.jpg",
-    "price": 550,
-    "location": "Memar Əcəmi m.",
-    "rooms": "3 otaqlı",
-    "area_m2": 70,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.40922614528369,
-    "lng": 49.82352337871779,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-04T17:45:48+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 3 otaqlı həyət evi/bağ evi 70 m²",
-    "description": "Tələbə və ya işləyən oğlanlara verilir. Memar Əcəmi və 8 Noyabr metrolarına Omidin yanında piyada 10 dəqiqə məsafədə 2 mərtəbəli Həyət evinin 1ci mərtəbəsi. 3 otaqlıdır tam əşyalıdır. ",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "59",
-    "location_name": "Memar Əcəmi",
-    "land_area_sot": 2,
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6516170",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 550,
-        "date": "2026-10-04T16:35:53.644703+00:00"
-      }
-    ]
-  },
-  {
     "id": "6516138",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F17%2F25%2F32%2F1d96113b-9b5c-4e76-96e2-03865b6f98fd%2F75546_Hzr1K7RGYG14GMa5UaZzYg.jpg",
     "price": 380,
@@ -1254,40 +1186,6 @@
       {
         "price": 2200,
         "date": "2026-10-04T16:35:53.644611+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6516459",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F19%2F45%2F19%2F72c6feb1-0388-497d-a23d-9dbc58f2e2f0%2F75502_AUAUnPl7vUiqnS6oXqdgwg.jpg",
-    "price": 250,
-    "location": "İçəri Şəhər m.",
-    "rooms": "1 otaqlı",
-    "area_m2": 10,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.36566419440198,
-    "lng": 49.8324628964604,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-04T19:51:12+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 1 otaqlı həyət evi/bağ evi 10 m²",
-    "description": "İçərişəhərdə metroya 1 dəqiqəlik məsafədə, 1 otaqdır 2 nəfər qalacayıq, otaq yoldaşı bəy axtarılır. 1 nəfərə 250 azn. Hər bir şəraiti var hamam tualet. Komunal qiymətə daxildir. ",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "37",
-    "location_name": "İçəri Şəhər",
-    "land_area_sot": 10,
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6516459",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 250,
-        "date": "2026-10-04T16:35:53.644427+00:00"
       }
     ]
   },
@@ -1446,7 +1344,7 @@
     "has_bill_of_sale": false,
     "has_mortgage": false,
     "floor_number": null,
-    "updated_at_site": "2026-10-06T00:53:41+04:00",
+    "updated_at_site": "2026-10-07T00:53:39+04:00",
     "is_featured": false,
     "title": "İcarəyə verilir 3 otaqlı həyət evi/bağ evi 80 m²",
     "description": "Salam dəyərli müştərilər Mehdiabadda Yeni Tikili Rahat Həyət Evi Satışda!\n\n📍 Abşeron rayonu, Mehdiabad qəsəbəsi\n Sakit və yaşayış üçün əlverişli ərazidə yerləşir\n\n3 otaq\n80 m² yaşayış sahəsi\n1,4sot torpaq sahəsi\n Evin və torpağın kupçası var\n Qiymət: 77.000 AZN\n\nEv geniş və rahat planlaşdırılıb\n Otaqlar işıqlı və ferahdır\n Həyəti geniş olub ailəvi istirahət üçün çox əlverişlidir\n\n Maşın saxlamaq üçün rahat imkan\n Market, məktəb, dayanacaq və digər vacib obyektlərə yaxın yerləşir\n Təmiz hava və sakit mühitdə yerləşən gözəl həyət evidir\n\n Həm yaşayış, həm də yatırım üçün əla seçim!\n\n Ətraflı məlumat və baxış üçün əlaqə saxlayın.\n\nHörmətlə Tərlan Makler",
@@ -1568,6 +1466,40 @@
     ]
   },
   {
+    "id": "5945775",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F03%2F06%2F19%2F53%2F58%2Fd977ff47-5fe3-469e-9eb2-160236a9d182%2F14227_H9pfVdf2glYC0Kk3N4mx5w.jpg",
+    "price": 400,
+    "location": "Memar Əcəmi m.",
+    "rooms": "2 otaqlı",
+    "area_m2": 40,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.4101205405072,
+    "lng": 49.82407393463704,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-04T14:41:03+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı həyət evi/bağ evi 40 m²",
+    "description": "Təmirli mənzil tipli həyət evi, paltaryuyan, soyuducu, kondisioner, mətbəx mebeli, yataq mebeli və s. var. ",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "59",
+    "location_name": "Memar Əcəmi",
+    "land_area_sot": 0.4,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/5945775",
+    "deleted_at": "2026-10-07T19:31:50.473453+00:00",
+    "price_history": [
+      {
+        "price": 400,
+        "date": "2026-10-04T16:35:53.645247+00:00"
+      }
+    ]
+  },
+  {
     "id": "6515878",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F15%2F55%2F48%2F0cff8cc6-d077-49fe-a4ac-ca69b03f7eec%2F90117_9ayyKbE5brx_Ojy2Dz_6mw.jpg",
     "price": 600,
@@ -1598,6 +1530,74 @@
       {
         "price": 600,
         "date": "2026-10-04T16:35:53.645066+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6516170",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F17%2F39%2F07%2Fdde9210b-912e-402c-940b-c97613d2af5d%2F16186_IuuRWHc1XvBMAl5OlbTP-w.jpg",
+    "price": 550,
+    "location": "Memar Əcəmi m.",
+    "rooms": "3 otaqlı",
+    "area_m2": 70,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.40922614528369,
+    "lng": 49.82352337871779,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-04T17:45:48+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 3 otaqlı həyət evi/bağ evi 70 m²",
+    "description": "Tələbə və ya işləyən oğlanlara verilir. Memar Əcəmi və 8 Noyabr metrolarına Omidin yanında piyada 10 dəqiqə məsafədə 2 mərtəbəli Həyət evinin 1ci mərtəbəsi. 3 otaqlıdır tam əşyalıdır. ",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "59",
+    "location_name": "Memar Əcəmi",
+    "land_area_sot": 2,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6516170",
+    "deleted_at": "2026-10-07T19:31:50.473455+00:00",
+    "price_history": [
+      {
+        "price": 550,
+        "date": "2026-10-04T16:35:53.644703+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6516459",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F19%2F45%2F19%2F72c6feb1-0388-497d-a23d-9dbc58f2e2f0%2F75502_AUAUnPl7vUiqnS6oXqdgwg.jpg",
+    "price": 250,
+    "location": "İçəri Şəhər m.",
+    "rooms": "1 otaqlı",
+    "area_m2": 10,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.36566419440198,
+    "lng": 49.8324628964604,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-04T19:51:12+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 1 otaqlı həyət evi/bağ evi 10 m²",
+    "description": "İçərişəhərdə metroya 1 dəqiqəlik məsafədə, 1 otaqdır 2 nəfər qalacayıq, otaq yoldaşı bəy axtarılır. 1 nəfərə 250 azn. Hər bir şəraiti var hamam tualet. Komunal qiymətə daxildir. ",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "37",
+    "location_name": "İçəri Şəhər",
+    "land_area_sot": 10,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6516459",
+    "deleted_at": "2026-10-07T19:31:50.473456+00:00",
+    "price_history": [
+      {
+        "price": 250,
+        "date": "2026-10-04T16:35:53.644427+00:00"
       }
     ]
   }

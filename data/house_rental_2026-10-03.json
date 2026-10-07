@@ -1442,7 +1442,7 @@
     "has_bill_of_sale": false,
     "has_mortgage": false,
     "floor_number": null,
-    "updated_at_site": "2026-10-06T19:29:31+04:00",
+    "updated_at_site": "2026-10-07T19:29:32+04:00",
     "is_featured": false,
     "title": "İcarəyə verilir 7 otaqlı həyət evi/bağ evi 240 m²",
     "description": " Bağ gözəl və sakit yerdə yerləşir,GƏMİ  istirahət mərkəzinə yaxındır. Bağ evinin  6 yatag,zal, iki mətbəx, manqal otağı və bisetkası var!Qab və paltaryuyan,kondisioner var. dincəlmək üçün gözəl və rahat şəraitli bağ evidir!\n Дача находится в тихом, спокойном месте.  Беседка, мангальная комната 5 спальных комнат 3 сан узла к вашим услугам!\nМожете связываться и по WhatsApp.",
@@ -1463,11 +1463,11 @@
   },
   {
     "id": "6360273",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F08%2F20%2F11%2F23%2F1448a2b6-f9d8-4ff8-9502-171935c6f8c0%2F1514_Yb2hMzzasTw6SpmOKIs5SA.jpg",
-    "price": 450,
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F22%2F39%2F47%2Fc889f8b0-97c1-4844-8f0e-aee50f7d5548%2F60572_IXV-4YSmoTQ7xrdcnJppCQ.jpg",
+    "price": 400,
     "location": "Hövsan q.",
     "rooms": "3 otaqlı",
-    "area_m2": 65,
+    "area_m2": 70,
     "floor": null,
     "is_agency": false,
     "lat": 40.38098142832837,
@@ -1476,8 +1476,8 @@
     "has_bill_of_sale": false,
     "has_mortgage": false,
     "floor_number": null,
-    "updated_at_site": "2026-10-06T20:50:05+04:00",
-    "is_featured": true,
+    "updated_at_site": "2026-10-07T22:42:46+04:00",
+    "is_featured": false,
     "title": "İcarəyə verilir 3 otaqlı həyət evi/bağ evi 65 m²",
     "description": "Salam Ev təmirlidir Səliqəli dayimi qalan Ayləlilər verilir Sistem konbi kanseneri yatacağı da paltar yuyan xaladenliki var unvan 7 gözəlin arxasındə həyət evi atelnidir vayfayıda var riyal ev götürməy isdəyən xayiş olunur narhat etsin.7 gözəl Dağ ətəyin arxasındakı məhlə Qimət Son dur Qimətlə bağlı Xayış olunur narhat etməyin ",
     "building_type": "Həyət evi/Bağ evi",
@@ -1492,6 +1492,10 @@
       {
         "price": 450,
         "date": "2026-10-03T19:32:06.010422+00:00"
+      },
+      {
+        "price": 400,
+        "date": "2026-10-07T19:31:31.088617+00:00"
       }
     ]
   },
