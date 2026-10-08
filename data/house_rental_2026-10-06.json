@@ -884,40 +884,6 @@
     ]
   },
   {
-    "id": "6518178",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F14%2F36%2F47%2F6ba9ae37-9ab2-4a6f-94b6-d5bc75dad626%2F97659_WfSxOcXx_e9eByhtjZNVfA.jpg",
-    "price": 600,
-    "location": "8 Noyabr m.",
-    "location_id": "279",
-    "location_name": "8 Noyabr",
-    "rooms": "5 otaqlı",
-    "area_m2": 153,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-05T14:42:06+04:00",
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6518178",
-    "lat": 40.40562744593409,
-    "lng": 49.82532232109693,
-    "land_area_sot": 1,
-    "building_type": "Həyət evi/Bağ evi",
-    "title": "İcarəyə verilir 5 otaqlı həyət evi/bağ evi 153 m²",
-    "description": "5 otaqlı geniş və rahat ev ailəyə kirayə verilir.\r\n\r\nEv ailə üçün əlverişli şəraitə malikdir. Səliqəli, məsuliyyətli və uzunmüddətli qalmaq istəyən ailələrə üstünlük verilir.\r\n\r\nƏtraflı məlumat üçün əlaqə saxlaya bilərsiniz.",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 600,
-        "date": "2026-10-06T12:57:43.516365+00:00"
-      }
-    ]
-  },
-  {
     "id": "6518344",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F15%2F15%2F40%2F3f5e771e-a052-478a-9b11-e55e3f86e5dc%2F4480_6HlQpTNpuLDKebc0U7zJrQ.jpg",
     "price": 1500,
@@ -1326,40 +1292,6 @@
     ]
   },
   {
-    "id": "6519008",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F17%2F27%2F58%2Fd3c9840b-1861-42eb-a103-0fdae7fd75be%2F91612_o6gdMcIyme2l8XaynbIapA.jpg",
-    "price": 1000,
-    "location": "Binəqədi r.",
-    "location_id": "58",
-    "location_name": "Binəqədi",
-    "rooms": "5 otaqlı",
-    "area_m2": 150,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": true,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-05T17:52:25+04:00",
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6519008",
-    "lat": 40.41362856173346,
-    "lng": 49.82840516245684,
-    "land_area_sot": 2,
-    "building_type": "Həyət evi/Bağ evi",
-    "title": "İcarəyə verilir 5 otaqlı həyət evi/bağ evi 150 m²",
-    "description": "Xutorda 3 mərtəbəli həyət evi icarəyə verilir\r\n\r\n2 mərtəbəsi tam yaşayış üçün əlverişlidir. 3-cü mərtəbə isə mansartdır.\r\n\r\nEv bütün lazımi avadanlıqlarla təmin olunub. Yaşamaq üçün rahat və əlverişli şərait mövcuddur.\r\n\r\nYalnız ailələrə verilir.\r\n",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1000,
-        "date": "2026-10-06T12:57:43.150053+00:00"
-      }
-    ]
-  },
-  {
     "id": "6519172",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F18%2F00%2F26%2F019f8de7-c6b7-425d-896a-2f261339f532%2F72392_SJWMIllMYQAxWixUlsBDMA.jpg",
     "price": 700,
@@ -1526,40 +1458,6 @@
       {
         "price": 250,
         "date": "2026-10-06T12:57:43.149999+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6519514",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F19%2F17%2F07%2Fa8fd54b0-8ced-43d2-8904-05371f5d7d67%2F14710_x2ulim1OMvYBu9tdyTcGOw.jpg",
-    "price": 400,
-    "location": "Buzovna q.",
-    "location_id": "117",
-    "location_name": "Buzovna",
-    "rooms": "3 otaqlı",
-    "area_m2": 100,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-05T19:45:24+04:00",
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6519514",
-    "lat": 40.51580995263686,
-    "lng": 50.0985808179687,
-    "land_area_sot": 2,
-    "building_type": "Həyət evi/Bağ evi",
-    "title": "İcarəyə verilir 3 otaqlı həyət evi/bağ evi 100 m²",
-    "description": "Buzovna maştaga yolunda Saboel zapravkasına çatmamış köhnə stolova adlanan yerdə,Gəncə təndiri,50 qəpik restoran,aptek ,meyvə tərəvəzdən dönədə asfa küçədə trasdan 100 metr məsafədə tam təmirtli,aboylu,kombi istilik sitemi,2 otaq,bir kalidor,hamam, kuxna mebelı ,içəridə və həyətdə ayaqyolusu,interneti,krosnu,həyətində meyvə agacları və üzüm talvarı,yaxınlıgında hər tərəfdə marketlər və digər iaşə obyektləri,sakit məhəllə trasa 1-2 dəqiqəlik yol bir sozlə şox əlverişli yerdə yerləşən ev ancaq ailəli,evə öz evi kimi baxan normal ailəyə uzun müddətli  kirayə verilir.qaz,işıq,daimi su saygacla və həyətində ehtiyat su çəni var.Xahiş olunur ancaq ciddi şəxslər əlaqə saxlasın .Ev əşyasızdı.vatsap aktivdir",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 400,
-        "date": "2026-10-06T12:57:42.948406+00:00"
       }
     ]
   },
@@ -2074,40 +1972,6 @@
     ]
   },
   {
-    "id": "6520236",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F11%2F22%2F42%2Ffa9427a3-27f7-4bed-b955-d75a1d921b9d%2F37077_VWvw5f6wQQRx1HG7nnBjZw.jpg",
-    "price": 150,
-    "location": "Elmlər Akademiyası m.",
-    "location_id": "34",
-    "location_name": "Elmlər Akademiyası",
-    "rooms": "2 otaqlı",
-    "area_m2": 50,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-06T11:24:39+04:00",
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6520236",
-    "lat": 40.379962,
-    "lng": 49.808995,
-    "land_area_sot": 3,
-    "building_type": "Həyət evi/Bağ evi",
-    "title": "İcarəyə verilir 2 otaqlı həyət evi/bağ evi 50 m²",
-    "description": "Salam aleykum unvan Yasamal rayonu 2 ci alatava 20 yanvar metrosuna 15 dəqiqəlik məsafede yerlesir ev 2 otaqldı hal hazırda evde 2 nefer oglan yasyr . 1 nəfər oglan axtarırlr",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 150,
-        "date": "2026-10-06T12:57:42.577796+00:00"
-      }
-    ]
-  },
-  {
     "id": "6520237",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F11%2F23%2F56%2F8b864843-8299-4000-b11d-d46d90632e79%2F39236_IEzz1wE29KJfjO_b9bJx7w.jpg",
     "price": 699,
@@ -2172,40 +2036,6 @@
       {
         "price": 4000,
         "date": "2026-10-06T12:57:42.577783+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6520377",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F11%2F50%2F19%2F835bf740-cdd6-4218-a627-1b4553c0442d%2F37106_YOW3NNiY6o-VpPi2VNExdw.jpg",
-    "price": 250,
-    "location": "Şah İsmayıl Xətai m.",
-    "location_id": "36",
-    "location_name": "Şah İsmayıl Xətai",
-    "rooms": "1 otaqlı",
-    "area_m2": 20,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-06T12:06:01+04:00",
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6520377",
-    "lat": 40.38065265490442,
-    "lng": 49.86278971751801,
-    "land_area_sot": 1,
-    "building_type": "Həyət evi/Bağ evi",
-    "title": "İcarəyə verilir 1 otaqlı həyət evi/bağ evi 20 m²",
-    "description": "Neftçilər xəstəxanasının arxasında ayrı girişi çıxışı olan 1 otaqlı ev icarəyə verilir,hər bir şəraiti var..qiymət sondur!!",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 250,
-        "date": "2026-10-06T12:57:42.577734+00:00"
       }
     ]
   },
@@ -2376,40 +2206,6 @@
       {
         "price": 550,
         "date": "2026-10-06T12:57:42.391748+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6520767",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F12%2F46%2F32%2F96210a23-b0ca-4ef1-bc3c-99e9e59fa44a%2F60574_WSQtK37soQccuARjbg6DNQ.jpg",
-    "price": 1500,
-    "location": "Nərimanov r.",
-    "location_id": "10",
-    "location_name": "Nərimanov",
-    "rooms": "5 otaqlı",
-    "area_m2": 150,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": true,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-06T13:17:39+04:00",
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6520767",
-    "lat": 40.4063511531448,
-    "lng": 49.84186720104639,
-    "land_area_sot": 6,
-    "building_type": "Həyət evi/Bağ evi",
-    "title": "İcarəyə verilir 5 otaqlı həyət evi/bağ evi 150 m²",
-    "description": "Bakı ş.Nərimanov r.Məmməd Araz k.(Teymur Əliyev) Ballini  mağazasının yaxınlığında Milyonerlər məhləsində 6 sot torpaq sahəsində ümumi sahəsi 150 kv.m.olan 5 otaqlı həyət evi kirayə verilir.Evin geniş həyəti,qarajı,anbarı var.Evin hıyətinə rahatlıqla 2-3 maşın yerləşir,evin qarşısındə maşın saxlamaq üçün yer var.Ev həm yaşayış üçün,həm də iş adamları üçün ofis kimi yararlıdır.İstilik sistemi kombidir.Kirayə haqqı 1500 azn.Real müştərilərlə qiymət və şərtlər barədə razılığa gəlmək olar.",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1500,
-        "date": "2026-10-06T12:57:42.391736+00:00"
       }
     ]
   },
@@ -3374,40 +3170,6 @@
     ]
   },
   {
-    "id": "6412073",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F27%2F19%2F14%2F20%2Fd9b6c41f-c877-4868-9db4-ab5c37646e4a%2F68103_KXc1_vniW7qRv13Wc12vWA.jpg",
-    "price": 2800,
-    "location": "Sabunçu q.",
-    "location_id": "86",
-    "location_name": "Sabunçu",
-    "rooms": "12 otaqlı",
-    "area_m2": 854,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T08:37:02+04:00",
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6412073",
-    "lat": 40.43805100551389,
-    "lng": 49.93005465343678,
-    "land_area_sot": 18,
-    "building_type": "Həyət evi/Bağ evi",
-    "title": "İcarəyə verilir 12 otaqlı həyət evi/bağ evi 854 m²",
-    "description": "Kiraye verilir uzun muddetli.yerlesme yeri sabuncu qesebesi sabuncu kruqu esas yola 100 metr mesafede(bagca,ve s. Fealiyyet ucunde uygun ola biler amma qiymet ferqli olacaq)12otaq 4 sanitar qovsaq 2metbex.1 ve 2 mertebeler ayri giris.heyet genis ve heyetde 3 sanitar qovsaq",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 2800,
-        "date": "2026-10-06T12:57:42.765247+00:00"
-      }
-    ]
-  },
-  {
     "id": "6414572",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F27%2F12%2F39%2F19%2F010c8a9d-5f40-498c-9de0-81312e53fc3d%2F71653_eOu8IVREVJTFCXCkq-NmoQ.jpg",
     "price": 3000,
@@ -3438,40 +3200,6 @@
       {
         "price": 3000,
         "date": "2026-10-06T19:32:01.209198+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6116000",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F09%2F18%2F12%2F06%2F8718e91b-a1b8-4d01-b300-4729900a545b%2F55182_dG5yF568uv4ShNC8zS2F0w.jpg",
-    "price": 280,
-    "location": "Mərdəkan q.",
-    "location_id": "109",
-    "location_name": "Mərdəkan",
-    "rooms": "5 otaqlı",
-    "area_m2": 220,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T12:35:35+04:00",
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6116000",
-    "lat": 40.47973354336671,
-    "lng": 50.13958581628238,
-    "land_area_sot": 7,
-    "building_type": "Həyət evi/Bağ evi",
-    "title": "İcarəyə verilir 5 otaqlı həyət evi/bağ evi 220 m²",
-    "description": "Qapal Isti🔥 basseyn \n 12 neferlik \nMerdekan qesebesinde 7 sotda 12 neferlik Villa icareye verilir. 4 yatag otagi , boyuk zal . heyetinde kompleks manqalxana ,  gapali ve açılan isti 🔥basseyn ,sauna , djakuzi istirahet zonasy, akkustika sistemi ile tehciz olunmushdur. \n ✅Qiymet gun sayına , adam sayına göre dəyişir. \n",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 280,
-        "date": "2026-10-06T12:57:42.391789+00:00"
       }
     ]
   },
@@ -3616,40 +3344,6 @@
     ]
   },
   {
-    "id": "6522582",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F20%2F51%2F52%2F1f1793bc-57b9-449d-b853-89573a0233e5%2F60589_bXYgfeaoK9IA5xngeiDtgw.jpg",
-    "price": 17000,
-    "location": "Badamdar q.",
-    "location_id": "46",
-    "location_name": "Badamdar",
-    "rooms": "10 otaqlı",
-    "area_m2": 800,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": true,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T14:29:54+04:00",
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6522582",
-    "lat": 40.34745847298742,
-    "lng": 49.81378337501681,
-    "land_area_sot": 10,
-    "building_type": "Həyət evi/Bağ evi",
-    "title": "İcarəyə verilir 10 otaqlı həyət evi/bağ evi 800 m²",
-    "description": "🏡 KİRAYƏ VERİLİR | BADAMDAR | PANORAMİK XƏZƏR MƏNZƏRƏSİ | PREMIUM VİLLA 🌊\r\n\r\n📍 Badamdar qəsəbəsi | Ən gözəl yerində \r\n\r\n✨ 10 otaqlı | 800 m² | 10 sot | \r\n3 mərtəbə | Tam təmirli\r\n\r\n🌊 Bakının ən prestijli yaşayış məkanlarından biri olan Badamdarda, 2ci massivdə yerləşən və panoramik Xəzər dənizi mənzərəsinə sahib möhtəşəm villa uzunmüddətli kirayəyə verilir.\r\n\r\n🔺 VİLLANIN ƏSAS ÜSTÜNLÜKLƏRİ\r\n\r\n• 800 m² ümumi tikili sahəsi\r\n• 10 sot özəl torpaq sahəsi\r\n• 3 mərtəbəli əsas yaşayış binası\r\n• Həyətin müxtəlif nöqtələrindən panoramik dəniz mənzərəsi 🌊\r\n• Tam yeni və yüksək keyfiyyətli təmir\r\n• Smart Home sistemi 🏠\r\n• Premium mebel və məişət avadanlıqları\r\n• İtaliya, ABŞ və Türkiyə istehsalı tanınmış markalar\r\n• Tam sakit, təhlükəsiz və elit yaşayış mühiti\r\n\r\n🏠 ƏSAS BİNA\r\n\r\n1-ci mərtəbə:\r\n• Geniş qonaq otağı\r\n• Mətbəx\r\n• Gym / fitness zalı\r\n• Türk hamamı\r\n• Sauna\r\n• Ərzaq / anbar otağı\r\n• Sanitar qovşaq\r\n\r\n2-ci mərtəbə:\r\n• 2 geniş yataq otağı\r\n• Hər yataq otağında ayrıca sanitar qovşaq\r\n• Geyim otağı\r\n• Ütü və camaşırxana otağı\r\n\r\n3-cü mərtəbə:\r\n• Yataq otağı\r\n• Fərdi sanitar qovşaq\r\n• Geyim otağı\r\n• İş otağı / kabinet\r\n\r\n🌿 HƏYƏT VƏ ƏLAVƏ TİKİLİLƏR\r\n\r\n• Ayrı mətbəx və sanitar qovşağı olan mühafizəçi / xidmətçi evi\r\n• 1 avtomobillik geniş qaraj 🚗\r\n• Çöl mətbəxi\r\n• Əl damı\r\n• Dekorativ hovuz\r\n• Böyük qapalı istirahət kompleksi\r\n• Milli üslubda istirahət guşəsi\r\n• Bilyard masası 🎱\r\n• Bar\r\n• Sanitar qovşaq\r\n\r\n🔝 UNİKAL PLANLAMA\r\n\r\nVilla iki hissədən ibarət geniş ərazidə yerləşir. Hissələr bir-biri ilə şəxsi lift və pilləkən vasitəsilə əlaqələndirilir. Üst həyətdən aşağı həyətə liftlə rahat keçid mümkündür.\r\n\r\n🤖 SMART HOME SİSTEMİ\r\n\r\nVilla tam şəkildə “Ağıllı Ev” sistemi ilə təchiz olunub. Sistem vasitəsilə:\r\n\r\n• Elektrik\r\n• Su\r\n• Qaz\r\n• Jalüzlər\r\n• Pərdələr\r\n• Nəzarət kameraları\r\n• Giriş qapıları\r\n• Siqnalizasiya sistemi\r\n\r\nvahid sistem üzərindən idarə olunur.\r\n\r\n🏢 KİM ÜÇÜN İDEALDIR?\r\n\r\nVilla yalnız uzunmüddətli və seçilmiş kirayəçilər üçün nəzərdə tutulur.\r\n\r\n🇦🇿 Səfirliklər\r\n🌍 Xarici şirkətlərin nümayəndələri\r\n🏢 Yerli və beynəlxalq şirkətlər\r\n👨‍👩‍👧‍👦 Yüksək səviyyəli ailə yaşayışı\r\n\r\n⭐ Badamdarın ən seçilən lokasiyalarından birində, panoramik Xəzər mənzərəsi, geniş özəl ərazi, şəxsi lift, Smart Home sistemi və premium avadanlıqları bir araya gətirən nadir rezidensiya.\r\n\r\n📋 İCARƏ ŞƏRTLƏRİ\r\n• Yalnız uzunmüddətli kirayə\r\n• Səfirliklər, şirkətlər və seçilmiş şəxslər üçün\r\n\r\n 💼 Şirkət xidmət haqqı: 30%\r\n\r\n📞 Ətraflı məlumat və villa ilə tanışlıq üçün əlaqə saxlaya bilərsiniz.\r\n\r\n\r\n\r\n🌎 RE/MAX — 121 ölkədə fəaliyyət göstərən beynəlxalq əmlak şəbəkəsi.\r\n\r\n🇦🇿 Azərbaycandakı yeganə rəsmi RE/MAX ofisi olaraq alqı-satqı və kirayə üzrə peşəkar əmlak xidmətləri göstəririk.\r\n\r\n🔑 Əmlakınızın satışı və ya kirayəsi üçün bizə müraciət edə bilərsiniz.",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 17000,
-        "date": "2026-10-06T19:32:01.065469+00:00"
-      }
-    ]
-  },
-  {
     "id": "6518035",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F14%2F03%2F05%2F021cd638-21de-4e3b-b429-5845d0cc761f%2F97655_-p7WmqYAQOauc93hB0R3pw.jpg",
     "price": 450,
@@ -3680,44 +3374,6 @@
       {
         "price": 450,
         "date": "2026-10-06T12:57:41.953247+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6521748",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F16%2F43%2F27%2F0d480c37-cff0-4c7f-81f7-5dafddeda337%2F37069_GI_TMkipg5TkhyLNnBJM9g.jpg",
-    "price": 80,
-    "location": "Novxanı q.",
-    "location_id": "113",
-    "location_name": "Novxanı",
-    "rooms": "5 otaqlı",
-    "area_m2": 250,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T16:13:04+04:00",
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6521748",
-    "lat": 40.57289736585304,
-    "lng": 49.76371469444237,
-    "land_area_sot": 6,
-    "building_type": "Həyət evi/Bağ evi",
-    "title": "İcarəyə verilir 5 otaqlı həyət evi/bağ evi 250 m²",
-    "description": "Wifi\r\nTv\r\nKombi \r\nKondisioner \r\nManqal \r\nSamovar ",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 100,
-        "date": "2026-10-06T12:57:41.953175+00:00"
-      },
-      {
-        "price": 80,
-        "date": "2026-10-07T19:31:32.486454+00:00"
       }
     ]
   },
@@ -3771,7 +3427,7 @@
     "has_bill_of_sale": false,
     "has_mortgage": false,
     "is_featured": false,
-    "updated_at_site": "2026-10-07T17:48:06+04:00",
+    "updated_at_site": "2026-10-08T01:48:07+04:00",
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6516874",
@@ -3794,6 +3450,74 @@
     ]
   },
   {
+    "id": "6412073",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F27%2F19%2F14%2F20%2Fd9b6c41f-c877-4868-9db4-ab5c37646e4a%2F68103_KXc1_vniW7qRv13Wc12vWA.jpg",
+    "price": 2800,
+    "location": "Sabunçu q.",
+    "location_id": "86",
+    "location_name": "Sabunçu",
+    "rooms": "12 otaqlı",
+    "area_m2": 854,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T08:37:00+04:00",
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6412073",
+    "lat": 40.43805100551389,
+    "lng": 49.93005465343678,
+    "land_area_sot": 18,
+    "building_type": "Həyət evi/Bağ evi",
+    "title": "İcarəyə verilir 12 otaqlı həyət evi/bağ evi 854 m²",
+    "description": "Kiraye verilir uzun muddetli.yerlesme yeri sabuncu qesebesi sabuncu kruqu esas yola 100 metr mesafede(bagca,ve s. Fealiyyet ucunde uygun ola biler amma qiymet ferqli olacaq)12otaq 4 sanitar qovsaq 2metbex.1 ve 2 mertebeler ayri giris.heyet genis ve heyetde 3 sanitar qovsaq",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 2800,
+        "date": "2026-10-06T12:57:42.765247+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6520767",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F08%2F10%2F26%2F01%2F91cc5845-590d-4092-a278-5b2ae11da589%2F40429_3S9fdMUho5RXuhR7KDzp3w.jpg",
+    "price": 1500,
+    "location": "Nərimanov r.",
+    "location_id": "10",
+    "location_name": "Nərimanov",
+    "rooms": "5 otaqlı",
+    "area_m2": 150,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T10:26:59+04:00",
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6520767",
+    "lat": 40.4063511531448,
+    "lng": 49.84186720104639,
+    "land_area_sot": 6,
+    "building_type": "Həyət evi/Bağ evi",
+    "title": "İcarəyə verilir 5 otaqlı həyət evi/bağ evi 150 m²",
+    "description": "Bakı ş.Nərimanov r.Məmməd Araz k.(Teymur Əliyev) Ballini  mağazasının yaxınlığında Milyonerlər məhləsində 6 sot torpaq sahəsində ümumi sahəsi 150 kv.m.olan 5 otaqlı həyət evi kirayə verilir.Evin geniş həyəti,qarajı,anbarı var.Evin hıyətinə rahatlıqla 2-3 maşın yerləşir,evin qarşısındə maşın saxlamaq üçün yer var.Ev həm yaşayış üçün,həm də iş adamları üçün ofis kimi yararlıdır.İstilik sistemi kombidir.Kirayə haqqı 1500 azn.Real müştərilərlə qiymət və şərtlər barədə razılığa gəlmək olar.",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1500,
+        "date": "2026-10-06T12:57:42.391736+00:00"
+      }
+    ]
+  },
+  {
     "id": "6517160",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F11%2F21%2F43%2F35418f77-9684-4a92-8904-49e0cb5a2ae0%2F36766_or3Y3N00s26zfcDLwcWeJw.jpg",
     "price": 550,
@@ -3809,7 +3533,7 @@
     "has_bill_of_sale": false,
     "has_mortgage": false,
     "is_featured": false,
-    "updated_at_site": "2026-10-07T19:21:20+04:00",
+    "updated_at_site": "2026-10-08T11:39:00+04:00",
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6517160",
@@ -3824,6 +3548,192 @@
       {
         "price": 550,
         "date": "2026-10-06T12:57:43.708938+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6116000",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F09%2F18%2F12%2F06%2F8718e91b-a1b8-4d01-b300-4729900a545b%2F55182_dG5yF568uv4ShNC8zS2F0w.jpg",
+    "price": 280,
+    "location": "Mərdəkan q.",
+    "location_id": "109",
+    "location_name": "Mərdəkan",
+    "rooms": "5 otaqlı",
+    "area_m2": 220,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T12:35:35+04:00",
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6116000",
+    "lat": 40.47973354336671,
+    "lng": 50.13958581628238,
+    "land_area_sot": 7,
+    "building_type": "Həyət evi/Bağ evi",
+    "title": "İcarəyə verilir 5 otaqlı həyət evi/bağ evi 220 m²",
+    "description": "Qapal Isti🔥 basseyn \n 12 neferlik \nMerdekan qesebesinde 7 sotda 12 neferlik Villa icareye verilir. 4 yatag otagi , boyuk zal . heyetinde kompleks manqalxana ,  gapali ve açılan isti 🔥basseyn ,sauna , djakuzi istirahet zonasy, akkustika sistemi ile tehciz olunmushdur. \n ✅Qiymet gun sayına , adam sayına göre dəyişir. \n",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 280,
+        "date": "2026-10-06T12:57:42.391789+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6521748",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F16%2F43%2F27%2F0d480c37-cff0-4c7f-81f7-5dafddeda337%2F37069_GI_TMkipg5TkhyLNnBJM9g.jpg",
+    "price": 100,
+    "location": "Novxanı q.",
+    "location_id": "113",
+    "location_name": "Novxanı",
+    "rooms": "4 otaqlı",
+    "area_m2": 250,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T12:36:33+04:00",
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6521748",
+    "lat": 40.57289736585304,
+    "lng": 49.76371469444237,
+    "land_area_sot": 6,
+    "building_type": "Həyət evi/Bağ evi",
+    "title": "İcarəyə verilir 5 otaqlı həyət evi/bağ evi 250 m²",
+    "description": "Wifi\r\nTv\r\nKombi \r\nKondisioner \r\nManqal \r\nSamovar ",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 100,
+        "date": "2026-10-06T12:57:41.953175+00:00"
+      },
+      {
+        "price": 80,
+        "date": "2026-10-07T19:31:32.486454+00:00"
+      },
+      {
+        "price": 100,
+        "date": "2026-10-08T19:31:46.430949+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6519008",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F17%2F27%2F58%2Fd3c9840b-1861-42eb-a103-0fdae7fd75be%2F91612_o6gdMcIyme2l8XaynbIapA.jpg",
+    "price": 900,
+    "location": "Binəqədi r.",
+    "location_id": "58",
+    "location_name": "Binəqədi",
+    "rooms": "5 otaqlı",
+    "area_m2": 150,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T12:56:25+04:00",
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6519008",
+    "lat": 40.41362856173346,
+    "lng": 49.82840516245684,
+    "land_area_sot": 2,
+    "building_type": "Həyət evi/Bağ evi",
+    "title": "İcarəyə verilir 5 otaqlı həyət evi/bağ evi 150 m²",
+    "description": "Xutorda 3 mərtəbəli həyət evi icarəyə verilir\r\n\r\n2 mərtəbəsi tam yaşayış üçün əlverişlidir. 3-cü mərtəbə isə mansartdır.\r\n\r\nEv bütün lazımi avadanlıqlarla təmin olunub. Yaşamaq üçün rahat və əlverişli şərait mövcuddur.\r\n\r\nYalnız ailələrə verilir.\r\n",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1000,
+        "date": "2026-10-06T12:57:43.150053+00:00"
+      },
+      {
+        "price": 900,
+        "date": "2026-10-08T19:31:46.831472+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6518178",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F14%2F36%2F47%2F6ba9ae37-9ab2-4a6f-94b6-d5bc75dad626%2F97659_WfSxOcXx_e9eByhtjZNVfA.jpg",
+    "price": 550,
+    "location": "8 Noyabr m.",
+    "location_id": "279",
+    "location_name": "8 Noyabr",
+    "rooms": "5 otaqlı",
+    "area_m2": 153,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T14:17:03+04:00",
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6518178",
+    "lat": 40.40562744593409,
+    "lng": 49.82532232109693,
+    "land_area_sot": 1,
+    "building_type": "Həyət evi/Bağ evi",
+    "title": "İcarəyə verilir 5 otaqlı həyət evi/bağ evi 153 m²",
+    "description": "5 otaqlı geniş və rahat ev ailəyə kirayə verilir.\r\n\r\nEv ailə üçün əlverişli şəraitə malikdir. Səliqəli, məsuliyyətli və uzunmüddətli qalmaq istəyən ailələrə üstünlük verilir.\r\n\r\nƏtraflı məlumat üçün əlaqə saxlaya bilərsiniz.",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 600,
+        "date": "2026-10-06T12:57:43.516365+00:00"
+      },
+      {
+        "price": 550,
+        "date": "2026-10-08T19:31:47.223347+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6522582",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F20%2F51%2F52%2F1f1793bc-57b9-449d-b853-89573a0233e5%2F60589_bXYgfeaoK9IA5xngeiDtgw.jpg",
+    "price": 17000,
+    "location": "Badamdar q.",
+    "location_id": "46",
+    "location_name": "Badamdar",
+    "rooms": "10 otaqlı",
+    "area_m2": 800,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": true,
+    "updated_at_site": "2026-10-08T18:45:55+04:00",
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6522582",
+    "lat": 40.34745847298742,
+    "lng": 49.81378337501681,
+    "land_area_sot": 10,
+    "building_type": "Həyət evi/Bağ evi",
+    "title": "İcarəyə verilir 10 otaqlı həyət evi/bağ evi 800 m²",
+    "description": "🏡 KİRAYƏ VERİLİR | BADAMDAR | PANORAMİK XƏZƏR MƏNZƏRƏSİ | PREMIUM VİLLA 🌊\r\n\r\n📍 Badamdar qəsəbəsi | Ən gözəl yerində \r\n\r\n✨ 10 otaqlı | 800 m² | 10 sot | \r\n3 mərtəbə | Tam təmirli\r\n\r\n🌊 Bakının ən prestijli yaşayış məkanlarından biri olan Badamdarda, 2ci massivdə yerləşən və panoramik Xəzər dənizi mənzərəsinə sahib möhtəşəm villa uzunmüddətli kirayəyə verilir.\r\n\r\n🔺 VİLLANIN ƏSAS ÜSTÜNLÜKLƏRİ\r\n\r\n• 800 m² ümumi tikili sahəsi\r\n• 10 sot özəl torpaq sahəsi\r\n• 3 mərtəbəli əsas yaşayış binası\r\n• Həyətin müxtəlif nöqtələrindən panoramik dəniz mənzərəsi 🌊\r\n• Tam yeni və yüksək keyfiyyətli təmir\r\n• Smart Home sistemi 🏠\r\n• Premium mebel və məişət avadanlıqları\r\n• İtaliya, ABŞ və Türkiyə istehsalı tanınmış markalar\r\n• Tam sakit, təhlükəsiz və elit yaşayış mühiti\r\n\r\n🏠 ƏSAS BİNA\r\n\r\n1-ci mərtəbə:\r\n• Geniş qonaq otağı\r\n• Mətbəx\r\n• Gym / fitness zalı\r\n• Türk hamamı\r\n• Sauna\r\n• Ərzaq / anbar otağı\r\n• Sanitar qovşaq\r\n\r\n2-ci mərtəbə:\r\n• 2 geniş yataq otağı\r\n• Hər yataq otağında ayrıca sanitar qovşaq\r\n• Geyim otağı\r\n• Ütü və camaşırxana otağı\r\n\r\n3-cü mərtəbə:\r\n• Yataq otağı\r\n• Fərdi sanitar qovşaq\r\n• Geyim otağı\r\n• İş otağı / kabinet\r\n\r\n🌿 HƏYƏT VƏ ƏLAVƏ TİKİLİLƏR\r\n\r\n• Ayrı mətbəx və sanitar qovşağı olan mühafizəçi / xidmətçi evi\r\n• 1 avtomobillik geniş qaraj 🚗\r\n• Çöl mətbəxi\r\n• Əl damı\r\n• Dekorativ hovuz\r\n• Böyük qapalı istirahət kompleksi\r\n• Milli üslubda istirahət guşəsi\r\n• Bilyard masası 🎱\r\n• Bar\r\n• Sanitar qovşaq\r\n\r\n🔝 UNİKAL PLANLAMA\r\n\r\nVilla iki hissədən ibarət geniş ərazidə yerləşir. Hissələr bir-biri ilə şəxsi lift və pilləkən vasitəsilə əlaqələndirilir. Üst həyətdən aşağı həyətə liftlə rahat keçid mümkündür.\r\n\r\n🤖 SMART HOME SİSTEMİ\r\n\r\nVilla tam şəkildə “Ağıllı Ev” sistemi ilə təchiz olunub. Sistem vasitəsilə:\r\n\r\n• Elektrik\r\n• Su\r\n• Qaz\r\n• Jalüzlər\r\n• Pərdələr\r\n• Nəzarət kameraları\r\n• Giriş qapıları\r\n• Siqnalizasiya sistemi\r\n\r\nvahid sistem üzərindən idarə olunur.\r\n\r\n🏢 KİM ÜÇÜN İDEALDIR?\r\n\r\nVilla yalnız uzunmüddətli və seçilmiş kirayəçilər üçün nəzərdə tutulur.\r\n\r\n🇦🇿 Səfirliklər\r\n🌍 Xarici şirkətlərin nümayəndələri\r\n🏢 Yerli və beynəlxalq şirkətlər\r\n👨‍👩‍👧‍👦 Yüksək səviyyəli ailə yaşayışı\r\n\r\n⭐ Badamdarın ən seçilən lokasiyalarından birində, panoramik Xəzər mənzərəsi, geniş özəl ərazi, şəxsi lift, Smart Home sistemi və premium avadanlıqları bir araya gətirən nadir rezidensiya.\r\n\r\n📋 İCARƏ ŞƏRTLƏRİ\r\n• Yalnız uzunmüddətli kirayə\r\n• Səfirliklər, şirkətlər və seçilmiş şəxslər üçün\r\n\r\n 💼 Şirkət xidmət haqqı: 30%\r\n\r\n📞 Ətraflı məlumat və villa ilə tanışlıq üçün əlaqə saxlaya bilərsiniz.\r\n\r\n\r\n\r\n🌎 RE/MAX — 121 ölkədə fəaliyyət göstərən beynəlxalq əmlak şəbəkəsi.\r\n\r\n🇦🇿 Azərbaycandakı yeganə rəsmi RE/MAX ofisi olaraq alqı-satqı və kirayə üzrə peşəkar əmlak xidmətləri göstəririk.\r\n\r\n🔑 Əmlakınızın satışı və ya kirayəsi üçün bizə müraciət edə bilərsiniz.",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 17000,
+        "date": "2026-10-06T19:32:01.065469+00:00"
       }
     ]
   },
@@ -3843,7 +3753,7 @@
     "has_bill_of_sale": false,
     "has_mortgage": false,
     "is_featured": false,
-    "updated_at_site": "2026-10-07T20:53:08+04:00",
+    "updated_at_site": "2026-10-08T20:53:07+04:00",
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/5829570",
@@ -3877,7 +3787,7 @@
     "has_bill_of_sale": false,
     "has_mortgage": false,
     "is_featured": false,
-    "updated_at_site": "2026-10-07T20:58:58+04:00",
+    "updated_at_site": "2026-10-08T20:58:58+04:00",
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/5474183",
@@ -3915,7 +3825,7 @@
     "has_bill_of_sale": false,
     "has_mortgage": false,
     "is_featured": false,
-    "updated_at_site": "2026-10-07T22:29:20+04:00",
+    "updated_at_site": "2026-10-08T22:29:21+04:00",
     "category": "house",
     "deal_type": "rental",
     "url": "https://bina.az/items/6419180",
@@ -3930,6 +3840,44 @@
       {
         "price": 550,
         "date": "2026-10-06T12:57:42.948324+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6519514",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F19%2F17%2F07%2Fa8fd54b0-8ced-43d2-8904-05371f5d7d67%2F14710_x2ulim1OMvYBu9tdyTcGOw.jpg",
+    "price": 350,
+    "location": "Buzovna q.",
+    "location_id": "117",
+    "location_name": "Buzovna",
+    "rooms": "3 otaqlı",
+    "area_m2": 100,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T23:04:28+04:00",
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6519514",
+    "lat": 40.51580995263686,
+    "lng": 50.0985808179687,
+    "land_area_sot": 2,
+    "building_type": "Həyət evi/Bağ evi",
+    "title": "İcarəyə verilir 3 otaqlı həyət evi/bağ evi 100 m²",
+    "description": "Buzovna maştaga yolunda Saboel zapravkasına çatmamış köhnə stolova adlanan yerdə,Gəncə təndiri,50 qəpik restoran,aptek ,meyvə tərəvəzdən dönədə asfa küçədə trasdan 100 metr məsafədə tam təmirtli,aboylu,kombi istilik sitemi,2 otaq,bir kalidor,hamam, kuxna mebelı ,içəridə və həyətdə ayaqyolusu,interneti,krosnu,həyətində meyvə agacları və üzüm talvarı,yaxınlıgında hər tərəfdə marketlər və digər iaşə obyektləri,sakit məhəllə trasa 1-2 dəqiqəlik yol bir sozlə şox əlverişli yerdə yerləşən ev ancaq ailəli,evə öz evi kimi baxan normal ailəyə uzun müddətli  kirayə verilir.qaz,işıq,daimi su saygacla və həyətində ehtiyat su çəni var.Xahiş olunur ancaq ciddi şəxslər əlaqə saxlasın .Ev əşyasızdı.vatsap aktivdir",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 400,
+        "date": "2026-10-06T12:57:42.948406+00:00"
+      },
+      {
+        "price": 350,
+        "date": "2026-10-08T19:31:46.831375+00:00"
       }
     ]
   },
@@ -3998,6 +3946,74 @@
       {
         "price": 320,
         "date": "2026-10-06T12:57:43.150024+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6520236",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F11%2F22%2F42%2Ffa9427a3-27f7-4bed-b955-d75a1d921b9d%2F37077_VWvw5f6wQQRx1HG7nnBjZw.jpg",
+    "price": 150,
+    "location": "Elmlər Akademiyası m.",
+    "location_id": "34",
+    "location_name": "Elmlər Akademiyası",
+    "rooms": "2 otaqlı",
+    "area_m2": 50,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-06T11:24:39+04:00",
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6520236",
+    "lat": 40.379962,
+    "lng": 49.808995,
+    "land_area_sot": 3,
+    "building_type": "Həyət evi/Bağ evi",
+    "title": "İcarəyə verilir 2 otaqlı həyət evi/bağ evi 50 m²",
+    "description": "Salam aleykum unvan Yasamal rayonu 2 ci alatava 20 yanvar metrosuna 15 dəqiqəlik məsafede yerlesir ev 2 otaqldı hal hazırda evde 2 nefer oglan yasyr . 1 nəfər oglan axtarırlr",
+    "deleted_at": "2026-10-08T19:32:07.038292+00:00",
+    "price_history": [
+      {
+        "price": 150,
+        "date": "2026-10-06T12:57:42.577796+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6520377",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F11%2F50%2F19%2F835bf740-cdd6-4218-a627-1b4553c0442d%2F37106_YOW3NNiY6o-VpPi2VNExdw.jpg",
+    "price": 250,
+    "location": "Şah İsmayıl Xətai m.",
+    "location_id": "36",
+    "location_name": "Şah İsmayıl Xətai",
+    "rooms": "1 otaqlı",
+    "area_m2": 20,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-06T12:06:01+04:00",
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6520377",
+    "lat": 40.38065265490442,
+    "lng": 49.86278971751801,
+    "land_area_sot": 1,
+    "building_type": "Həyət evi/Bağ evi",
+    "title": "İcarəyə verilir 1 otaqlı həyət evi/bağ evi 20 m²",
+    "description": "Neftçilər xəstəxanasının arxasında ayrı girişi çıxışı olan 1 otaqlı ev icarəyə verilir,hər bir şəraiti var..qiymət sondur!!",
+    "deleted_at": "2026-10-08T19:32:07.038296+00:00",
+    "price_history": [
+      {
+        "price": 250,
+        "date": "2026-10-06T12:57:42.577734+00:00"
       }
     ]
   },

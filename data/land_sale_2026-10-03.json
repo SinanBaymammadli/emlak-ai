@@ -1254,39 +1254,6 @@
     ]
   },
   {
-    "id": "6409792",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F08%2F03%2F52%2F03%2F5e45dfb4-a207-41a7-948e-674b989149ae%2F72348_64UHOyJr9lRF574RqDkgMQ.jpg",
-    "price": 400000,
-    "location": "Şıxov q.",
-    "land_area_sot": 9.0,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.30976871535409,
-    "lng": 49.79616667193606,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": null,
-    "updated_at_site": "2026-10-03T18:41:08+04:00",
-    "is_featured": false,
-    "title": "Satılır torpaq 9 sot",
-    "description": "Şixov qəsəbəsində 1001-Gecə restoranı ilə üzbəüz Tam Mərkəzdə Dəniz Mənzərəli 9 sot torpaq sahəsi satılır. İstəyə görə bölüb 4,5 sot ala bilərsiz.  Bütün Kammunal xəttlər, işıq, su, qaz, internet və mərkəzi kanalizatsiya sistemi torpaqın yanındadır. Sənədlər qaydasındadır. Ətraf tam yaşayışdır. Qapıya kimi asfaltdır.\n",
-    "building_type": "Torpaq",
-    "location_id": "260",
-    "location_name": "Şıxov",
-    "area_m2": 9,
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6409792",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 400000,
-        "date": "2026-10-03T19:32:13.104985+00:00"
-      }
-    ]
-  },
-  {
     "id": "6514364",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F18%2F47%2F50%2Fe444b58d-9b22-4c50-ae96-d6b977fd31d9%2F16131_Z5m4MwqWirw0iqVH8c9lvQ.jpg",
     "price": 105000,
@@ -1316,39 +1283,6 @@
       {
         "price": 105000,
         "date": "2026-10-03T19:32:13.104952+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6514316",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F18%2F33%2F10%2Ff8863a24-a140-4f1c-bd51-aa133bf33de2%2F75530_EWaakgdE81jkxn2XmZM9Ng.jpg",
-    "price": 29000,
-    "location": "Şıxov q.",
-    "land_area_sot": 11.0,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.30864858058447,
-    "lng": 49.79647052079989,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": null,
-    "updated_at_site": "2026-10-03T18:51:56+04:00",
-    "is_featured": false,
-    "title": "Satılır torpaq 11 sot",
-    "description": "DƏYƏRİNDƏN UCUZ SATILIR !!!\r\nŞixov qəsəbəsi 1001-Gecə Restoranı ilə üzbəüz yoldan 70- 100 metr içərdə Kupçalı torpaq sahəsi satılır. Bütün kammunalları işıq, su, qaz, mərkəzi kanalizatsiya sistemi, telefon, internet xəttləri var. Ətraf tam yaşayışdır. Həyətində meyvə ağacları  var.\r\nTorpaqın Kupça (Çıxarış) var. \r\nQiymət 1 sotuna aiddir, tam satılır. \r\n",
-    "building_type": "Torpaq",
-    "location_id": "260",
-    "location_name": "Şıxov",
-    "area_m2": 11,
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6514316",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 29000,
-        "date": "2026-10-03T19:32:13.105019+00:00"
       }
     ]
   },
@@ -1683,39 +1617,6 @@
     ]
   },
   {
-    "id": "6514703",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F22%2F11%2F54%2F2ce5dbc7-e1b3-4397-81ea-730e035263b2%2F16131_19OvmlXY67hCFVQWk5cjHw.jpg",
-    "price": 93000,
-    "location": "Bakıxanov q.",
-    "land_area_sot": 3.0,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.425626,
-    "lng": 49.947598,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": null,
-    "updated_at_site": "2026-10-03T22:22:23+04:00",
-    "is_featured": false,
-    "title": "Satılır torpaq 3 sot",
-    "description": "Torpaq satilir təcili cox suber yerdədi torpaq məkdəbə bazara markedərə maşurudlarada yaxindi torpaq riyal aliciya endirim var sənədidə cixarisdi ",
-    "building_type": "Torpaq",
-    "location_id": "69",
-    "location_name": "Bakıxanov",
-    "area_m2": 3,
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6514703",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 93000,
-        "date": "2026-10-03T19:32:13.103833+00:00"
-      }
-    ]
-  },
-  {
     "id": "6514720",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F22%2F28%2F52%2Ff183e001-85f2-42c4-a763-9181646ed050%2F16150_XJnCmLlnKdzXxpvzfPX4jw.jpg",
     "price": 65000,
@@ -1914,72 +1815,6 @@
     ]
   },
   {
-    "id": "6514161",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F17%2F53%2F07%2F36b23ab4-d1ff-4ee4-a6cf-0c166f1c160f%2F75513_-o9CZR3_GlNRzSnBwpJWaQ.jpg",
-    "price": 40000,
-    "location": "Qala q.",
-    "land_area_sot": 6.0,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.47733956521414,
-    "lng": 50.12327298091482,
-    "has_repair": null,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-06T04:45:27+04:00",
-    "is_featured": false,
-    "title": "Satılır torpaq 6 sot",
-    "description": "Mərdəkan körpüsünün yanında Qala ərazisinə düşən ideal yerləşmə yerinə malik 6sot torpaq sahəsidir. 2005 bələdiyyə sənədlidir. Təcili satıldığı üçün ucuz verilir. Kupça alınmasına köməklik olunacaq. Tam düz torpaqdır. Kupça alınıb satılsa sotu 10000 manat olacaq.",
-    "building_type": "Torpaq",
-    "location_id": "95",
-    "location_name": "Qala",
-    "area_m2": 6,
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6514161",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 40000,
-        "date": "2026-10-03T19:32:13.105326+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6512933",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F12%2F39%2F13%2F32377b1b-1436-4edb-942c-0ac18e7c27da%2F16189_dwcxoHCudAZ0W7FMrhk9ZA.jpg",
-    "price": 10500000,
-    "location": "Qaraçuxur q.",
-    "land_area_sot": 350.0,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.3997788068988,
-    "lng": 50.00005779116823,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-07T09:35:20+04:00",
-    "is_featured": false,
-    "title": "Satılır torpaq 350 sot",
-    "description": "Qaraçuxur qəs 346 nöm məktəbə yaxın yaşayış binası tikmək üçün və şəxsi həyət bağ evi tikmək üçün ideal təklif.\nTorpağın 1sotunun dəyəri 30.000 azn start \nHissə hissə satış mümkündür\nTORPAĞIN TƏYİNATI YAŞAYIŞ MƏNTƏQƏLƏRİNİN TİKİNTİSİ!!\n\nOfis haqqı 2% ",
-    "building_type": "Torpaq",
-    "location_id": "75",
-    "location_name": "Qaraçuxur",
-    "area_m2": 350,
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6512933",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 10500000,
-        "date": "2026-10-03T19:32:13.107169+00:00"
-      }
-    ]
-  },
-  {
     "id": "6512742",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F11%2F49%2F57%2F82054dc2-4079-491f-898a-1c05eafb6918%2F75505_YcPxfHtVZOva0FocIYOgZw.jpg",
     "price": 150000,
@@ -2058,39 +1893,6 @@
     ]
   },
   {
-    "id": "6513636",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F11%2F06%2F33%2Ffebc59e5-826b-43ab-b23d-52c4b5b6ad91%2F93156_r48UUUdQtbi3qkas19XPEg.jpg",
-    "price": 670000,
-    "location": "Şıxov q.",
-    "land_area_sot": 17.0,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.3133816533303,
-    "lng": 49.80170275134275,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-07T14:02:51+04:00",
-    "is_featured": false,
-    "title": "Satılır torpaq 17 sot",
-    "description": "TƏCİLİ SATILIR!!!\r\n Dəniz mənzərəli şxovda və hünsür ərazidə mənzərəsini korlayan heçbir tikili olmayan Kupçalı  (6..6..5 kupca ilə) torpaq sahəsi satılır \r\ntorbaq bölünmədən tap şəkildə satılır\r\n\r\nQiymət 670 000 azn \r\nOfis haqqı 1%",
-    "building_type": "Torpaq",
-    "location_id": "260",
-    "location_name": "Şıxov",
-    "area_m2": 17,
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6513636",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 670000,
-        "date": "2026-10-03T19:32:13.106096+00:00"
-      }
-    ]
-  },
-  {
     "id": "6512994",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F12%2F53%2F39%2F8c9a49e8-8857-4295-adfa-c964a98db3cc%2F16148_V5dFLYAfYs35EumYBGsH2g.jpg",
     "price": 160000,
@@ -2120,39 +1922,6 @@
       {
         "price": 160000,
         "date": "2026-10-03T19:32:13.107117+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6514636",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F21%2F15%2F34%2F950a3897-b47f-4474-a3c8-0306ef99b3e1%2F63840_3K3u-1yAxIyievMb4G5hWQ.jpg",
-    "price": 25000,
-    "location": "Binə q.",
-    "land_area_sot": 2.0,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.42642075836499,
-    "lng": 50.10671001301298,
-    "has_repair": null,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-07T17:40:51+04:00",
-    "is_featured": true,
-    "title": "Satılır torpaq 2 sot",
-    "description": "Tam yaşayışlı ərazidir kupça yoxdur \r\nMəhlədə qaz işıq şirin suyu var həyətdə quyusu var real alıcı ilə razılaşmaq olar",
-    "building_type": "Torpaq",
-    "location_id": "79",
-    "location_name": "Binə",
-    "area_m2": 2,
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6514636",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 25000,
-        "date": "2026-10-03T19:32:13.104211+00:00"
       }
     ]
   },
@@ -2289,39 +2058,6 @@
     ]
   },
   {
-    "id": "6305532",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F20%2F10%2F22%2F40%2Fe3397155-b724-4911-8279-70713504cc09%2F53204_njrbHikjPop_x1eDqybyvA.jpg",
-    "price": 156000,
-    "location": "Nardaran q.",
-    "land_area_sot": 12.0,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.57640794949334,
-    "lng": 49.97672266462065,
-    "has_repair": null,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-07T20:22:40+04:00",
-    "is_featured": false,
-    "title": "Satılır torpaq 12 sot",
-    "description": "Makler deyilem!!! Torpaq satılır. Kupcası var. Nardaran 8 dalan. 12 sot. 156000. 1 sotu 13000 min.",
-    "building_type": "Torpaq",
-    "location_id": "119",
-    "location_name": "Nardaran",
-    "area_m2": 12,
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6305532",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 156000,
-        "date": "2026-10-03T19:32:13.104416+00:00"
-      }
-    ]
-  },
-  {
     "id": "6513557",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F15%2F20%2F43%2F08987e3a-1327-4bdf-a240-776c2c76e810%2F37623_iAU6BdxRy8_qBQYmvJFMOw.jpg",
     "price": 70000,
@@ -2372,7 +2108,7 @@
     "has_bill_of_sale": true,
     "has_mortgage": false,
     "floor_number": null,
-    "updated_at_site": "2026-10-07T22:55:24+04:00",
+    "updated_at_site": "2026-10-08T10:35:04+04:00",
     "is_featured": false,
     "title": "Satılır torpaq 2 sot",
     "description": "Ölkə xaricindəyəm Whatsappdan yazın.\nQaradağ rayon Lökbatan qəsəbəsində 106 Saylı məktəbin tam yanında hasara alınmış 2 Sot Topraq Sahəsi Təcili olaraq Satılır !!! 6sot idi sadəcə 2sot qalıb. Torpağda istənilən tikinti ilə bağlı Rəsmi icazə alınmışdır. Tikintiyə icazə ilə bağlı heç bir xərc tələb olunmur. Sənədi Kupça Çıxarışdır və digər Sənədləri Qaydasındadır . Məktəbə, baxçaya , KingSmart marketlərə ,xəstəxanalara , banklara və parklara yaxın yerdə yerləşir. Torpaq Sahəsi Lökbatan qəsəbəsinin tam mərkəzində yerləşir . Bütün komunal xidmətlər aktivdir. Əmlak firmaları narahat etməsin.",
@@ -2388,6 +2124,278 @@
       {
         "price": 75500,
         "date": "2026-10-03T19:32:13.107545+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6514161",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F17%2F53%2F07%2F36b23ab4-d1ff-4ee4-a6cf-0c166f1c160f%2F75513_-o9CZR3_GlNRzSnBwpJWaQ.jpg",
+    "price": 40000,
+    "location": "Qala q.",
+    "land_area_sot": 6.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.47733956521414,
+    "lng": 50.12327298091482,
+    "has_repair": null,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-08T12:09:26+04:00",
+    "is_featured": true,
+    "title": "Satılır torpaq 6 sot",
+    "description": "Mərdəkan körpüsünün yanında Qala ərazisinə düşən ideal yerləşmə yerinə malik 6sot torpaq sahəsidir. 2005 bələdiyyə sənədlidir. Təcili satıldığı üçün ucuz verilir. Kupça alınmasına köməklik olunacaq. Tam düz torpaqdır. Kupça alınıb satılsa sotu 10000 manat olacaq.",
+    "building_type": "Torpaq",
+    "location_id": "95",
+    "location_name": "Qala",
+    "area_m2": 6,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6514161",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 40000,
+        "date": "2026-10-03T19:32:13.105326+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6514703",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F22%2F11%2F54%2F2ce5dbc7-e1b3-4397-81ea-730e035263b2%2F16131_19OvmlXY67hCFVQWk5cjHw.jpg",
+    "price": 93000,
+    "location": "Bakıxanov q.",
+    "land_area_sot": 3.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.425626,
+    "lng": 49.947598,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": null,
+    "updated_at_site": "2026-10-08T12:29:02+04:00",
+    "is_featured": false,
+    "title": "Satılır torpaq 3 sot",
+    "description": "Torpaq satilir təcili cox suber yerdədi torpaq məkdəbə bazara markedərə maşurudlarada yaxindi torpaq riyal aliciya endirim var sənədidə cixarisdi ",
+    "building_type": "Torpaq",
+    "location_id": "69",
+    "location_name": "Bakıxanov",
+    "area_m2": 3,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6514703",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 93000,
+        "date": "2026-10-03T19:32:13.103833+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6409792",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F08%2F03%2F52%2F03%2F5e45dfb4-a207-41a7-948e-674b989149ae%2F72348_64UHOyJr9lRF574RqDkgMQ.jpg",
+    "price": 200000,
+    "location": "Şıxov q.",
+    "land_area_sot": 9.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.30976871535409,
+    "lng": 49.79616667193606,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": null,
+    "updated_at_site": "2026-10-08T13:23:28+04:00",
+    "is_featured": false,
+    "title": "Satılır torpaq 9 sot",
+    "description": "Şixov qəsəbəsində 1001-Gecə restoranı ilə üzbəüz Tam Mərkəzdə Dəniz Mənzərəli 9 sot torpaq sahəsi satılır. İstəyə görə bölüb 4,5 sot ala bilərsiz.  Bütün Kammunal xəttlər, işıq, su, qaz, internet və mərkəzi kanalizatsiya sistemi torpaqın yanındadır. Sənədlər qaydasındadır. Ətraf tam yaşayışdır. Qapıya kimi asfaltdır.\n",
+    "building_type": "Torpaq",
+    "location_id": "260",
+    "location_name": "Şıxov",
+    "area_m2": 4.5,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6409792",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 400000,
+        "date": "2026-10-03T19:32:13.104985+00:00"
+      },
+      {
+        "price": 200000,
+        "date": "2026-10-08T19:31:42.587841+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6513636",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F11%2F06%2F33%2Ffebc59e5-826b-43ab-b23d-52c4b5b6ad91%2F93156_r48UUUdQtbi3qkas19XPEg.jpg",
+    "price": 670000,
+    "location": "Şıxov q.",
+    "land_area_sot": 17.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.3133816533303,
+    "lng": 49.80170275134275,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-08T14:02:54+04:00",
+    "is_featured": false,
+    "title": "Satılır torpaq 17 sot",
+    "description": "TƏCİLİ SATILIR!!!\r\n Dəniz mənzərəli şxovda və hünsür ərazidə mənzərəsini korlayan heçbir tikili olmayan Kupçalı  (6..6..5 kupca ilə) torpaq sahəsi satılır \r\ntorbaq bölünmədən tap şəkildə satılır\r\n\r\nQiymət 670 000 azn \r\nOfis haqqı 1%",
+    "building_type": "Torpaq",
+    "location_id": "260",
+    "location_name": "Şıxov",
+    "area_m2": 17,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6513636",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 670000,
+        "date": "2026-10-03T19:32:13.106096+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6514316",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F18%2F33%2F10%2Ff8863a24-a140-4f1c-bd51-aa133bf33de2%2F75530_EWaakgdE81jkxn2XmZM9Ng.jpg",
+    "price": 29000,
+    "location": "Şıxov q.",
+    "land_area_sot": 11.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.30864858058447,
+    "lng": 49.79647052079989,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": null,
+    "updated_at_site": "2026-10-08T15:00:55+04:00",
+    "is_featured": false,
+    "title": "Satılır torpaq 11 sot",
+    "description": "DƏYƏRİNDƏN UCUZ SATILIR !!!\r\nŞixov qəsəbəsi 1001-Gecə Restoranı ilə üzbəüz yoldan 70- 100 metr içərdə Kupçalı torpaq sahəsi satılır. Bütün kammunalları işıq, su, qaz, mərkəzi kanalizatsiya sistemi, telefon, internet xəttləri var. Ətraf tam yaşayışdır. Həyətində meyvə ağacları  var.\r\nTorpaqın Kupça (Çıxarış) var. \r\nQiymət 1 sotuna aiddir, tam satılır. \r\n",
+    "building_type": "Torpaq",
+    "location_id": "260",
+    "location_name": "Şıxov",
+    "area_m2": 6,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6514316",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 29000,
+        "date": "2026-10-03T19:32:13.105019+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6514636",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F21%2F15%2F34%2F950a3897-b47f-4474-a3c8-0306ef99b3e1%2F63840_3K3u-1yAxIyievMb4G5hWQ.jpg",
+    "price": 25000,
+    "location": "Binə q.",
+    "land_area_sot": 2.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.42642075836499,
+    "lng": 50.10671001301298,
+    "has_repair": null,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-08T17:40:50+04:00",
+    "is_featured": true,
+    "title": "Satılır torpaq 2 sot",
+    "description": "Tam yaşayışlı ərazidir kupça yoxdur \r\nMəhlədə qaz işıq şirin suyu var həyətdə quyusu var real alıcı ilə razılaşmaq olar",
+    "building_type": "Torpaq",
+    "location_id": "79",
+    "location_name": "Binə",
+    "area_m2": 2,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6514636",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 25000,
+        "date": "2026-10-03T19:32:13.104211+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6512933",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F12%2F39%2F13%2F32377b1b-1436-4edb-942c-0ac18e7c27da%2F16189_dwcxoHCudAZ0W7FMrhk9ZA.jpg",
+    "price": 10000000,
+    "location": "Qaraçuxur q.",
+    "land_area_sot": 350.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.3997788068988,
+    "lng": 50.00005779116823,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-08T20:19:13+04:00",
+    "is_featured": false,
+    "title": "Satılır torpaq 350 sot",
+    "description": "Qaraçuxur qəs 346 nöm məktəbə yaxın yaşayış binası tikmək üçün və şəxsi həyət bağ evi tikmək üçün ideal təklif.\nTorpağın 1sotunun dəyəri 30.000 azn start \nHissə hissə satış mümkündür\nTORPAĞIN TƏYİNATI YAŞAYIŞ MƏNTƏQƏLƏRİNİN TİKİNTİSİ!!\n\nOfis haqqı 2% ",
+    "building_type": "Torpaq",
+    "location_id": "75",
+    "location_name": "Qaraçuxur",
+    "area_m2": 350,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6512933",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 10500000,
+        "date": "2026-10-03T19:32:13.107169+00:00"
+      },
+      {
+        "price": 10000000,
+        "date": "2026-10-08T19:31:37.139891+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6305532",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F20%2F10%2F22%2F40%2Fe3397155-b724-4911-8279-70713504cc09%2F53204_njrbHikjPop_x1eDqybyvA.jpg",
+    "price": 156000,
+    "location": "Nardaran q.",
+    "land_area_sot": 12.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.57640794949334,
+    "lng": 49.97672266462065,
+    "has_repair": null,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-08T20:22:41+04:00",
+    "is_featured": false,
+    "title": "Satılır torpaq 12 sot",
+    "description": "Makler deyilem!!! Torpaq satılır. Kupcası var. Nardaran 8 dalan. 12 sot. 156000. 1 sotu 13000 min.",
+    "building_type": "Torpaq",
+    "location_id": "119",
+    "location_name": "Nardaran",
+    "area_m2": 12,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6305532",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 156000,
+        "date": "2026-10-03T19:32:13.104416+00:00"
       }
     ]
   },

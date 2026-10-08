@@ -320,38 +320,6 @@
     ]
   },
   {
-    "id": "6506633",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F10%2F49%2F04%2F87c69171-e829-434f-9881-3f1cd6239ae2%2F75550_yqWKJqFzni34EpZ7yNgiLQ.jpg",
-    "price": 3500,
-    "location": "28 May m.",
-    "area_m2": 110,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.38581973275188,
-    "lng": 49.84437306260605,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-01T11:00:52+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir obyekt 110 m²",
-    "description": "Obyekt icarəyə verilir təmiri zədələnməməsi dəyişdirilməməsi əsas şərtdi. Azadlıq ilə Eldar Tağızadə kəsişməsində . Birbaşa Azadlığa baxmasada Azadlığa baxan obyektin tam bitişiyindədi yəni yoldan 2-ci obyekt.\n\nNəsimi rayon polis idarəsinin qarşısına düşür yer olaraq .\n\nAçar məndədi əvvəlcədən vaxt danışıb baxmaq olar.",
-    "building_type": "Obyekt",
-    "location_id": "8",
-    "location_name": "28 May",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6506633",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 3500,
-        "date": "2026-10-01T12:04:48.505693+00:00"
-      }
-    ]
-  },
-  {
     "id": "6506869",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F11%2F41%2F19%2F0ade5947-eba6-4612-b139-29116cbeb060%2F16159_TXFZoVjXN-vCwo0Mxl16Ng.jpg",
     "price": 2000,
@@ -2244,102 +2212,6 @@
     ]
   },
   {
-    "id": "6420627",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F31%2F13%2F42%2F08%2Fb5354472-9156-405a-83f2-32e1e1420a9e%2F68472_ZdagERlvKK5T5nPIXI6ekg.jpg",
-    "price": 1200,
-    "location": "Biləcəri q.",
-    "area_m2": 110,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.440334,
-    "lng": 49.80566169999997,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-07T10:26:50+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir obyekt 110 m²",
-    "description": "Pasyolkadan Biləcəri gedən yoldadı,klub serviz var onun yanındadı,yanında 4-5dənə serviz mövcuddur , klub servizin yanı",
-    "building_type": "Obyekt",
-    "location_id": "17",
-    "location_name": "Biləcəri",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6420627",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1200,
-        "date": "2026-10-01T12:04:48.505835+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6506622",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F10%2F46%2F45%2F5bee760a-7152-4b76-b542-260b60efa8a4%2F16186_-yBKfWaeKiknKZCETD7Mvw.jpg",
-    "price": 600,
-    "location": "İnşaatçılar m.",
-    "area_m2": 60,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.38975026637309,
-    "lng": 49.7922934929994,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-07T11:20:18+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir obyekt 60 m²",
-    "description": "📍 Yeni Yasamal\r\n🏙️ Mərkəzə yaxın ərazidə\r\n📐 60 kv\r\n✨ Təzə təmirli\r\n🔥 Döşəmələr isti pol\r\n🍽️ Mətbəx mebeli qoyulacaq\r\n♨️ Kombi qoyulacaq\r\n🏢 Ofis kimi çox rahat istifadə etmək olar\r\n📦 Karqo yeri kimi də əlverişlidir\r\n📍 Yerləşmə yeri çox yaxşıdır\r\n💰 Aylıq icarə: 600 AZN\r\n💼 Ofis haqqı: 200 AZN",
-    "building_type": "Obyekt",
-    "location_id": "7",
-    "location_name": "İnşaatçılar",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6506622",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 600,
-        "date": "2026-10-01T12:04:48.505723+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6388094",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F19%2F08%2F43%2F24%2F7439771b-155d-4215-b707-b16ca295dfc6%2F36783__0kPXiViOoG9PAYfMVp7TA.jpg",
-    "price": 1500,
-    "location": "Avtovağzal m.",
-    "area_m2": 300,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.42494319634557,
-    "lng": 49.79169861066816,
-    "has_repair": false,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-07T11:20:44+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir obyekt 300 m²",
-    "description": "İSTEHSAL VƏ BİZNES ÜÇÜN NADİR İMKAN — AVTOVAĞZAL METROSUNUN YANINDA\r\n\r\nİstehsalat üçün həm geniş, həm də əlverişli infrastruktura malik ərazi axtaranlar üçün diqqətəlayiq təklif!\r\n\r\nAvtovağzal metrosuna piyada məsafədə, arxa hissədə yerləşən 300 kv.m geniş sahəyə malik obyekt  icarəyə təqdim olunur.\r\n\r\nObyektin 5 metr hündürlüyü, geniş qapalı sahəsi və böyük həyəti istehsalat və müxtəlif biznes fəaliyyətləri üçün əvəzolunmaz üstünlük yaradır.\r\n\r\nƏn böyük üstünlüklərindən biri isə ərazidə işıq transformatorunun, yüksək təzyiqli qaz xəttinin və Şollar su xəttinin olmasıdır. Bu imkanlar obyekti adi kommersiya sahəsindən fərqləndirərək, xüsusilə istehsalat fəaliyyəti üçün daha əlverişli edir.\r\n\r\nBurada istehsalat sexi, anbar, emalatxana, logistika mərkəzi, mebel istehsalı, müxtəlif sənaye və kommersiya fəaliyyəti təşkil etmək mümkündür.\r\n\r\nƏsas yola və Avtovağzal metrosuna yaxınlığı isə həm əməkdaşlar, həm də logistika baxımından əlavə üstünlük yaradır.\r\n\r\n300 kv.m sahə\r\n5 metr hündürlük\r\nGeniş həyət\r\nİşıq transformatoru\r\nYüksək təzyiqli qaz xətti\r\nŞollar su xətti\r\nİstehsal üçün əlverişli infrastruktur\r\nAvtovağzal metrosuna piyada məsafə\r\n\r\nBelə xüsusiyyətləri bir arada olan obyektlər bazarda tez-tez qarşıya çıxmır.\r\n",
-    "building_type": "Obyekt",
-    "location_id": "266",
-    "location_name": "Avtovağzal",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6388094",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1500,
-        "date": "2026-10-01T12:04:48.505562+00:00"
-      }
-    ]
-  },
-  {
     "id": "6506993",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F12%2F06%2F28%2F7023e59a-2b6f-4500-ad72-90643ba28bee%2F16139_U0MMQdyueJTlskKyinxJgg.jpg",
     "price": 1000,
@@ -2372,6 +2244,102 @@
     ]
   },
   {
+    "id": "6506633",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F10%2F49%2F04%2F87c69171-e829-434f-9881-3f1cd6239ae2%2F75550_yqWKJqFzni34EpZ7yNgiLQ.jpg",
+    "price": 3500,
+    "location": "28 May m.",
+    "area_m2": 110,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38581973275188,
+    "lng": 49.84437306260605,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-08T09:49:06+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir obyekt 110 m²",
+    "description": "Obyekt icarəyə verilir təmiri zədələnməməsi dəyişdirilməməsi əsas şərtdi. Azadlıq ilə Eldar Tağızadə kəsişməsində . Birbaşa Azadlığa baxmasada Azadlığa baxan obyektin tam bitişiyindədi yəni yoldan 2-ci obyekt.\n\nNəsimi rayon polis idarəsinin qarşısına düşür yer olaraq .\n\nAçar məndədi əvvəlcədən vaxt danışıb baxmaq olar.",
+    "building_type": "Obyekt",
+    "location_id": "8",
+    "location_name": "28 May",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6506633",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 3500,
+        "date": "2026-10-01T12:04:48.505693+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6420627",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F31%2F13%2F42%2F08%2Fb5354472-9156-405a-83f2-32e1e1420a9e%2F68472_ZdagERlvKK5T5nPIXI6ekg.jpg",
+    "price": 1200,
+    "location": "Biləcəri q.",
+    "area_m2": 110,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.440334,
+    "lng": 49.80566169999997,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-08T10:26:51+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir obyekt 110 m²",
+    "description": "Pasyolkadan Biləcəri gedən yoldadı,klub serviz var onun yanındadı,yanında 4-5dənə serviz mövcuddur , klub servizin yanı",
+    "building_type": "Obyekt",
+    "location_id": "17",
+    "location_name": "Biləcəri",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6420627",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1200,
+        "date": "2026-10-01T12:04:48.505835+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6388094",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F19%2F08%2F43%2F24%2F7439771b-155d-4215-b707-b16ca295dfc6%2F36783__0kPXiViOoG9PAYfMVp7TA.jpg",
+    "price": 1500,
+    "location": "Avtovağzal m.",
+    "area_m2": 300,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.42494319634557,
+    "lng": 49.79169861066816,
+    "has_repair": false,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-08T11:20:44+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir obyekt 300 m²",
+    "description": "İSTEHSAL VƏ BİZNES ÜÇÜN NADİR İMKAN — AVTOVAĞZAL METROSUNUN YANINDA\r\n\r\nİstehsalat üçün həm geniş, həm də əlverişli infrastruktura malik ərazi axtaranlar üçün diqqətəlayiq təklif!\r\n\r\nAvtovağzal metrosuna piyada məsafədə, arxa hissədə yerləşən 300 kv.m geniş sahəyə malik obyekt  icarəyə təqdim olunur.\r\n\r\nObyektin 5 metr hündürlüyü, geniş qapalı sahəsi və böyük həyəti istehsalat və müxtəlif biznes fəaliyyətləri üçün əvəzolunmaz üstünlük yaradır.\r\n\r\nƏn böyük üstünlüklərindən biri isə ərazidə işıq transformatorunun, yüksək təzyiqli qaz xəttinin və Şollar su xəttinin olmasıdır. Bu imkanlar obyekti adi kommersiya sahəsindən fərqləndirərək, xüsusilə istehsalat fəaliyyəti üçün daha əlverişli edir.\r\n\r\nBurada istehsalat sexi, anbar, emalatxana, logistika mərkəzi, mebel istehsalı, müxtəlif sənaye və kommersiya fəaliyyəti təşkil etmək mümkündür.\r\n\r\nƏsas yola və Avtovağzal metrosuna yaxınlığı isə həm əməkdaşlar, həm də logistika baxımından əlavə üstünlük yaradır.\r\n\r\n300 kv.m sahə\r\n5 metr hündürlük\r\nGeniş həyət\r\nİşıq transformatoru\r\nYüksək təzyiqli qaz xətti\r\nŞollar su xətti\r\nİstehsal üçün əlverişli infrastruktur\r\nAvtovağzal metrosuna piyada məsafə\r\n\r\nBelə xüsusiyyətləri bir arada olan obyektlər bazarda tez-tez qarşıya çıxmır.\r\n",
+    "building_type": "Obyekt",
+    "location_id": "266",
+    "location_name": "Avtovağzal",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6388094",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1500,
+        "date": "2026-10-01T12:04:48.505562+00:00"
+      }
+    ]
+  },
+  {
     "id": "6457820",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F13%2F18%2F21%2F52%2F7253d2cf-fcf7-41fd-b27b-141b48986a5f%2F59919_bPIwJMl7eLrlaVXe25e5Sw.jpg",
     "price": 2600,
@@ -2385,7 +2353,7 @@
     "has_bill_of_sale": false,
     "has_mortgage": false,
     "floor_number": null,
-    "updated_at_site": "2026-10-07T13:11:05+04:00",
+    "updated_at_site": "2026-10-08T13:11:07+04:00",
     "is_featured": false,
     "title": "İcarəyə verilir obyekt 80 m²",
     "description": "MedEra Hospitalın qarşısında yerləşən 4 otaqlı, tam təmirli və istifadəyə hazır Obyekt icarəyə verilir.\n\nObyekt daxilində sanitar qovşaq və mətbəx mövcuddur.\n\nGüclü havalandırma sistemi,səs sistemi mövcuddur\n\nMüşahidə kamera sistemi quraşdırılıb\n\nBirbaşa yol kənarında yerləşir\nƏlverişli lokasiya\n\nMüxtəlif biznes sahələri üçün uyğundur.\n\nReal müştəri olsa,qiymət danışılar.",
@@ -2417,7 +2385,7 @@
     "has_bill_of_sale": false,
     "has_mortgage": false,
     "floor_number": null,
-    "updated_at_site": "2026-10-07T13:32:47+04:00",
+    "updated_at_site": "2026-10-08T13:32:47+04:00",
     "is_featured": true,
     "title": "İcarəyə verilir obyekt 7800 m²",
     "description": "İCARƏYƏ ANBAR – NƏRİMANOV RAYONU\r\n\r\nBakı şəhərinin mərkəzi və əlverişli ərazilərindən biri olan Nərimanov rayonunda, logistika və anbar fəaliyyəti üçün uyğun anbar sahəsi icarəyə təklif olunur.\r\n\r\nAnbarın əsas üstünlükləri:\r\n\r\n• 17 metr tavan hündürlüyü\r\n• Anbarın qarşısında obyektə məxsus 7 000 m² geniş açıq sahə\r\n• Ərazidə əlavə 600 m² avtotəmir sahəsi mövcuddur və bu sahə icarə kvadraturasına daxil edilmir\r\n• Yüklərin rahat daşınması, yüklənməsi və boşaldılması üçün xüsusi platforma\r\n• Yük və iri tonnajlı avtomobillərin rahat hərəkəti üçün geniş ərazi\r\n• Kamera müşahidə sistemi\r\n• Mühafizə kabinəsi və şlaqbaum\r\n• Təhlükəsiz və nəzarət olunan ərazi\r\n\r\nAnbarın mərkəzi yerləşməsi, geniş açıq sahəsi, 17 metrlik hündürlüyü və logistika üçün yaradılmış infrastrukturu onu anbar, logistika, distribusiya və müxtəlif kommersiya fəaliyyətləri üçün əlverişli edir.\r\n\r\nUzunmüddətli və ciddi icarəçilərlə əməkdaşlığa üstünlük verilir.\r\n\r\nƏtraflı məlumat, qiymət və əraziyə baxış üçün əlaqə saxlaya bilərsiniz.",
@@ -2432,6 +2400,38 @@
       {
         "price": 62400,
         "date": "2026-10-01T12:04:48.505005+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6506622",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F10%2F46%2F45%2F5bee760a-7152-4b76-b542-260b60efa8a4%2F16186_-yBKfWaeKiknKZCETD7Mvw.jpg",
+    "price": 600,
+    "location": "İnşaatçılar m.",
+    "area_m2": 60,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.38975026637309,
+    "lng": 49.7922934929994,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-08T16:48:11+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir obyekt 60 m²",
+    "description": "📍 Yeni Yasamal\r\n🏙️ Mərkəzə yaxın ərazidə\r\n📐 60 kv\r\n✨ Təzə təmirli\r\n🔥 Döşəmələr isti pol\r\n🍽️ Mətbəx mebeli qoyulacaq\r\n♨️ Kombi qoyulacaq\r\n🏢 Ofis kimi çox rahat istifadə etmək olar\r\n📦 Karqo yeri kimi də əlverişlidir\r\n📍 Yerləşmə yeri çox yaxşıdır\r\n💰 Aylıq icarə: 600 AZN\r\n💼 Ofis haqqı: 200 AZN",
+    "building_type": "Obyekt",
+    "location_id": "7",
+    "location_name": "İnşaatçılar",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6506622",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 600,
+        "date": "2026-10-01T12:04:48.505723+00:00"
       }
     ]
   },

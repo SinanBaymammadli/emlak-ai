@@ -102,40 +102,6 @@
     ]
   },
   {
-    "id": "6512389",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F01%2F52%2F30%2F13430ca3-1f45-4add-8d82-17a3978af66a%2F75554_aCZZjlLyO5vH8aV0DFZuoQ.jpg",
-    "price": 650,
-    "location": "Qara Qarayev m.",
-    "rooms": "2 otaqlı",
-    "area_m2": 45,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.42159818168686,
-    "lng": 49.933935077963,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-03T08:13:59+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı həyət evi/bağ evi 45 m²",
-    "description": "Təmirdən yeni çıxmış 2 otaqlı həyət evidir. Hazırlıq kursları və yaşayış üçün əlverişlidir. Sevinc Mallın arxasında, Qara Qarayev metrostansiyasına 4 dəqiqəlik məsafədə yerləşir. Ətrafında məktəb, bağça, market var. Şəkillərdə olanlardan əlavə əşya verilmir. Qiymət 650 AZN, razılaşmaq mümkündür.",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "52",
-    "location_name": "Qara Qarayev",
-    "land_area_sot": 2,
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6512389",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 650,
-        "date": "2026-10-03T19:32:06.013081+00:00"
-      }
-    ]
-  },
-  {
     "id": "6512440",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F09%2F36%2F15%2Fe0e96bd6-678f-4eda-8d85-b6805cf9302b%2F6130_ucunNZ5gnVUIHGXnH5c1ww.jpg",
     "price": 220,
@@ -1428,6 +1394,44 @@
     ]
   },
   {
+    "id": "6512389",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F03%2F01%2F52%2F30%2F13430ca3-1f45-4add-8d82-17a3978af66a%2F75554_aCZZjlLyO5vH8aV0DFZuoQ.jpg",
+    "price": 600,
+    "location": "Qara Qarayev m.",
+    "rooms": "2 otaqlı",
+    "area_m2": 45,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.42159818168686,
+    "lng": 49.933935077963,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-08T16:50:53+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı həyət evi/bağ evi 45 m²",
+    "description": "Təmirdən yeni çıxmış 2 otaqlı həyət evidir. Hazırlıq kursları və yaşayış üçün əlverişlidir. Sevinc Mallın arxasında, Qara Qarayev metrostansiyasına 4 dəqiqəlik məsafədə yerləşir. Ətrafında məktəb, bağça, market var. Şəkillərdə olanlardan əlavə əşya verilmir. Qiymət 650 AZN, razılaşmaq mümkündür.",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "52",
+    "location_name": "Qara Qarayev",
+    "land_area_sot": 2,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6512389",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 650,
+        "date": "2026-10-03T19:32:06.013081+00:00"
+      },
+      {
+        "price": 600,
+        "date": "2026-10-08T19:31:49.342226+00:00"
+      }
+    ]
+  },
+  {
     "id": "3607207",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2023%2F07%2F05%2F15%2F54%2F21%2Ffc7ac244-f185-450e-9957-89775ed5b9f8%2F21480_8NfYv7s-YXNna13IIiwjPw.jpg",
     "price": 2000,
@@ -1442,7 +1446,7 @@
     "has_bill_of_sale": false,
     "has_mortgage": false,
     "floor_number": null,
-    "updated_at_site": "2026-10-07T19:29:32+04:00",
+    "updated_at_site": "2026-10-08T19:29:32+04:00",
     "is_featured": false,
     "title": "İcarəyə verilir 7 otaqlı həyət evi/bağ evi 240 m²",
     "description": " Bağ gözəl və sakit yerdə yerləşir,GƏMİ  istirahət mərkəzinə yaxındır. Bağ evinin  6 yatag,zal, iki mətbəx, manqal otağı və bisetkası var!Qab və paltaryuyan,kondisioner var. dincəlmək üçün gözəl və rahat şəraitli bağ evidir!\n Дача находится в тихом, спокойном месте.  Беседка, мангальная комната 5 спальных комнат 3 сан узла к вашим услугам!\nМожете связываться и по WhatsApp.",
@@ -1476,8 +1480,8 @@
     "has_bill_of_sale": false,
     "has_mortgage": false,
     "floor_number": null,
-    "updated_at_site": "2026-10-07T22:42:46+04:00",
-    "is_featured": false,
+    "updated_at_site": "2026-10-08T20:49:44+04:00",
+    "is_featured": true,
     "title": "İcarəyə verilir 3 otaqlı həyət evi/bağ evi 65 m²",
     "description": "Salam Ev təmirlidir Səliqəli dayimi qalan Ayləlilər verilir Sistem konbi kanseneri yatacağı da paltar yuyan xaladenliki var unvan 7 gözəlin arxasındə həyət evi atelnidir vayfayıda var riyal ev götürməy isdəyən xayiş olunur narhat etsin.7 gözəl Dağ ətəyin arxasındakı məhlə Qimət Son dur Qimətlə bağlı Xayış olunur narhat etməyin ",
     "building_type": "Həyət evi/Bağ evi",

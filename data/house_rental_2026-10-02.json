@@ -3488,74 +3488,6 @@
     ]
   },
   {
-    "id": "6275290",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F08%2F15%2F48%2F58%2F03d16830-9f53-45bf-91e8-4cc3e034bf21%2F95231__iixvzNzajgT65bJU_Farw.jpg",
-    "price": 450,
-    "location": "İnşaatçılar m.",
-    "rooms": "2 otaqlı",
-    "area_m2": 40,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.3919356854018,
-    "lng": 49.80613911975714,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-07T12:48:12+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı həyət evi/bağ evi 40 m²",
-    "description": "Yasamal polis idaresine taxin . Qelebe daresine Bakumalla yaxin yerde. 1/1 heyet evi tipli menzil. Heyeti yoxdur qapini ac gir.Her bir weraiti var. Maklerin zehmet haqqi 30% olacaq",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "7",
-    "location_name": "İnşaatçılar",
-    "land_area_sot": 0.5,
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6275290",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 450,
-        "date": "2026-10-02T14:51:29.250681+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6238634",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F24%2F19%2F08%2F30%2F32f0bcbc-31a6-4913-b2a6-ad8ecaf31d42%2F3039_9gOZVMCYozVx6H0IsJFmKQ.jpg",
-    "price": 160,
-    "location": "Mərdəkan q.",
-    "rooms": "4 otaqlı",
-    "area_m2": 250,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.47687369556868,
-    "lng": 50.14400656812121,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-07T13:25:54+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 4 otaqlı həyət evi/bağ evi 250 m²",
-    "description": "Yeni temirden cixib, sahibiyem 24 saat zeng ede bilersiz. İsdi baseyn ",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "109",
-    "location_name": "Mərdəkan",
-    "land_area_sot": 4,
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6238634",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 160,
-        "date": "2026-10-02T14:51:29.248215+00:00"
-      }
-    ]
-  },
-  {
     "id": "6511807",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F18%2F34%2F19%2F6382e1a1-cb16-4a49-9037-e146acfd35dd%2F16178_HMYl2tbucAm7ReUkq32vvg.jpg",
     "price": 800,
@@ -3586,44 +3518,6 @@
       {
         "price": 800,
         "date": "2026-10-02T14:51:29.246978+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6511404",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F17%2F00%2F56%2Fde06f594-0f58-4dc8-8047-63add15d1b5d%2F28831_HKXzqGI4zdf9m85X999XPQ.jpg",
-    "price": 240,
-    "location": "Şüvəlan q.",
-    "rooms": "5 otaqlı",
-    "area_m2": 300,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.48835089183655,
-    "lng": 50.2096749212149,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-07T13:26:46+04:00",
-    "is_featured": true,
-    "title": "İcarəyə verilir 5 otaqlı həyət evi/bağ evi 300 m²",
-    "description": "✨ Şüvəlan | İsti hovuzlu, saunalı lüks villa\r\n\r\nVillada isti hovuz, sauna, odunla işləyən kamin, yay və qış manqal zonaları, rahat söhbətgah və uşaq meydançası mövcuddur. Meyvə ağacları, geniş yaşıllıq sahəsi və generatoru ilə villa həm ailəvi istirahət, həm də uzunmüddətli yaşayış üçün ideal şərait yaradır.\r\n\r\nGeniş həyət, şəxsi istirahət zonası və dörd fəsil rahatlıq — şəhərin səs-küyündən uzaqda özəl məkanınız. Ətraflı məlumat üçün zəng edin",
-    "building_type": "Həyət evi/Bağ evi",
-    "location_id": "110",
-    "location_name": "Şüvəlan",
-    "land_area_sot": 6,
-    "category": "house",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6511404",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 250,
-        "date": "2026-10-02T14:51:29.247308+00:00"
-      },
-      {
-        "price": 240,
-        "date": "2026-10-06T12:57:42.208849+00:00"
       }
     ]
   },
@@ -3764,6 +3658,112 @@
     ]
   },
   {
+    "id": "6275290",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F08%2F15%2F48%2F58%2F03d16830-9f53-45bf-91e8-4cc3e034bf21%2F95231__iixvzNzajgT65bJU_Farw.jpg",
+    "price": 450,
+    "location": "İnşaatçılar m.",
+    "rooms": "2 otaqlı",
+    "area_m2": 40,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.3919356854018,
+    "lng": 49.80613911975714,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-08T12:48:13+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı həyət evi/bağ evi 40 m²",
+    "description": "Yasamal polis idaresine taxin . Qelebe daresine Bakumalla yaxin yerde. 1/1 heyet evi tipli menzil. Heyeti yoxdur qapini ac gir.Her bir weraiti var. Maklerin zehmet haqqi 30% olacaq",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "7",
+    "location_name": "İnşaatçılar",
+    "land_area_sot": 0.5,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6275290",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 450,
+        "date": "2026-10-02T14:51:29.250681+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6238634",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F24%2F19%2F08%2F30%2F32f0bcbc-31a6-4913-b2a6-ad8ecaf31d42%2F3039_9gOZVMCYozVx6H0IsJFmKQ.jpg",
+    "price": 160,
+    "location": "Mərdəkan q.",
+    "rooms": "4 otaqlı",
+    "area_m2": 250,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.47687369556868,
+    "lng": 50.14400656812121,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-08T13:25:56+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 4 otaqlı həyət evi/bağ evi 250 m²",
+    "description": "Yeni temirden cixib, sahibiyem 24 saat zeng ede bilersiz. İsdi baseyn ",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "109",
+    "location_name": "Mərdəkan",
+    "land_area_sot": 4,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6238634",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 160,
+        "date": "2026-10-02T14:51:29.248215+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6511404",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F17%2F00%2F56%2Fde06f594-0f58-4dc8-8047-63add15d1b5d%2F28831_HKXzqGI4zdf9m85X999XPQ.jpg",
+    "price": 240,
+    "location": "Şüvəlan q.",
+    "rooms": "5 otaqlı",
+    "area_m2": 300,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.48835089183655,
+    "lng": 50.2096749212149,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-08T13:26:47+04:00",
+    "is_featured": true,
+    "title": "İcarəyə verilir 5 otaqlı həyət evi/bağ evi 300 m²",
+    "description": "✨ Şüvəlan | İsti hovuzlu, saunalı lüks villa\r\n\r\nVillada isti hovuz, sauna, odunla işləyən kamin, yay və qış manqal zonaları, rahat söhbətgah və uşaq meydançası mövcuddur. Meyvə ağacları, geniş yaşıllıq sahəsi və generatoru ilə villa həm ailəvi istirahət, həm də uzunmüddətli yaşayış üçün ideal şərait yaradır.\r\n\r\nGeniş həyət, şəxsi istirahət zonası və dörd fəsil rahatlıq — şəhərin səs-küyündən uzaqda özəl məkanınız. Ətraflı məlumat üçün zəng edin",
+    "building_type": "Həyət evi/Bağ evi",
+    "location_id": "110",
+    "location_name": "Şüvəlan",
+    "land_area_sot": 6,
+    "category": "house",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6511404",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 250,
+        "date": "2026-10-02T14:51:29.247308+00:00"
+      },
+      {
+        "price": 240,
+        "date": "2026-10-06T12:57:42.208849+00:00"
+      }
+    ]
+  },
+  {
     "id": "6511831",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F02%2F18%2F42%2F52%2F9ef36f80-1386-4fc8-abda-e8ccedc776eb%2F75527_oII0IjYbun4-AlCkRtgQGw.jpg",
     "price": 1000,
@@ -3778,7 +3778,7 @@
     "has_bill_of_sale": false,
     "has_mortgage": false,
     "floor_number": null,
-    "updated_at_site": "2026-10-07T18:57:29+04:00",
+    "updated_at_site": "2026-10-08T18:57:28+04:00",
     "is_featured": false,
     "title": "İcarəyə verilir 3 otaqlı həyət evi/bağ evi 150 m²",
     "description": "Şüvəlan | Qış mövsümü üçün bağ evi kirayə verilir\r\nŞüvəlanda yerləşən bağ evi may ayına qədər uzunmüddətli kirayə verilir.\r\n-\r\nÜmumi 3 otaq, 2 yataq otağı\r\nİsti pol sistemi\r\nBütün zəruri məişət əşyaları ilə təchiz olunub\r\nAsfalt yol. Qış aylarında yaşayış üçün əlverişli şərait\r\nUzunmüddətli qalmaq və şəhər səs-küyündən uzaq, rahat yaşayış axtaranlar üçün uyğun seçimdir.\r\n-\r\nƏtraflı məlumat və qiymət üçün əlaqə saxlaya bilərsiniz.",
@@ -3812,7 +3812,7 @@
     "has_bill_of_sale": false,
     "has_mortgage": false,
     "floor_number": null,
-    "updated_at_site": "2026-10-07T22:06:46+04:00",
+    "updated_at_site": "2026-10-08T22:11:12+04:00",
     "is_featured": false,
     "title": "İcarəyə verilir 4 otaqlı həyət evi/bağ evi 160 m²",
     "description": "Fatmayı bağlarında dənizə yaxın,sakit və prestijli ərazidə ,təmirli və hər bir şəraiti olan\r\n2 mərtəbəli, 4 otaqlı bağ evi tam əşyalı aylıq kirayə verilir\r\nBağda rahat dincəlməyiniz üçün söhbətgah,yelləncək,manqal və samovar var\r\nVasitəçi deyiləm öz bağımdı",

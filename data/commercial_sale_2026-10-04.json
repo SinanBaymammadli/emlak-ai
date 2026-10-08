@@ -704,38 +704,6 @@
     ]
   },
   {
-    "id": "6516427",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F19%2F22%2F41%2Fb656d3a1-b1e2-4c5a-9acd-1e0f1d95beb3%2F2245_HRoyLriIxdAcHQHsoNyZHg.jpg",
-    "price": 450000,
-    "location": "Nəriman Nərimanov m.",
-    "area_m2": 110,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.40633503986751,
-    "lng": 49.87420272309259,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": null,
-    "updated_at_site": "2026-10-04T19:24:15+04:00",
-    "is_featured": false,
-    "title": "Satılır obyekt 110 m²",
-    "description": "Nerimanov r .Metropark yaxinliginda \r\nyeni tikili 18 mertebeli binanin 1 ci mertebesinde \r\nobyekt satilir \r\n4 otaglidir \r\n2 sanuzel /elave metbex \r\nistilik kombi sistemi \r\nkladovaya .onunde parkovka yeri movcuddur \r\ninternet var \r\ngozellik salonu \r\nmini klinika \r\nofis ve yaxud her hansi bir idare ucun uygundur \r\nSENED QEYRI  YASHAYISHDIR \r\nelave melumat ucun elaqe saxlayin \r\nxidmet haqqi 1%\r\n",
-    "building_type": "Obyekt",
-    "location_id": "1",
-    "location_name": "Nəriman Nərimanov",
-    "category": "commercial",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6516427",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 450000,
-        "date": "2026-10-04T16:35:51.239896+00:00"
-      }
-    ]
-  },
-  {
     "id": "6413262",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F28%2F12%2F53%2F23%2Fd6d8546a-8d7b-4fbe-824e-a6c13c78468c%2F68350_GN-t6fB4-yJ3ighdqmMBxQ.jpg",
     "price": 1200000,
@@ -781,7 +749,7 @@
     "has_bill_of_sale": true,
     "has_mortgage": false,
     "floor_number": null,
-    "updated_at_site": "2026-10-07T14:58:54+04:00",
+    "updated_at_site": "2026-10-08T14:58:53+04:00",
     "is_featured": false,
     "title": "Satılır obyekt 75 m²",
     "description": "🏢 ATATÜRK PARKININ 1 ADDIMLIĞINDA – KUPÇALI VƏ İCARƏDƏ OLAN OBYEKT SATIŞA ÇIXARILDI!\r\n\r\n📍 Ünvan: Atatürk Parkı küçəsi, Ayna Sultanova heykəlinin yaxınlığı\r\n\r\nŞəhərin ən əlverişli və hərəkətli ərazilərindən birində, Atatürk Parkına sözün əsl mənasında 1 addımlıq məsafədə yerləşən, 75 m² sahəyə malik kupçalı qeyri-yaşayış sahəsi satışa təqdim olunur.\r\n\r\nObyekt hazırda icarədədir və stabil gəlir gətirir. Bu səbəbdən həm biznes fəaliyyəti, həm də gəlirli investisiya üçün əlverişli seçimdir. Ətrafda yaşayış binaları, çoxsaylı iaşə və xidmət obyektləri, marketlər, apteklər, mağazalar, restoran və kafelər, bank filialları və digər gündəlik tələbat məntəqələri yerləşir.\r\n\r\n🚶‍♂️ Atatürk Parkı – 1 addımlıq\r\n📍 Ayna Sultanova heykəli – yaxınlıqda\r\n🏢 75 m²\r\n📜 Kupçalı\r\n🏷️ Qeyri-yaşayış sahəsi\r\n🔑 Hazırda icarədədir\r\n💰 Stabil icarə gəliri\r\n🚗 Ərazidə avtomobil və piyada axını yüksəkdir\r\n💼 Müxtəlif biznes fəaliyyəti üçün əlverişli lokasiya\r\n📈 İnvestisiya üçün perspektivli ərazi\r\n\r\nBu obyekt həm hazırkı icarə gəlirindən faydalanmaq, həm də gələcəkdə öz biznesinizi qurmaq istəyənlər üçün uğurlu seçimdir.\r\n\r\n📞 Ətraflı məlumat və yerində baxış üçün əlaqə  saxlaya bilərsiniz\r\n\r\nOfis haqqi 1%\r\n",
@@ -800,6 +768,38 @@
     ]
   },
   {
+    "id": "6516427",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F19%2F22%2F41%2Fb656d3a1-b1e2-4c5a-9acd-1e0f1d95beb3%2F2245_HRoyLriIxdAcHQHsoNyZHg.jpg",
+    "price": 450000,
+    "location": "Nəriman Nərimanov m.",
+    "area_m2": 110,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.40633503986751,
+    "lng": 49.87420272309259,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": null,
+    "updated_at_site": "2026-10-08T19:04:38+04:00",
+    "is_featured": false,
+    "title": "Satılır obyekt 110 m²",
+    "description": "Nerimanov r .Metropark yaxinliginda \r\nyeni tikili 18 mertebeli binanin 1 ci mertebesinde \r\nobyekt satilir \r\n4 otaglidir \r\n2 sanuzel /elave metbex \r\nistilik kombi sistemi \r\nkladovaya .onunde parkovka yeri movcuddur \r\ninternet var \r\ngozellik salonu \r\nmini klinika \r\nofis ve yaxud her hansi bir idare ucun uygundur \r\nSENED QEYRI  YASHAYISHDIR \r\nelave melumat ucun elaqe saxlayin \r\nxidmet haqqi 1%\r\n",
+    "building_type": "Obyekt",
+    "location_id": "1",
+    "location_name": "Nəriman Nərimanov",
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6516427",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 450000,
+        "date": "2026-10-04T16:35:51.239896+00:00"
+      }
+    ]
+  },
+  {
     "id": "6516565",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F20%2F50%2F11%2F4893b925-48fd-4733-98db-f1edb619d983%2F75542_ExCK3XuEOrFWdA20fmOhLw.jpg",
     "price": 420000,
@@ -813,7 +813,7 @@
     "has_bill_of_sale": true,
     "has_mortgage": true,
     "floor_number": null,
-    "updated_at_site": "2026-10-07T20:57:36+04:00",
+    "updated_at_site": "2026-10-08T20:57:36+04:00",
     "is_featured": true,
     "title": "Satılır obyekt 130 m²",
     "description": "Şəhərin mərkəzində dəyərindən ucuz qeyri yaşayış kupçalı obyekt təcili satılır. \r\n\r\nABŞ səfirliyinin yaxınlığı, 28 May metrostansiyasına yürüyüş məsafəsində 2 mərtəbəli, ümumi sahəsi 130 kvm (70+60) obyekt satılır. Sənəd qeyri yaşayış kupça. Bütün kommunallar, mərkəzi isitmə daimidir. Əla təmirlidir. Şəhərin çox əlverişli nöqtəsində yerləşir. Real alıcı ilə qiymətdə güzəşt olunacaq. Vasitəçilər və qeyri ciddi fikri olanlar narahat etməsin. ",

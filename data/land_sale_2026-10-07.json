@@ -136,74 +136,6 @@
     ]
   },
   {
-    "id": "6119370",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F11%2F12%2F06%2F59%2F1874742b-354c-48d5-bf8a-3bc482b645d7%2F77158_XzzjD9xHK6VKPIclgNkgBw.jpg",
-    "price": 170000,
-    "location": "Buzovna q.",
-    "location_id": "117",
-    "location_name": "Buzovna",
-    "rooms": null,
-    "area_m2": 8,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": true,
-    "updated_at_site": "2026-10-07T07:54:14+04:00",
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6119370",
-    "lat": 40.5156142,
-    "lng": 50.10132739999995,
-    "land_area_sot": null,
-    "building_type": "Torpaq",
-    "title": "Satılır torpaq 8 sot",
-    "description": "TƏCİLİ SATILIR!\n\n8 sotda kupçalı torpaq sahəsi satılır. Hər tərəfi yaşayışdır. Torpaq sahəsində bütün kommunal xətlər (su, işıq, qaz) mövcuddur. Sənədlər tam qaydasındadır. Real alıcıya endirim olacaq!\n",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 170000,
-        "date": "2026-10-07T19:31:41.629569+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6522817",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F01%2F31%2F41%2F0b8901d0-8c92-40fb-a341-f974a04ef5f0%2F44537_cBGAdOmH-TQavewqLDvX_Q.jpg",
-    "price": 300000,
-    "location": "Mərdəkan q.",
-    "location_id": "109",
-    "location_name": "Mərdəkan",
-    "rooms": null,
-    "area_m2": 10,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": true,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T08:09:17+04:00",
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6522817",
-    "lat": 40.47857,
-    "lng": 50.150065,
-    "land_area_sot": null,
-    "building_type": "Torpaq",
-    "title": "Satılır torpaq 10 sot",
-    "description": "Mərdəkənin ən elit və prestijli küçələrindən biri olan H.Z. Tağıyev küçəsində 10 sot torpaq sahəsi satışa çıxarılıb. Əsas yola yaxın yerləşir , yolu asfaltdir qapıya qədər . \r\n",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 300000,
-        "date": "2026-10-07T19:31:41.629552+00:00"
-      }
-    ]
-  },
-  {
     "id": "6522835",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F04%2F14%2F15%2F044c5017-314a-4e53-8562-99808a871461%2F60595_yVpZrkO-IUb0Sbdrv_VI8Q.jpg",
     "price": 25000,
@@ -1020,108 +952,6 @@
     ]
   },
   {
-    "id": "6523157",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F11%2F08%2F29%2Fbbb1b598-0670-4953-93cf-88bcff946410%2F17556_JIluI2Kg3Ci3sSoBnYWlBg.jpg",
-    "price": 2750,
-    "location": "Yeni Suraxanı q.",
-    "location_id": "88",
-    "location_name": "Yeni Suraxanı",
-    "rooms": null,
-    "area_m2": 500,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": null,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T11:35:51+04:00",
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6523157",
-    "lat": 40.42545948901513,
-    "lng": 50.03924764057816,
-    "land_area_sot": null,
-    "building_type": "Torpaq",
-    "title": "Satılır torpaq 500 sot",
-    "description": "Salam hervaxdiniz xeyir torpaq COX TECLİ SATİLİR etraf butun yasayislidi merkezi kanalizasya asvaltdan 30 metr mesafesi var torpaqin hundur yerde yerlesir yaxinliqinda baxca mekteb ver qeyd edimki torpaq 99 illik kent teserfat teyinatlidir yeni tikinti etmek mumkundur natarial qaydada alqi satqi edilecek elave suallariniz olsa yiga bilersiz ",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 2750,
-        "date": "2026-10-07T19:31:40.427851+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6523276",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F11%2F42%2F49%2F5809f97f-15fe-4731-a217-2603f73cc806%2F37086_G5cjNRqxA7h_dtAXiQTGmA.jpg",
-    "price": 140000,
-    "location": "Qala q.",
-    "location_id": "95",
-    "location_name": "Qala",
-    "rooms": null,
-    "area_m2": 1400,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": false,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T11:46:13+04:00",
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6523276",
-    "lat": 40.42857764400973,
-    "lng": 50.20466982587992,
-    "land_area_sot": null,
-    "building_type": "Torpaq",
-    "title": "Satılır torpaq 1400 sot",
-    "description": " Xaşaxuna baglari yoldan 70 metrlik mesafede asfalt yolu olan gedimi bag xeyet saxesi satilir ,4 terefi xasarla ehate olunmuş meyve agaclari olan bagdir....men yerin saxibiyem vasiteci  deyilem ve xahiş edirem vasiteciler naraxat etmesin....",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 140000,
-        "date": "2026-10-07T19:31:40.427812+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6523278",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F11%2F45%2F16%2F25615607-ff9f-4b64-a2ac-7d1dcb6a40b5%2F60551_fmtnWKBpysD6th1lza2KVw.jpg",
-    "price": 60000,
-    "location": "Binə q.",
-    "location_id": "79",
-    "location_name": "Binə",
-    "rooms": null,
-    "area_m2": 2,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": true,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T11:46:38+04:00",
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6523278",
-    "lat": 40.4575822217435,
-    "lng": 50.08059625659177,
-    "land_area_sot": null,
-    "building_type": "Torpaq",
-    "title": "Satılır torpaq 2 sot",
-    "description": "🏡 Xəzər rayonu, Binə qəsəbəsi – torpaq satılır!\r\n\r\n📍 88 nömrəli tam orta məktəbin yaxınlığında\r\n📐 Sahəsi: 2 sot\r\n📄 Kupça (çıxarış) var\r\n🏠 Torpaq öz həyətindən satılır\r\n💡 İşıq daimidir\r\n💧 Su daimidir\r\n🔥 Qaz daimidir\r\n🚰 Kanalizasiya: şambo\r\n\r\nƏrazi yaşayış üçün əlverişli və infrastruktura yaxındır.\r\n\r\nXidmət Haqqı 1000 AZN\r\n📞 Ətraflı məlumat və qiymət üçün əlaqə saxlaya bilərsiniz.",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 60000,
-        "date": "2026-10-07T19:31:40.427794+00:00"
-      }
-    ]
-  },
-  {
     "id": "6211690",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F14%2F20%2F19%2F05%2Ff6836e47-2a7f-4d6b-ae71-0bc4a75780b0%2F75199_2rlpmhYNaTq8Ga5l_kxCcA.jpg",
     "price": 36000,
@@ -1462,108 +1292,6 @@
     ]
   },
   {
-    "id": "6523716",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F13%2F16%2F38%2F51767be4-cce8-4f4f-b371-11e9205d92e7%2F60598_DfIHBD-x9VZ2Gnid_Xhobw.jpg",
-    "price": 36000,
-    "location": "Məmmədli q.",
-    "location_id": "265",
-    "location_name": "Məmmədli",
-    "rooms": null,
-    "area_m2": 22,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": true,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T13:19:02+04:00",
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6523716",
-    "lat": 40.50437187164705,
-    "lng": 49.88980974146425,
-    "land_area_sot": null,
-    "building_type": "Torpaq",
-    "title": "Satılır torpaq 22 sot",
-    "description": "Təcili satilir!!!\r\nTorpaq Məmmədli kəndi Yanar dağin yaxinlarinda Böyük şor yolun üstündə yerləşir torpağin yaninda yaşayiş evləridə var qazi suyu işiğida mövcutdur torpağin Mehdiabadanda yolu var.  sənədi (Çixariş texniki sənədi xususi mülkiyət   kənd təsərfati təyinatili).  ",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 36000,
-        "date": "2026-10-07T19:31:39.852434+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6523465",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F12%2F25%2F10%2F3534cb90-31bb-44fa-a329-ee2e55cb7099%2F59413_0nzrX57s0MvYuH4osv--XA.jpg",
-    "price": 90000,
-    "location": "Mehdiabad q.",
-    "location_id": "112",
-    "location_name": "Mehdiabad",
-    "rooms": null,
-    "area_m2": 3,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": true,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T13:19:16+04:00",
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6523465",
-    "lat": 40.47946042408832,
-    "lng": 49.85578930019523,
-    "land_area_sot": null,
-    "building_type": "Torpaq",
-    "title": "Satılır torpaq 3 sot",
-    "description": "🏢 3 SOT OBYEKT YERİ SATILIR\r\n\r\n📍 Yol kənarında yerləşir\r\n🔒 Tam hasara alınıb\r\n🚗 Rahat giriş-çıxış imkanı\r\n🏗️ Obyekt tikintisi üçün əlverişli ərazi\r\n🏪 Market, mağaza, ofis, servis və digər kommersiya fəaliyyəti üçün yararlıdır\r\n🏠 Ətrafı yaşayış evləri ilə əhatə olunub\r\n\r\n📞 Ətraflı məlumat və qiymət üçün əlaqə saxlayın.",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 90000,
-        "date": "2026-10-07T19:31:39.852424+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6523261",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F11%2F41%2F03%2Faafcc8da-fb1a-40fa-a498-59a31c0695a9%2F51320_z5uNyuSw3IrwGzG0nXidXA.jpg",
-    "price": 999000,
-    "location": "Mehdiabad q.",
-    "location_id": "112",
-    "location_name": "Mehdiabad",
-    "rooms": null,
-    "area_m2": 33,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": true,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T13:19:55+04:00",
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6523261",
-    "lat": 40.4977163,
-    "lng": 49.85327159999997,
-    "land_area_sot": null,
-    "building_type": "Torpaq",
-    "title": "Satılır torpaq 33 sot",
-    "description": "🏗️ 33 SOT OBYEKT YERİ SATILIR\r\n\r\n📍 Yol kənarında yerləşir\r\n🔒 Tam hasara alınıb\r\n🏠 Yan tərəfləri yaşayış evləri ilə əhatə olunub\r\n🚗 Rahat giriş-çıxış imkanı\r\n📐 Geniş və əlverişli ərazi\r\n🏢 Obyekt, anbar, market, restoran və digər kommersiya layihələri üçün əlverişlidir.\r\n\r\n📞 Ətraflı məlumat və qiymət üçün əlaqə saxlayın.",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 999000,
-        "date": "2026-10-07T19:31:39.852407+00:00"
-      }
-    ]
-  },
-  {
     "id": "5953517",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F03%2F10%2F07%2F29%2F58%2F30344c29-fccd-4984-907f-d1e6602f31d6%2F69230_8tj8QG9lAiLAZaaijCxYIw.jpg",
     "price": 100000,
@@ -1700,40 +1428,6 @@
     ]
   },
   {
-    "id": "6523983",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F14%2F24%2F45%2F9e9c9b78-e331-45f6-b481-1e5632cc1147%2F50030_73MAgde3UYO6BgWm4QmuDA.jpg",
-    "price": 90000,
-    "location": "Mehdiabad q.",
-    "location_id": "112",
-    "location_name": "Mehdiabad",
-    "rooms": null,
-    "area_m2": 3,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T14:26:14+04:00",
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6523983",
-    "lat": 40.50239370483618,
-    "lng": 49.85936557888179,
-    "land_area_sot": null,
-    "building_type": "Torpaq",
-    "title": "Satılır torpaq 3 sot",
-    "description": "📍 MEHDİABADDA 3 SOT OBYEKT YERİ SATILIR!\r\n\r\n🔹 Sahə: 3 sot\r\n🔹 Hasara alınıb\r\n🔹 Obyekt tikintisi üçün əlverişlidir\r\n🔹 Mağaza, market, restoran, avtoservis, anbar və digər bizneslər üçün uyğundur\r\n🔹 Ərazi investisiya üçün perspektivlidir\r\n\r\n💰 Qiymət: razılaşma yolu ilə\r\n\r\n📞 Ciddi alıcılar əlaqə saxlaya bilər.\r\n🤝 Vasitəçilər əməkdaşlıq edə bilər.",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 90000,
-        "date": "2026-10-07T19:31:39.475199+00:00"
-      }
-    ]
-  },
-  {
     "id": "6064740",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F04%2F21%2F18%2F51%2F53%2F4231a406-4e70-4980-9b61-77a658519595%2F72754_7z7l2bzdR3-tkDi_ktv9BA.jpg",
     "price": 135000,
@@ -1764,74 +1458,6 @@
       {
         "price": 135000,
         "date": "2026-10-07T19:31:39.475195+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6399706",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F23%2F13%2F13%2F40%2F126349d4-a3b5-454c-97ba-5066f88bca9f%2F87178_d-uNNJIoQniQXvBVlR5ltw.jpg",
-    "price": 96000,
-    "location": "Zirə q.",
-    "location_id": "96",
-    "location_name": "Zirə",
-    "rooms": null,
-    "area_m2": 12,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T14:45:57+04:00",
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6399706",
-    "lat": 40.35759379432782,
-    "lng": 50.2846165888011,
-    "land_area_sot": null,
-    "building_type": "Torpaq",
-    "title": "Satılır torpaq 12 sot",
-    "description": "Torpaq Zirədə dənizə olduqca yaxın ərazidə yerləşir. Əsas yoldan darvazayadək 300 metr məsafədədir və yol tam olaraq asvaltdır. Torpaq 4 tərəf hasarlıdır darvaza var işıq xətti çəkilib hazırdır digər kommunikasiya xətləri də yaxında yerləşir. Sənəd çıxarışdır. Öz adımadır. Zəhmət olmasa ciddi şəxslər narahat etsin. Allah alana da satana da xeyr versin!",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 96000,
-        "date": "2026-10-07T19:31:39.475140+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6524032",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F14%2F31%2F56%2F7801f846-3a5d-4908-8817-090d212af333%2F37048__ELhYzBOoiqxL0b6NHRZaA.jpg",
-    "price": 299999,
-    "location": "Novxanı q.",
-    "location_id": "113",
-    "location_name": "Novxanı",
-    "rooms": null,
-    "area_m2": 55,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T14:49:05+04:00",
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6524032",
-    "lat": 40.5304504894738,
-    "lng": 49.78281453737794,
-    "land_area_sot": null,
-    "building_type": "Torpaq",
-    "title": "Satılır torpaq 55 sot",
-    "description": "📍 NOVXANIDA 55 SOT OBYEKT TORPAĞI SATILIR\nVasiteçiler5%verilir\n🔹 Sahə: 55 sot\n🔹 Obyekt tikintisi üçün əlverişli ərazi\n🔹 Restoran, hotel, market, şadlıq sarayı, avtoservis, anbar və digər biznes layihələri üçün uyğundur\n🔹 İnvestisiya üçün perspektivli \nseçim\n🔹 Böyük layihə və kommersiya məqsədli istifadə üçün ideal\n\n💰 Qiymət: razılaşma yolu ilə\n\n🤝 Ciddi alıcılar və investorlar üçün ətraflı məlumat təqdim olunur.\nVasiteçiler 5%",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 299999,
-        "date": "2026-10-07T19:31:39.475159+00:00"
       }
     ]
   },
@@ -2244,40 +1870,6 @@
     ]
   },
   {
-    "id": "6524821",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F17%2F21%2F21%2F62bebb0f-69fe-43d6-b7d9-9ff99e6be68c%2F44537_heiwVLS8t8Oy_RBRpoTKrQ.jpg",
-    "price": 12000000,
-    "location": "Şah İsmayıl Xətai m.",
-    "location_id": "36",
-    "location_name": "Şah İsmayıl Xətai",
-    "rooms": null,
-    "area_m2": 46,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": true,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T17:23:24+04:00",
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6524821",
-    "lat": 40.38432686609973,
-    "lng": 49.87550722180176,
-    "land_area_sot": null,
-    "building_type": "Torpaq",
-    "title": "Satılır torpaq 46 sot",
-    "description": "Eksklüziv elan - Şəkillər şərtidir - Kupça qeyri-yaşayış təyinatlıdı. Klinika, hotel, litsey, auto salon və s. kimi iaşə obyektlərinin tikintisinə icazəsi vardır. Hətta yer altı parkingin tikintisinə (-1)-ə belə icazə verilir. Gələcək üçün şəhər mərkəzində tikilə biləcək ən böyük torpaq sahəsidir. İlk sahibi özümüzük, ətraflı məlumat üçün istər WhatsApp, istərsə də əlaqə saxlamaq mümkündür.\r\n\r\nЭксклюзивное объявление - Фотографии условные - Купчая нежилого назначения. Имеется разрешение на строительство объектов общественного назначения, таких как клиника, отель, лицей, автосалон и т.д. Разрешено даже строительство подземного паркинга до (-1) этажа. Это самый большой земельный участок, который можно застроить в центре города для будущего. Мы являемся первыми владельцами, для подробной информации можно связаться как по WhatsApp, так и по телефону.\r\n\r\nExclusive announcement - Photos are conditional - Deed is for non-residential purposes. There is permission for the construction of commercial objects such as a clinic, hotel, lyceum, auto showroom, etc. Permission is even granted for the construction of an underground parking lot down to floor (-1). This is the largest plot of land that can be built in the city center for the future. We are the original owners, for detailed information you can contact us via WhatsApp or phone.",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 12000000,
-        "date": "2026-10-07T19:31:38.908483+00:00"
-      }
-    ]
-  },
-  {
     "id": "6524830",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F17%2F24%2F16%2F0e549ac5-b1dd-4d27-bae5-faf0a64206f5%2F43039_p6XfjfAswtWbubdnac9gbQ.jpg",
     "price": 525000,
@@ -2482,40 +2074,6 @@
     ]
   },
   {
-    "id": "6524963",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F17%2F49%2F26%2F3a01152e-043f-4599-9d24-fc1974fdd76e%2F60560_aleyBQW7BoStNy1nQdnAwg.jpg",
-    "price": 250000,
-    "location": "Məmmədli q.",
-    "location_id": "265",
-    "location_name": "Məmmədli",
-    "rooms": null,
-    "area_m2": 50,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": true,
-    "updated_at_site": "2026-10-07T17:49:57+04:00",
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6524963",
-    "lat": 40.54794347905716,
-    "lng": 49.94280470960827,
-    "land_area_sot": null,
-    "building_type": "Torpaq",
-    "title": "Satılır torpaq 50 sot",
-    "description": "",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 250000,
-        "date": "2026-10-07T19:31:38.718282+00:00"
-      }
-    ]
-  },
-  {
     "id": "6179210",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F02%2F18%2F00%2F40%2Fd93b87d5-4059-4fc0-bc3f-5e613b7faf74%2F95305_14fowV4EiDWFFKzYIHeo7g.jpg",
     "price": 35000,
@@ -2580,74 +2138,6 @@
       {
         "price": 65000,
         "date": "2026-10-07T19:31:38.718268+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6525032",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F18%2F00%2F48%2F9a53ce09-a58f-4b19-8a9f-9ba25dcb21ab%2F61716_al7RDWWBhxfFGBp6Kqsewg.jpg",
-    "price": 80000,
-    "location": "Binə q.",
-    "location_id": "79",
-    "location_name": "Binə",
-    "rooms": null,
-    "area_m2": 18.5,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": null,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T18:04:22+04:00",
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6525032",
-    "lat": 40.4327326140119,
-    "lng": 50.06865066591409,
-    "land_area_sot": null,
-    "building_type": "Torpaq",
-    "title": "Satılır torpaq 18.5 sot",
-    "description": "",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 80000,
-        "date": "2026-10-07T19:31:38.718251+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6416417",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F29%2F14%2F52%2F02%2F7e6a5e83-8860-4bf8-a2c7-9e8cbb6da2ef%2F68090_aa6Dh7jdUihWg2mFs2wQCg.jpg",
-    "price": 280000,
-    "location": "Şıxov q.",
-    "location_id": "260",
-    "location_name": "Şıxov",
-    "rooms": null,
-    "area_m2": 8,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T18:44:46+04:00",
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6416417",
-    "lat": 40.31162273207482,
-    "lng": 49.79512597483824,
-    "land_area_sot": null,
-    "building_type": "Torpaq",
-    "title": "Satılır torpaq 8 sot",
-    "description": "Şıxov, Qarşısı alnmaz dəniz panaraması. 1001 gecə ilə üz-bə-üz. \n\"High-Park Residense\" 500 metr məsafədə. Çox prespektivli ərazi. 8  sot.   Eni  21 metr uzunlugu  38 - 40 metr. Bütün həyətlər Sizdən 20 m aşağıdadır ona görə  panaramanız heç vaxt bağlanmayacaq. Yanında evlər var, komunikasiyalar var.  Endirim olacaq. Sənəd çıxarış. \n\nŞəhərdə qiyməti uyğun evlə Barter mümkündür - Əlavə ödişsiz.\n\nШыхов, панорама моря без препятствий - Навсегда. Напротив «1001 Gece».\nв 500 метра от вилл «High Park Residence». Очень перспективный район. 8 cот. Ширина 21 метр, длина 38-40 метров. Все дворы находятся на 20 метров ниже вас, поэтому ваша панорама никогда не будет закрыта. Рядом дома и коммуникации. Будет скидка. Купча. \n\nВазможен бартер с квартирой в городе но без доплаты.",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 280000,
-        "date": "2026-10-07T19:31:38.718221+00:00"
       }
     ]
   },
@@ -2788,40 +2278,6 @@
     ]
   },
   {
-    "id": "6525403",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F19%2F38%2F52%2F3b073e72-ea72-45ff-b68e-289cdc410365%2F51320_dhLXhJVfs9DgT9woPJx_rA.jpg",
-    "price": 350000,
-    "location": "Binəqədi q.",
-    "location_id": "18",
-    "location_name": "Binəqədi",
-    "rooms": null,
-    "area_m2": 30,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T19:41:42+04:00",
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6525403",
-    "lat": 40.44742568087834,
-    "lng": 49.77622784658191,
-    "land_area_sot": null,
-    "building_type": "Torpaq",
-    "title": "Satılır torpaq 30 sot",
-    "description": "Binəqədi Respublika Polisinin yaxınlığı 314 saylı məktəbin yanında 30 sot torpağın daxilində 2 mərtəbəli ev satıram Bölüb satmıram Barter maraqlı deyil. Neptun və Solitona 2 km məsafədə\r\n\r\nQiymət-350.000 \r\nSənəd Bələdiyyə Arxiv Sərəncam",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 350000,
-        "date": "2026-10-07T19:31:38.530023+00:00"
-      }
-    ]
-  },
-  {
     "id": "6525413",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F19%2F41%2F57%2F90b86e3b-0699-4042-b9be-fa6d94872111%2F60571_g_6pqzB8Jo5ooLikZt1BDA.jpg",
     "price": 120000,
@@ -2958,40 +2414,6 @@
     ]
   },
   {
-    "id": "6522818",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F01%2F30%2F00%2Fd8e319e6-1c37-4476-b317-c3bf4820b44d%2F37069_cQ3ym58p_EGJxsAmOovcRA.jpg",
-    "price": 650000,
-    "location": "Xətai r.",
-    "location_id": "16",
-    "location_name": "Xətai",
-    "rooms": null,
-    "area_m2": 3,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": true,
-    "updated_at_site": "2026-10-07T21:55:17+04:00",
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6522818",
-    "lat": 40.35146284422688,
-    "lng": 49.95973006162778,
-    "land_area_sot": null,
-    "building_type": "Torpaq",
-    "title": "Satılır torpaq 3 sot",
-    "description": "8 noyabr prospektində, Gənclik parkına yaxın ərazidə, Gəncə prospekti ilə kəsişmədən üzü şəhərə doğru 100 metr getdikdə yolun kənarında yerləşir. Çıxarışla 3 sotdur, faktiki sahə 4 sotdur. 250 kvm yaşayış sahəsidir. Şəhərə və dənizə ponaramalı yerdir. Həm yaşaış, həm də qeyri yaşayış sahəsi kimi çox səmərəli yerdir.",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 650000,
-        "date": "2026-10-07T19:31:38.295133+00:00"
-      }
-    ]
-  },
-  {
     "id": "6525617",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F21%2F51%2F32%2F8331fe87-9cfb-43c0-bd87-cf1f88d63ab7%2F37085_2cwe2oxLZc3FRjVt-ezcNg.jpg",
     "price": 131000,
@@ -3094,40 +2516,6 @@
     ]
   },
   {
-    "id": "6525684",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F23%2F12%2F25%2Fcb7b1ab2-a45d-446d-be97-39b230d2b1b3%2F60582_r_KSnrykAtlazt0tsqHMSQ.jpg",
-    "price": 17500,
-    "location": "Ələt q.",
-    "location_id": "24",
-    "location_name": "Ələt",
-    "rooms": null,
-    "area_m2": 8,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": null,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T23:12:37+04:00",
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6525684",
-    "lat": 40.00256023459746,
-    "lng": 49.4304633031877,
-    "land_area_sot": null,
-    "building_type": "Torpaq",
-    "title": "Satılır torpaq 8 sot",
-    "description": " Elet igdisad zonasj .Her shey hazjr , bir dene ev tikdirmek galjr, her sherairi var , magistral yoldan 250 m aralj , Bakj istigameti 45 km, sened Belediyye",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 17500,
-        "date": "2026-10-07T19:31:38.083288+00:00"
-      }
-    ]
-  },
-  {
     "id": "6525693",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F23%2F09%2F03%2F560e14d1-17d8-4f63-a0c0-e6197692a58e%2F60576_-zbCwEKCLVhZnujf576Mpw.jpg",
     "price": 132000,
@@ -3158,6 +2546,634 @@
       {
         "price": 132000,
         "date": "2026-10-07T19:31:38.083307+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6522817",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F01%2F31%2F41%2F0b8901d0-8c92-40fb-a341-f974a04ef5f0%2F44537_cBGAdOmH-TQavewqLDvX_Q.jpg",
+    "price": 300000,
+    "location": "Mərdəkan q.",
+    "location_id": "109",
+    "location_name": "Mərdəkan",
+    "rooms": null,
+    "area_m2": 10,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T01:44:22+04:00",
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6522817",
+    "lat": 40.47857,
+    "lng": 50.150065,
+    "land_area_sot": null,
+    "building_type": "Torpaq",
+    "title": "Satılır torpaq 10 sot",
+    "description": "Mərdəkənin ən elit və prestijli küçələrindən biri olan H.Z. Tağıyev küçəsində 10 sot torpaq sahəsi satışa çıxarılıb. Əsas yola yaxın yerləşir , yolu asfaltdir qapıya qədər . \r\n",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 300000,
+        "date": "2026-10-07T19:31:41.629552+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6522818",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F01%2F30%2F00%2Fd8e319e6-1c37-4476-b317-c3bf4820b44d%2F37069_cQ3ym58p_EGJxsAmOovcRA.jpg",
+    "price": 650000,
+    "location": "Xətai r.",
+    "location_id": "16",
+    "location_name": "Xətai",
+    "rooms": null,
+    "area_m2": 3,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T05:55:16+04:00",
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6522818",
+    "lat": 40.35146284422688,
+    "lng": 49.95973006162778,
+    "land_area_sot": null,
+    "building_type": "Torpaq",
+    "title": "Satılır torpaq 3 sot",
+    "description": "8 noyabr prospektində, Gənclik parkına yaxın ərazidə, Gəncə prospekti ilə kəsişmədən üzü şəhərə doğru 100 metr getdikdə yolun kənarında yerləşir. Çıxarışla 3 sotdur, faktiki sahə 4 sotdur. 250 kvm yaşayış sahəsidir. Şəhərə və dənizə ponaramalı yerdir. Həm yaşaış, həm də qeyri yaşayış sahəsi kimi çox səmərəli yerdir.",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 650000,
+        "date": "2026-10-07T19:31:38.295133+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6525684",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F23%2F12%2F25%2Fcb7b1ab2-a45d-446d-be97-39b230d2b1b3%2F60582_r_KSnrykAtlazt0tsqHMSQ.jpg",
+    "price": 17500,
+    "location": "Ələt q.",
+    "location_id": "24",
+    "location_name": "Ələt",
+    "rooms": null,
+    "area_m2": 8,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": null,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T07:02:51+04:00",
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6525684",
+    "lat": 40.00256023459746,
+    "lng": 49.4304633031877,
+    "land_area_sot": null,
+    "building_type": "Torpaq",
+    "title": "Satılır torpaq 8 sot",
+    "description": " Elet igdisad zonasj .Her shey hazjr , bir dene ev tikdirmek galjr, her sherairi var , magistral yoldan 250 m aralj , Bakj istigameti 45 km, sened Belediyye",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 17500,
+        "date": "2026-10-07T19:31:38.083288+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6119370",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F11%2F12%2F06%2F59%2F1874742b-354c-48d5-bf8a-3bc482b645d7%2F77158_XzzjD9xHK6VKPIclgNkgBw.jpg",
+    "price": 170000,
+    "location": "Buzovna q.",
+    "location_id": "117",
+    "location_name": "Buzovna",
+    "rooms": null,
+    "area_m2": 8,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": true,
+    "updated_at_site": "2026-10-08T07:54:15+04:00",
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6119370",
+    "lat": 40.5156142,
+    "lng": 50.10132739999995,
+    "land_area_sot": null,
+    "building_type": "Torpaq",
+    "title": "Satılır torpaq 8 sot",
+    "description": "TƏCİLİ SATILIR!\n\n8 sotda kupçalı torpaq sahəsi satılır. Hər tərəfi yaşayışdır. Torpaq sahəsində bütün kommunal xətlər (su, işıq, qaz) mövcuddur. Sənədlər tam qaydasındadır. Real alıcıya endirim olacaq!\n",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 170000,
+        "date": "2026-10-07T19:31:41.629569+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6523276",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F11%2F42%2F49%2F5809f97f-15fe-4731-a217-2603f73cc806%2F37086_G5cjNRqxA7h_dtAXiQTGmA.jpg",
+    "price": 140000,
+    "location": "Qala q.",
+    "location_id": "95",
+    "location_name": "Qala",
+    "rooms": null,
+    "area_m2": 14,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": false,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T08:06:01+04:00",
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6523276",
+    "lat": 40.42857764400973,
+    "lng": 50.20466982587992,
+    "land_area_sot": null,
+    "building_type": "Torpaq",
+    "title": "Satılır torpaq 1400 sot",
+    "description": " Xaşaxuna baglari yoldan 70 metrlik mesafede asfalt yolu olan gedimi bag xeyet saxesi satilir ,4 terefi xasarla ehate olunmuş meyve agaclari olan bagdir....men yerin saxibiyem vasiteci  deyilem ve xahiş edirem vasiteciler naraxat etmesin....",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 140000,
+        "date": "2026-10-07T19:31:40.427812+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6523157",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F11%2F08%2F29%2Fbbb1b598-0670-4953-93cf-88bcff946410%2F17556_JIluI2Kg3Ci3sSoBnYWlBg.jpg",
+    "price": 27500,
+    "location": "Yeni Suraxanı q.",
+    "location_id": "88",
+    "location_name": "Yeni Suraxanı",
+    "rooms": null,
+    "area_m2": 5,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": null,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": true,
+    "updated_at_site": "2026-10-08T08:20:23+04:00",
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6523157",
+    "lat": 40.42545948901513,
+    "lng": 50.03924764057816,
+    "land_area_sot": null,
+    "building_type": "Torpaq",
+    "title": "Satılır torpaq 500 sot",
+    "description": "Salam hervaxdiniz xeyir torpaq COX TECLİ SATİLİR etraf butun yasayislidi merkezi kanalizasya asvaltdan 30 metr mesafesi var torpaqin hundur yerde yerlesir yaxinliqinda baxca mekteb ver qeyd edimki torpaq 99 illik kent teserfat teyinatlidir yeni tikinti etmek mumkundur natarial qaydada alqi satqi edilecek elave suallariniz olsa yiga bilersiz ",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 2750,
+        "date": "2026-10-07T19:31:40.427851+00:00"
+      },
+      {
+        "price": 27500,
+        "date": "2026-10-08T19:31:37.140017+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6523983",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F14%2F24%2F45%2F9e9c9b78-e331-45f6-b481-1e5632cc1147%2F50030_73MAgde3UYO6BgWm4QmuDA.jpg",
+    "price": 91000,
+    "location": "Mehdiabad q.",
+    "location_id": "112",
+    "location_name": "Mehdiabad",
+    "rooms": null,
+    "area_m2": 3,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T09:47:08+04:00",
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6523983",
+    "lat": 40.50239370483618,
+    "lng": 49.85936557888179,
+    "land_area_sot": null,
+    "building_type": "Torpaq",
+    "title": "Satılır torpaq 3 sot",
+    "description": "📍 MEHDİABADDA 3 SOT OBYEKT YERİ SATILIR!\r\n\r\n🔹 Sahə: 3 sot\r\n🔹 Hasara alınıb\r\n🔹 Obyekt tikintisi üçün əlverişlidir\r\n🔹 Mağaza, market, restoran, avtoservis, anbar və digər bizneslər üçün uyğundur\r\n🔹 Ərazi investisiya üçün perspektivlidir\r\n\r\n💰 Qiymət: razılaşma yolu ilə\r\n\r\n📞 Ciddi alıcılar əlaqə saxlaya bilər.\r\n🤝 Vasitəçilər əməkdaşlıq edə bilər.",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 90000,
+        "date": "2026-10-07T19:31:39.475199+00:00"
+      },
+      {
+        "price": 91000,
+        "date": "2026-10-08T19:31:37.947640+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6524032",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F14%2F31%2F56%2F7801f846-3a5d-4908-8817-090d212af333%2F37048__ELhYzBOoiqxL0b6NHRZaA.jpg",
+    "price": 300000,
+    "location": "Novxanı q.",
+    "location_id": "113",
+    "location_name": "Novxanı",
+    "rooms": null,
+    "area_m2": 55,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T09:47:49+04:00",
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6524032",
+    "lat": 40.5304504894738,
+    "lng": 49.78281453737794,
+    "land_area_sot": null,
+    "building_type": "Torpaq",
+    "title": "Satılır torpaq 55 sot",
+    "description": "📍 NOVXANIDA 55 SOT OBYEKT TORPAĞI SATILIR\nVasiteçiler5%verilir\n🔹 Sahə: 55 sot\n🔹 Obyekt tikintisi üçün əlverişli ərazi\n🔹 Restoran, hotel, market, şadlıq sarayı, avtoservis, anbar və digər biznes layihələri üçün uyğundur\n🔹 İnvestisiya üçün perspektivli \nseçim\n🔹 Böyük layihə və kommersiya məqsədli istifadə üçün ideal\n\n💰 Qiymət: razılaşma yolu ilə\n\n🤝 Ciddi alıcılar və investorlar üçün ətraflı məlumat təqdim olunur.\nVasiteçiler 5%",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 299999,
+        "date": "2026-10-07T19:31:39.475159+00:00"
+      },
+      {
+        "price": 300000,
+        "date": "2026-10-08T19:31:37.947572+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6523716",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F13%2F16%2F38%2F51767be4-cce8-4f4f-b371-11e9205d92e7%2F60598_DfIHBD-x9VZ2Gnid_Xhobw.jpg",
+    "price": 36000,
+    "location": "Məmmədli q.",
+    "location_id": "265",
+    "location_name": "Məmmədli",
+    "rooms": null,
+    "area_m2": 22,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T12:21:58+04:00",
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6523716",
+    "lat": 40.50437187164705,
+    "lng": 49.88980974146425,
+    "land_area_sot": null,
+    "building_type": "Torpaq",
+    "title": "Satılır torpaq 22 sot",
+    "description": "Təcili satilir!!!\r\nTorpaq Məmmədli kəndi Yanar dağin yaxinlarinda Böyük şor yolun üstündə yerləşir torpağin yaninda yaşayiş evləridə var qazi suyu işiğida mövcutdur torpağin Mehdiabadanda yolu var.  sənədi (Çixariş texniki sənədi xususi mülkiyət   kənd təsərfati təyinatili).  ",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 36000,
+        "date": "2026-10-07T19:31:39.852434+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6523465",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F12%2F25%2F10%2F3534cb90-31bb-44fa-a329-ee2e55cb7099%2F59413_0nzrX57s0MvYuH4osv--XA.jpg",
+    "price": 90000,
+    "location": "Mehdiabad q.",
+    "location_id": "112",
+    "location_name": "Mehdiabad",
+    "rooms": null,
+    "area_m2": 3,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T13:19:17+04:00",
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6523465",
+    "lat": 40.47946042408832,
+    "lng": 49.85578930019523,
+    "land_area_sot": null,
+    "building_type": "Torpaq",
+    "title": "Satılır torpaq 3 sot",
+    "description": "🏢 3 SOT OBYEKT YERİ SATILIR\r\n\r\n📍 Yol kənarında yerləşir\r\n🔒 Tam hasara alınıb\r\n🚗 Rahat giriş-çıxış imkanı\r\n🏗️ Obyekt tikintisi üçün əlverişli ərazi\r\n🏪 Market, mağaza, ofis, servis və digər kommersiya fəaliyyəti üçün yararlıdır\r\n🏠 Ətrafı yaşayış evləri ilə əhatə olunub\r\n\r\n📞 Ətraflı məlumat və qiymət üçün əlaqə saxlayın.",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 90000,
+        "date": "2026-10-07T19:31:39.852424+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6523261",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F11%2F41%2F03%2Faafcc8da-fb1a-40fa-a498-59a31c0695a9%2F51320_z5uNyuSw3IrwGzG0nXidXA.jpg",
+    "price": 999000,
+    "location": "Mehdiabad q.",
+    "location_id": "112",
+    "location_name": "Mehdiabad",
+    "rooms": null,
+    "area_m2": 33,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T13:20:00+04:00",
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6523261",
+    "lat": 40.4977163,
+    "lng": 49.85327159999997,
+    "land_area_sot": null,
+    "building_type": "Torpaq",
+    "title": "Satılır torpaq 33 sot",
+    "description": "🏗️ 33 SOT OBYEKT YERİ SATILIR\r\n\r\n📍 Yol kənarında yerləşir\r\n🔒 Tam hasara alınıb\r\n🏠 Yan tərəfləri yaşayış evləri ilə əhatə olunub\r\n🚗 Rahat giriş-çıxış imkanı\r\n📐 Geniş və əlverişli ərazi\r\n🏢 Obyekt, anbar, market, restoran və digər kommersiya layihələri üçün əlverişlidir.\r\n\r\n📞 Ətraflı məlumat və qiymət üçün əlaqə saxlayın.",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 999000,
+        "date": "2026-10-07T19:31:39.852407+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6399706",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F23%2F13%2F13%2F40%2F126349d4-a3b5-454c-97ba-5066f88bca9f%2F87178_d-uNNJIoQniQXvBVlR5ltw.jpg",
+    "price": 96000,
+    "location": "Zirə q.",
+    "location_id": "96",
+    "location_name": "Zirə",
+    "rooms": null,
+    "area_m2": 12,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T14:45:58+04:00",
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6399706",
+    "lat": 40.35759379432782,
+    "lng": 50.2846165888011,
+    "land_area_sot": null,
+    "building_type": "Torpaq",
+    "title": "Satılır torpaq 12 sot",
+    "description": "Torpaq Zirədə dənizə olduqca yaxın ərazidə yerləşir. Əsas yoldan darvazayadək 300 metr məsafədədir və yol tam olaraq asvaltdır. Torpaq 4 tərəf hasarlıdır darvaza var işıq xətti çəkilib hazırdır digər kommunikasiya xətləri də yaxında yerləşir. Sənəd çıxarışdır. Öz adımadır. Zəhmət olmasa ciddi şəxslər narahat etsin. Allah alana da satana da xeyr versin!",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 96000,
+        "date": "2026-10-07T19:31:39.475140+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6523278",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F11%2F45%2F16%2F25615607-ff9f-4b64-a2ac-7d1dcb6a40b5%2F60551_fmtnWKBpysD6th1lza2KVw.jpg",
+    "price": 60000,
+    "location": "Binə q.",
+    "location_id": "79",
+    "location_name": "Binə",
+    "rooms": null,
+    "area_m2": 2,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T16:44:27+04:00",
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6523278",
+    "lat": 40.4575822217435,
+    "lng": 50.08059625659177,
+    "land_area_sot": null,
+    "building_type": "Torpaq",
+    "title": "Satılır torpaq 2 sot",
+    "description": "🏡 Xəzər rayonu, Binə qəsəbəsi – torpaq satılır!\r\n\r\n📍 88 nömrəli tam orta məktəbin yaxınlığında\r\n📐 Sahəsi: 2 sot\r\n📄 Kupça (çıxarış) var\r\n🏠 Torpaq öz həyətindən satılır\r\n💡 İşıq daimidir\r\n💧 Su daimidir\r\n🔥 Qaz daimidir\r\n🚰 Kanalizasiya: şambo\r\n\r\nƏrazi yaşayış üçün əlverişli və infrastruktura yaxındır.\r\n\r\nXidmət Haqqı 1000 AZN\r\n📞 Ətraflı məlumat və qiymət üçün əlaqə saxlaya bilərsiniz.",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 60000,
+        "date": "2026-10-07T19:31:40.427794+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6524963",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F17%2F49%2F26%2F3a01152e-043f-4599-9d24-fc1974fdd76e%2F60560_aleyBQW7BoStNy1nQdnAwg.jpg",
+    "price": 250000,
+    "location": "Məmmədli q.",
+    "location_id": "265",
+    "location_name": "Məmmədli",
+    "rooms": null,
+    "area_m2": 50,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": true,
+    "updated_at_site": "2026-10-08T17:49:57+04:00",
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6524963",
+    "lat": 40.54794347905716,
+    "lng": 49.94280470960827,
+    "land_area_sot": null,
+    "building_type": "Torpaq",
+    "title": "Satılır torpaq 50 sot",
+    "description": "",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 250000,
+        "date": "2026-10-07T19:31:38.718282+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6416417",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F29%2F14%2F52%2F02%2F7e6a5e83-8860-4bf8-a2c7-9e8cbb6da2ef%2F68090_aa6Dh7jdUihWg2mFs2wQCg.jpg",
+    "price": 280000,
+    "location": "Şıxov q.",
+    "location_id": "260",
+    "location_name": "Şıxov",
+    "rooms": null,
+    "area_m2": 8,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T18:44:46+04:00",
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6416417",
+    "lat": 40.31162273207482,
+    "lng": 49.79512597483824,
+    "land_area_sot": null,
+    "building_type": "Torpaq",
+    "title": "Satılır torpaq 8 sot",
+    "description": "Şıxov, Qarşısı alnmaz dəniz panaraması. 1001 gecə ilə üz-bə-üz. \n\"High-Park Residense\" 500 metr məsafədə. Çox prespektivli ərazi. 8  sot.   Eni  21 metr uzunlugu  38 - 40 metr. Bütün həyətlər Sizdən 20 m aşağıdadır ona görə  panaramanız heç vaxt bağlanmayacaq. Yanında evlər var, komunikasiyalar var.  Endirim olacaq. Sənəd çıxarış. \n\nŞəhərdə qiyməti uyğun evlə Barter mümkündür - Əlavə ödişsiz.\n\nШыхов, панорама моря без препятствий - Навсегда. Напротив «1001 Gece».\nв 500 метра от вилл «High Park Residence». Очень перспективный район. 8 cот. Ширина 21 метр, длина 38-40 метров. Все дворы находятся на 20 метров ниже вас, поэтому ваша панорама никогда не будет закрыта. Рядом дома и коммуникации. Будет скидка. Купча. \n\nВазможен бартер с квартирой в городе но без доплаты.",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 280000,
+        "date": "2026-10-07T19:31:38.718221+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6525403",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F19%2F38%2F52%2F3b073e72-ea72-45ff-b68e-289cdc410365%2F51320_dhLXhJVfs9DgT9woPJx_rA.jpg",
+    "price": 290000,
+    "location": "Binəqədi q.",
+    "location_id": "18",
+    "location_name": "Binəqədi",
+    "rooms": null,
+    "area_m2": 30,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "is_featured": true,
+    "updated_at_site": "2026-10-08T19:20:02+04:00",
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6525403",
+    "lat": 40.44742568087834,
+    "lng": 49.77622784658191,
+    "land_area_sot": null,
+    "building_type": "Torpaq",
+    "title": "Satılır torpaq 30 sot",
+    "description": "Binəqədi Respublika Polisinin yaxınlığı 314 saylı məktəbin yanında 30 sot torpağın daxilində 2 mərtəbəli ev satıram Bölüb satmıram Barter maraqlı deyil. Neptun və Solitona 2 km məsafədə\r\n\r\nQiymət-350.000 \r\nSənəd Bələdiyyə Arxiv Sərəncam",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 350000,
+        "date": "2026-10-07T19:31:38.530023+00:00"
+      },
+      {
+        "price": 290000,
+        "date": "2026-10-08T19:31:35.383866+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6524821",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F17%2F21%2F21%2F62bebb0f-69fe-43d6-b7d9-9ff99e6be68c%2F44537_heiwVLS8t8Oy_RBRpoTKrQ.jpg",
+    "price": 12000000,
+    "location": "Şah İsmayıl Xətai m.",
+    "location_id": "36",
+    "location_name": "Şah İsmayıl Xətai",
+    "rooms": null,
+    "area_m2": 46,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "is_featured": false,
+    "updated_at_site": "2026-10-07T17:23:24+04:00",
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6524821",
+    "lat": 40.38432686609973,
+    "lng": 49.87550722180176,
+    "land_area_sot": null,
+    "building_type": "Torpaq",
+    "title": "Satılır torpaq 46 sot",
+    "description": "Eksklüziv elan - Şəkillər şərtidir - Kupça qeyri-yaşayış təyinatlıdı. Klinika, hotel, litsey, auto salon və s. kimi iaşə obyektlərinin tikintisinə icazəsi vardır. Hətta yer altı parkingin tikintisinə (-1)-ə belə icazə verilir. Gələcək üçün şəhər mərkəzində tikilə biləcək ən böyük torpaq sahəsidir. İlk sahibi özümüzük, ətraflı məlumat üçün istər WhatsApp, istərsə də əlaqə saxlamaq mümkündür.\r\n\r\nЭксклюзивное объявление - Фотографии условные - Купчая нежилого назначения. Имеется разрешение на строительство объектов общественного назначения, таких как клиника, отель, лицей, автосалон и т.д. Разрешено даже строительство подземного паркинга до (-1) этажа. Это самый большой земельный участок, который можно застроить в центре города для будущего. Мы являемся первыми владельцами, для подробной информации можно связаться как по WhatsApp, так и по телефону.\r\n\r\nExclusive announcement - Photos are conditional - Deed is for non-residential purposes. There is permission for the construction of commercial objects such as a clinic, hotel, lyceum, auto showroom, etc. Permission is even granted for the construction of an underground parking lot down to floor (-1). This is the largest plot of land that can be built in the city center for the future. We are the original owners, for detailed information you can contact us via WhatsApp or phone.",
+    "deleted_at": "2026-10-08T19:32:01.610820+00:00",
+    "price_history": [
+      {
+        "price": 12000000,
+        "date": "2026-10-07T19:31:38.908483+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6525032",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F18%2F00%2F48%2F9a53ce09-a58f-4b19-8a9f-9ba25dcb21ab%2F61716_al7RDWWBhxfFGBp6Kqsewg.jpg",
+    "price": 80000,
+    "location": "Binə q.",
+    "location_id": "79",
+    "location_name": "Binə",
+    "rooms": null,
+    "area_m2": 18.5,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": null,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-07T18:04:22+04:00",
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6525032",
+    "lat": 40.4327326140119,
+    "lng": 50.06865066591409,
+    "land_area_sot": null,
+    "building_type": "Torpaq",
+    "title": "Satılır torpaq 18.5 sot",
+    "description": "",
+    "deleted_at": "2026-10-08T19:32:01.610824+00:00",
+    "price_history": [
+      {
+        "price": 80000,
+        "date": "2026-10-07T19:31:38.718251+00:00"
       }
     ]
   }

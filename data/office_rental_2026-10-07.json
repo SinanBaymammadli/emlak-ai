@@ -1,39 +1,5 @@
 [
   {
-    "id": "6522809",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F01%2F18%2F33%2F375357da-47f3-46ec-bd59-eb804eb0c6ca%2F37101_w53VN5vMCrHrfo1qVhliOA.jpg",
-    "price": 450,
-    "location": "Nəriman Nərimanov m.",
-    "location_id": "1",
-    "location_name": "Nəriman Nərimanov",
-    "rooms": "4 otaqlı",
-    "area_m2": 70,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": true,
-    "updated_at_site": "2026-10-07T08:03:25+04:00",
-    "category": "office",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6522809",
-    "lat": 40.40487752005789,
-    "lng": 49.87539829564451,
-    "land_area_sot": null,
-    "building_type": "Ofis",
-    "title": "İcarəyə verilir 4 otaqlı ofis 70 m²",
-    "description": "Nərimanov metrosu və Metropark yaxınlığında həm tədris mərkəzində tədris otaqları həm də psixologiya mərkəzində psixologiya otaqları icarəyə verilir. Həm də ayrı gırışi çıxışı olan obyekt icarəyə verilir",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 450,
-        "date": "2026-10-07T19:31:50.059293+00:00"
-      }
-    ]
-  },
-  {
     "id": "6522963",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F10%2F20%2F16%2Fa7979e1c-dc98-4a43-96c4-f76dc4010cdb%2F37060_Bjm8OHjiTknwmWbJyH6QTA.jpg",
     "price": 1800,
@@ -336,74 +302,6 @@
       {
         "price": 1249,
         "date": "2026-10-07T19:31:49.673045+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6312418",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F22%2F15%2F03%2F10%2Fc9e2b751-4767-424b-9cfd-f6f448c74916%2F55033_AERR-5vJw-MUqpfvvTRsKQ.jpg",
-    "price": 1190,
-    "location": "Nəriman Nərimanov m.",
-    "location_id": "1",
-    "location_name": "Nəriman Nərimanov",
-    "rooms": "2 otaqlı",
-    "area_m2": 60,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": true,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": true,
-    "updated_at_site": "2026-10-07T11:49:17+04:00",
-    "category": "office",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6312418",
-    "lat": 40.4089166,
-    "lng": 49.86399959999994,
-    "land_area_sot": null,
-    "building_type": "Ofis",
-    "title": "İcarəyə verilir 2 otaqlı ofis 60 m²",
-    "description": "🏢 NƏRİMANOVDA PREMİUM OFİS İCARƏYƏ VERİLİR!\n\n📍 Nərimanov rayonunda, biznes mərkəzlərinin yerləşdiyi prestijli küçədə yerləşən plazada 55–60 kv.m, 2 otaqlı tam təmirli və tam əşyalı ofis icarəyə verilir.\n\n✨ Ofisin üstünlükləri:\n\n- 2 otaqlı funksional planlama\n- Tam təmirli\n- Tam əşyalı\n- Mərkəzi istilik və soyutma sistemi\n- Döşəmə kovrolit\n- Panoramik pəncərələr\n- Lift və 24/7 mühafizə\n- Rahat iş mühiti\n\n💰 İcarə haqqı: 1 200 AZN\n✅ Kommunal xərclər qiymətə daxildir.\n\nOfis müxtəlif biznes fəaliyyətləri üçün ideal seçimdir.\n\n📞 Ətraflı məlumat və baxış üçün əlaqə saxlayın.",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1190,
-        "date": "2026-10-07T19:31:49.673040+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6082135",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F04%2F28%2F11%2F55%2F20%2F040664b1-36d8-4a8e-a7e5-fb69d74fd716%2F2783_-bKTgUBScrtlFkWLK-E31Q.jpg",
-    "price": 800,
-    "location": "Nəriman Nərimanov m.",
-    "location_id": "1",
-    "location_name": "Nəriman Nərimanov",
-    "rooms": "2 otaqlı",
-    "area_m2": 40,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": true,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T11:54:14+04:00",
-    "category": "office",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6082135",
-    "lat": 40.40885973855938,
-    "lng": 49.86301811327908,
-    "land_area_sot": null,
-    "building_type": "Ofis",
-    "title": "İcarəyə verilir 2 otaqlı ofis 40 m²",
-    "description": "🏢 ƏHMƏD RƏCƏBLİ 2 OTAQLI OFİS İCARƏYƏ VERİLİR!\r\n \r\n📍 Ünvan: Əhməd Rəcəblı küçəsi, Biznes Mərkəzi\r\n🕒 24/7 fəaliyyət – istədiyiniz zaman işləmək imkanı\r\n \r\n🔹 2 otaqlı, funksional planlama\r\n🔹 Yeni təmir olunmuş, səliqəli \r\n🔹 Geniş və işıqlı otaqlar\r\n🔹 Vitraj pəncərə\r\n \r\n✔️ Bütün kommunal xərclər qiymətə daxildir\r\n✔️ Müxtəlif fəaliyyət sahələri üçün uyğundur\r\n \r\n📞 Ətraflı məlumat və baxış üçün əlaqə saxlayın\r\n \r\n",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 800,
-        "date": "2026-10-07T19:31:49.673022+00:00"
       }
     ]
   },
@@ -1258,40 +1156,6 @@
     ]
   },
   {
-    "id": "5984680",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F03%2F23%2F15%2F22%2F48%2F6c0c9430-e261-4661-a0e5-8ca799be6202%2F3937_fAmKPccuny_da64HO-fmIg.jpg",
-    "price": 1500,
-    "location": "Gənclik m.",
-    "location_id": "2",
-    "location_name": "Gənclik",
-    "rooms": "2 otaqlı",
-    "area_m2": 60,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": true,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T17:08:40+04:00",
-    "category": "office",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/5984680",
-    "lat": 40.40707541892169,
-    "lng": 49.84619544249652,
-    "land_area_sot": null,
-    "building_type": "Ofis",
-    "title": "İcarəyə verilir 2 otaqlı ofis 60 m²",
-    "description": "🔹 Yeni təmirdən çıxıb və təmirdən sonra istifadə olunmayıb.\r\n🔹 2 otaqlıdır – hər otaqda yüksək keyfiyyətli mebellər, LG kondisioner və LG televizor mövcuddur.\r\n🔹 Ofisdə Epson son model printer, Hikvision domofon sistemi, yüksək keyfiyyətli laminat döşəmə, sifarişlə hazırlanmış müasir qapılar və premium mebellər var.\r\n🔹 Ofis tam istifadəyə yararlıdır – bütün avadanlıqlar yeni və istifadəyə hazırdır.\r\n\r\n✨ Burada heç bir xırdalığa qənaət edilməyib – mebellərdən tutmuş texnikaya qədər hər şey xüsusi seçimlə və keyfiyyətə önəm verilərək hazırlanıb.\r\n\r\n📍 Rahat yerləşmə – biznes fəaliyyətiniz üçün ideal məkandır.\r\n\r\n✅ Əlavə təmir və xərclərə ehtiyac yoxdur. Gir və işə başla!\r\nXidmet Haqqi 30%",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1500,
-        "date": "2026-10-07T19:31:49.091746+00:00"
-      }
-    ]
-  },
-  {
     "id": "6524827",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F17%2F23%2F52%2F0f9d07ed-9c2c-47b4-9cb9-dcf52b457109%2F37068_zLQ5FUJ8mm_JPQ3RVGdXLA.jpg",
     "price": 4500,
@@ -1598,40 +1462,6 @@
     ]
   },
   {
-    "id": "6525296",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F19%2F04%2F36%2F18224fbc-2b9e-407e-bab5-d6bdc3b4f21f%2F37077_3rxwY_jDxntyx8aLtTCy_Q.jpg",
-    "price": 5880,
-    "location": "28 May m.",
-    "location_id": "8",
-    "location_name": "28 May",
-    "rooms": "4 otaqlı",
-    "area_m2": 210,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": true,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T19:06:50+04:00",
-    "category": "office",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6525296",
-    "lat": 40.37764845458447,
-    "lng": 49.85037046047977,
-    "land_area_sot": null,
-    "building_type": "Ofis",
-    "title": "İcarəyə verilir 4 otaqlı ofis 210 m²",
-    "description": "🏢 BAKININ MƏRKƏZİNDƏ A KATEQORİYALI BİZNES MƏRKƏZİNDƏ OFİSLƏR İCARƏYƏ VERİLİR\r\n\r\n📍 Şəhərin mərkəzində yerləşən 12 mərtəbəli A kateqoriyalı biznes mərkəzi şirkətiniz üçün müasir, rahat və prestijli iş mühiti təklif edir.\r\n\r\n✨ Əsas üstünlüklər:\r\n• 🚇 Şəhərin bütün istiqamətlərindən rahat gediş-gəliş\r\n• 🚕 İctimai nəqliyyat və taksi ilə əlverişli çıxış\r\n• 🏛 Hökumət və biznes qurumlarına yaxınlıq\r\n• 🌊 Bakı Bulvarı, kafe və restoranlara yaxın yerləşmə\r\n• 💼 Müasir və müxtəlif ölçülü ofis sahələri\r\n• 🏢 Görüş, konfrans, seminar və təqdimatlar üçün təchiz olunmuş zallar\r\n• ⭐ Prestijli biznes ünvanı və yüksək səviyyəli iş mühiti\r\n• 🛎 Müasir biznes infrastrukturu\r\n\r\n💼 Şirkətiniz üçün sadəcə ofis deyil — prestijli biznes mühiti!\r\n\r\n📞 Ətraflı məlumat, mövcud sahələr və baxış üçün əlaqə saxlaya bilərsiniz.\r\n",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 5880,
-        "date": "2026-10-07T19:31:48.876775+00:00"
-      }
-    ]
-  },
-  {
     "id": "6524894",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F17%2F34%2F26%2F63e9a0a8-db87-48c3-af9f-bc3489d13b0c%2F60585_W9hB4cMecEijOAE0fZvh3w.jpg",
     "price": 2200,
@@ -1696,6 +1526,180 @@
       {
         "price": 1500,
         "date": "2026-10-07T19:31:48.876727+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6522809",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F01%2F18%2F33%2F375357da-47f3-46ec-bd59-eb804eb0c6ca%2F37101_w53VN5vMCrHrfo1qVhliOA.jpg",
+    "price": 450,
+    "location": "Nəriman Nərimanov m.",
+    "location_id": "1",
+    "location_name": "Nəriman Nərimanov",
+    "rooms": "4 otaqlı",
+    "area_m2": 70,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": true,
+    "updated_at_site": "2026-10-08T01:22:50+04:00",
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6522809",
+    "lat": 40.40487752005789,
+    "lng": 49.87539829564451,
+    "land_area_sot": null,
+    "building_type": "Ofis",
+    "title": "İcarəyə verilir 4 otaqlı ofis 70 m²",
+    "description": "Nərimanov metrosu və Metropark yaxınlığında həm tədris mərkəzində tədris otaqları həm də psixologiya mərkəzində psixologiya otaqları icarəyə verilir. Həm də ayrı gırışi çıxışı olan obyekt icarəyə verilir",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 450,
+        "date": "2026-10-07T19:31:50.059293+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6312418",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F22%2F15%2F03%2F10%2Fc9e2b751-4767-424b-9cfd-f6f448c74916%2F55033_AERR-5vJw-MUqpfvvTRsKQ.jpg",
+    "price": 1190,
+    "location": "Nəriman Nərimanov m.",
+    "location_id": "1",
+    "location_name": "Nəriman Nərimanov",
+    "rooms": "2 otaqlı",
+    "area_m2": 60,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": true,
+    "updated_at_site": "2026-10-08T11:49:18+04:00",
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6312418",
+    "lat": 40.4089166,
+    "lng": 49.86399959999994,
+    "land_area_sot": null,
+    "building_type": "Ofis",
+    "title": "İcarəyə verilir 2 otaqlı ofis 60 m²",
+    "description": "🏢 NƏRİMANOVDA PREMİUM OFİS İCARƏYƏ VERİLİR!\n\n📍 Nərimanov rayonunda, biznes mərkəzlərinin yerləşdiyi prestijli küçədə yerləşən plazada 55–60 kv.m, 2 otaqlı tam təmirli və tam əşyalı ofis icarəyə verilir.\n\n✨ Ofisin üstünlükləri:\n\n- 2 otaqlı funksional planlama\n- Tam təmirli\n- Tam əşyalı\n- Mərkəzi istilik və soyutma sistemi\n- Döşəmə kovrolit\n- Panoramik pəncərələr\n- Lift və 24/7 mühafizə\n- Rahat iş mühiti\n\n💰 İcarə haqqı: 1 200 AZN\n✅ Kommunal xərclər qiymətə daxildir.\n\nOfis müxtəlif biznes fəaliyyətləri üçün ideal seçimdir.\n\n📞 Ətraflı məlumat və baxış üçün əlaqə saxlayın.",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1190,
+        "date": "2026-10-07T19:31:49.673040+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6082135",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F04%2F28%2F11%2F55%2F20%2F040664b1-36d8-4a8e-a7e5-fb69d74fd716%2F2783_-bKTgUBScrtlFkWLK-E31Q.jpg",
+    "price": 750,
+    "location": "Nəriman Nərimanov m.",
+    "location_id": "1",
+    "location_name": "Nəriman Nərimanov",
+    "rooms": "2 otaqlı",
+    "area_m2": 40,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T12:26:06+04:00",
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6082135",
+    "lat": 40.40885973855938,
+    "lng": 49.86301811327908,
+    "land_area_sot": null,
+    "building_type": "Ofis",
+    "title": "İcarəyə verilir 2 otaqlı ofis 40 m²",
+    "description": "🏢 ƏHMƏD RƏCƏBLİ 2 OTAQLI OFİS İCARƏYƏ VERİLİR!\r\n \r\n📍 Ünvan: Əhməd Rəcəblı küçəsi, Biznes Mərkəzi\r\n🕒 24/7 fəaliyyət – istədiyiniz zaman işləmək imkanı\r\n \r\n🔹 2 otaqlı, funksional planlama\r\n🔹 Yeni təmir olunmuş, səliqəli \r\n🔹 Geniş və işıqlı otaqlar\r\n🔹 Vitraj pəncərə\r\n \r\n✔️ Bütün kommunal xərclər qiymətə daxildir\r\n✔️ Müxtəlif fəaliyyət sahələri üçün uyğundur\r\n \r\n📞 Ətraflı məlumat və baxış üçün əlaqə saxlayın\r\n \r\n",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 800,
+        "date": "2026-10-07T19:31:49.673022+00:00"
+      },
+      {
+        "price": 750,
+        "date": "2026-10-08T19:31:24.876657+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6525296",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F07%2F19%2F04%2F36%2F18224fbc-2b9e-407e-bab5-d6bdc3b4f21f%2F37077_3rxwY_jDxntyx8aLtTCy_Q.jpg",
+    "price": 5880,
+    "location": "28 May m.",
+    "location_id": "8",
+    "location_name": "28 May",
+    "rooms": "4 otaqlı",
+    "area_m2": 210,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T13:01:59+04:00",
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6525296",
+    "lat": 40.37764845458447,
+    "lng": 49.85037046047977,
+    "land_area_sot": null,
+    "building_type": "Ofis",
+    "title": "İcarəyə verilir 4 otaqlı ofis 210 m²",
+    "description": "🏢 BAKININ MƏRKƏZİNDƏ A KATEQORİYALI BİZNES MƏRKƏZİNDƏ OFİSLƏR İCARƏYƏ VERİLİR\r\n\r\n📍 Şəhərin mərkəzində yerləşən 12 mərtəbəli A kateqoriyalı biznes mərkəzi şirkətiniz üçün müasir, rahat və prestijli iş mühiti təklif edir.\r\n\r\n✨ Əsas üstünlüklər:\r\n• 🚇 Şəhərin bütün istiqamətlərindən rahat gediş-gəliş\r\n• 🚕 İctimai nəqliyyat və taksi ilə əlverişli çıxış\r\n• 🏛 Hökumət və biznes qurumlarına yaxınlıq\r\n• 🌊 Bakı Bulvarı, kafe və restoranlara yaxın yerləşmə\r\n• 💼 Müasir və müxtəlif ölçülü ofis sahələri\r\n• 🏢 Görüş, konfrans, seminar və təqdimatlar üçün təchiz olunmuş zallar\r\n• ⭐ Prestijli biznes ünvanı və yüksək səviyyəli iş mühiti\r\n• 🛎 Müasir biznes infrastrukturu\r\n\r\n💼 Şirkətiniz üçün sadəcə ofis deyil — prestijli biznes mühiti!\r\n\r\n📞 Ətraflı məlumat, mövcud sahələr və baxış üçün əlaqə saxlaya bilərsiniz.\r\n",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 5880,
+        "date": "2026-10-07T19:31:48.876775+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5984680",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F03%2F23%2F15%2F22%2F48%2F6c0c9430-e261-4661-a0e5-8ca799be6202%2F3937_fAmKPccuny_da64HO-fmIg.jpg",
+    "price": 1500,
+    "location": "Gənclik m.",
+    "location_id": "2",
+    "location_name": "Gənclik",
+    "rooms": "2 otaqlı",
+    "area_m2": 60,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-07T17:08:40+04:00",
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/5984680",
+    "lat": 40.40707541892169,
+    "lng": 49.84619544249652,
+    "land_area_sot": null,
+    "building_type": "Ofis",
+    "title": "İcarəyə verilir 2 otaqlı ofis 60 m²",
+    "description": "🔹 Yeni təmirdən çıxıb və təmirdən sonra istifadə olunmayıb.\r\n🔹 2 otaqlıdır – hər otaqda yüksək keyfiyyətli mebellər, LG kondisioner və LG televizor mövcuddur.\r\n🔹 Ofisdə Epson son model printer, Hikvision domofon sistemi, yüksək keyfiyyətli laminat döşəmə, sifarişlə hazırlanmış müasir qapılar və premium mebellər var.\r\n🔹 Ofis tam istifadəyə yararlıdır – bütün avadanlıqlar yeni və istifadəyə hazırdır.\r\n\r\n✨ Burada heç bir xırdalığa qənaət edilməyib – mebellərdən tutmuş texnikaya qədər hər şey xüsusi seçimlə və keyfiyyətə önəm verilərək hazırlanıb.\r\n\r\n📍 Rahat yerləşmə – biznes fəaliyyətiniz üçün ideal məkandır.\r\n\r\n✅ Əlavə təmir və xərclərə ehtiyac yoxdur. Gir və işə başla!\r\nXidmet Haqqi 30%",
+    "deleted_at": "2026-10-08T19:31:36.721951+00:00",
+    "price_history": [
+      {
+        "price": 1500,
+        "date": "2026-10-07T19:31:49.091746+00:00"
       }
     ]
   }

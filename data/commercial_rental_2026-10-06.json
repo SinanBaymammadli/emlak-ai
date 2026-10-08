@@ -578,40 +578,6 @@
     ]
   },
   {
-    "id": "6517558",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F12%2F31%2F40%2Fbacd6800-2700-4b5d-97cc-385f9e2f57e1%2F16180_W_wExZL2l4GaFXU_ncjbog.jpg",
-    "price": 1490,
-    "location": "28 May m.",
-    "location_id": "8",
-    "location_name": "28 May",
-    "rooms": null,
-    "area_m2": 50,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": true,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-05T12:37:01+04:00",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6517558",
-    "lat": 40.38139527681884,
-    "lng": 49.84619336850186,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "İcarəyə verilir obyekt 50 m²",
-    "description": "Şəhərin mərkəzində insanların sıx hərəkət etdiyi ərazidə 28 May metrostansiyası yaxınlığında yerləşir \r\nObyektin həm yuxarı, həm də aşağı tərəfdən girişi var. Çox gediş-gəlişli, əlverişli və perspektivli ərazidə yerləşir\r\nOfis, xidmət sahəsi, studio, salon, paltar mağazası, yemək və digər biznes fəaliyyətləri üçün uyğundur\r\nObyektə baxış keçirmək üçün əlaqə saxlayın \r\n",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1490,
-        "date": "2026-10-06T12:57:55.614920+00:00"
-      }
-    ]
-  },
-  {
     "id": "6517575",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F12%2F39%2F14%2F394c4058-171f-4ffa-a19a-5d8feb29bee8%2F21579_b3BOhnebgzdaVYKN5iDJtg.jpg",
     "price": 1200,
@@ -2006,40 +1972,6 @@
     ]
   },
   {
-    "id": "6519100",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F17%2F46%2F16%2Fb386a7ef-c031-4a1f-9c7b-809df42c1994%2F93532_lhf1rT_e47O8-BIVuwIFMA.jpg",
-    "price": 6000,
-    "location": "Ağ şəhər q.",
-    "location_id": "314",
-    "location_name": "Ağ şəhər",
-    "rooms": null,
-    "area_m2": 200,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": true,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-05T17:51:43+04:00",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6519100",
-    "lat": 40.38507583547668,
-    "lng": 49.88467758713714,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "İcarəyə verilir obyekt 200 m²",
-    "description": "Ağ Şəhərdə möhtəşəm kafe icarəyə verilir\r\n\r\nMərkəzi Bulvar küçəsi, Ağ Şəhər\r\n\r\nÜmumi sahəsi 200 kv metrdir\r\n\r\nİçəri hissə 80 kv metr\r\nÇöl ərazi 120 kv metr\r\n\r\nMöhtəşəm yerləşməsi və geniş açıq sahəsi ilə kafe və restoran fəaliyyəti üçün ideal məkandır.\r\n\r\nAğ Şəhərin prestijli ərazisində biznes qurmaq istəyənlər üçün əla fürsətdir",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 6000,
-        "date": "2026-10-06T12:57:54.840258+00:00"
-      }
-    ]
-  },
-  {
     "id": "6519142",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F17%2F53%2F40%2F731b7161-2f00-4982-be10-f8a392a72182%2F91629__-jzO35WOIfGRXjqcI3oXA.jpg",
     "price": 900,
@@ -2720,40 +2652,6 @@
     ]
   },
   {
-    "id": "6520016",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F10%2F04%2F36%2Faa40235e-40c7-435e-b909-8550be4ac95c%2F42974_3Gq5v-JKIxTSMIqwll-63A.jpg",
-    "price": 3500,
-    "location": "Həzi Aslanov m.",
-    "location_id": "33",
-    "location_name": "Həzi Aslanov",
-    "rooms": null,
-    "area_m2": 250,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-06T10:07:24+04:00",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6520016",
-    "lat": 40.37135532935002,
-    "lng": 49.95217299635131,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "İcarəyə verilir obyekt 250 m²",
-    "description": " Həzi Aslanov metro çıxışında yeni tikili olan kompleksdə 1/17 mərtəbəsində \r\npub-restaran icarəyə verilir..\r\nSahəsi 250kvm dir..4-kabinet və 15 masaliq zalı var ..Müşterisi olan abyektdir..\r\nBütün avadanlıqları var..Fotolar şertidir. \r\nİdeal abyektdir.\r\n",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 3500,
-        "date": "2026-10-06T12:57:54.267196+00:00"
-      }
-    ]
-  },
-  {
     "id": "6520049",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F10%2F27%2F33%2F5a7b8ebb-6118-4344-80c5-8c9a3b5d755f%2F60577_7Z4_DUF3Jf4MHKUY7Kxv0g.jpg",
     "price": 600,
@@ -3298,40 +3196,6 @@
     ]
   },
   {
-    "id": "6520910",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F13%2F45%2F00%2F48406bd9-b859-4735-ade7-08ee2132e1ed%2F60559_5kaWaI4ORCg27TC8xh5_OQ.jpg",
-    "price": 599,
-    "location": "28 May m.",
-    "location_id": "8",
-    "location_name": "28 May",
-    "rooms": null,
-    "area_m2": 12,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": true,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-06T13:45:32+04:00",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6520910",
-    "lat": 40.37814336953371,
-    "lng": 49.853137973904,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "İcarəyə verilir obyekt 12 m²",
-    "description": "Obyekt \r\nDerzi,zoo magaza,anbar,telifon akserorlari satisi ve diger fealliyetlere uygundu baxmaq ucun elaeqe saxlaya bilersiz",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 599,
-        "date": "2026-10-06T12:57:53.208767+00:00"
-      }
-    ]
-  },
-  {
     "id": "5492848",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F09%2F08%2F11%2F38%2F19%2F84f8e0bf-a073-4753-8f72-892e102bed59%2F4513_SdFmiiX51JZHxZnCDO0xMg.jpg",
     "price": 3500,
@@ -3410,7 +3274,7 @@
     "area_m2": 444,
     "floor": null,
     "floor_number": null,
-    "is_agency": true,
+    "is_agency": false,
     "has_repair": true,
     "has_bill_of_sale": false,
     "has_mortgage": false,
@@ -3736,40 +3600,6 @@
       {
         "price": 999,
         "date": "2026-10-06T12:57:53.011889+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6520985",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F14%2F02%2F13%2F61194889-641d-4812-aaa6-d5000c54feb8%2F37069_ycC03DhlfDXOSfdqcpnK1A.jpg",
-    "price": 2500,
-    "location": "Əhmədli m.",
-    "location_id": "51",
-    "location_name": "Əhmədli",
-    "rooms": null,
-    "area_m2": 355,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": true,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-06T14:56:15+04:00",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6520985",
-    "lat": 40.38256561975049,
-    "lng": 49.96423393664552,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "İcarəyə verilir obyekt 355 m²",
-    "description": "🏢  | LÜKS OBYEKT KİRAYƏ | BÖYÜK SAHƏ\r\n📍 Ünvan: Əhmədli, Məzahir Rüstəmov küçəsi\r\n📐 Sahə: 355 kv.m obyekt\r\n✨ Vəziyyət: Tam təmirli, əlavə təmirə sizin üçün uyğun edilib veriləcək\r\n🔥 İstilik: İsti pol, kombi sistemi var\r\n⚡ Elektrik: 3 faza, yüksək kVt işıq gərginliyi\r\n🪟 Fasad: Vitraj şüşəli\r\n🏠 Plan: 4 otaq, 2 sanuzel\r\n🎯 Profil: Bütün profillər üçün uyğundur - ofis, klinika, salon, restoran, market və s.💼 XİDMƏT HAQQI: 30%\r\n📞 ƏTRAFLI MƏLUMAT ÜÇÜN BUYURUB ZƏNG VURA BİLƏRSİNİZ",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 2500,
-        "date": "2026-10-06T12:57:53.208698+00:00"
       }
     ]
   },
@@ -4216,40 +4046,6 @@
     ]
   },
   {
-    "id": "6518020",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F16%2F50%2F52%2F9fdbe39a-72e3-4309-9479-1053f426e7f0%2F37075_KB1yWJ43aYtX49ruURe3Cg.jpg",
-    "price": 750,
-    "location": "Əhmədli q.",
-    "location_id": "100",
-    "location_name": "Əhmədli",
-    "rooms": null,
-    "area_m2": 100,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-06T16:52:16+04:00",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6518020",
-    "lat": 40.38038140238,
-    "lng": 49.96514288331197,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "İcarəyə verilir obyekt 100 m²",
-    "description": "100m² yerdir icarəyə verilir sənədi çıxarış aptek və stomotoloq üçünfə yararlıdır",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 750,
-        "date": "2026-10-06T12:57:55.414315+00:00"
-      }
-    ]
-  },
-  {
     "id": "6521810",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F16%2F55%2F23%2F8d025b14-ea7a-4dbc-8078-233a536d6cd9%2F60584_8mTsaSQ0uwTTOfGXx8JnJQ.jpg",
     "price": 1200,
@@ -4692,40 +4488,6 @@
     ]
   },
   {
-    "id": "5967204",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F03%2F14%2F17%2F44%2F08%2Fb5716962-6476-4f74-8419-8514722acfa0%2F37552_uAurrJWMKcykZ_vQT6O6vQ.jpg",
-    "price": 550,
-    "location": "28 May m.",
-    "location_id": "8",
-    "location_name": "28 May",
-    "rooms": null,
-    "area_m2": 20,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": true,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-06T19:07:59+04:00",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/5967204",
-    "lat": 40.38351980290139,
-    "lng": 49.849292031814,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "İcarəyə verilir obyekt 20 m²",
-    "description": "📌 Elan kodu (№0368)\n📍 Rayon: Nərimanov r.\n🏠 Ünvan: Ceyhun  Hacibəyli küçəsi(28 may m/st)\n📐 Sahə:  20kv/m\n📊 Mərtəbə:1\n🛋️ Otaq sayı:1\n📝 Qeydlər: 28 may metrosunun 2-ci çıxışının yaxınlığında yerləşir, 20kv-dır, istənilən təyinatda işlədilə bilinər, tam yol kənarıdır, yerləşmə yeri idealdır .Obyekt boşdur.Parkova var. Müxtəlif  biznes növlərinə uyğundur.\n\n💵 Aylıq icarə:  550Azn.\n💼 Ofis haqqı: 30%.\n📞 Ətraflı məlumat üçün whatsappa yaza və ya zəng edə bilərsiniz!\n",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 550,
-        "date": "2026-10-06T19:31:39.189201+00:00"
-      }
-    ]
-  },
-  {
     "id": "6522436",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F19%2F31%2F27%2F3db0b150-0d9d-4b32-a48b-ef52da31669e%2F60545__7XKenDnsz6eBuhh-KYZoQ.jpg",
     "price": 4200,
@@ -4790,40 +4552,6 @@
       {
         "price": 500,
         "date": "2026-10-06T19:31:38.984965+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6106704",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F23%2F23%2F00%2F15%2F6f747b43-c9ec-4496-a4c4-9d559fb781c3%2F75113__klCb_bEMFVxSEDRG5saQg.jpg",
-    "price": 750,
-    "location": "Əhmədli m.",
-    "location_id": "51",
-    "location_name": "Əhmədli",
-    "rooms": null,
-    "area_m2": 35,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-06T20:57:24+04:00",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6106704",
-    "lat": 40.38223888985691,
-    "lng": 49.9550054121138,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "İcarəyə verilir obyekt 35 m²",
-    "description": "✨🏢 İCARƏYƏ VERILIR\n🔴 Əhmədli Metronun 3 cu çixişla 250 metr məsafədə yerləşir.\n📍 Əhmədli metrosuna cəmi 2 dəqiqəlik piyada məsafədə yerləşən,\n🔹 35 kv/m sahəsi olan əlverişli obyekt icarəyə verilir.\n✅ Gediş-gəlişin sıx olduğu ərazi\n✅ Market, ofis, butik, salon və digər fəaliyyət növləri üçün uyğun\n✅ Rahat yerləşmə və diqqət çəkən məkan\n✅ İş qurmaq üçün ideal fürsət\n\n☑️QIYMƏTINDƏ INDIRIM VAR UZUNMUDDƏT GOTURƏN MÜŞTƏRIYƏ\n\n💼 Prestijli və işlək nöqtədə obyekt axtaranlar üçün əla seçim!\n📞 Ətraflı məlumat üçün əlaqə saxlayın. ✨",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 750,
-        "date": "2026-10-06T19:31:38.984945+00:00"
       }
     ]
   },
@@ -4964,142 +4692,6 @@
     ]
   },
   {
-    "id": "6522614",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F21%2F22%2F23%2Fe5e956f6-1411-40f5-8875-1c3c1fad638a%2F60586_dBcPoPiiXxsr_2pLl-M7IQ.jpg",
-    "price": 3000,
-    "location": "Nizami m.",
-    "location_id": "35",
-    "location_name": "Nizami",
-    "rooms": null,
-    "area_m2": 120,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T05:34:00+04:00",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6522614",
-    "lat": 40.3824687231759,
-    "lng": 49.82796406412857,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "İcarəyə verilir obyekt 120 m²",
-    "description": "Nizamide Presitjli Locationda \r\nobyekt icareye verilir her bir biznes sahesine uyhundur\r\nhal hazirda sirniyyat evi kimi fealliyet gosterir\r\nhazir biznes satisi movcuddur isteyen olsa zeng elesin qarsisinda 2 masalq terasida var \r\nher bir seraiti var \r\nciddi sexsler zeng edip wpda yaza biler",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 3000,
-        "date": "2026-10-06T19:31:38.984864+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6001016",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F03%2F29%2F23%2F23%2F53%2F725e6015-0b2e-49a9-9087-e18a128e6ca5%2F72786_Txbdwh01oNIWag47neVefw.jpg",
-    "price": 500,
-    "location": "Hövsan q.",
-    "location_id": "93",
-    "location_name": "Hövsan",
-    "rooms": null,
-    "area_m2": 35,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T10:55:36+04:00",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6001016",
-    "lat": 40.36092865050278,
-    "lng": 50.07355865807282,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "İcarəyə verilir obyekt 35 m²",
-    "description": "Hovsanin merkezinde Hovsan belediyyəsinin qarsısında,Kinqsmart marketin,Poctun yanında 35 kvadrat obyekt icarəyə verilir.Isiq,su,kanalizasiya var.",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 500,
-        "date": "2026-10-06T12:57:53.780080+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6520191",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F11%2F12%2F06%2F77c93751-6e7e-479c-87eb-e8244027658b%2F37089_JdgbEaNeSx1Wne4THt5znA.jpg",
-    "price": 1000,
-    "location": "Yasamal q.",
-    "location_id": "103",
-    "location_name": "Yasamal",
-    "rooms": null,
-    "area_m2": 65,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": true,
-    "updated_at_site": "2026-10-07T11:16:26+04:00",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6520191",
-    "lat": 40.38932331896554,
-    "lng": 49.82308764820699,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "İcarəyə verilir obyekt 65 m²",
-    "description": "Сдается объект под любую деятельность ,на улице Измир 5, около хаят редженс, тбилисский проспект, 65кв",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1000,
-        "date": "2026-10-06T12:57:53.779823+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6180336",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F03%2F11%2F21%2F44%2F8ab10fd6-75df-436f-ac4b-a695ef433c56%2F71455_4zyjtC4MJssAt8gh5UC1tg.jpg",
-    "price": 9900,
-    "location": "Keşlə q.",
-    "location_id": "105",
-    "location_name": "Keşlə",
-    "rooms": null,
-    "area_m2": 1600,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T11:18:14+04:00",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6180336",
-    "lat": 40.39743744339383,
-    "lng": 49.89779720257881,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "İcarəyə verilir obyekt 1600 m²",
-    "description": "Anbar tam mühafizə olunan həyətin icində yerləşir. Anbarın daxilinə tırların daxil olması üçün böyük qapısı var. 24 saat mühafizə, video müşahidə sistemi\n\nYük maşınları hərəkəti və saxlancı üçün geniş həyətyanı sahəsi var. Həyətində ofislər, mühafizə otağı və hamam/tualet mövcuddur \n\nƏlaqə yalnız whatsapp ilə .",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 9900,
-        "date": "2026-10-06T12:57:53.592081+00:00"
-      }
-    ]
-  },
-  {
     "id": "6518828",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F16%2F52%2F45%2F5a50f50a-d0b1-4335-830d-298ee6c92bfc%2F91594_6dxFTrqPva3ErXGcX3aQhw.jpg",
     "price": 3000,
@@ -5172,40 +4764,6 @@
     ]
   },
   {
-    "id": "6520469",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F12%2F12%2F10%2F5122ea53-4d96-496e-8080-bfd433fec214%2F37095_yQT-OuIZXmEVtoTgZRREXw.jpg",
-    "price": 800,
-    "location": "Həzi Aslanov m.",
-    "location_id": "33",
-    "location_name": "Həzi Aslanov",
-    "rooms": null,
-    "area_m2": 70,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": true,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T12:00:42+04:00",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6520469",
-    "lat": 40.37134945467545,
-    "lng": 49.95192579786535,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "İcarəyə verilir obyekt 70 m²",
-    "description": "Hezi Aslanov metrosuna 5 deqiqelik mesafede yerlesen \r\nbinanin heyet hissesinde umumi sahesi 70 kv \r\nobyekt icareye verilir.\r\nobyektin sanitar qovsagi kuxnasi istilik sistemi var.\r\nqaz su isiq daimidir.\r\nelave melumat ucun zeng vura bilersiz.\r\ndepozit 200 azn teleb olunur.\r\nqiymetde cuzi razilasmaq olar uzun muddetli \r\nmusderiye endiirim olunacaq.\r\nxidmet haqqi 30 faiz teskil edir.",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 800,
-        "date": "2026-10-06T12:57:53.398630+00:00"
-      }
-    ]
-  },
-  {
     "id": "6518747",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F16%2F31%2F19%2Fac81f6e7-b639-4352-8564-3a79534189b3%2F91587_KWzD24gR0fEu3YmutJOZkQ.jpg",
     "price": 7000,
@@ -5236,108 +4794,6 @@
       {
         "price": 7000,
         "date": "2026-10-06T12:57:55.026502+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6386821",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F18%2F16%2F47%2F50%2Fb367e71b-9219-4ba1-8d09-20773f6b1ddd%2F94281_uQxdKg2XQTct2yc55mrRTw.jpg",
-    "price": 1350,
-    "location": "Həzi Aslanov m.",
-    "location_id": "33",
-    "location_name": "Həzi Aslanov",
-    "rooms": null,
-    "area_m2": 110,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T12:10:09+04:00",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6386821",
-    "lat": 40.37117554881043,
-    "lng": 49.95650160759867,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "İcarəyə verilir obyekt 110 m²",
-    "description": "İcarəyə verilir obyekt 110 m², Həzi Aslanov m.\r\nİcarəyə verilir obyekt 110 m², Həzi Aslanov m.\r\nİCARƏYƏ TƏMİRLİ KOMMERSİYA OBYEKTİ – 110 m²\r\nBiznesiniz üçün hazır obyekt! 110 m² sahəsi olan təmirli obyekt müxtəlif fəaliyyət sahələri üçün tam uyğundur.\r\n✅ 110 m² geniş sahə\r\n✅ Təmirli və istifadəyə hazır\r\n✅ 3 fazalı elektrik sistemi\r\n✅ Avtomobil dayanacağı mövcuddur\r\n✅ Əvvəllər hazırlıq kursu kimi fəaliyyət göstərib\r\n✅ Gözəllik salonu, tədris mərkəzi, ofis, klinika, estetik mərkəz, kurs və digər kommersiya fəaliyyəti üçün əlverişlidir.\r\nObyekt rahat planlaşdırılıb və yeni sahibini gözləyir. Ətraflı məlumat və baxış üçün əlaqə saxlayın.",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1350,
-        "date": "2026-10-06T12:57:53.398654+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6520304",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F11%2F41%2F49%2F39897ad8-0c7f-4c6f-a33c-e8ab762171b2%2F37105_lIq5gCF17JgFcCleYcQvfw.jpg",
-    "price": 1600,
-    "location": "Keşlə q.",
-    "location_id": "105",
-    "location_name": "Keşlə",
-    "rooms": null,
-    "area_m2": 120,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T14:05:45+04:00",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6520304",
-    "lat": 40.39381187329035,
-    "lng": 49.90757782578927,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "İcarəyə verilir obyekt 120 m²",
-    "description": "İcarəyə verilir – magaza/kurs/ofis/şirkət/logistika/arxiv-anbar/istehsalat  üçün əlverişli 120kv/m obyekt\r\nBabək prospekti, Nizami Abdulayev küçəsi, 328 nömrəli məktəbin yanı. Əsas Babek pr-ti yoluna cox yaxin. Kommersiya fəaliyyəti üçün cox əlverişlı və yararlı obyekt. Obyekti bölmək də olar servis ücün de uygundu. Bu ayın 15-şı Boşalır. Avadanliq yoxdu.\r\n*Sahə:120 kv.m\r\n*Sanitar qovşağı\r\n*Yeni təmirli\r\n* Daimi işıq, su\r\nSakit və əl catan yerdedi infrastruktur baximnan.\r\nƏtraflı məlumat üçün əlaqə saxlayın. Video gönderim.",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1600,
-        "date": "2026-10-06T12:57:53.208674+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6342958",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F03%2F00%2F44%2F51%2F6b478c81-191f-4c3e-96c4-669ca366ab0d%2F64519_h0VvHDvPFvQqIEL-Ykw9-A.jpg",
-    "price": 1500,
-    "location": "İçəri Şəhər m.",
-    "location_id": "37",
-    "location_name": "İçəri Şəhər",
-    "rooms": null,
-    "area_m2": 45,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T14:08:43+04:00",
-    "category": "commercial",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6342958",
-    "lat": 40.36930450809534,
-    "lng": 49.82331394552364,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "İcarəyə verilir obyekt 45 m²",
-    "description": "Nerimanov heykelinin arxasinda yerleshen obyekt icareye verilir.Atelye ve diger(ofis magazin ve s) uchun yararlidir.Temirlidir.Giymet razilashma yolu ile. 45m² + 35 m² — yan-yana obyektlər.\nObyektlər ayrı-ayrılıqda və ya birlikdə icarəyə verilə bilər.\nDaha böyük sahə istəyənlər üçün iki obyektin arasındakı divar açılaraq içəridən keçid qapısı qoyulması mümkündür.",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1500,
-        "date": "2026-10-06T12:57:53.208633+00:00"
       }
     ]
   },
@@ -5380,14 +4836,116 @@
     ]
   },
   {
-    "id": "6518276",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F15%2F01%2F30%2Fa2a9f413-4565-4037-9dbe-eb1e6aeefce7%2F63837_7x0CHGWWhEzJyYW2SjBXhg.jpg",
-    "price": 6000,
-    "location": "İnşaatçılar m.",
-    "location_id": "7",
-    "location_name": "İnşaatçılar",
+    "id": "6516943",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F10%2F23%2F33%2F9c9eab88-d275-476b-acc9-06d551b54e4e%2F75499_VLKy7zz92BOQFyHJ4z3CDA.jpg",
+    "price": 800,
+    "location": "28 May m.",
+    "location_id": "8",
+    "location_name": "28 May",
     "rooms": null,
-    "area_m2": 420,
+    "area_m2": 40,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T10:01:00+04:00",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6516943",
+    "lat": 40.38286965115397,
+    "lng": 49.84675750663855,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "İcarəyə verilir obyekt 40 m²",
+    "description": "XİDMƏT HAQQİ- 30%!\r\n• Hər növ fəaliyyət üçün icarəyə verilir (Yoqa, pilates, fotostudiya, atelye, koverkinq, gözəllik ustaları, IT). 2/ 3- cü mərtəbə. Tavanın hündürlüyü- 3.6 metr. Əlavə ümumi mətbəxi var və WC.\r\n• “28 may” m. cəmi 50 metr (2 çixiş, üzbəüz).\r\n\r\nКОМИССИЯ- 30%\r\n• Сдается под любые цели (Йога, пилатес, фотостудия, ателье, коворкинг, бьюти мастера, IT). 2/ 3 этаж. Высота потолков- 3.6 метра. Есть общая кухня и WC.\r\n• Всего в 50 метрах от метро «28 мая» (2 выход, напротив).",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 800,
+        "date": "2026-10-06T12:57:55.810697+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6520016",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F10%2F04%2F36%2Faa40235e-40c7-435e-b909-8550be4ac95c%2F42974_3Gq5v-JKIxTSMIqwll-63A.jpg",
+    "price": 3500,
+    "location": "Həzi Aslanov m.",
+    "location_id": "33",
+    "location_name": "Həzi Aslanov",
+    "rooms": null,
+    "area_m2": 250,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T10:45:41+04:00",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6520016",
+    "lat": 40.37135532935002,
+    "lng": 49.95217299635131,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "İcarəyə verilir obyekt 250 m²",
+    "description": " Həzi Aslanov metro çıxışında yeni tikili olan kompleksdə 1/17 mərtəbəsində \r\npub-restaran icarəyə verilir..\r\nSahəsi 250kvm dir..4-kabinet və 15 masaliq zalı var ..Müşterisi olan abyektdir..\r\nBütün avadanlıqları var..Fotolar şertidir. \r\nİdeal abyektdir.\r\n",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 3500,
+        "date": "2026-10-06T12:57:54.267196+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6001016",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F03%2F29%2F23%2F23%2F53%2F725e6015-0b2e-49a9-9087-e18a128e6ca5%2F72786_Txbdwh01oNIWag47neVefw.jpg",
+    "price": 500,
+    "location": "Hövsan q.",
+    "location_id": "93",
+    "location_name": "Hövsan",
+    "rooms": null,
+    "area_m2": 35,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T10:55:33+04:00",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6001016",
+    "lat": 40.36092865050278,
+    "lng": 50.07355865807282,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "İcarəyə verilir obyekt 35 m²",
+    "description": "Hovsanin merkezinde Hovsan belediyyəsinin qarsısında,Kinqsmart marketin,Poctun yanında 35 kvadrat obyekt icarəyə verilir.Isiq,su,kanalizasiya var.",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 500,
+        "date": "2026-10-06T12:57:53.780080+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5967204",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F03%2F14%2F17%2F44%2F08%2Fb5716962-6476-4f74-8419-8514722acfa0%2F37552_uAurrJWMKcykZ_vQT6O6vQ.jpg",
+    "price": 550,
+    "location": "28 May m.",
+    "location_id": "8",
+    "location_name": "28 May",
+    "rooms": null,
+    "area_m2": 20,
     "floor": null,
     "floor_number": null,
     "is_agency": true,
@@ -5395,21 +4953,293 @@
     "has_bill_of_sale": false,
     "has_mortgage": false,
     "is_featured": false,
-    "updated_at_site": "2026-10-07T15:00:09+04:00",
+    "updated_at_site": "2026-10-08T10:56:31+04:00",
     "category": "commercial",
     "deal_type": "rental",
-    "url": "https://bina.az/items/6518276",
-    "lat": 40.39317320158209,
-    "lng": 49.79285105377183,
+    "url": "https://bina.az/items/5967204",
+    "lat": 40.38351980290139,
+    "lng": 49.849292031814,
     "land_area_sot": null,
     "building_type": "Obyekt",
-    "title": "İcarəyə verilir obyekt 420 m²",
-    "description": "Yeni Yasamalda yol kənarında nə bu ərazidə nədə kənar ərazilərdə təmir, şərait və avadanlıq barədə tayı bərabəri olmayan hazır gir işlət pub lounge icarəyə verilir. Bina altıdır, Səs izolyasiyası olunub, havalandırma sistemi yüksək səviyyədədir. Obyekt 5 kabinet və 2 zaldan ibarətdir. Açarlar əldədir ətraflı məlumat üçün əlaqə saxlayın. Xidmət haqqı 50%",
+    "title": "İcarəyə verilir obyekt 20 m²",
+    "description": "📌 Elan kodu (№0368)\n📍 Rayon: Nərimanov r.\n🏠 Ünvan: Ceyhun  Hacibəyli küçəsi(28 may m/st)\n📐 Sahə:  20kv/m\n📊 Mərtəbə:1\n🛋️ Otaq sayı:1\n📝 Qeydlər: 28 may metrosunun 2-ci çıxışının yaxınlığında yerləşir, 20kv-dır, istənilən təyinatda işlədilə bilinər, tam yol kənarıdır, yerləşmə yeri idealdır .Obyekt boşdur.Parkova var. Müxtəlif  biznes növlərinə uyğundur.\n\n💵 Aylıq icarə:  550Azn.\n💼 Ofis haqqı: 30%.\n📞 Ətraflı məlumat üçün whatsappa yaza və ya zəng edə bilərsiniz!\n",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 550,
+        "date": "2026-10-06T19:31:39.189201+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6520191",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F11%2F12%2F06%2F77c93751-6e7e-479c-87eb-e8244027658b%2F37089_JdgbEaNeSx1Wne4THt5znA.jpg",
+    "price": 1000,
+    "location": "Yasamal q.",
+    "location_id": "103",
+    "location_name": "Yasamal",
+    "rooms": null,
+    "area_m2": 65,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": true,
+    "updated_at_site": "2026-10-08T11:16:26+04:00",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6520191",
+    "lat": 40.38932331896554,
+    "lng": 49.82308764820699,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "İcarəyə verilir obyekt 65 m²",
+    "description": "Сдается объект под любую деятельность ,на улице Измир 5, около хаят редженс, тбилисский проспект, 65кв",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1000,
+        "date": "2026-10-06T12:57:53.779823+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6180336",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F03%2F11%2F21%2F44%2F8ab10fd6-75df-436f-ac4b-a695ef433c56%2F71455_4zyjtC4MJssAt8gh5UC1tg.jpg",
+    "price": 9900,
+    "location": "Keşlə q.",
+    "location_id": "105",
+    "location_name": "Keşlə",
+    "rooms": null,
+    "area_m2": 1600,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T11:18:12+04:00",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6180336",
+    "lat": 40.39743744339383,
+    "lng": 49.89779720257881,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "İcarəyə verilir obyekt 1600 m²",
+    "description": "Anbar tam mühafizə olunan həyətin icində yerləşir. Anbarın daxilinə tırların daxil olması üçün böyük qapısı var. 24 saat mühafizə, video müşahidə sistemi\n\nYük maşınları hərəkəti və saxlancı üçün geniş həyətyanı sahəsi var. Həyətində ofislər, mühafizə otağı və hamam/tualet mövcuddur \n\nƏlaqə yalnız whatsapp ilə .",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 9900,
+        "date": "2026-10-06T12:57:53.592081+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6386821",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F18%2F16%2F47%2F50%2Fb367e71b-9219-4ba1-8d09-20773f6b1ddd%2F94281_uQxdKg2XQTct2yc55mrRTw.jpg",
+    "price": 1350,
+    "location": "Həzi Aslanov m.",
+    "location_id": "33",
+    "location_name": "Həzi Aslanov",
+    "rooms": null,
+    "area_m2": 110,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T12:10:10+04:00",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6386821",
+    "lat": 40.37117554881043,
+    "lng": 49.95650160759867,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "İcarəyə verilir obyekt 110 m²",
+    "description": "İcarəyə verilir obyekt 110 m², Həzi Aslanov m.\r\nİcarəyə verilir obyekt 110 m², Həzi Aslanov m.\r\nİCARƏYƏ TƏMİRLİ KOMMERSİYA OBYEKTİ – 110 m²\r\nBiznesiniz üçün hazır obyekt! 110 m² sahəsi olan təmirli obyekt müxtəlif fəaliyyət sahələri üçün tam uyğundur.\r\n✅ 110 m² geniş sahə\r\n✅ Təmirli və istifadəyə hazır\r\n✅ 3 fazalı elektrik sistemi\r\n✅ Avtomobil dayanacağı mövcuddur\r\n✅ Əvvəllər hazırlıq kursu kimi fəaliyyət göstərib\r\n✅ Gözəllik salonu, tədris mərkəzi, ofis, klinika, estetik mərkəz, kurs və digər kommersiya fəaliyyəti üçün əlverişlidir.\r\nObyekt rahat planlaşdırılıb və yeni sahibini gözləyir. Ətraflı məlumat və baxış üçün əlaqə saxlayın.",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1350,
+        "date": "2026-10-06T12:57:53.398654+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6520910",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F13%2F45%2F00%2F48406bd9-b859-4735-ade7-08ee2132e1ed%2F60559_5kaWaI4ORCg27TC8xh5_OQ.jpg",
+    "price": 599,
+    "location": "28 May m.",
+    "location_id": "8",
+    "location_name": "28 May",
+    "rooms": null,
+    "area_m2": 12,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T12:12:27+04:00",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6520910",
+    "lat": 40.37814336953371,
+    "lng": 49.853137973904,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "İcarəyə verilir obyekt 12 m²",
+    "description": "Obyekt \r\nDerzi,zoo magaza,anbar,telifon akserorlari satisi ve diger fealliyetlere uygundu baxmaq ucun elaeqe saxlaya bilersiz",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 599,
+        "date": "2026-10-06T12:57:53.208767+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6519100",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F17%2F46%2F16%2Fb386a7ef-c031-4a1f-9c7b-809df42c1994%2F93532_lhf1rT_e47O8-BIVuwIFMA.jpg",
+    "price": 6000,
+    "location": "Ağ şəhər q.",
+    "location_id": "314",
+    "location_name": "Ağ şəhər",
+    "rooms": null,
+    "area_m2": 201,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T12:20:19+04:00",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6519100",
+    "lat": 40.38507583547668,
+    "lng": 49.88467758713714,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "İcarəyə verilir obyekt 200 m²",
+    "description": "Ağ Şəhərdə möhtəşəm kafe icarəyə verilir\r\n\r\nMərkəzi Bulvar küçəsi, Ağ Şəhər\r\n\r\nÜmumi sahəsi 200 kv metrdir\r\n\r\nİçəri hissə 80 kv metr\r\nÇöl ərazi 120 kv metr\r\n\r\nMöhtəşəm yerləşməsi və geniş açıq sahəsi ilə kafe və restoran fəaliyyəti üçün ideal məkandır.\r\n\r\nAğ Şəhərin prestijli ərazisində biznes qurmaq istəyənlər üçün əla fürsətdir",
     "deleted_at": null,
     "price_history": [
       {
         "price": 6000,
-        "date": "2026-10-06T12:57:52.821977+00:00"
+        "date": "2026-10-06T12:57:54.840258+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6520304",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F11%2F41%2F49%2F39897ad8-0c7f-4c6f-a33c-e8ab762171b2%2F37105_lIq5gCF17JgFcCleYcQvfw.jpg",
+    "price": 1600,
+    "location": "Keşlə q.",
+    "location_id": "105",
+    "location_name": "Keşlə",
+    "rooms": null,
+    "area_m2": 120,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T14:05:45+04:00",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6520304",
+    "lat": 40.39381187329035,
+    "lng": 49.90757782578927,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "İcarəyə verilir obyekt 120 m²",
+    "description": "İcarəyə verilir – magaza/kurs/ofis/şirkət/logistika/arxiv-anbar/istehsalat  üçün əlverişli 120kv/m obyekt\r\nBabək prospekti, Nizami Abdulayev küçəsi, 328 nömrəli məktəbin yanı. Əsas Babek pr-ti yoluna cox yaxin. Kommersiya fəaliyyəti üçün cox əlverişlı və yararlı obyekt. Obyekti bölmək də olar servis ücün de uygundu. Bu ayın 15-şı Boşalır. Avadanliq yoxdu.\r\n*Sahə:120 kv.m\r\n*Sanitar qovşağı\r\n*Yeni təmirli\r\n* Daimi işıq, su\r\nSakit və əl catan yerdedi infrastruktur baximnan.\r\nƏtraflı məlumat üçün əlaqə saxlayın. Video gönderim.",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1600,
+        "date": "2026-10-06T12:57:53.208674+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6342958",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F03%2F00%2F44%2F51%2F6b478c81-191f-4c3e-96c4-669ca366ab0d%2F64519_h0VvHDvPFvQqIEL-Ykw9-A.jpg",
+    "price": 1500,
+    "location": "İçəri Şəhər m.",
+    "location_id": "37",
+    "location_name": "İçəri Şəhər",
+    "rooms": null,
+    "area_m2": 45,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T14:08:44+04:00",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6342958",
+    "lat": 40.36930450809534,
+    "lng": 49.82331394552364,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "İcarəyə verilir obyekt 45 m²",
+    "description": "Nerimanov heykelinin arxasinda yerleshen obyekt icareye verilir.Atelye ve diger(ofis magazin ve s) uchun yararlidir.Temirlidir.Giymet razilashma yolu ile. 45m² + 35 m² — yan-yana obyektlər.\nObyektlər ayrı-ayrılıqda və ya birlikdə icarəyə verilə bilər.\nDaha böyük sahə istəyənlər üçün iki obyektin arasındakı divar açılaraq içəridən keçid qapısı qoyulması mümkündür.",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1500,
+        "date": "2026-10-06T12:57:53.208633+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6520469",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F12%2F12%2F10%2F5122ea53-4d96-496e-8080-bfd433fec214%2F37095_yQT-OuIZXmEVtoTgZRREXw.jpg",
+    "price": 800,
+    "location": "Həzi Aslanov m.",
+    "location_id": "33",
+    "location_name": "Həzi Aslanov",
+    "rooms": null,
+    "area_m2": 70,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T14:18:28+04:00",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6520469",
+    "lat": 40.37134945467545,
+    "lng": 49.95192579786535,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "İcarəyə verilir obyekt 70 m²",
+    "description": "Hezi Aslanov metrosuna 5 deqiqelik mesafede yerlesen \r\nbinanin heyet hissesinde umumi sahesi 70 kv \r\nobyekt icareye verilir.\r\nobyektin sanitar qovsagi kuxnasi istilik sistemi var.\r\nqaz su isiq daimidir.\r\nelave melumat ucun zeng vura bilersiz.\r\ndepozit 200 azn teleb olunur.\r\nqiymetde cuzi razilasmaq olar uzun muddetli \r\nmusderiye endiirim olunacaq.\r\nxidmet haqqi 30 faiz teskil edir.",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 800,
+        "date": "2026-10-06T12:57:53.398630+00:00"
       }
     ]
   },
@@ -5429,7 +5259,7 @@
     "has_bill_of_sale": false,
     "has_mortgage": false,
     "is_featured": false,
-    "updated_at_site": "2026-10-07T15:19:02+04:00",
+    "updated_at_site": "2026-10-08T15:19:02+04:00",
     "category": "commercial",
     "deal_type": "rental",
     "url": "https://bina.az/items/6061339",
@@ -5463,7 +5293,7 @@
     "has_bill_of_sale": false,
     "has_mortgage": false,
     "is_featured": false,
-    "updated_at_site": "2026-10-07T15:40:09+04:00",
+    "updated_at_site": "2026-10-08T15:40:07+04:00",
     "category": "commercial",
     "deal_type": "rental",
     "url": "https://bina.az/items/6519009",
@@ -5497,7 +5327,7 @@
     "has_bill_of_sale": false,
     "has_mortgage": false,
     "is_featured": false,
-    "updated_at_site": "2026-10-07T15:49:22+04:00",
+    "updated_at_site": "2026-10-08T15:49:18+04:00",
     "category": "commercial",
     "deal_type": "rental",
     "url": "https://bina.az/items/6520648",
@@ -5512,6 +5342,108 @@
       {
         "price": 3600,
         "date": "2026-10-06T12:57:52.821884+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6518276",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F15%2F01%2F30%2Fa2a9f413-4565-4037-9dbe-eb1e6aeefce7%2F63837_7x0CHGWWhEzJyYW2SjBXhg.jpg",
+    "price": 6000,
+    "location": "İnşaatçılar m.",
+    "location_id": "7",
+    "location_name": "İnşaatçılar",
+    "rooms": null,
+    "area_m2": 420,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T17:54:24+04:00",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6518276",
+    "lat": 40.39317320158209,
+    "lng": 49.79285105377183,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "İcarəyə verilir obyekt 420 m²",
+    "description": "Yeni Yasamalda yol kənarında nə bu ərazidə nədə kənar ərazilərdə təmir, şərait və avadanlıq barədə tayı bərabəri olmayan hazır gir işlət pub lounge icarəyə verilir. Bina altıdır, Səs izolyasiyası olunub, havalandırma sistemi yüksək səviyyədədir. Obyekt 5 kabinet və 2 zaldan ibarətdir. Açarlar əldədir ətraflı məlumat üçün əlaqə saxlayın. Xidmət haqqı 50%",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 6000,
+        "date": "2026-10-06T12:57:52.821977+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6517558",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F12%2F31%2F40%2Fbacd6800-2700-4b5d-97cc-385f9e2f57e1%2F16180_W_wExZL2l4GaFXU_ncjbog.jpg",
+    "price": 1490,
+    "location": "28 May m.",
+    "location_id": "8",
+    "location_name": "28 May",
+    "rooms": null,
+    "area_m2": 75,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T18:37:49+04:00",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6517558",
+    "lat": 40.38139527681884,
+    "lng": 49.84619336850186,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "İcarəyə verilir obyekt 50 m²",
+    "description": "Şəhərin mərkəzində insanların sıx hərəkət etdiyi ərazidə 28 May metrostansiyası yaxınlığında yerləşir \r\nObyektin həm yuxarı, həm də aşağı tərəfdən girişi var. Çox gediş-gəlişli, əlverişli və perspektivli ərazidə yerləşir\r\nOfis, xidmət sahəsi, studio, salon, paltar mağazası, yemək və digər biznes fəaliyyətləri üçün uyğundur\r\nObyektə baxış keçirmək üçün əlaqə saxlayın \r\n",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1490,
+        "date": "2026-10-06T12:57:55.614920+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6106704",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F06%2F18%2F03%2F12%2Fd33be71e-c98f-431b-a4e0-26146e50c54a%2F35023_yPN2bxGpBWCvke44mzo7dA.jpg",
+    "price": 750,
+    "location": "Əhmədli m.",
+    "location_id": "51",
+    "location_name": "Əhmədli",
+    "rooms": null,
+    "area_m2": 35,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T19:20:04+04:00",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6106704",
+    "lat": 40.38223888985691,
+    "lng": 49.9550054121138,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "İcarəyə verilir obyekt 35 m²",
+    "description": "✨🏢 İCARƏYƏ VERILIR\n🔴 Əhmədli Metronun 3 cu çixişla 250 metr məsafədə yerləşir.\n📍 Əhmədli metrosuna cəmi 2 dəqiqəlik piyada məsafədə yerləşən,\n🔹 35 kv/m sahəsi olan əlverişli obyekt icarəyə verilir.\n✅ Gediş-gəlişin sıx olduğu ərazi\n✅ Market, ofis, butik, salon və digər fəaliyyət növləri üçün uyğun\n✅ Rahat yerləşmə və diqqət çəkən məkan\n✅ İş qurmaq üçün ideal fürsət\n\n☑️QIYMƏTINDƏ INDIRIM VAR UZUNMUDDƏT GOTURƏN MÜŞTƏRIYƏ\n\n💼 Prestijli və işlək nöqtədə obyekt axtaranlar üçün əla seçim!\n📞 Ətraflı məlumat üçün əlaqə saxlayın. ✨",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 750,
+        "date": "2026-10-06T19:31:38.984945+00:00"
       }
     ]
   },
@@ -5531,7 +5463,7 @@
     "has_bill_of_sale": false,
     "has_mortgage": false,
     "is_featured": false,
-    "updated_at_site": "2026-10-07T19:30:35+04:00",
+    "updated_at_site": "2026-10-08T19:30:37+04:00",
     "category": "commercial",
     "deal_type": "rental",
     "url": "https://bina.az/items/6519435",
@@ -5550,14 +5482,48 @@
     ]
   },
   {
-    "id": "6516943",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F10%2F23%2F33%2F9c9eab88-d275-476b-acc9-06d551b54e4e%2F75499_VLKy7zz92BOQFyHJ4z3CDA.jpg",
-    "price": 800,
-    "location": "28 May m.",
-    "location_id": "8",
-    "location_name": "28 May",
+    "id": "6520985",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F14%2F02%2F13%2F61194889-641d-4812-aaa6-d5000c54feb8%2F37069_ycC03DhlfDXOSfdqcpnK1A.jpg",
+    "price": 2500,
+    "location": "Əhmədli m.",
+    "location_id": "51",
+    "location_name": "Əhmədli",
     "rooms": null,
-    "area_m2": 40,
+    "area_m2": 355,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T19:56:56+04:00",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6520985",
+    "lat": 40.38256561975049,
+    "lng": 49.96423393664552,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "İcarəyə verilir obyekt 355 m²",
+    "description": "🏢  | LÜKS OBYEKT KİRAYƏ | BÖYÜK SAHƏ\r\n📍 Ünvan: Əhmədli, Məzahir Rüstəmov küçəsi\r\n📐 Sahə: 355 kv.m obyekt\r\n✨ Vəziyyət: Tam təmirli, əlavə təmirə sizin üçün uyğun edilib veriləcək\r\n🔥 İstilik: İsti pol, kombi sistemi var\r\n⚡ Elektrik: 3 faza, yüksək kVt işıq gərginliyi\r\n🪟 Fasad: Vitraj şüşəli\r\n🏠 Plan: 4 otaq, 2 sanuzel\r\n🎯 Profil: Bütün profillər üçün uyğundur - ofis, klinika, salon, restoran, market və s.💼 XİDMƏT HAQQI: 30%\r\n📞 ƏTRAFLI MƏLUMAT ÜÇÜN BUYURUB ZƏNG VURA BİLƏRSİNİZ",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 2500,
+        "date": "2026-10-06T12:57:53.208698+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6522614",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F21%2F22%2F23%2Fe5e956f6-1411-40f5-8875-1c3c1fad638a%2F60586_dBcPoPiiXxsr_2pLl-M7IQ.jpg",
+    "price": 3000,
+    "location": "Nizami m.",
+    "location_id": "35",
+    "location_name": "Nizami",
+    "rooms": null,
+    "area_m2": 120,
     "floor": null,
     "floor_number": null,
     "is_agency": false,
@@ -5565,21 +5531,21 @@
     "has_bill_of_sale": false,
     "has_mortgage": false,
     "is_featured": false,
-    "updated_at_site": "2026-10-05T10:24:56+04:00",
+    "updated_at_site": "2026-10-08T23:12:02+04:00",
     "category": "commercial",
     "deal_type": "rental",
-    "url": "https://bina.az/items/6516943",
-    "lat": 40.38286965115397,
-    "lng": 49.84675750663855,
+    "url": "https://bina.az/items/6522614",
+    "lat": 40.3824687231759,
+    "lng": 49.82796406412857,
     "land_area_sot": null,
     "building_type": "Obyekt",
-    "title": "İcarəyə verilir obyekt 40 m²",
-    "description": "XİDMƏT HAQQİ- 30%!\r\n• Hər növ fəaliyyət üçün icarəyə verilir (Yoqa, pilates, fotostudiya, atelye, koverkinq, gözəllik ustaları, IT). 2/ 3- cü mərtəbə. Tavanın hündürlüyü- 3.6 metr. Əlavə ümumi mətbəxi var və WC.\r\n• “28 may” m. cəmi 50 metr (2 çixiş, üzbəüz).\r\n\r\nКОМИССИЯ- 30%\r\n• Сдается под любые цели (Йога, пилатес, фотостудия, ателье, коворкинг, бьюти мастера, IT). 2/ 3 этаж. Высота потолков- 3.6 метра. Есть общая кухня и WC.\r\n• Всего в 50 метрах от метро «28 мая» (2 выход, напротив).",
-    "deleted_at": "2026-10-06T19:32:04.860549+00:00",
+    "title": "İcarəyə verilir obyekt 120 m²",
+    "description": "Nizamide Presitjli Locationda \r\nobyekt icareye verilir her bir biznes sahesine uyhundur\r\nhal hazirda sirniyyat evi kimi fealliyet gosterir\r\nhazir biznes satisi movcuddur isteyen olsa zeng elesin qarsisinda 2 masalq terasida var \r\nher bir seraiti var \r\nciddi sexsler zeng edip wpda yaza biler",
+    "deleted_at": null,
     "price_history": [
       {
-        "price": 800,
-        "date": "2026-10-06T12:57:55.810697+00:00"
+        "price": 3000,
+        "date": "2026-10-06T19:31:38.984864+00:00"
       }
     ]
   },
@@ -5648,6 +5614,40 @@
       {
         "price": 600,
         "date": "2026-10-06T12:57:54.451352+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6518020",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F16%2F50%2F52%2F9fdbe39a-72e3-4309-9479-1053f426e7f0%2F37075_KB1yWJ43aYtX49ruURe3Cg.jpg",
+    "price": 750,
+    "location": "Əhmədli q.",
+    "location_id": "100",
+    "location_name": "Əhmədli",
+    "rooms": null,
+    "area_m2": 100,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-06T16:52:16+04:00",
+    "category": "commercial",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6518020",
+    "lat": 40.38038140238,
+    "lng": 49.96514288331197,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "İcarəyə verilir obyekt 100 m²",
+    "description": "100m² yerdir icarəyə verilir sənədi çıxarış aptek və stomotoloq üçünfə yararlıdır",
+    "deleted_at": "2026-10-08T19:31:55.382686+00:00",
+    "price_history": [
+      {
+        "price": 750,
+        "date": "2026-10-06T12:57:55.414315+00:00"
       }
     ]
   }

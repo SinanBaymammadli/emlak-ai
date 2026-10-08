@@ -1586,40 +1586,6 @@
     ]
   },
   {
-    "id": "6516661",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F22%2F19%2F00%2Ff9713c6d-e1f4-4f9b-9f4a-cb95e1265522%2F65324_pWEzr7uIEfoUtdhLZvoT3A.jpg",
-    "price": 1275000,
-    "location": "Bakıxanov q.",
-    "location_id": "69",
-    "location_name": "Bakıxanov",
-    "rooms": null,
-    "area_m2": 15,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-05T11:07:33+04:00",
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6516661",
-    "lat": 40.42421768269211,
-    "lng": 49.94606271614718,
-    "land_area_sot": null,
-    "building_type": "Torpaq",
-    "title": "Satılır torpaq 15 sot",
-    "description": "Razinin en yaxşı küçelerinden birinde,15 sot,kupçalı,her iki terefde yola çıxışı var.Torpaqda çox gözəl  şam ve meyve ağacları var.Heyetde 2 balaca tikili var oda hediyye qiymete daxil deyil.Ciddi maraqlananlar buyursun",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1275000,
-        "date": "2026-10-04T18:33:59.415899+00:00"
-      }
-    ]
-  },
-  {
     "id": "6032292",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F04%2F09%2F21%2F13%2F24%2Ff911fb82-00c8-4eba-b13f-12713ac63f73%2F39999_pExZXOugg2CtQ26w_N0PJA.jpg",
     "price": 715000,
@@ -1686,43 +1652,6 @@
       {
         "price": 29000,
         "date": "2026-10-04T17:01:08.402055+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6515671",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F14%2F37%2F53%2F211359fc-ead9-418f-8eec-15bf1a8034a1%2F63840_9-O0Nj6ruVFuFqUJaVlrvQ.jpg",
-    "price": 25500,
-    "location": "Albalılıq q.",
-    "land_area_sot": 2.0,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.54630005048382,
-    "lng": 50.03205487747963,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": null,
-    "updated_at_site": "2026-10-06T12:33:01+04:00",
-    "is_featured": false,
-    "title": "Satılır torpaq 2 sot",
-    "description": "Torpag mastaga albalilig 2 de yeni tikilen xestexananin qarsisinda yerlesir kupcadir lahiyyeside cekilib hem ev tikmek olar ama esas padabeyekt yerdi  prespektivi coxdu xestexana istifadeye verilende axin cox olar ora yeni qiymetler qalxacaq  muraciyyet ede bilrsiz",
-    "building_type": "Torpaq",
-    "location_id": "313",
-    "location_name": "Albalılıq",
-    "area_m2": 2,
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6515671",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 23000,
-        "date": "2026-10-04T17:01:08.402172+00:00"
-      },
-      {
-        "price": 25500,
-        "date": "2026-10-04T18:34:01.042967+00:00"
       }
     ]
   },
@@ -1871,113 +1800,6 @@
     ]
   },
   {
-    "id": "6516471",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F19%2F51%2F19%2F7b4c40c7-475a-465a-910a-ea36409ca443%2F36766_nX7zB9di-LgnvYxdHNkq0g.jpg",
-    "price": 117000,
-    "location": "Biləcəri q.",
-    "land_area_sot": 6.0,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.43844824720222,
-    "lng": 49.80580058414304,
-    "has_repair": null,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-07T10:29:11+04:00",
-    "is_featured": false,
-    "title": "Satılır torpaq 6 sot",
-    "description": "Təcili!!! Biləcəri qəsəbəsində, avtobus yolundan 100metr aralı,içində 1 mərtəbəli, qoşa daşla tikilmiş 3 otaqlı hazır tikili olan 6 sot torpaq satılır! Su, işlq, qaz sayğacı quraşdırılıb. Qiymət sondur!!! Real alıcıya cuzi endirim olunacaq. Real müştərisi olmayan MAKLERLƏR NARAHAT ETMƏSİN!!!! ",
-    "building_type": "Torpaq",
-    "location_id": "17",
-    "location_name": "Biləcəri",
-    "area_m2": 6,
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6516471",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 117000,
-        "date": "2026-10-04T17:01:08.399869+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6516275",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F18%2F20%2F26%2Fce424d21-9273-4e12-a88a-ef0c155b20e1%2F28831_Dd6faal60E0hsJUv_S7IDg.jpg",
-    "price": 155366,
-    "location": "Fatmayı q.",
-    "land_area_sot": 26.0,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.529305,
-    "lng": 49.84443,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": null,
-    "updated_at_site": "2026-10-07T13:14:55+04:00",
-    "is_featured": false,
-    "title": "Satılır torpaq 26 sot",
-    "description": "Teze çekilen yoldan 150metr içeri beton. Zavod’un yani",
-    "building_type": "Torpaq",
-    "location_id": "116",
-    "location_name": "Fatmayı",
-    "area_m2": 26,
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6516275",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 150000,
-        "date": "2026-10-04T17:01:08.400440+00:00"
-      },
-      {
-        "price": 155000,
-        "date": "2026-10-04T18:34:00.287074+00:00"
-      },
-      {
-        "price": 155366,
-        "date": "2026-10-07T19:31:39.852466+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6515372",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F13%2F09%2F46%2Fd2a85d12-e573-496f-bbbd-f47e97e7064d%2F75498_pGDNEo4Y2cwGImrVoYHteA.jpg",
-    "price": 320000,
-    "location": "Azadlıq Prospekti m.",
-    "land_area_sot": 6.5,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.4279789759861,
-    "lng": 49.84435616321532,
-    "has_repair": null,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "floor_number": null,
-    "updated_at_site": "2026-10-07T13:16:59+04:00",
-    "is_featured": false,
-    "title": "Satılır torpaq 6.5 sot",
-    "description": "QAÇIRILMAZ FÜRSƏT ! \r\nÇOOX TƏCİLİ SATILIR !!!\r\n\r\nAzadlıq metrosuna çox yaxın məsafədə yerləşən möhtəşəm torpaq sahəsi satılır ! \r\n\r\nSƏNƏD KUPÇA ! \r\nTƏYİNAT YAŞAYIŞ MƏNTƏQƏLƏRİNİN TORPAQLARI !\r\n\r\nAlıb rahatlıqla villanızı tikə bilərsiz.\r\n\r\nTorpağa qədər asfalt çəkilib.\r\n\r\nQaz,Su,işıq və kanalizasiya xəttləri torpağın yanında yerləşir.\r\n\r\nƏlavə məlumat üçün əlaqə saxlayın.\r\n\r\nŞirkət haqqı 1%.",
-    "building_type": "Torpaq",
-    "location_id": "6",
-    "location_name": "Azadlıq Prospekti",
-    "area_m2": 6.5,
-    "category": "land",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6515372",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 320000,
-        "date": "2026-10-04T17:01:08.403111+00:00"
-      }
-    ]
-  },
-  {
     "id": "6516560",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F20%2F54%2F48%2F13abf942-28c6-4f1f-8bb5-d6fd5178b39b%2F75504_gRcaY6XSaNd_fOMSZRUMqw.jpg",
     "price": 135000,
@@ -2019,35 +1841,113 @@
     ]
   },
   {
-    "id": "6193818",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F08%2F12%2F45%2F26%2Fce76a463-4298-482e-a779-292807607725%2F31055_APNzc0D-CzRZ8dKHZ1AhFw.jpg",
-    "price": 140000,
-    "location": "Nardaran q.",
-    "land_area_sot": 22.0,
+    "id": "6516471",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F19%2F51%2F19%2F7b4c40c7-475a-465a-910a-ea36409ca443%2F36766_nX7zB9di-LgnvYxdHNkq0g.jpg",
+    "price": 117000,
+    "location": "Biləcəri q.",
+    "land_area_sot": 6.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.43844824720222,
+    "lng": 49.80580058414304,
+    "has_repair": null,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-08T10:29:13+04:00",
+    "is_featured": false,
+    "title": "Satılır torpaq 6 sot",
+    "description": "Təcili!!! Biləcəri qəsəbəsində, avtobus yolundan 100metr aralı,içində 1 mərtəbəli, qoşa daşla tikilmiş 3 otaqlı hazır tikili olan 6 sot torpaq satılır! Su, işlq, qaz sayğacı quraşdırılıb. Qiymət sondur!!! Real alıcıya cuzi endirim olunacaq. Real müştərisi olmayan MAKLERLƏR NARAHAT ETMƏSİN!!!! ",
+    "building_type": "Torpaq",
+    "location_id": "17",
+    "location_name": "Biləcəri",
+    "area_m2": 6,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6516471",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 117000,
+        "date": "2026-10-04T17:01:08.399869+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6516275",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F18%2F20%2F26%2Fce424d21-9273-4e12-a88a-ef0c155b20e1%2F28831_Dd6faal60E0hsJUv_S7IDg.jpg",
+    "price": 155399,
+    "location": "Fatmayı q.",
+    "land_area_sot": 26.0,
     "floor": null,
     "is_agency": true,
-    "lat": 40.55726748087937,
-    "lng": 49.98446414787201,
+    "lat": 40.529305,
+    "lng": 49.84443,
     "has_repair": null,
     "has_bill_of_sale": true,
     "has_mortgage": true,
     "floor_number": null,
-    "updated_at_site": "2026-10-07T14:10:32+04:00",
+    "updated_at_site": "2026-10-08T13:14:57+04:00",
     "is_featured": false,
-    "title": "Satılır torpaq 22 sot",
-    "description": "200000 MANAT DEYİL❌ 140000 MANAT✅\nƏLİMYANDI VARİANT✅✅ KUPÇALI✅✅\nNardaran,Ləhic bağlarlnda,Şəhid bulağı adlanan ərazidə,SeaBreeze  maşınla 5-6 dəqiqəlik məsafədə,əsas yoldan 250 metr içəridə 22 sot kupçalı torpaq sahəsi təcili olaraq satılır.Torpaq sahəsi çox əlverişli yerdə yerləşir.Ətraf hamısı yaşayışlı bağ evləridir.Kommunnal xəttlər mövcuddur.Kupçada 20 faktiki 22 sotdur.Həyətdə müxtəlif cür ağaclar,dekorativ və təbii güllər var.İçərisində 1 ədəd 2 otaqlı köhnə tikilidə mövcuddur.İnvestisiya üçündə əla fürsətdir.Allah alanada satanada  bizədə xeyir versin.Bu ərazidə sotu 9-10 min manatdan aşağı kupçalı torpaq yoxdur.İnvestorlar üçün super fürsətdir.Ofis haqqı 1%.Qiymet yalniz 10 oktyabra qeder kecerlidir✅",
+    "title": "Satılır torpaq 26 sot",
+    "description": "Teze çekilen yoldan 150metr içeri beton. Zavod’un yani",
     "building_type": "Torpaq",
-    "location_id": "119",
-    "location_name": "Nardaran",
-    "area_m2": 22,
+    "location_id": "116",
+    "location_name": "Fatmayı",
+    "area_m2": 26,
     "category": "land",
     "deal_type": "sale",
-    "url": "https://bina.az/items/6193818",
+    "url": "https://bina.az/items/6516275",
     "deleted_at": null,
     "price_history": [
       {
-        "price": 140000,
-        "date": "2026-10-04T17:01:08.402754+00:00"
+        "price": 150000,
+        "date": "2026-10-04T17:01:08.400440+00:00"
+      },
+      {
+        "price": 155000,
+        "date": "2026-10-04T18:34:00.287074+00:00"
+      },
+      {
+        "price": 155366,
+        "date": "2026-10-07T19:31:39.852466+00:00"
+      },
+      {
+        "price": 155399,
+        "date": "2026-10-08T19:31:36.458275+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6515372",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F13%2F09%2F46%2Fd2a85d12-e573-496f-bbbd-f47e97e7064d%2F75498_pGDNEo4Y2cwGImrVoYHteA.jpg",
+    "price": 320000,
+    "location": "Azadlıq Prospekti m.",
+    "land_area_sot": 6.5,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.4279789759861,
+    "lng": 49.84435616321532,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": null,
+    "updated_at_site": "2026-10-08T13:17:00+04:00",
+    "is_featured": false,
+    "title": "Satılır torpaq 6.5 sot",
+    "description": "QAÇIRILMAZ FÜRSƏT ! \r\nÇOOX TƏCİLİ SATILIR !!!\r\n\r\nAzadlıq metrosuna çox yaxın məsafədə yerləşən möhtəşəm torpaq sahəsi satılır ! \r\n\r\nSƏNƏD KUPÇA ! \r\nTƏYİNAT YAŞAYIŞ MƏNTƏQƏLƏRİNİN TORPAQLARI !\r\n\r\nAlıb rahatlıqla villanızı tikə bilərsiz.\r\n\r\nTorpağa qədər asfalt çəkilib.\r\n\r\nQaz,Su,işıq və kanalizasiya xəttləri torpağın yanında yerləşir.\r\n\r\nƏlavə məlumat üçün əlaqə saxlayın.\r\n\r\nŞirkət haqqı 1%.",
+    "building_type": "Torpaq",
+    "location_id": "6",
+    "location_name": "Azadlıq Prospekti",
+    "area_m2": 6.5,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6515372",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 320000,
+        "date": "2026-10-04T17:01:08.403111+00:00"
       }
     ]
   },
@@ -2065,7 +1965,7 @@
     "has_bill_of_sale": true,
     "has_mortgage": false,
     "floor_number": null,
-    "updated_at_site": "2026-10-07T14:42:46+04:00",
+    "updated_at_site": "2026-10-08T14:42:48+04:00",
     "is_featured": true,
     "title": "Satılır torpaq 8 sot",
     "description": "Hövsan qəsəbəsində, Hövsan Maşın Bazarının yaxınlığında, Yelkən bağları A sektorunda 8 sot torpaq sahəsi satılır.\r\n\r\nTorpağın ölçüsü 40x20 metrdir. Çıxarışı (kupçası) var. Sahə tam hasara alınıb, darvazası qoyulub və həyət düzləşdirilib. Həyətdə şambo tikilib. Elektrik xətti mövcuddur.\r\n\r\nƏsas yoldan cəmi 1 bağ aralı yerləşir. Dənizə yaxın ərazidədir. Ətrafda qonşular məskunlaşıb, yeni və prestijli fərdi yaşayış evləri tikilir.\r\n\r\nYaxınlıqda avtobus dayanacağı, Hövsan Maşın Bazarı, marketlər və tikinti materialları mağazaları yerləşir.\r\n\r\nTorpağın 40x20 metr olması tikinti üçün çox əlverişlidir. Sahəni bölərək 3 ev tikmək üçün də uyğun variantdır.\r\n\r\nDigər kommunikasiyaların çəkilməsi mümkündür.\r\n\r\nQiymət: 190 000 AZN.\r\nReal alıcıya qiymətdə yaxşı endirim olunacaq.\r\n\r\nCiddi alıcılar əlaqə saxlaya bilər.\r\nZəng çatmazsa, xahiş olunur whatsapp ilə əlaqə saxlayın.\r\n",
@@ -2085,6 +1985,40 @@
     ]
   },
   {
+    "id": "6516661",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F22%2F19%2F00%2Ff9713c6d-e1f4-4f9b-9f4a-cb95e1265522%2F65324_pWEzr7uIEfoUtdhLZvoT3A.jpg",
+    "price": 1275000,
+    "location": "Bakıxanov q.",
+    "location_id": "69",
+    "location_name": "Bakıxanov",
+    "rooms": null,
+    "area_m2": 15,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": true,
+    "updated_at_site": "2026-10-08T16:32:46+04:00",
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6516661",
+    "lat": 40.42421768269211,
+    "lng": 49.94606271614718,
+    "land_area_sot": null,
+    "building_type": "Torpaq",
+    "title": "Satılır torpaq 15 sot",
+    "description": "Razinin en yaxşı küçelerinden birinde,15 sot,kupçalı,her iki terefde yola çıxışı var.Torpaqda çox gözəl  şam ve meyve ağacları var.Heyetde 2 balaca tikili var oda hediyye qiymete daxil deyil.Ciddi maraqlananlar buyursun",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1275000,
+        "date": "2026-10-04T18:33:59.415899+00:00"
+      }
+    ]
+  },
+  {
     "id": "6515999",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F16%2F36%2F31%2F81cfcafd-6feb-43a1-a851-694f0887cccb%2F75550_uU4LoApCkwmP7ct9bchdDw.jpg",
     "price": 30000,
@@ -2098,7 +2032,7 @@
     "has_bill_of_sale": true,
     "has_mortgage": false,
     "floor_number": null,
-    "updated_at_site": "2026-10-07T16:37:13+04:00",
+    "updated_at_site": "2026-10-08T16:37:13+04:00",
     "is_featured": false,
     "title": "Satılır torpaq 5 sot",
     "description": "Türkan qəsəbəsi, Yeni Türkan bağlarında.\r\n- Sahəsi: 5 sot, Yeni Türkan bağları \r\n- Sənəd:  Kupça (ÇIXARIŞ), Xüsusi mülkiyyət yaşayış məntəqələrinin torpaqları.\r\n- Kommunal xətlər: İşıq, internet yanında, qaz lap yaxında, təsərrüfat suyu mövcuddur.\r\n- Ərazi: Türkan şadlıq sarayının qarşı istiqaməti, Türkan şadlıq sarayından gedən yolun üzərində, sahəyə qədər yolun 70 %-i asfaltdır, marşuruta, məktəbə, aptekə, baxçaya, marketlərə yaxındır.\r\n- 2 tərəfi tam hasardı.\r\nKimə uyğun olsa bizimlə əlaqə saxlaya bilər.",
@@ -2131,7 +2065,7 @@
     "has_bill_of_sale": true,
     "has_mortgage": true,
     "floor_number": null,
-    "updated_at_site": "2026-10-07T19:19:35+04:00",
+    "updated_at_site": "2026-10-08T19:19:33+04:00",
     "is_featured": true,
     "title": "Satılır torpaq 9 sot",
     "description": "Buzovna qəs., Xəzər r-on, Aydın Xələfov küç.\r\ndənizə piyada-15 qəq., maqistral yoluna piyada-5 dəq.\r\n9 sot torpaq, meyvə ağacları, quyu suyu, qaz ,elektrik\r\n(içərisində 4 otaqlı, köhnə tikili, yşayışa yararlı,kupçalı ev hədiyyə)\r\n1sotu-25000 man",
@@ -2147,6 +2081,76 @@
       {
         "price": 225000,
         "date": "2026-10-04T17:01:08.400258+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6515671",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F14%2F37%2F53%2F211359fc-ead9-418f-8eec-15bf1a8034a1%2F63840_9-O0Nj6ruVFuFqUJaVlrvQ.jpg",
+    "price": 25500,
+    "location": "Albalılıq q.",
+    "land_area_sot": 2.0,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.54630005048382,
+    "lng": 50.03205487747963,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": null,
+    "updated_at_site": "2026-10-08T21:04:35+04:00",
+    "is_featured": false,
+    "title": "Satılır torpaq 2 sot",
+    "description": "Torpag mastaga albalilig 2 de yeni tikilen xestexananin qarsisinda yerlesir kupcadir lahiyyeside cekilib hem ev tikmek olar ama esas padabeyekt yerdi  prespektivi coxdu xestexana istifadeye verilende axin cox olar ora yeni qiymetler qalxacaq  muraciyyet ede bilrsiz",
+    "building_type": "Torpaq",
+    "location_id": "313",
+    "location_name": "Albalılıq",
+    "area_m2": 2,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6515671",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 23000,
+        "date": "2026-10-04T17:01:08.402172+00:00"
+      },
+      {
+        "price": 25500,
+        "date": "2026-10-04T18:34:01.042967+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6193818",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F08%2F12%2F45%2F26%2Fce76a463-4298-482e-a779-292807607725%2F31055_APNzc0D-CzRZ8dKHZ1AhFw.jpg",
+    "price": 140000,
+    "location": "Nardaran q.",
+    "land_area_sot": 22.0,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.55726748087937,
+    "lng": 49.98446414787201,
+    "has_repair": null,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "floor_number": null,
+    "updated_at_site": "2026-10-08T22:22:19+04:00",
+    "is_featured": false,
+    "title": "Satılır torpaq 22 sot",
+    "description": "200000 MANAT DEYİL❌ 140000 MANAT✅\nƏLİMYANDI VARİANT✅✅ KUPÇALI✅✅\nNardaran,Ləhic bağlarlnda,Şəhid bulağı adlanan ərazidə,SeaBreeze  maşınla 5-6 dəqiqəlik məsafədə,əsas yoldan 250 metr içəridə 22 sot kupçalı torpaq sahəsi təcili olaraq satılır.Torpaq sahəsi çox əlverişli yerdə yerləşir.Ətraf hamısı yaşayışlı bağ evləridir.Kommunnal xəttlər mövcuddur.Kupçada 20 faktiki 22 sotdur.Həyətdə müxtəlif cür ağaclar,dekorativ və təbii güllər var.İçərisində 1 ədəd 2 otaqlı köhnə tikilidə mövcuddur.İnvestisiya üçündə əla fürsətdir.Allah alanada satanada  bizədə xeyir versin.Bu ərazidə sotu 9-10 min manatdan aşağı kupçalı torpaq yoxdur.İnvestorlar üçün super fürsətdir.Ofis haqqı 1%.Qiymet yalniz 10 oktyabra qeder kecerlidir✅",
+    "building_type": "Torpaq",
+    "location_id": "119",
+    "location_name": "Nardaran",
+    "area_m2": 22,
+    "category": "land",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6193818",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 140000,
+        "date": "2026-10-04T17:01:08.402754+00:00"
       }
     ]
   },

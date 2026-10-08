@@ -826,39 +826,6 @@
     ]
   },
   {
-    "id": "6515013",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F11%2F07%2F08%2F35732186-c995-4ed0-aaae-0621d414f52a%2F75513_kzjFuQ9gZTkr29FYnA_1lw.jpg",
-    "price": 600,
-    "location": "Əhmədli m.",
-    "rooms": "2 otaqlı",
-    "area_m2": 55,
-    "floor": "9/10 mərtəbə",
-    "is_agency": true,
-    "lat": 40.38207345928368,
-    "lng": 49.95386116316569,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 9,
-    "updated_at_site": "2026-10-04T11:08:42+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı köhnə tikili 55 m²",
-    "description": "🏙️ Əhmedli metrosu Referans Klinikasının yaxınlğında yerleşen köhnə tikili binada menzil kiraye verilir\r\n📍 **Menzil 10 mertebeli binanin 9 cu mertebesinde yerlesir\r\n🔑 **Menzilin umumi sahesi 55 Kv ve 2 otaqdan ibaretdir\r\n🏢 **Menzilde yasayis ucun butun avadanliqlar movcuddur\r\n📞 **Etrafli melumat ucun elaqe saxlayin\r\n🌟 **Xidmet Haqqi 30 %",
-    "building_type": "Köhnə tikili",
-    "location_id": "51",
-    "location_name": "Əhmədli",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6515013",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 600,
-        "date": "2026-10-04T17:34:10.368467+00:00"
-      }
-    ]
-  },
-  {
     "id": "6515028",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F11%2F19%2F03%2F30a17a30-a6a2-491a-9fc9-49a79a35614d%2F23220_ogPNZu8VK2IN1AejEVKdmQ.jpg",
     "price": 1000,
@@ -1020,72 +987,6 @@
       {
         "price": 700,
         "date": "2026-10-04T17:34:10.367855+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6515043",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F11%2F16%2F55%2F10a14dd1-6e0b-4ecb-93fb-13f5b8983de0%2F75504_KTIBoF5ImfPoeQ0AIcIxMw.jpg",
-    "price": 1100,
-    "location": "Nizami m.",
-    "rooms": "2 otaqlı",
-    "area_m2": 100,
-    "floor": "13/16 mərtəbə",
-    "is_agency": true,
-    "lat": 40.38343128592626,
-    "lng": 49.82713746177673,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 13,
-    "updated_at_site": "2026-10-04T11:26:38+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı yeni tikili 100 m²",
-    "description": "🏠 NİZAMİ METROSUNA YAXIN — YENİ TƏMİRLİ 2 OTAQLI MƏNZİL İCARƏYƏ VERİLİR\r\n\r\n📍 Məmməd Naxçıvani küçəsi, Nizami metrosuna yaxın\r\n\r\nMənzil təmirdən yeni çıxıb və təmirdən sonra ümumiyyətlə yaşayış olmayıb. Geniş və rahat planlamaya malik mənzildir.\r\n\r\n🔹 2 otaq\r\n🔹 100 m²\r\n🔹 16 mərtəbəli binanın 13-cü mərtəbəsi\r\n🔹 1 yataq otağı\r\n🔹 1 geniş zal\r\n🔹 Ayrı mətbəx\r\n🔹 2 sanuzel\r\n🔹 Böyük və geniş hol\r\n🔹 Yeni təmir\r\n🔹 Təmirdən sonra yaşayış olmayıb\r\n🔹 Qabyuyan maşın\r\n🔹 Paltaryuyan maşın\r\n🔹 Soyuducu\r\n🔹 Bütün texnikalar işlək vəziyyətdədir\r\n\r\n💰 İcarə haqqı: 1100 AZN\r\n💰 Depozit: 1100 AZN — MÜTLƏQİDİR, depozitdən keçilmir.\r\n\r\n📌 Uzunmüddətli müştəriyə üstünlük verilir.\r\n\r\n💼 Xidmət haqqı: 30%\r\n\r\n⚠️ Qeyd: Yalnız 1100 AZN icarə haqqı + 1100 AZN depozit şərtləri ilə razılaşan şəxslərin müraciət etməsi xahiş olunur.",
-    "building_type": "Yeni tikili",
-    "location_id": "35",
-    "location_name": "Nizami",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6515043",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1100,
-        "date": "2026-10-04T17:34:10.367769+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6515046",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F11%2F25%2F42%2F3c17d75c-f82b-4f56-90c7-2ca4113353ab%2F75462_oeoRVUvPyYZ2DN8g_E4aAQ.jpg",
-    "price": 700,
-    "location": "Azadlıq Prospekti m.",
-    "rooms": "2 otaqlı",
-    "area_m2": 65,
-    "floor": "7/9 mərtəbə",
-    "is_agency": false,
-    "lat": 40.42037933786287,
-    "lng": 49.83875870104863,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 7,
-    "updated_at_site": "2026-10-04T11:27:19+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı köhnə tikili 65 m²",
-    "description": "8 mik leninqrad layiheli 2 otaqli ev kirayye verilir  aileye verilir. 135. 83. Orta mektebler yaxindadir. Qaz su isiq. daimidir   azadliq metrosuna yaxindir. Ofisin xidmet haqqi. 30% dir",
-    "building_type": "Köhnə tikili",
-    "location_id": "6",
-    "location_name": "Azadlıq Prospekti",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6515046",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 700,
-        "date": "2026-10-04T17:34:10.367722+00:00"
       }
     ]
   },
@@ -2971,39 +2872,6 @@
     ]
   },
   {
-    "id": "6515270",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F12%2F43%2F46%2F9c37ef57-6d37-47fd-9184-7bfaa56ec2be%2F4902_AznRzscb84UO1A7Vaskm3g.jpg",
-    "price": 1390,
-    "location": "Gənclik m.",
-    "rooms": "3 otaqlı",
-    "area_m2": 134,
-    "floor": "13/16 mərtəbə",
-    "is_agency": false,
-    "lat": 40.39957628985757,
-    "lng": 49.84217182280225,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 13,
-    "updated_at_site": "2026-10-04T12:52:06+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 3 otaqlı yeni tikili 134 m²",
-    "description": "Baki saglamlik merkezinin yaninda 16.nin 13u\r\nYalniz aile ve is adamlarina  evde her seriat var uzun sureli verilir bir ay depozit alinacak 1300+90 azn kamendat pulu",
-    "building_type": "Yeni tikili",
-    "location_id": "2",
-    "location_name": "Gənclik",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6515270",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1390,
-        "date": "2026-10-04T17:34:10.363998+00:00"
-      }
-    ]
-  },
-  {
     "id": "6515297",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F12%2F52%2F06%2F1a4af682-48e8-4978-8e2a-a3751f9bece1%2F75523_hRADp-XlhlW0mBLSf7vq0Q.jpg",
     "price": 1300,
@@ -3429,39 +3297,6 @@
       {
         "price": 800,
         "date": "2026-10-04T17:34:10.363284+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6515349",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F13%2F08%2F54%2Fcda8d050-2b8a-49c3-8e23-d3a4d5423991%2F16162_7tft_VcQe20zkLl16q8Qgg.jpg",
-    "price": 900,
-    "location": "Dərnəgül m.",
-    "rooms": "2 otaqlı",
-    "area_m2": 80,
-    "floor": "12/14 mərtəbə",
-    "is_agency": true,
-    "lat": 40.42381198369517,
-    "lng": 49.85917474606791,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 12,
-    "updated_at_site": "2026-10-04T13:10:39+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı yeni tikili 80 m²",
-    "description": "### 🏡 Dərnəgül metrosu | West Town Yaşayış Kompleksi | 2 otaqlı, yeni mənzil\r\n\r\n**Dərnəgül metrosuna yaxın, West Town Yaşayış Kompleksində** əla təmirli, tam yeni mənzil kirayə verilir.\r\n\r\n🔹 **2 otaq**\r\n🔹 **80 m²**\r\n🔹 **14 mərtəbəli binanın 12-ci mərtəbəsi**\r\n🔹 **Əla təmirli**\r\n🔹 Təmir tamamlandıqdan sonra **yaşayış olmayıb**\r\n🔹 **İlk dəfə kirayə verilir**\r\n🔹 Mənzildəki **bütün əşyalar yenidir**\r\n🔹 Səliqəli və müasir yaşayış üçün tam hazır vəziyyətdədir\r\n\r\n📍 **Ünvan:** Dərnəgül metrosu yaxınlığı, West Town Yaşayış Kompleksi\r\n💰 **Aylıq kirayə: 900 AZN**\r\n\r\n**Yeni təmir, yeni əşyalar və ilk yaşayış üçün ideal seçim!** Məyyən və uzunmüddətli kirayəçi üçün əla mənzildir.\r\n",
-    "building_type": "Yeni tikili",
-    "location_id": "61",
-    "location_name": "Dərnəgül",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6515349",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 900,
-        "date": "2026-10-04T17:34:10.363252+00:00"
       }
     ]
   },
@@ -5310,39 +5145,6 @@
       {
         "price": 4000,
         "date": "2026-10-04T17:34:10.360297+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6515612",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F14%2F22%2F20%2F48c004ba-e7c5-4176-acfd-5eb686dae299%2F48133_viKX1h09sHTof1Ij9f8zSw.jpg",
-    "price": 500,
-    "location": "Nəriman Nərimanov m.",
-    "rooms": "1 otaqlı",
-    "area_m2": 40,
-    "floor": "4/5 mərtəbə",
-    "is_agency": false,
-    "lat": 40.40101030103276,
-    "lng": 49.87972277293245,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 4,
-    "updated_at_site": "2026-10-04T14:25:40+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 1 otaqlı köhnə tikili 40 m²",
-    "description": "Metro Narimanova yaxin yerleşir  piyada 7-8 deq mesafede  Evde  her bir eşya var  ofiss haqi 30%",
-    "building_type": "Köhnə tikili",
-    "location_id": "1",
-    "location_name": "Nəriman Nərimanov",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6515612",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 500,
-        "date": "2026-10-04T17:34:10.360266+00:00"
       }
     ]
   },
@@ -7855,39 +7657,6 @@
     ]
   },
   {
-    "id": "6515996",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F16%2F35%2F37%2Fe3580cfa-51f8-45d9-b23a-866890eed95b%2F92031_pFbZuI1lAH37bd81DXwf6w.jpg",
-    "price": 680,
-    "location": "Sabunçu r.",
-    "rooms": "2 otaqlı",
-    "area_m2": 94,
-    "floor": "11/12 mərtəbə",
-    "is_agency": true,
-    "lat": 40.4286589628889,
-    "lng": 49.95941955566408,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 11,
-    "updated_at_site": "2026-10-04T16:36:25+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı yeni tikili 94 m²",
-    "description": "Bakıxanov qəsəbəsi ,Razin talkuçkasının yanı 12 mərtəbəli  binanın 11 ci mərtəbəsində umumi sahəsi 94 kv olan 2 otaqlı mənzil kiraye verilir.Mənzil tam təmirli və əşyalıdır.Mənzildə yaşayış üçün bütün avadanlıqlar mövcuddur.Mənzil ailəyə təklif olunur.Daha ətraflı məlumat üçün buyurub zəng edə bilərsiniz.Xidmət haqq 30% təşkil edir.",
-    "building_type": "Yeni tikili",
-    "location_id": "13",
-    "location_name": "Sabunçu",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6515996",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 680,
-        "date": "2026-10-04T17:34:10.356188+00:00"
-      }
-    ]
-  },
-  {
     "id": "6515993",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F16%2F32%2F51%2F5430fa47-9c64-4cc5-bd75-eadffe6c28f1%2F59466_OdYcGzdT9KNBFQ7LAgK0vg.jpg",
     "price": 950,
@@ -8016,39 +7785,6 @@
       {
         "price": 1300,
         "date": "2026-10-04T17:34:10.356172+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6515944",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F16%2F18%2F19%2F2129b6fe-63e6-4d8d-9f61-b5a8c0b4a0f9%2F6130_AXEaed0QK-3XBvi9uC0Dow.jpg",
-    "price": 1780,
-    "location": "İçəri Şəhər m.",
-    "rooms": "3 otaqlı",
-    "area_m2": 120,
-    "floor": "6/18 mərtəbə",
-    "is_agency": true,
-    "lat": 40.3712357620536,
-    "lng": 49.8335805774986,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 6,
-    "updated_at_site": "2026-10-04T16:48:35+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 3 otaqlı yeni tikili 120 m²",
-    "description": "Mekrkezde 3otaq menzil icareye verilir teze sifir her bir seraiti ile",
-    "building_type": "Yeni tikili",
-    "location_id": "37",
-    "location_name": "İçəri Şəhər",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6515944",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1780,
-        "date": "2026-10-04T17:34:10.356681+00:00"
       }
     ]
   },
@@ -9241,39 +8977,6 @@
     ]
   },
   {
-    "id": "6515389",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F13%2F21%2F24%2F594bcdd5-b7db-4466-85eb-3b8b6b1a422e%2F69103_DeVCsYwPISb_PYQTFZ42NQ.jpg",
-    "price": 500,
-    "location": "Bakıxanov q.",
-    "rooms": "2 otaqlı",
-    "area_m2": 65,
-    "floor": "1/4 mərtəbə",
-    "is_agency": false,
-    "lat": 40.41412195222417,
-    "lng": 49.97317130332425,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 1,
-    "updated_at_site": "2026-10-04T17:22:46+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı yeni tikili 65 m²",
-    "description": "Razin talkuckasinin yani yeni tikili evin her bir ewyasi var teze temir olunub  ev umumilikde isti poldu kombi, kondisoner , paltaryuyan , televisor ,soyuducu ve s.",
-    "building_type": "Yeni tikili",
-    "location_id": "69",
-    "location_name": "Bakıxanov",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6515389",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 500,
-        "date": "2026-10-04T17:34:10.362609+00:00"
-      }
-    ]
-  },
-  {
     "id": "6515433",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F13%2F31%2F13%2F99697723-0d32-4bbd-ab9b-09dd876dbe92%2F16151_aRFQLIl9P7XaMAphGcwHqQ.jpg",
     "price": 800,
@@ -9736,39 +9439,6 @@
     ]
   },
   {
-    "id": "6516190",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F17%2F49%2F06%2Fd1d078d3-41b1-47c9-bd74-0cda1637f173%2F16183_dJEUtxyA9XnV770UGkxacA.jpg",
-    "price": 550,
-    "location": "Yeni Günəşli q.",
-    "rooms": "3 otaqlı",
-    "area_m2": 100,
-    "floor": "5/12 mərtəbə",
-    "is_agency": true,
-    "lat": 40.38753713926093,
-    "lng": 49.97550117259009,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 5,
-    "updated_at_site": "2026-10-04T17:49:44+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 3 otaqlı köhnə tikili 100 m²",
-    "description": "🏡 Kirayə Mənzil – Yeni Günəşli \r\n📍 Yeni Günəşlidə Şir heykel yanında 12 mərtəbəli binanın 5-ci mərtəbəsində yerləşən 3 otaqlı 100 kv.m mənzil kirayə verilir.\r\n💰 Qiymət:550 AZN\r\n✨ Mənzil səliqəli və yaşayış üçün tam hazırdır.\r\nXidmət haqqı 30%",
-    "building_type": "Köhnə tikili",
-    "location_id": "92",
-    "location_name": "Yeni Günəşli",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6516190",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 550,
-        "date": "2026-10-04T17:34:10.353998+00:00"
-      }
-    ]
-  },
-  {
     "id": "6516194",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F17%2F48%2F58%2F6f9753fa-cb96-4801-9602-b25db5bf2557%2F75536_qrtGQVF3qWlhW4EZIdMSQA.jpg",
     "price": 1998,
@@ -9776,7 +9446,7 @@
     "rooms": "3 otaqlı",
     "area_m2": 150,
     "floor": "5/7 mərtəbə",
-    "is_agency": true,
+    "is_agency": false,
     "lat": 40.38175188756848,
     "lng": 49.88228356347655,
     "has_repair": true,
@@ -10660,39 +10330,6 @@
     ]
   },
   {
-    "id": "6516325",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F18%2F38%2F36%2F5105e787-7de1-4550-93a2-e2c85e1ecf77%2F16152_7JMZIVKbr7qOI0_z4PAYLw.jpg",
-    "price": 800,
-    "location": "İnşaatçılar m.",
-    "rooms": "2 otaqlı",
-    "area_m2": 50,
-    "floor": "5/5 mərtəbə",
-    "is_agency": true,
-    "lat": 40.38801761489618,
-    "lng": 49.80724485861778,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 5,
-    "updated_at_site": "2026-10-04T18:39:46+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı köhnə tikili 50 m²",
-    "description": "Mənzil tələbə qızlara verilir işləyən  anımlarda olar uzun müddətli ofis hakqı 30%",
-    "building_type": "Köhnə tikili",
-    "location_id": "7",
-    "location_name": "İnşaatçılar",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6516325",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 800,
-        "date": "2026-10-04T17:34:10.352372+00:00"
-      }
-    ]
-  },
-  {
     "id": "6516335",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F18%2F41%2F55%2Ff053fcf1-1749-44f6-a90d-521b0ff0349b%2F16151_zY9eqd9QUCAfcKKyaj07rg.jpg",
     "price": 700,
@@ -11056,39 +10693,6 @@
     ]
   },
   {
-    "id": "6516444",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F19%2F40%2F03%2Fde023016-cb88-40f7-ba09-cb054ae6bd44%2F16161_9q7zJ9E_INzKqvnYhkhc6A.jpg",
-    "price": 1300,
-    "location": "Elmlər Akademiyası m.",
-    "rooms": "3 otaqlı",
-    "area_m2": 160,
-    "floor": "9/15 mərtəbə",
-    "is_agency": true,
-    "lat": 40.37763761878564,
-    "lng": 49.80911145102893,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 9,
-    "updated_at_site": "2026-10-04T19:41:00+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 3 otaqlı yeni tikili 160 m²",
-    "description": "Menzil Mətbuat prospekti erlesir\r\nHəyat klinikasinda üstünde yerlesir.\r\nElimlere metrosuna yaxın\r\nBaki dövlət universitine yaxin\r\n",
-    "building_type": "Yeni tikili",
-    "location_id": "34",
-    "location_name": "Elmlər Akademiyası",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6516444",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1300,
-        "date": "2026-10-04T17:34:10.351316+00:00"
-      }
-    ]
-  },
-  {
     "id": "6515758",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F15%2F14%2F37%2F605d040a-365b-402e-8ee3-e67700412ef6%2F65324_VG_twMus4cmUjjw49M5Gew.jpg",
     "price": 500,
@@ -11184,39 +10788,6 @@
       {
         "price": 800,
         "date": "2026-10-04T17:34:10.351166+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6364018",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F10%2F15%2F20%2F47%2F85fee221-c2e7-4565-989c-0113418b7350%2F79207_vAeuR3Nfz6uVAir-8sjwcQ.jpg",
-    "price": 180,
-    "location": "20 Yanvar m.",
-    "rooms": "2 otaqlı",
-    "area_m2": 85,
-    "floor": "16/17 mərtəbə",
-    "is_agency": false,
-    "lat": 40.40586453459042,
-    "lng": 49.81130381604247,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 16,
-    "updated_at_site": "2026-10-04T19:50:31+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı yeni tikili 85 m²",
-    "description": "Otaq yoldaşı axtarılır  180 azn  Bəy ",
-    "building_type": "Yeni tikili",
-    "location_id": "5",
-    "location_name": "20 Yanvar",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6364018",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 180,
-        "date": "2026-10-04T17:34:10.351134+00:00"
       }
     ]
   },
@@ -11448,39 +11019,6 @@
       {
         "price": 1000,
         "date": "2026-10-04T17:34:10.350434+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6516520",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F20%2F17%2F49%2F5c8de068-3835-4977-ac33-7e9b659d168a%2F59466_hpLucg-6LoNEcPdCgk42Yg.jpg",
-    "price": 700,
-    "location": "İçəri Şəhər m.",
-    "rooms": "3 otaqlı",
-    "area_m2": 50,
-    "floor": "4/9 mərtəbə",
-    "is_agency": false,
-    "lat": 40.37088608126266,
-    "lng": 49.82413513896176,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 4,
-    "updated_at_site": "2026-10-04T20:21:15+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 3 otaqlı köhnə tikili 50 m²",
-    "description": "Сдаётся 3х комнатная квартира двухярусная , около памятника Нариманова . 4 /5 этаж 9 этажного дома. Комнаты раздельные , 2 сан узла, комби система, 2 балкона с видом на море, парк и город. Квартира полностью мебелирована . Сдам семье из одного или двух человек, на длительный срок. Депозит обязателен . Цена 700 манат.\r\n\r\nNərimanov abidəsinin yaxınlığında üç otaqlı, iki mərtəbəli mənzil kirayə verilir. 9 mərtəbəli binanın 4-cü və 5-ci mərtəbələrində yerləşir. Ayrı otaqları, iki vanna otağı, kombinasiyalı sistemi və dənizə, parka və şəhərə baxan iki eyvanı var. Mənzil tam mebellə təchiz olunub. Bir və ya iki nəfərlik ailəyə uzunmüddətli kirayə verirəm. Depozit tələb olunur. Qiyməti 700 manatdır.",
-    "building_type": "Köhnə tikili",
-    "location_id": "37",
-    "location_name": "İçəri Şəhər",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6516520",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 700,
-        "date": "2026-10-04T17:34:10.350308+00:00"
       }
     ]
   },
@@ -12907,39 +12445,6 @@
     ]
   },
   {
-    "id": "6516181",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F17%2F44%2F23%2Fa013caf8-6841-46c9-afeb-ccf6a3d56b30%2F21482_ES-FsULtoMskMiAxolpvgQ.jpg",
-    "price": 700,
-    "location": "Qara Qarayev m.",
-    "rooms": "2 otaqlı",
-    "area_m2": 75,
-    "floor": "15/18 mərtəbə",
-    "is_agency": false,
-    "lat": 40.41108487667455,
-    "lng": 49.93126233814801,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 15,
-    "updated_at_site": "2026-10-05T20:10:07+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı yeni tikili 75 m²",
-    "description": "Qara Qarayev metrosu, Bona Dea Klinikasının yanı, 2 otaqlı əla təmirli mənzil kirayə verilir.\r\nƏşyasız boş vəziyyətdə.\r\nOfis haqqı 30 %",
-    "building_type": "Yeni tikili",
-    "location_id": "52",
-    "location_name": "Qara Qarayev",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6516181",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 700,
-        "date": "2026-10-04T17:34:10.354149+00:00"
-      }
-    ]
-  },
-  {
     "id": "6516008",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F16%2F38%2F32%2F2333afbc-33a5-4d83-b942-8ef07ed84afb%2F21579_Buc7Otzvq0ZpImZg1REMOA.jpg",
     "price": 750,
@@ -13146,39 +12651,6 @@
     ]
   },
   {
-    "id": "6397009",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F22%2F12%2F20%2F06%2F6f552e79-8bd2-4b15-aa54-a316c9536d7b%2F87145_jQw9o_K6j5lE7b0AFJWBRA.jpg",
-    "price": 1050,
-    "location": "Nəsimi r.",
-    "rooms": "2 otaqlı",
-    "area_m2": 70,
-    "floor": "9/20 mərtəbə",
-    "is_agency": true,
-    "lat": 40.39764588842817,
-    "lng": 49.83778372692499,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 9,
-    "updated_at_site": "2026-10-06T11:07:50+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı yeni tikili 70 m²",
-    "description": "Tibb universitetinin və Bakı sağlamlıq mərkəzinin yanı. Yeni tikili bina Melisaa Azadlıq 2 otaq 70 kv m. Hər bir şəraiti var.\r\nqiymete komendant pulu daxildir.\r\nxidmet haqqi 30%",
-    "building_type": "Yeni tikili",
-    "location_id": "190",
-    "location_name": "Nəsimi",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6397009",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1050,
-        "date": "2026-10-04T17:34:10.368012+00:00"
-      }
-    ]
-  },
-  {
     "id": "6515029",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F11%2F18%2F43%2F5c540c18-1121-452d-b700-dca2b429255d%2F16183_kSDY3GjwJ0JHmWVJr4fyKA.jpg",
     "price": 180,
@@ -13212,39 +12684,6 @@
       {
         "price": 180,
         "date": "2026-10-06T12:58:31.985839+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6515576",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F14%2F10%2F38%2F0cd8f4e6-e172-455e-9354-b6c37b6869fe%2F704_aoeCuoxcYOe6-I6qQusUhA.jpg",
-    "price": 800,
-    "location": "İnşaatçılar m.",
-    "rooms": "2 otaqlı",
-    "area_m2": 80,
-    "floor": "12/16 mərtəbə",
-    "is_agency": true,
-    "lat": 40.39642011109225,
-    "lng": 49.80165647613525,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 12,
-    "updated_at_site": "2026-10-06T11:24:59+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı yeni tikili 80 m²",
-    "description": "20 Yanvar ve İnsaatcilar metrosuna yaxin 2  Nömrəli TİBB kollecinin yaninda 2 otaqlı tam təmirli əşyalı mənzil kirayə verilir.Mənzil lazımi olan əşya və texniki avadanlıqlarla təchiz olunub.Binanin etrafinda aptek market restoran ve.s movcuddur.Mənzildə əlavə qarderob otağı mövcuddur",
-    "building_type": "Yeni tikili",
-    "location_id": "7",
-    "location_name": "İnşaatçılar",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6515576",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 800,
-        "date": "2026-10-04T17:34:10.360549+00:00"
       }
     ]
   },
@@ -13624,39 +13063,6 @@
     ]
   },
   {
-    "id": "6515882",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F15%2F55%2F14%2Ff237b8e0-0ed4-4fde-9dcb-40e3605b1f72%2F95197_vLiEXpMeNS3oac7361fedQ.jpg",
-    "price": 1200,
-    "location": "28 May m.",
-    "rooms": "3 otaqlı",
-    "area_m2": 176,
-    "floor": "3/17 mərtəbə",
-    "is_agency": true,
-    "lat": 40.38707601862189,
-    "lng": 49.85574267345888,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 3,
-    "updated_at_site": "2026-10-06T18:14:55+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 3 otaqlı yeni tikili 176 m²",
-    "description": "Öncədən Depozit Tələb Olunacaq,,\r\nÇapayev ``Şərq Bazarı`` yaxınında olan yeni tikili binada 3 otaqlı 176 kv sahəsi olan mənzil kirayə verilir.. ( 2 sanitar qovşağı var )\r\nƏtraflı məlumat üçün əlaqə saxlayın.Ofis xidmət haqqı 30% təşkil edəcək.WhatsApp var.",
-    "building_type": "Yeni tikili",
-    "location_id": "8",
-    "location_name": "28 May",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6515882",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1200,
-        "date": "2026-10-04T17:34:10.357080+00:00"
-      }
-    ]
-  },
-  {
     "id": "6515027",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F11%2F17%2F57%2Fbadf4b25-3b61-4e09-9dd3-8d6ef9ea15fd%2F75507_hUA3u7ZeVUwMA3hjhtBS1g.jpg",
     "price": 750,
@@ -13723,39 +13129,6 @@
     ]
   },
   {
-    "id": "6515839",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F15%2F44%2F48%2Ff9562e53-cca6-4096-a542-28133bea6b84%2F75487_OCeGdvD-dwDerRslAmP26A.jpg",
-    "price": 650,
-    "location": "Memar Əcəmi m.",
-    "rooms": "2 otaqlı",
-    "area_m2": 60,
-    "floor": "5/18 mərtəbə",
-    "is_agency": true,
-    "lat": 40.41930546891967,
-    "lng": 49.80831124653603,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 5,
-    "updated_at_site": "2026-10-06T19:40:46+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı yeni tikili 60 m²",
-    "description": "✅9 cu mkr\r\n✅adil memmedov kuc terlan shadliq evinnen yuxari\r\n✅2 otaga duzelme her bir sherait var\r\n\r\n✅ofis haqqi 30%",
-    "building_type": "Yeni tikili",
-    "location_id": "59",
-    "location_name": "Memar Əcəmi",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6515839",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 650,
-        "date": "2026-10-04T17:34:10.357387+00:00"
-      }
-    ]
-  },
-  {
     "id": "6515591",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F14%2F17%2F21%2F0217a341-920c-4d61-b4e2-ecbd0424e6c4%2F10811_ah8SXDxWAVJoHBkBTCkBrg.jpg",
     "price": 1350,
@@ -13818,105 +13191,6 @@
       {
         "price": 130,
         "date": "2026-10-04T17:34:10.369490+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6516414",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F19%2F17%2F11%2Fed7e3a50-6109-443b-96f7-dda68f3e3f12%2F16175_fjGBs9x73kzGI2nkz2yGUg.jpg",
-    "price": 1500,
-    "location": "Səbail r.",
-    "rooms": "4 otaqlı",
-    "area_m2": 110,
-    "floor": "10/10 mərtəbə",
-    "is_agency": true,
-    "lat": 40.33368020513419,
-    "lng": 49.82543236791031,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 10,
-    "updated_at_site": "2026-10-06T23:39:19+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 4 otaqlı yeni tikili 110 m²",
-    "description": "🏡 Səbail rayonunda, Hökumət Evinin yanında 4 otaqlı mənzil kirayə verilir!\r\n\r\n📍 Üzeyir Hacıbəyli küçəsi 27-ci\r\n📍 Hökumət Evinin yanı, Mərkəzi Aptekin üstü\r\n\r\n✨ 4 otaq( 3otaga duzelib)\r\n📐 110 m²\r\n🏢 10/10 mərtəbə\r\n🛋️ Təmirli və əşyalı\r\n💰 Aylıq kirayə: 1500 AZN\r\n\r\nMənzil tam yaşayış üçün hazır vəziyyətdədir.\r\nMebel və məişət texnikası ilə təmin olunub:\r\n\r\n• Televizor\r\n• Soyuducu\r\n• Paltaryuyan maşın\r\n• Elektrik plitə\r\n• Divan və digər mebellər\r\n• Kondisioner\r\n• Kombi\r\n\r\n💧 Daimi su\r\n💡 Daimi işıq\r\n🔥 Daimi qaz\r\n\r\n🔐 Depozit tələb olunur: 1 aylıq ödəniş + son ay üçün 1 aylıq depozit.\r\n\r\n📞 Ətraflı məlumat və baxış üçün əlaqə saxlaya bilərsiniz.",
-    "building_type": "Yeni tikili",
-    "location_id": "12",
-    "location_name": "Səbail",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6516414",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1500,
-        "date": "2026-10-04T17:34:10.351600+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6515476",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F13%2F34%2F42%2Fc59a6742-6e8a-4c93-9a90-7c7942a34bf0%2F16164_128hOq-7CI5cnNT1nOtUww.jpg",
-    "price": 1200,
-    "location": "Nəsimi r.",
-    "rooms": "3 otaqlı",
-    "area_m2": 152,
-    "floor": "10/17 mərtəbə",
-    "is_agency": true,
-    "lat": 40.39627393200657,
-    "lng": 49.83567521616236,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 10,
-    "updated_at_site": "2026-10-07T08:59:22+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 3 otaqlı yeni tikili 152 m²",
-    "description": "Asan xidmətin arxasında 2 yataq ve salon mebeli kombi istilik sistemi teze remont tibb universitetinə yaxindir",
-    "building_type": "Yeni tikili",
-    "location_id": "190",
-    "location_name": "Nəsimi",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6515476",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1200,
-        "date": "2026-10-04T17:34:10.361768+00:00"
-      }
-    ]
-  },
-  {
-    "id": "5706748",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F18%2F12%2F16%2F03%2Fee672d2e-35d0-4bfd-b249-0b9561042e0f%2F12564_2DErlbFNJFKJ4sJHOt3rYA.jpg",
-    "price": 1350,
-    "location": "Şah İsmayıl Xətai m.",
-    "rooms": "3 otaqlı",
-    "area_m2": 135,
-    "floor": "8/14 mərtəbə",
-    "is_agency": false,
-    "lat": 40.37854650561324,
-    "lng": 49.8759630612332,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 8,
-    "updated_at_site": "2026-10-07T09:40:32+04:00",
-    "is_featured": true,
-    "title": "İcarəyə verilir 3 otaqlı yeni tikili 135 m²",
-    "description": "Şəhərin mərkəzində təmirli, dəniz mənzərəli, Milli Parkla  və Hərbi Qənimətlər parkı ilə üz üzə yerləşən 3 otaqlı hər bir şəraiti olan mənzil uzunmüddətə kirayə verilir. İstilik sistemi kombi, su daimidir. Öncədən ilk və sonuncu ayın pulu alınır.",
-    "building_type": "Yeni tikili",
-    "location_id": "36",
-    "location_name": "Şah İsmayıl Xətai",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/5706748",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1350,
-        "date": "2026-10-04T17:34:10.370756+00:00"
       }
     ]
   },
@@ -14017,39 +13291,6 @@
       {
         "price": 1200,
         "date": "2026-10-04T17:34:10.361371+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6156391",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F24%2F13%2F41%2F23%2Fa7252aaa-dc30-4f36-ac48-7f440744a86e%2F30881_mtK6gyaJuHutewyM2Gvgfw.jpg",
-    "price": 699,
-    "location": "Memar Əcəmi m.",
-    "rooms": "2 otaqlı",
-    "area_m2": 70,
-    "floor": "5/18 mərtəbə",
-    "is_agency": true,
-    "lat": 40.41326018893051,
-    "lng": 49.80446228910218,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 5,
-    "updated_at_site": "2026-10-07T11:04:59+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı yeni tikili 70 m²",
-    "description": "Komendant pulu daxildir 20 yanvar metrosuna 5 dəqiqəlik məsafədədir.x",
-    "building_type": "Yeni tikili",
-    "location_id": "59",
-    "location_name": "Memar Əcəmi",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6156391",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 699,
-        "date": "2026-10-04T17:34:10.351552+00:00"
       }
     ]
   },
@@ -14165,39 +13406,6 @@
     ]
   },
   {
-    "id": "6515054",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F11%2F33%2F12%2F7900036f-6227-4d15-87ff-dde171a8177b%2F16177_Awft82L359RyTXka2u65SQ.jpg",
-    "price": 4000,
-    "location": "28 May m.",
-    "rooms": "4 otaqlı",
-    "area_m2": 175,
-    "floor": "12/20 mərtəbə",
-    "is_agency": true,
-    "lat": 40.37511882284448,
-    "lng": 49.85719400021365,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 12,
-    "updated_at_site": "2026-10-07T11:54:51+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 4 otaqlı yeni tikili 175 m²",
-    "description": "Port Baku və Cresent Mallun yani yeni tikili premium binada 4 otaqli menzil icareye verilir.\r\nMənzildə təmirdən sonra yaşayiş olmayib.\r\nƏtrafli melumat üçün əlaqə saxlaya bilersiz",
-    "building_type": "Yeni tikili",
-    "location_id": "8",
-    "location_name": "28 May",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6515054",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 4000,
-        "date": "2026-10-04T17:34:10.367481+00:00"
-      }
-    ]
-  },
-  {
     "id": "6516121",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F17%2F16%2F21%2Fd29e80ed-a47e-462c-a6b0-f053fd4932f7%2F66848_pyCyT4h72BLC4S5PhKkbyw.jpg",
     "price": 950,
@@ -14231,109 +13439,6 @@
       {
         "price": 950,
         "date": "2026-10-05T19:36:59.201673+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6293088",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F15%2F13%2F19%2F43%2F578c3839-56c8-4b96-8a8e-b6d4e79c340a%2F53228_uiAdc_5cy06GLXed4m7h5A.jpg",
-    "price": 1000,
-    "location": "Şah İsmayıl Xətai m.",
-    "rooms": "2 otaqlı",
-    "area_m2": 65,
-    "floor": "8/17 mərtəbə",
-    "is_agency": true,
-    "lat": 40.38268037931834,
-    "lng": 49.87223187846933,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 8,
-    "updated_at_site": "2026-10-07T12:16:24+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı yeni tikili 65 m²",
-    "description": "✔️ H.Əliyev Mərkəzinə Gözəl Mənzərəli Mənzil\r\n✔️ Xətai m/s yanı\r\n✔️ Əla Lokasiya\r\n✔️ 2 otaq Mənzil Kirayə Verilir\r\n✔️ Yaşamaq üçün hər bir şərait mövcuddur\r\n✔️ Qabyuyandan tutmuş bütün məişət avadanlıqları var\r\n✔️ Qaz Su İşıq Daimi\r\n✔️ Premium Bina,Geniş Həyət,4 ədəd sürətli lift\r\n✔️ Əlavə məlumat üçün zəng edə bilərsiniz",
-    "building_type": "Yeni tikili",
-    "location_id": "36",
-    "location_name": "Şah İsmayıl Xətai",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6293088",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1000,
-        "date": "2026-10-04T17:34:10.365625+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6516292",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F18%2F22%2F27%2F890394fb-2010-4567-a2e9-923e4a8ca782%2F16170_AHc3qKL0AEHLjsB1RtxFxw.jpg",
-    "price": 1050,
-    "location": "Nərimanov r.",
-    "rooms": "2 otaqlı",
-    "area_m2": 75,
-    "floor": "3/18 mərtəbə",
-    "is_agency": false,
-    "lat": 40.38896003553114,
-    "lng": 49.85268604237512,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 3,
-    "updated_at_site": "2026-10-07T12:17:11+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı yeni tikili 75 m²",
-    "description": "🏡 TƏBRİZ KÜÇƏSİNDƏ — MƏRKƏZDƏ (28 may) MƏNZİL KİRAYƏYƏ VERİLİR\r\n\r\n📍 **Ünvan:** Təbriz küçəsi 37  \r\n🏢 Yeni tikili binanın **orta blokunda, 3-cü mərtəbədə** yerləşən təmirli mənzil.\r\n\r\nMənzil şəhərin ən əlverişli və mərkəzi ərazilərindən birində yerləşir. **Bakı İnzibati Məhkəməsinin tam arxasında**, **İtaliya–Azərbaycan Dostluq Parkının** yanında yerləşməsi ilə həm yaşayış, həm də nəqliyyat baxımından çox rahat lokasiyaya malikdir.\r\n\r\n🚇 **28 May metrosuna — piyada təxminən 7 dəqiqə**  \r\n🎓 **Azərbaycan Dövlət Neft və Sənaye Universitetinə — piyada təxminən 15 dəqiqə**  \r\n🚇 **Nəriman Nərimanov və Gənclik metro stansiyalarına — ictimai nəqliyyatla təxminən 5–6 dəqiqə**\r\n\r\n### 🛋️ Mənzil haqqında\r\n• Təmirli və səliqəli vəziyyətdədir  \r\n• Yaşayış üçün zəruri **elektronika və məişət əşyaları ilə tam təmin olunub**  \r\n• **Kombi istilik sistemi**  \r\n• **Kondisioner**  \r\n• **İnternet**  \r\n• Rahat və funksional yaşayış üçün hazır vəziyyətdədir\r\n\r\n📍 **Mərkəzi yerləşmə, metroya yaxınlıq və bütün zəruri şəraitin olması** mənzili həm uzunmüddətli yaşayış, həm də şəhərin mərkəzində rahat həyat axtaranlar üçün əlverişli seçim edir.\r\n\r\n📞 **Ətraflı məlumat və mənzilə baxış üçün zəhmət olmasa əlaqə saxlayın.**\r\n\r\n\r\n\r\nVasitəçilərin narahat etməməsi XAHİŞ OLUNUR!",
-    "building_type": "Yeni tikili",
-    "location_id": "10",
-    "location_name": "Nərimanov",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6516292",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1150,
-        "date": "2026-10-04T17:34:10.352806+00:00"
-      },
-      {
-        "price": 1050,
-        "date": "2026-10-07T19:31:56.287095+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6514893",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F08%2F23%2F16%2F5fc69609-9859-4ee1-9c4f-97ba276cdfc1%2F16140_P411noVmLyE9950pWo7edQ.jpg",
-    "price": 1600,
-    "location": "28 May m.",
-    "rooms": "2 otaqlı",
-    "area_m2": 55,
-    "floor": "10/21 mərtəbə",
-    "is_agency": false,
-    "lat": 40.37415026341741,
-    "lng": 49.85532718273929,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 10,
-    "updated_at_site": "2026-10-07T12:28:24+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı yeni tikili 55 m²",
-    "description": "İcarəyə verilir Port baku yanl 2 otaq təmirdən sonra yaşayış olmayqn hər bir şəraitli cox zövqlü təmirli mınzil. Yalnlz uzun müddtli icarəyə verilir",
-    "building_type": "Yeni tikili",
-    "location_id": "8",
-    "location_name": "28 May",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6514893",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1600,
-        "date": "2026-10-04T17:34:10.371405+00:00"
       }
     ]
   },
@@ -14511,105 +13616,6 @@
     ]
   },
   {
-    "id": "6516139",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F17%2F27%2F00%2Fadd64417-c1bc-486e-a666-ee8ea0664d8c%2F75548_64M7C_HMhHWt4YOipqyfsQ.jpg",
-    "price": 900,
-    "location": "Şah İsmayıl Xətai m.",
-    "rooms": "2 otaqlı",
-    "area_m2": 64,
-    "floor": "19/24 mərtəbə",
-    "is_agency": true,
-    "lat": 40.38310294872113,
-    "lng": 49.87217852766236,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 19,
-    "updated_at_site": "2026-10-07T13:51:55+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı yeni tikili 64 m²",
-    "description": "Ünvan.\r\nXətai rayonu. Mehdi Mehdizadə küçəsi.. ( Xətai mts yaxınlğında )\r\nDəniz Mənzərəli 2 otaq mənzil kirayə verilir.\r\nMənzildə rahat yaşayış üçün hər bir əşyaları mövcuddur.\r\nQiymət sondur.\r\n\r\nDepazit var , 6 aydan tez çıxılarsa geri qaytarılmır.( 900 AZN ) \r\n\r\nƏtraflı məlumat üçün əlaqə saxlaya bilərsiniz. ( Wp aktivdir )\r\nXidmət ofis haqqı 40 % təşkil edir.",
-    "building_type": "Yeni tikili",
-    "location_id": "36",
-    "location_name": "Şah İsmayıl Xətai",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6516139",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 900,
-        "date": "2026-10-04T17:34:10.354555+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6515247",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F12%2F37%2F18%2F786330ce-8ea6-4910-a35a-bbe79a21cdfb%2F16181_OCrU9-VhPxqsgbq4x2Avcg.jpg",
-    "price": 550,
-    "location": "Hövsan q.",
-    "rooms": "3 otaqlı",
-    "area_m2": 85,
-    "floor": "9/12 mərtəbə",
-    "is_agency": true,
-    "lat": 40.38674759537156,
-    "lng": 50.07307776215261,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 9,
-    "updated_at_site": "2026-10-07T14:05:08+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 3 otaqlı yeni tikili 85 m²",
-    "description": "Mida 2 otaq  genis olcude  pencereleri duz ve saga baxan tek binalarda  ideal temirli orta veziyyetli esyalar ve perdeler daxil teklif edilir sauzelleri ayridir xidmet haqqi 30 % teskil edir yalniz ozune menzil sorusanlar narahat edsinler !!!! ",
-    "building_type": "Yeni tikili",
-    "location_id": "93",
-    "location_name": "Hövsan",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6515247",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 550,
-        "date": "2026-10-04T17:34:10.364126+00:00"
-      }
-    ]
-  },
-  {
-    "id": "5931852",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F03%2F02%2F14%2F29%2F26%2Feb7e17f2-b766-4c40-9312-bbc3d6c87a11%2F38000_zaDeSUGSgtBCdTUSkd--_Q.jpg",
-    "price": 2000,
-    "location": "Şah İsmayıl Xətai m.",
-    "rooms": "4 otaqlı",
-    "area_m2": 201.2,
-    "floor": "8/21 mərtəbə",
-    "is_agency": true,
-    "lat": 40.38835978601517,
-    "lng": 49.86855761824417,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 8,
-    "updated_at_site": "2026-10-07T14:07:54+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 4 otaqlı yeni tikili 201.2 m²",
-    "description": "Mənzil şəhərin mərkəzində ən elit komplekslərdən biri olan RİVA RESİDENCE-da yerləşir. Mənzil yeni təmir olunub və komfortlu yaşamaq üçün bütün şərait yaradılıb.\r\n\r\nKompleks \"Şah İsmayıl Xətai\" metrostansiyasının yaxınlığındadır və ətrafında hipermarket, məktəb və bağça var. Hər blokda Almaniya istehsalı 2 və 3 ədəd lift quraşdırılıb. Yaşayış kompleksində icarə üçün 1,2,4 otaqlı mənzillər var. Binada 3 mərtəbə yeraltı avtodayanacaq və 3 mərtəbə restoranı var (High boost restoranı).\r\n\r\nReal müştərilər zəng vursun.",
-    "building_type": "Yeni tikili",
-    "location_id": "36",
-    "location_name": "Şah İsmayıl Xətai",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/5931852",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 2000,
-        "date": "2026-10-04T17:34:10.360636+00:00"
-      }
-    ]
-  },
-  {
     "id": "6515643",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F14%2F32%2F44%2F73211215-5fea-402f-b494-ccdb89bcd7fe%2F75490_xR1rY6kLmcwk8q5mcCUCHw.jpg",
     "price": 700,
@@ -14647,43 +13653,6 @@
     ]
   },
   {
-    "id": "6515646",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F14%2F30%2F47%2Fca92004b-56fe-4d3b-b757-bc229d3ff9ac%2F5037_07-zmVPi2YgYIwa4_SeEHw.jpg",
-    "price": 1300,
-    "location": "Sea Breeze q.",
-    "rooms": "3 otaqlı",
-    "area_m2": 93,
-    "floor": "2/5 mərtəbə",
-    "is_agency": false,
-    "lat": 40.59115526318225,
-    "lng": 49.98767066799879,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 2,
-    "updated_at_site": "2026-10-07T14:35:39+04:00",
-    "is_featured": true,
-    "title": "İcarəyə verilir 3 otaqlı yeni tikili 93 m²",
-    "description": "Kiraye verdiyimiz Menzil,Sea breeze Grand Otelde yerlesir,temirlidir,her sey ile temin edilib.menzil, 93 kvt, 3 otaqli,2 yataq otagi,bir gonaq otagi ve 1 sanitar otagi.otagin nomresi 222 , elave mawin saxlamaq ucun yerde var.",
-    "building_type": "Yeni tikili",
-    "location_id": "380",
-    "location_name": "Sea Breeze",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6515646",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1450,
-        "date": "2026-10-04T17:34:10.359778+00:00"
-      },
-      {
-        "price": 1300,
-        "date": "2026-10-06T19:32:36.670736+00:00"
-      }
-    ]
-  },
-  {
     "id": "6214245",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F06%2F15%2F18%2F51%2F12%2Fbc088318-b6f2-47f0-be32-3695d5086562%2F57319_vzL9-83EtY2SggikzR0aBg.jpg",
     "price": 900,
@@ -14713,113 +13682,6 @@
       {
         "price": 900,
         "date": "2026-10-04T17:34:10.357806+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6515655",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F14%2F36%2F39%2Fffb1939b-dac6-450c-b2b1-93960a255c0a%2F75543_gS2dpqwixhdvOf4SuuIOHg.jpg",
-    "price": 2200,
-    "location": "Elmlər Akademiyası m.",
-    "rooms": "3 otaqlı",
-    "area_m2": 115,
-    "floor": "7/27 mərtəbə",
-    "is_agency": true,
-    "lat": 40.37667577764752,
-    "lng": 49.80938428433184,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 7,
-    "updated_at_site": "2026-10-07T14:50:34+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 3 otaqlı yeni tikili 115 m²",
-    "description": "🏙️ GRAND HAYAT RESİDENCE-də Premium Kirayə Mənzil 🏙️\r\n\r\n✨ Mənzil 1 Noyabr tarixindən etibarən boşalır və yeni kirayəçisini gözləyir.\r\n\r\n🏡 Mənzil çox zövqlü və yüksək səviyyədə təmir olunub. Yaşayış üçün lazım olan bütün şərait yaradılıb və ev bahalı, keyfiyyətli mebellər və müasir avadanlıqlarla tam təchiz olunub.\r\n\r\n🛋️ Mənzildə rahat və komfortlu yaşayış üçün hər bir detal nəzərə alınıb. Mebel və avadanlıqlar yüksək keyfiyyətlidir, mənzil səliqəli və baxımlı vəziyyətdədir.\r\n\r\n🛏️ Yataq otağında əlavə çarpayıya ehtiyac olarsa, təşkil olunacaq.\r\n\r\n📍 Grand Hayat Residence-in üstünlüklərindən yararlanaraq rahat və təhlükəsiz yaşayış imkanı.\r\n\r\n👀 Mənzilə əvvəlcədən razılaşdırılmaqla baxış keçirmək mümkündür.\r\n\r\n📞 Ətraflı məlumat və baxış üçün əlaqə saxlaya bilərsiniz.",
-    "building_type": "Yeni tikili",
-    "location_id": "34",
-    "location_name": "Elmlər Akademiyası",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6515655",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 2200,
-        "date": "2026-10-04T17:34:10.359312+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6516269",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F18%2F16%2F09%2F59a756bf-1871-4c3a-9703-b3c253002b5a%2F16162_t3orVPoaUxqOGEP_6FUJOA.jpg",
-    "price": 800,
-    "location": "Qara Qarayev m.",
-    "rooms": "2 otaqlı",
-    "area_m2": 67,
-    "floor": "15/18 mərtəbə",
-    "is_agency": true,
-    "lat": 40.41674517831529,
-    "lng": 49.93615495004607,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 15,
-    "updated_at_site": "2026-10-07T14:58:36+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı yeni tikili 67 m²",
-    "description": "В пешей доступности от метро Гара Гараева \r\nв элитной новостройке сдаеться 2 х комн квартира \r\nна долгий срок приличной семье без детей \r\n(домашних питомцев) либо одной персоне \r\nдепозит обязателен за 12 й месяц (сдаеться минимум на год)\r\nвсе условия для прожвания есть \r\nуслуга офиса 30%\r\n Q .Qarayev \r\nyeni tikili binada 2 otagli menzil uzun muddetli kiraye verilir \r\ndepozit teleb olunur 12 ci ayin (mezil minimum 1 illik icareye verilir \r\ngenc aile (ushaqli aileye verilmir )ve yaxud ish sahibi olan xanimlara ve tek bey \r\nelave melumat ucun elaqe saxlayin \r\nxidmet haqqi 30%",
-    "building_type": "Yeni tikili",
-    "location_id": "52",
-    "location_name": "Qara Qarayev",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6516269",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 900,
-        "date": "2026-10-04T17:34:10.353120+00:00"
-      },
-      {
-        "price": 850,
-        "date": "2026-10-05T19:36:46.459541+00:00"
-      },
-      {
-        "price": 800,
-        "date": "2026-10-07T19:31:52.218404+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6515651",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F14%2F36%2F12%2Feb8be491-2b2e-4c6e-8800-6169cea4b777%2F92104_LeUYM0I01Ab-DwHhGl8POw.jpg",
-    "price": 600,
-    "location": "Memar Əcəmi m.",
-    "rooms": "2 otaqlı",
-    "area_m2": 52,
-    "floor": "5/5 mərtəbə",
-    "is_agency": true,
-    "lat": 40.41226428523009,
-    "lng": 49.81850595695404,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 5,
-    "updated_at_site": "2026-10-07T14:59:33+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı köhnə tikili 52 m²",
-    "description": "TƏCİLİ! Memar Ecemi 2 otaqlı kirayə mənzil\r\nNesimi   rayonunda Kohne   tikili binada yerləşən, tam təmirli\r\n2 otaqlı mənzil kirayə verilir. Mənzil geniş, işıqlı və səliqəlidir. Yaşayış üçün bütün lazımi şərait mövcuddur.Aileye us\r\nBinanın yaxınlığında marketlər, məktəb, aptek və avtobus dayanacağı yerləşir. çox əlverişli və rahat ərazidədir.\r\nQiyməti münasibdi.....\r\nƏtraflı məlumat və mənzilə baxış üçün əlaqə saxlaya bilərsiniz.\r\n📞 Real müştərilər əlaqə saxlasın. xidmet haqqi 30%",
-    "building_type": "Köhnə tikili",
-    "location_id": "59",
-    "location_name": "Memar Əcəmi",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6515651",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 600,
-        "date": "2026-10-04T17:34:10.359693+00:00"
       }
     ]
   },
@@ -15158,39 +14020,6 @@
     ]
   },
   {
-    "id": "6516474",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F19%2F54%2F13%2F92606d81-ebff-4b1f-af3d-620d7459a38d%2F75493_O9Pdm-9t5w-KoPk3wrDw3w.jpg",
-    "price": 1300,
-    "location": "Nərimanov r.",
-    "rooms": "3 otaqlı",
-    "area_m2": 135,
-    "floor": "14/19 mərtəbə",
-    "is_agency": true,
-    "lat": 40.39750826248677,
-    "lng": 49.83341266148067,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 14,
-    "updated_at_site": "2026-10-07T15:43:39+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 3 otaqlı yeni tikili 135 m²",
-    "description": "Mənzil Tibb universitetinin yaxınlığında yeni tikili binada yerləşir \r\nMənzildə yaşayış üçün hər cür şərait yaradılıb gir yaşa mənzildir \r\nMənzil Tibb universitetine 5 dəqiqə addımla.mesafededir\r\nƏlavə depozit tələb olunur \r\nƏlavə məlumat üçün əlaqə saxlayın zəhmət olmasa \r\nOfis haqqı 30%",
-    "building_type": "Yeni tikili",
-    "location_id": "10",
-    "location_name": "Nərimanov",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6516474",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1300,
-        "date": "2026-10-04T17:34:10.351066+00:00"
-      }
-    ]
-  },
-  {
     "id": "6515962",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F16%2F23%2F48%2F6cb0eac0-aab0-450c-a5ca-6255caa4e8fa%2F42350_PCh_yK3NBsUdSKexZqSLUA.jpg",
     "price": 800,
@@ -15294,39 +14123,6 @@
     ]
   },
   {
-    "id": "6515750",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F15%2F07%2F47%2F1fbeec2f-cb4c-404d-bbb8-71e267d3cb15%2F16164_rFO3qZ07qqzfqgPccvKUGQ.jpg",
-    "price": 700,
-    "location": "Memar Əcəmi m.",
-    "rooms": "2 otaqlı",
-    "area_m2": 70,
-    "floor": "4/19 mərtəbə",
-    "is_agency": true,
-    "lat": 40.41023501907635,
-    "lng": 49.81146770092776,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 4,
-    "updated_at_site": "2026-10-07T16:09:38+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı yeni tikili 70 m²",
-    "description": "Təcili kirayə verilir yalnız ailəyə verilir uzunmüddətli. Memar Əcəmi metrosunun yanında, Yaşam recidancede yerləşir.\r\n\r\n\r\n        xidmet haqqi 30%",
-    "building_type": "Yeni tikili",
-    "location_id": "59",
-    "location_name": "Memar Əcəmi",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6515750",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 700,
-        "date": "2026-10-04T17:34:10.358354+00:00"
-      }
-    ]
-  },
-  {
     "id": "6514995",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F10%2F54%2F05%2F702fac41-029e-48fa-9402-6affca4a3b45%2F65324_XqkM2A-yAFLPUWuPxHs7Nw.jpg",
     "price": 800,
@@ -15360,39 +14156,6 @@
     ]
   },
   {
-    "id": "5040296",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F03%2F10%2F16%2F30%2F45%2F6f9fb227-5f67-4ba5-a467-1d725baaa1e4%2F710_n_84bQNwZvpGSEPPCvJ-ng.jpg",
-    "price": 450,
-    "location": "Həzi Aslanov q.",
-    "rooms": "1 otaqlı",
-    "area_m2": 30,
-    "floor": "1/2 mərtəbə",
-    "is_agency": false,
-    "lat": 40.37491169385333,
-    "lng": 49.94099603710938,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 1,
-    "updated_at_site": "2026-10-07T16:17:21+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 1 otaqlı yeni tikili 30 m²",
-    "description": "Geniş infrastruktura malik yeni yaşayış kompleksində studiya icarəyə verilir 🏡\n\nƏrazidə rahat qalmaq üçün lazım olan hər şey var👍🏻\n\nMənzil kompleksinə daxildir:\n✅Görünüş zonası, istirahət üçün stol və stulları olan yaşıl geniş park\n✅Kafe hər gün 12:00-dan 23:00-a kimi fəaliyyət göstərir\n✅Qapalı hovuzlu sauna (odenişli)\n✅Avtomatik qapılı parkinq sahəsi\n✅Girişdə 7/24 mühafizə\n✅Metbex\n✅Xarici vətəndaşlar üçün qeydiyyat mümkündür\n✅Böyük BRAVO hipermarketinə 2 dəqiqəlik məsafədədir\n✅Hazi Aslanov metrosuna 15 deqiqelik mesafededir\n\n🔵Standart otaq (30 m.) - 450 AZN\n🔵 Deposit - 100 AZN\n\n(Kommunal xərclər ayrıca ödənilir)\n\n🔸 Otaqlarda şərait: hamam, mini soyuducu, kondisioner, televizor, WiFi, qarderob, stullu iş masası, stol və stullarla təchiz olunmuş şəxsi terras sahəsi.\n\nСдаются студии в новом апарт-комплексе с широкой инфраструктурой 🏡\n\nНа территории есть все необходимые для комфортного проживания👍🏻\n\nАпарт-комплекс включает в себя:\n✅Зеленый просторный парк с вайфай-зоной, столиками и креслами для отдыха\n✅Кафе открытое с 10:00 до 24:00 ежедневно\n✅Сауна с закрытом бассейном(Оплачивается отдельно)\n✅Закрытая и безопасная паркинг зона для авто с автоматическими воротами\n✅Круглосуточная охрана 24/7 на входе\n✅Возможна прописка для иностранных граждан\n✅Общая свежеотремонти́рованная кухня (также доступны студии с кухнями внутри )\n✅В 5 минутах большой гипермаркет BRAVO\n✅В 15 минутах метро Ази Асланова\n\n🔵Стандартный номер (30 м.) - 450 AZN\n🔵Депозит в размере - 100 AZN оплачивается при заезде\n\n(Коммунальные платежи оплачиваются отдельно)\n\n🔸Удобства в номерах: санузел, мини-холодильник, кондиционер, телевизор, WiFi, шкаф-купе, рабочий стол с креслом, собственная зона террасы со столиками и стульями.",
-    "building_type": "Yeni tikili",
-    "location_id": "99",
-    "location_name": "Həzi Aslanov",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/5040296",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 450,
-        "date": "2026-10-04T17:34:10.356713+00:00"
-      }
-    ]
-  },
-  {
     "id": "6515608",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F14%2F24%2F00%2F6c129235-02fd-4e69-8a37-e330df9aa037%2F75550_F0nRuYRXHVwtVKPgiNtD4A.jpg",
     "price": 600,
@@ -15422,143 +14185,6 @@
       {
         "price": 600,
         "date": "2026-10-04T17:34:10.356728+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6515022",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F11%2F16%2F18%2Fb1edbeaa-302e-46a2-9d30-b9c081030461%2F16137_xy1VP3FDYyOVzIQzk_sF7w.jpg",
-    "price": 850,
-    "location": "8-ci mikrorayon q.",
-    "rooms": "2 otaqlı",
-    "area_m2": 40,
-    "floor": "5/9 mərtəbə",
-    "is_agency": false,
-    "lat": 40.41715979785674,
-    "lng": 49.83575179567369,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 5,
-    "updated_at_site": "2026-10-07T17:15:20+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı yeni tikili 40 m²",
-    "description": "İcarəyə verilir 2 otaqlı köhnə tikili 40 m², 8-ci mikrorayon q.\r\n\r\nAzadlıq 165 ünvanında, qoşa zapravkanın yanında 2 otaqlı əla təmirli mənzil kirayə verilir.\r\n\r\nMənzil 9 mərtəbəli binanın 5-ci mərtəbəsində yerləşir, binada lift var. Tam təmirli, səliqəli və yaşayış üçün bütün şəraitlə təmin olunub. Evdə televizor, kondisioner, kombi, paltaryuyan və gündəlik istifadə üçün lazım olan bütün avadanlıqlar mövcuddur.\r\n\r\nMənzildəki bütün mebellər yenidir və istifadə olunmayıb. Balkon ayrıca iş otağı kimi hazırlanıb, evdən işləyən və ya sakit şəxsi məkan axtaranlar üçün çox rahatdır.\r\n\r\nBinanın həyəti çox səliqəli və rahatdır. Avtomobillərin saxlanılması üçün geniş və əlverişli yerlər mövcuddur.\r\n\r\nMənzil yalnız tək xanıma və ya bəyə  və ya uşaqsız ailəyə verilir.\r\n\r\nElanı ev sahibi özü verir, agent və ya makler deyil.\r\n\r\nMənzil avqust ayının 28 indən boş olacaq , mənzil leninqrad proektidir , 5/9",
-    "building_type": "Yeni tikili",
-    "location_id": "130",
-    "location_name": "8-ci mikrorayon",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6515022",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 850,
-        "date": "2026-10-04T17:34:10.368238+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6516047",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F19%2F37%2F25%2Fa889cd05-ee1f-4694-9c01-2b5fe6675ec4%2F6067_FahjtH7PcYy7q1jD-2WlJw.jpg",
-    "price": 750,
-    "location": "Azadlıq Prospekti m.",
-    "rooms": "3 otaqlı",
-    "area_m2": 80,
-    "floor": "15/17 mərtəbə",
-    "is_agency": false,
-    "lat": 40.42409435312824,
-    "lng": 49.84143481921389,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 15,
-    "updated_at_site": "2026-10-07T17:57:29+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 3 otaqlı yeni tikili 80 m²",
-    "description": "Azdalig metrosunun yani Cristal Abseron yasayis kompleksnde 3 otaga duzelme tam esyali menzil kiraye verilir menzilde butun esya avadanlig var usag otaginda 2 eded kravat acilib yigilandir sekillerde dusub giymet sondur etrafli melumat uchun zeng edin ve ya vatsapa yazin   yalniz Aileye verilir. xidmet hakki 30% dir",
-    "building_type": "Yeni tikili",
-    "location_id": "6",
-    "location_name": "Azadlıq Prospekti",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6516047",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 750,
-        "date": "2026-10-04T17:34:10.351348+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6516174",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F17%2F41%2F19%2Fd24cbce0-d8e3-4dcc-b76c-0cdda9a732e3%2F75527_-CDTvPsVD1q94tuDJr8ZNg.jpg",
-    "price": 999,
-    "location": "Nizami m.",
-    "rooms": "2 otaqlı",
-    "area_m2": 110,
-    "floor": "9/16 mərtəbə",
-    "is_agency": true,
-    "lat": 40.37981172804476,
-    "lng": 49.83425080599091,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 9,
-    "updated_at_site": "2026-10-07T18:06:55+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı yeni tikili 110 m²",
-    "description": "🏠 NƏSİMİ RAYONU — NİZAMİ METROSUNA 5 DƏQİQƏ!\r\n\r\n✨ Geniş və işıqlı 2 otaqlı mənzil kirayə verilir.\r\n\r\n📐 Sahə: 110 m²\r\n🛋 Tam mebelli və əşyalıdır\r\n🔑 Yeni təmirli\r\n🚇 Nizami metrosuna piyada 5 dəqiqə\r\n💡 Su, işıq, internet və digər kommunal şərait mövcuddur.\r\n📍 Sakit və əlverişli ərazidə, bütün infrastruktura yaxın yerləşir.\r\n\r\n📍 Ünvan: Nəsimi rayonu, Salatın Əsgərova küçəsi, Nizami metrosu yaxınlığı.\r\n\r\n📞 Ətraflı məlumat və baxış üçün əlaqə saxlayın.\r\n30% ofis haqqı təşkil edir",
-    "building_type": "Yeni tikili",
-    "location_id": "35",
-    "location_name": "Nizami",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6516174",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 999,
-        "date": "2026-10-04T17:34:10.353545+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6516624",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F21%2F35%2F28%2F435a05af-8cfc-4fb3-9f9e-036e17a85267%2F16185_jH3CQXlcH2zqOiKnbHzhMQ.jpg",
-    "price": 1200,
-    "location": "Şah İsmayıl Xətai m.",
-    "location_id": "36",
-    "location_name": "Şah İsmayıl Xətai",
-    "rooms": "3 otaqlı",
-    "area_m2": 130,
-    "floor": "18/25 mərtəbə",
-    "floor_number": 18,
-    "is_agency": true,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T18:10:01+04:00",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6516624",
-    "lat": null,
-    "lng": null,
-    "land_area_sot": null,
-    "building_type": null,
-    "title": null,
-    "description": null,
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1300,
-        "date": "2026-10-04T18:34:30.356867+00:00"
-      },
-      {
-        "price": 1200,
-        "date": "2026-10-07T19:31:47.579528+00:00"
       }
     ]
   },
@@ -15633,39 +14259,6 @@
     ]
   },
   {
-    "id": "6515332",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F12%2F57%2F38%2F94f23bb6-22b2-4a8b-bab7-a657b775b1fb%2F16186_-cy1nTSM7GHplOIY7nE7bw.jpg",
-    "price": 1100,
-    "location": "Nizami m.",
-    "rooms": "2 otaqlı",
-    "area_m2": 100,
-    "floor": "13/20 mərtəbə",
-    "is_agency": true,
-    "lat": 40.3830319490263,
-    "lng": 49.82537708231041,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 13,
-    "updated_at_site": "2026-10-07T18:44:18+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı yeni tikili 100 m²",
-    "description": "📍 6-CI PARALEL | YENİ TİKİLİ\n\n🏠 2 otaqlı | 100 m² | Geniş mənzil\n✨ Mənzil yeni təmirdən çıxıb\n🚿 2 ədəd sanitar qovşaq\n🏢 Yeni tikili binada yerləşir\n🛋 Geniş və rahat planlaşdırma\n\n📍 Əlverişli ərazidə yerləşir, ətrafında marketlər və gündəlik ehtiyac üçün lazım olan obyektlər mövcuddur.\n\n💰 Kirayə: 1100 AZN\n💼 Ofis haqqı: 30%\n\n🎥 Mənzilin videosu real müştəriyə göndəriləcək.\n\n📞 Ətraflı məlumat və baxış üçün əlaqə saxlayın..",
-    "building_type": "Yeni tikili",
-    "location_id": "35",
-    "location_name": "Nizami",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6515332",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1100,
-        "date": "2026-10-04T17:34:10.363439+00:00"
-      }
-    ]
-  },
-  {
     "id": "6515769",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F15%2F21%2F11%2F2a1510e9-1047-43d5-a0c2-a6a49d82c988%2F16160_ds9zRSfo0lTKEBCzeCZsxg.jpg",
     "price": 900,
@@ -15703,171 +14296,6 @@
     ]
   },
   {
-    "id": "5737213",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F12%2F13%2F22%2F35%2F43%2F3db99fd2-e588-421c-a40a-4798489fa1cf%2F7527_wj1kCf4kwqind0V8IIdFoA.jpg",
-    "price": 1000,
-    "location": "İçəri Şəhər m.",
-    "rooms": "2 otaqlı",
-    "area_m2": 55,
-    "floor": "5/6 mərtəbə",
-    "is_agency": true,
-    "lat": 40.37011308881299,
-    "lng": 49.83580509821464,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 5,
-    "updated_at_site": "2026-10-07T19:32:07+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı köhnə tikili 55 m²",
-    "description": "Şəhərin əsl mənada mərkəzində Tarqovuya piyada 1dəqiqə mərkəzdə təmirli və səliqəli mənzil kirayə verilir.Yeni təmir olunub.Mənzildə yaşamaq üçün hərbir şərait yaradılıb.İstilik sistemi kombidir.Qaz,su,işıq daimidir.Açar məndədir,baxmaq üçün 1/2saat öncədən əlaqə saxlayın.\r\nXidmət haqqı 30%",
-    "building_type": "Köhnə tikili",
-    "location_id": "37",
-    "location_name": "İçəri Şəhər",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/5737213",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1000,
-        "date": "2026-10-04T17:34:10.362281+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6516376",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F18%2F55%2F25%2F1afa5f2d-9d72-4f60-bff7-2dd7dc7bf090%2F16151_dnEIT0uQ50ST-KLtLhDjsg.jpg",
-    "price": 999,
-    "location": "Nizami m.",
-    "rooms": "2 otaqlı",
-    "area_m2": 105,
-    "floor": "9/15 mərtəbə",
-    "is_agency": true,
-    "lat": 40.38062035344379,
-    "lng": 49.83569899408428,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 9,
-    "updated_at_site": "2026-10-07T19:32:58+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı yeni tikili 105 m²",
-    "description": "🏡 NƏSİMİ RAYONU | NİZAMİ METROSU\r\n\r\n📍 Nizami metrosuna və Türk Anadolu Liseyinə cəmi 5 dəqiqəlik məsafədə\r\n\r\n✨ Geniş və işıqlı 2 otaqlı mənzil kirayə verilir!\r\n\r\n• 📐 Ümumi sahə: 106 m²\r\n• 🛋️ Tam əşyalı\r\n• 🔑 Əla və yeni təmirli\r\n• ☀️ Geniş, işıqlı otaqlar\r\n• 📍 Əlverişli və sakit ərazi\r\n• 🚇 Metroya piyada 5 dəqiqə\r\n• 🌐 İnternet mövcuddur\r\n• 💧 Su, işıq və digər kommunal imkanlar\r\n• 🏫 Türk Anadolu Liseyinə yaxın\r\n• 🏙️ Şəhərin mərkəzinə yaxın ərazi\r\n\r\nMənzil rahat və komfortlu yaşayış üçün bütün şəraitlə təmin olunub.\r\n\r\n💼 Ofis haqqı: 30%",
-    "building_type": "Yeni tikili",
-    "location_id": "35",
-    "location_name": "Nizami",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6516376",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 999,
-        "date": "2026-10-04T17:34:10.351458+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6516488",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F20%2F01%2F30%2F20dcac04-74c6-444e-ae3d-a976ac724901%2F16186_ubvckRaMA-Pd4Il6lf3lHw.jpg",
-    "price": 600,
-    "location": "Memar Əcəmi m.",
-    "rooms": "2 otaqlı",
-    "area_m2": 50,
-    "floor": "5/5 mərtəbə",
-    "is_agency": true,
-    "lat": 40.41532301709832,
-    "lng": 49.8170559128919,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 5,
-    "updated_at_site": "2026-10-07T19:35:30+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı köhnə tikili 50 m²",
-    "description": "🏡 Memar Əcəmi metrosunun yaxınlığında 2 otaqlı mənzil kirayə verilir!\r\n\r\n📍 Mənzil Memar Əcəmi metrosuna yaxın ərazidə yerləşir və yaşayış üçün bütün şəraitə malikdir.\r\n\r\n🔹 2 otaq\r\n🔹 50 kv.m\r\n🔹 5 mərtəbəli binanın 5-ci mərtəbəsi\r\n🔹 Yaxşı təmirli\r\n🔹 Lazımi mebel və məişət texnikası ilə təmin olunub\r\n🔹 Qaz, su, işıq daimidir\r\n🔹 Rahat və əlverişli infrastruktur\r\n\r\n🔹istilik sistemi: kombi\r\n\r\n🚫 Bəylərə verilmir!\r\n\r\n💰 Ətraflı məlumat və mənzilə baxış üçün əlaqə saxlaya bilərsiniz.",
-    "building_type": "Köhnə tikili",
-    "location_id": "59",
-    "location_name": "Memar Əcəmi",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6516488",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 600,
-        "date": "2026-10-04T17:34:10.350652+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6516344",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F18%2F45%2F40%2F6e372b07-69d0-42c1-9db4-279fdbd58c34%2F75548_RQ6RQBfcz5L2TBDtmW8N_g.jpg",
-    "price": 500,
-    "location": "Gənclik m.",
-    "rooms": "1 otaqlı",
-    "area_m2": 35,
-    "floor": "1/5 mərtəbə",
-    "is_agency": true,
-    "lat": 40.39849915288771,
-    "lng": 49.84218628789106,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 1,
-    "updated_at_site": "2026-10-07T19:39:53+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 1 otaqlı köhnə tikili 35 m²",
-    "description": "🏡 KİRAYƏ VERİLİR – SƏRFƏLİ TƏKLİF!\r\n\r\n📍 Neftçi Bazasının yaxınlığında yerləşən 1 otaqlı mənzil kirayə verilir.\r\n\r\n🏢 5 mərtəbəli binanın 1-ci mərtəbəsi\r\n📐 Sahə: 35 kv.m\r\n🛏️ Otaq sayı: 1\r\n\r\nMənzil yaşayış üçün zəruri şəraitlə təmin olunub. Sakit və əlverişli ərazidə yerləşir. Qaz, su və işıq daimidir. Ətrafında market, aptek, avtobus dayanacağı və digər iaşə obyektləri mövcuddur.\r\n\r\nŞəhərin müxtəlif istiqamətlərinə rahat nəqliyyat əlaqəsi var. Tək şəxslər, tələbələr və kiçik ailələr üçün münasib variantdır.\r\n\r\n📞 Əlavə məlumat və mənzilə baxış üçün əlaqə saxlaya bilərsiniz.\r\n",
-    "building_type": "Köhnə tikili",
-    "location_id": "2",
-    "location_name": "Gənclik",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6516344",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 500,
-        "date": "2026-10-04T17:34:10.352166+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6515470",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F13%2F43%2F48%2F9728033a-f357-4b3d-8d8e-bbfb71afd82f%2F16158_WPJcePulHnWgEjUUawMMXw.jpg",
-    "price": 750,
-    "location": "7-ci mikrorayon q.",
-    "rooms": "2 otaqlı",
-    "area_m2": 85,
-    "floor": "8/10 mərtəbə",
-    "is_agency": true,
-    "lat": 40.43311782888589,
-    "lng": 49.85990464301663,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": 8,
-    "updated_at_site": "2026-10-07T20:05:11+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı yeni tikili 85 m²",
-    "description": "✅Menzil max 2 nefere verilir\r\n✅ depozit var\r\n\r\n✅Cinarli park yashayish kompleksi xeritede de yerini duzgun yerleshdirmishem, waze de yazsaz cixir\r\n\r\n✅qanuni 2 otaq her bir sherait var\r\n\r\nOfis haqqi 30%\r\n\r\n",
-    "building_type": "Yeni tikili",
-    "location_id": "129",
-    "location_name": "7-ci mikrorayon",
-    "category": "apartment",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6515470",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 750,
-        "date": "2026-10-04T17:34:10.361880+00:00"
-      }
-    ]
-  },
-  {
     "id": "6442326",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F08%2F01%2F14%2F53%2F86cf3ac2-2ed3-4f34-bbda-aea817466e29%2F63771_5VT2w3N1sjJkseURLM_Kkg.jpg",
     "price": 650,
@@ -15901,6 +14329,1334 @@
     ]
   },
   {
+    "id": "5706748",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F18%2F12%2F16%2F03%2Fee672d2e-35d0-4bfd-b249-0b9561042e0f%2F12564_2DErlbFNJFKJ4sJHOt3rYA.jpg",
+    "price": 1350,
+    "location": "Şah İsmayıl Xətai m.",
+    "rooms": "3 otaqlı",
+    "area_m2": 135,
+    "floor": "8/14 mərtəbə",
+    "is_agency": false,
+    "lat": 40.37854650561324,
+    "lng": 49.8759630612332,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 8,
+    "updated_at_site": "2026-10-08T09:40:30+04:00",
+    "is_featured": true,
+    "title": "İcarəyə verilir 3 otaqlı yeni tikili 135 m²",
+    "description": "Şəhərin mərkəzində təmirli, dəniz mənzərəli, Milli Parkla  və Hərbi Qənimətlər parkı ilə üz üzə yerləşən 3 otaqlı hər bir şəraiti olan mənzil uzunmüddətə kirayə verilir. İstilik sistemi kombi, su daimidir. Öncədən ilk və sonuncu ayın pulu alınır.",
+    "building_type": "Yeni tikili",
+    "location_id": "36",
+    "location_name": "Şah İsmayıl Xətai",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/5706748",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1350,
+        "date": "2026-10-04T17:34:10.370756+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6397009",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F22%2F12%2F20%2F06%2F6f552e79-8bd2-4b15-aa54-a316c9536d7b%2F87145_jQw9o_K6j5lE7b0AFJWBRA.jpg",
+    "price": 1050,
+    "location": "Nəsimi r.",
+    "rooms": "2 otaqlı",
+    "area_m2": 70,
+    "floor": "9/20 mərtəbə",
+    "is_agency": true,
+    "lat": 40.39764588842817,
+    "lng": 49.83778372692499,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 9,
+    "updated_at_site": "2026-10-08T10:23:24+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı yeni tikili 70 m²",
+    "description": "Tibb universitetinin və Bakı sağlamlıq mərkəzinin yanı. Yeni tikili bina Melisaa Azadlıq 2 otaq 70 kv m. Hər bir şəraiti var.\r\nqiymete komendant pulu daxildir.\r\nxidmet haqqi 30%",
+    "building_type": "Yeni tikili",
+    "location_id": "190",
+    "location_name": "Nəsimi",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6397009",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1050,
+        "date": "2026-10-04T17:34:10.368012+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6515576",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F14%2F10%2F38%2F0cd8f4e6-e172-455e-9354-b6c37b6869fe%2F704_aoeCuoxcYOe6-I6qQusUhA.jpg",
+    "price": 800,
+    "location": "İnşaatçılar m.",
+    "rooms": "2 otaqlı",
+    "area_m2": 80,
+    "floor": "12/16 mərtəbə",
+    "is_agency": true,
+    "lat": 40.39642011109225,
+    "lng": 49.80165647613525,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 12,
+    "updated_at_site": "2026-10-08T10:29:36+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı yeni tikili 80 m²",
+    "description": "20 Yanvar ve İnsaatcilar metrosuna yaxin 2  Nömrəli TİBB kollecinin yaninda 2 otaqlı tam təmirli əşyalı mənzil kirayə verilir.Mənzil lazımi olan əşya və texniki avadanlıqlarla təchiz olunub.Binanin etrafinda aptek market restoran ve.s movcuddur.Mənzildə əlavə qarderob otağı mövcuddur",
+    "building_type": "Yeni tikili",
+    "location_id": "7",
+    "location_name": "İnşaatçılar",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6515576",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 800,
+        "date": "2026-10-04T17:34:10.360549+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6156391",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F24%2F13%2F41%2F23%2Fa7252aaa-dc30-4f36-ac48-7f440744a86e%2F30881_mtK6gyaJuHutewyM2Gvgfw.jpg",
+    "price": 699,
+    "location": "Memar Əcəmi m.",
+    "rooms": "2 otaqlı",
+    "area_m2": 70,
+    "floor": "5/18 mərtəbə",
+    "is_agency": true,
+    "lat": 40.41326018893051,
+    "lng": 49.80446228910218,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 5,
+    "updated_at_site": "2026-10-08T10:51:59+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı yeni tikili 70 m²",
+    "description": "Komendant pulu daxildir 20 yanvar metrosuna 5 dəqiqəlik məsafədədir.x",
+    "building_type": "Yeni tikili",
+    "location_id": "59",
+    "location_name": "Memar Əcəmi",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6156391",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 699,
+        "date": "2026-10-04T17:34:10.351552+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6515349",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F13%2F08%2F54%2Fcda8d050-2b8a-49c3-8e23-d3a4d5423991%2F16162_7tft_VcQe20zkLl16q8Qgg.jpg",
+    "price": 900,
+    "location": "Dərnəgül m.",
+    "rooms": "2 otaqlı",
+    "area_m2": 80,
+    "floor": "12/14 mərtəbə",
+    "is_agency": true,
+    "lat": 40.42381198369517,
+    "lng": 49.85917474606791,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 12,
+    "updated_at_site": "2026-10-08T11:45:05+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı yeni tikili 80 m²",
+    "description": "### 🏡 Dərnəgül metrosu | West Town Yaşayış Kompleksi | 2 otaqlı, yeni mənzil\r\n\r\n**Dərnəgül metrosuna yaxın, West Town Yaşayış Kompleksində** əla təmirli, tam yeni mənzil kirayə verilir.\r\n\r\n🔹 **2 otaq**\r\n🔹 **80 m²**\r\n🔹 **14 mərtəbəli binanın 12-ci mərtəbəsi**\r\n🔹 **Əla təmirli**\r\n🔹 Təmir tamamlandıqdan sonra **yaşayış olmayıb**\r\n🔹 **İlk dəfə kirayə verilir**\r\n🔹 Mənzildəki **bütün əşyalar yenidir**\r\n🔹 Səliqəli və müasir yaşayış üçün tam hazır vəziyyətdədir\r\n\r\n📍 **Ünvan:** Dərnəgül metrosu yaxınlığı, West Town Yaşayış Kompleksi\r\n💰 **Aylıq kirayə: 900 AZN**\r\n\r\n**Yeni təmir, yeni əşyalar və ilk yaşayış üçün ideal seçim!** Məyyən və uzunmüddətli kirayəçi üçün əla mənzildir.\r\n",
+    "building_type": "Yeni tikili",
+    "location_id": "61",
+    "location_name": "Dərnəgül",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6515349",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 900,
+        "date": "2026-10-04T17:34:10.363252+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6515054",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F11%2F33%2F12%2F7900036f-6227-4d15-87ff-dde171a8177b%2F16177_Awft82L359RyTXka2u65SQ.jpg",
+    "price": 4000,
+    "location": "28 May m.",
+    "rooms": "4 otaqlı",
+    "area_m2": 175,
+    "floor": "12/20 mərtəbə",
+    "is_agency": true,
+    "lat": 40.37511882284448,
+    "lng": 49.85719400021365,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 12,
+    "updated_at_site": "2026-10-08T11:54:52+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 4 otaqlı yeni tikili 175 m²",
+    "description": "Port Baku və Cresent Mallun yani yeni tikili premium binada 4 otaqli menzil icareye verilir.\r\nMənzildə təmirdən sonra yaşayiş olmayib.\r\nƏtrafli melumat üçün əlaqə saxlaya bilersiz",
+    "building_type": "Yeni tikili",
+    "location_id": "8",
+    "location_name": "28 May",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6515054",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 4000,
+        "date": "2026-10-04T17:34:10.367481+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6516269",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F18%2F16%2F09%2F59a756bf-1871-4c3a-9703-b3c253002b5a%2F16162_t3orVPoaUxqOGEP_6FUJOA.jpg",
+    "price": 800,
+    "location": "Qara Qarayev m.",
+    "rooms": "2 otaqlı",
+    "area_m2": 67,
+    "floor": "15/18 mərtəbə",
+    "is_agency": true,
+    "lat": 40.41674517831529,
+    "lng": 49.93615495004607,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 15,
+    "updated_at_site": "2026-10-08T12:13:30+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı yeni tikili 67 m²",
+    "description": "В пешей доступности от метро Гара Гараева \r\nв элитной новостройке сдаеться 2 х комн квартира \r\nна долгий срок приличной семье без детей \r\n(домашних питомцев) либо одной персоне \r\nдепозит обязателен за 12 й месяц (сдаеться минимум на год)\r\nвсе условия для прожвания есть \r\nуслуга офиса 30%\r\n Q .Qarayev \r\nyeni tikili binada 2 otagli menzil uzun muddetli kiraye verilir \r\ndepozit teleb olunur 12 ci ayin (mezil minimum 1 illik icareye verilir \r\ngenc aile (ushaqli aileye verilmir )ve yaxud ish sahibi olan xanimlara ve tek bey \r\nelave melumat ucun elaqe saxlayin \r\nxidmet haqqi 30%",
+    "building_type": "Yeni tikili",
+    "location_id": "52",
+    "location_name": "Qara Qarayev",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6516269",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 900,
+        "date": "2026-10-04T17:34:10.353120+00:00"
+      },
+      {
+        "price": 850,
+        "date": "2026-10-05T19:36:46.459541+00:00"
+      },
+      {
+        "price": 800,
+        "date": "2026-10-07T19:31:52.218404+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6293088",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F07%2F15%2F13%2F19%2F43%2F578c3839-56c8-4b96-8a8e-b6d4e79c340a%2F53228_uiAdc_5cy06GLXed4m7h5A.jpg",
+    "price": 1000,
+    "location": "Şah İsmayıl Xətai m.",
+    "rooms": "2 otaqlı",
+    "area_m2": 65,
+    "floor": "8/17 mərtəbə",
+    "is_agency": true,
+    "lat": 40.38268037931834,
+    "lng": 49.87223187846933,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 8,
+    "updated_at_site": "2026-10-08T12:16:22+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı yeni tikili 65 m²",
+    "description": "✔️ H.Əliyev Mərkəzinə Gözəl Mənzərəli Mənzil\r\n✔️ Xətai m/s yanı\r\n✔️ Əla Lokasiya\r\n✔️ 2 otaq Mənzil Kirayə Verilir\r\n✔️ Yaşamaq üçün hər bir şərait mövcuddur\r\n✔️ Qabyuyandan tutmuş bütün məişət avadanlıqları var\r\n✔️ Qaz Su İşıq Daimi\r\n✔️ Premium Bina,Geniş Həyət,4 ədəd sürətli lift\r\n✔️ Əlavə məlumat üçün zəng edə bilərsiniz",
+    "building_type": "Yeni tikili",
+    "location_id": "36",
+    "location_name": "Şah İsmayıl Xətai",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6293088",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1000,
+        "date": "2026-10-04T17:34:10.365625+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6516181",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F17%2F44%2F23%2Fa013caf8-6841-46c9-afeb-ccf6a3d56b30%2F21482_ES-FsULtoMskMiAxolpvgQ.jpg",
+    "price": 700,
+    "location": "Qara Qarayev m.",
+    "rooms": "2 otaqlı",
+    "area_m2": 75,
+    "floor": "15/18 mərtəbə",
+    "is_agency": false,
+    "lat": 40.41108487667455,
+    "lng": 49.93126233814801,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 15,
+    "updated_at_site": "2026-10-08T12:16:34+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı yeni tikili 75 m²",
+    "description": "Qara Qarayev metrosu, Bona Dea Klinikasının yanı, 2 otaqlı əla təmirli mənzil kirayə verilir.\r\nƏşyasız boş vəziyyətdə.\r\nOfis haqqı 30 %",
+    "building_type": "Yeni tikili",
+    "location_id": "52",
+    "location_name": "Qara Qarayev",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6516181",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 700,
+        "date": "2026-10-04T17:34:10.354149+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6516292",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F18%2F22%2F27%2F890394fb-2010-4567-a2e9-923e4a8ca782%2F16170_AHc3qKL0AEHLjsB1RtxFxw.jpg",
+    "price": 1050,
+    "location": "Nərimanov r.",
+    "rooms": "2 otaqlı",
+    "area_m2": 75,
+    "floor": "3/18 mərtəbə",
+    "is_agency": false,
+    "lat": 40.38896003553114,
+    "lng": 49.85268604237512,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 3,
+    "updated_at_site": "2026-10-08T12:17:12+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı yeni tikili 75 m²",
+    "description": "🏡 TƏBRİZ KÜÇƏSİNDƏ — MƏRKƏZDƏ (28 may) MƏNZİL KİRAYƏYƏ VERİLİR\r\n\r\n📍 **Ünvan:** Təbriz küçəsi 37  \r\n🏢 Yeni tikili binanın **orta blokunda, 3-cü mərtəbədə** yerləşən təmirli mənzil.\r\n\r\nMənzil şəhərin ən əlverişli və mərkəzi ərazilərindən birində yerləşir. **Bakı İnzibati Məhkəməsinin tam arxasında**, **İtaliya–Azərbaycan Dostluq Parkının** yanında yerləşməsi ilə həm yaşayış, həm də nəqliyyat baxımından çox rahat lokasiyaya malikdir.\r\n\r\n🚇 **28 May metrosuna — piyada təxminən 7 dəqiqə**  \r\n🎓 **Azərbaycan Dövlət Neft və Sənaye Universitetinə — piyada təxminən 15 dəqiqə**  \r\n🚇 **Nəriman Nərimanov və Gənclik metro stansiyalarına — ictimai nəqliyyatla təxminən 5–6 dəqiqə**\r\n\r\n### 🛋️ Mənzil haqqında\r\n• Təmirli və səliqəli vəziyyətdədir  \r\n• Yaşayış üçün zəruri **elektronika və məişət əşyaları ilə tam təmin olunub**  \r\n• **Kombi istilik sistemi**  \r\n• **Kondisioner**  \r\n• **İnternet**  \r\n• Rahat və funksional yaşayış üçün hazır vəziyyətdədir\r\n\r\n📍 **Mərkəzi yerləşmə, metroya yaxınlıq və bütün zəruri şəraitin olması** mənzili həm uzunmüddətli yaşayış, həm də şəhərin mərkəzində rahat həyat axtaranlar üçün əlverişli seçim edir.\r\n\r\n📞 **Ətraflı məlumat və mənzilə baxış üçün zəhmət olmasa əlaqə saxlayın.**\r\n\r\n\r\n\r\nVasitəçilərin narahat etməməsi XAHİŞ OLUNUR!",
+    "building_type": "Yeni tikili",
+    "location_id": "10",
+    "location_name": "Nərimanov",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6516292",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1150,
+        "date": "2026-10-04T17:34:10.352806+00:00"
+      },
+      {
+        "price": 1050,
+        "date": "2026-10-07T19:31:56.287095+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6514893",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F08%2F23%2F16%2F5fc69609-9859-4ee1-9c4f-97ba276cdfc1%2F16140_P411noVmLyE9950pWo7edQ.jpg",
+    "price": 1600,
+    "location": "28 May m.",
+    "rooms": "2 otaqlı",
+    "area_m2": 55,
+    "floor": "10/21 mərtəbə",
+    "is_agency": false,
+    "lat": 40.37415026341741,
+    "lng": 49.85532718273929,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 10,
+    "updated_at_site": "2026-10-08T12:28:24+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı yeni tikili 55 m²",
+    "description": "İcarəyə verilir Port baku yanl 2 otaq təmirdən sonra yaşayış olmayqn hər bir şəraitli cox zövqlü təmirli mınzil. Yalnlz uzun müddtli icarəyə verilir",
+    "building_type": "Yeni tikili",
+    "location_id": "8",
+    "location_name": "28 May",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6514893",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1600,
+        "date": "2026-10-04T17:34:10.371405+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6515332",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F12%2F57%2F38%2F94f23bb6-22b2-4a8b-bab7-a657b775b1fb%2F16186_-cy1nTSM7GHplOIY7nE7bw.jpg",
+    "price": 1100,
+    "location": "Nizami m.",
+    "rooms": "2 otaqlı",
+    "area_m2": 100,
+    "floor": "13/20 mərtəbə",
+    "is_agency": true,
+    "lat": 40.3830319490263,
+    "lng": 49.82537708231041,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 13,
+    "updated_at_site": "2026-10-08T13:17:42+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı yeni tikili 100 m²",
+    "description": "📍 6-CI PARALEL | YENİ TİKİLİ\n\n🏠 2 otaqlı | 100 m² | Geniş mənzil\n✨ Mənzil yeni təmirdən çıxıb\n🚿 2 ədəd sanitar qovşaq\n🏢 Yeni tikili binada yerləşir\n🛋 Geniş və rahat planlaşdırma\n\n📍 Əlverişli ərazidə yerləşir, ətrafında marketlər və gündəlik ehtiyac üçün lazım olan obyektlər mövcuddur.\n\n💰 Kirayə: 1100 AZN\n💼 Ofis haqqı: 30%\n\n🎥 Mənzilin videosu real müştəriyə göndəriləcək.\n\n📞 Ətraflı məlumat və baxış üçün əlaqə saxlayın..",
+    "building_type": "Yeni tikili",
+    "location_id": "35",
+    "location_name": "Nizami",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6515332",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1100,
+        "date": "2026-10-04T17:34:10.363439+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6515046",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F11%2F25%2F42%2F3c17d75c-f82b-4f56-90c7-2ca4113353ab%2F75462_oeoRVUvPyYZ2DN8g_E4aAQ.jpg",
+    "price": 700,
+    "location": "Azadlıq Prospekti m.",
+    "rooms": "2 otaqlı",
+    "area_m2": 65,
+    "floor": "7/9 mərtəbə",
+    "is_agency": false,
+    "lat": 40.42037933786287,
+    "lng": 49.83875870104863,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 7,
+    "updated_at_site": "2026-10-08T13:19:01+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı köhnə tikili 65 m²",
+    "description": "8 mik leninqrad layiheli 2 otaqli ev kirayye verilir  aileye verilir. 135. 83. Orta mektebler yaxindadir. Qaz su isiq. daimidir   azadliq metrosuna yaxindir. Ofisin xidmet haqqi. 30% dir",
+    "building_type": "Köhnə tikili",
+    "location_id": "6",
+    "location_name": "Azadlıq Prospekti",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6515046",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 700,
+        "date": "2026-10-04T17:34:10.367722+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6516624",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F21%2F35%2F28%2F435a05af-8cfc-4fb3-9f9e-036e17a85267%2F16185_jH3CQXlcH2zqOiKnbHzhMQ.jpg",
+    "price": 1200,
+    "location": "Şah İsmayıl Xətai m.",
+    "location_id": "36",
+    "location_name": "Şah İsmayıl Xətai",
+    "rooms": "3 otaqlı",
+    "area_m2": 130,
+    "floor": "18/25 mərtəbə",
+    "floor_number": 18,
+    "is_agency": true,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T13:20:17+04:00",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6516624",
+    "lat": null,
+    "lng": null,
+    "land_area_sot": null,
+    "building_type": null,
+    "title": null,
+    "description": null,
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1300,
+        "date": "2026-10-04T18:34:30.356867+00:00"
+      },
+      {
+        "price": 1200,
+        "date": "2026-10-07T19:31:47.579528+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6515043",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F11%2F16%2F55%2F10a14dd1-6e0b-4ecb-93fb-13f5b8983de0%2F75504_KTIBoF5ImfPoeQ0AIcIxMw.jpg",
+    "price": 1100,
+    "location": "Nizami m.",
+    "rooms": "2 otaqlı",
+    "area_m2": 100,
+    "floor": "13/16 mərtəbə",
+    "is_agency": true,
+    "lat": 40.38343128592626,
+    "lng": 49.82713746177673,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 13,
+    "updated_at_site": "2026-10-08T13:48:54+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı yeni tikili 100 m²",
+    "description": "🏠 NİZAMİ METROSUNA YAXIN — YENİ TƏMİRLİ 2 OTAQLI MƏNZİL İCARƏYƏ VERİLİR\r\n\r\n📍 Məmməd Naxçıvani küçəsi, Nizami metrosuna yaxın\r\n\r\nMənzil təmirdən yeni çıxıb və təmirdən sonra ümumiyyətlə yaşayış olmayıb. Geniş və rahat planlamaya malik mənzildir.\r\n\r\n🔹 2 otaq\r\n🔹 100 m²\r\n🔹 16 mərtəbəli binanın 13-cü mərtəbəsi\r\n🔹 1 yataq otağı\r\n🔹 1 geniş zal\r\n🔹 Ayrı mətbəx\r\n🔹 2 sanuzel\r\n🔹 Böyük və geniş hol\r\n🔹 Yeni təmir\r\n🔹 Təmirdən sonra yaşayış olmayıb\r\n🔹 Qabyuyan maşın\r\n🔹 Paltaryuyan maşın\r\n🔹 Soyuducu\r\n🔹 Bütün texnikalar işlək vəziyyətdədir\r\n\r\n💰 İcarə haqqı: 1100 AZN\r\n💰 Depozit: 1100 AZN — MÜTLƏQİDİR, depozitdən keçilmir.\r\n\r\n📌 Uzunmüddətli müştəriyə üstünlük verilir.\r\n\r\n💼 Xidmət haqqı: 30%\r\n\r\n⚠️ Qeyd: Yalnız 1100 AZN icarə haqqı + 1100 AZN depozit şərtləri ilə razılaşan şəxslərin müraciət etməsi xahiş olunur.",
+    "building_type": "Yeni tikili",
+    "location_id": "35",
+    "location_name": "Nizami",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6515043",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1100,
+        "date": "2026-10-04T17:34:10.367769+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6516139",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F17%2F27%2F00%2Fadd64417-c1bc-486e-a666-ee8ea0664d8c%2F75548_64M7C_HMhHWt4YOipqyfsQ.jpg",
+    "price": 900,
+    "location": "Şah İsmayıl Xətai m.",
+    "rooms": "2 otaqlı",
+    "area_m2": 64,
+    "floor": "19/24 mərtəbə",
+    "is_agency": true,
+    "lat": 40.38310294872113,
+    "lng": 49.87217852766236,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 19,
+    "updated_at_site": "2026-10-08T13:51:55+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı yeni tikili 64 m²",
+    "description": "Ünvan.\r\nXətai rayonu. Mehdi Mehdizadə küçəsi.. ( Xətai mts yaxınlğında )\r\nDəniz Mənzərəli 2 otaq mənzil kirayə verilir.\r\nMənzildə rahat yaşayış üçün hər bir əşyaları mövcuddur.\r\nQiymət sondur.\r\n\r\nDepazit var , 6 aydan tez çıxılarsa geri qaytarılmır.( 900 AZN ) \r\n\r\nƏtraflı məlumat üçün əlaqə saxlaya bilərsiniz. ( Wp aktivdir )\r\nXidmət ofis haqqı 40 % təşkil edir.",
+    "building_type": "Yeni tikili",
+    "location_id": "36",
+    "location_name": "Şah İsmayıl Xətai",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6516139",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 900,
+        "date": "2026-10-04T17:34:10.354555+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5931852",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F03%2F02%2F14%2F29%2F26%2Feb7e17f2-b766-4c40-9312-bbc3d6c87a11%2F38000_zaDeSUGSgtBCdTUSkd--_Q.jpg",
+    "price": 2000,
+    "location": "Şah İsmayıl Xətai m.",
+    "rooms": "4 otaqlı",
+    "area_m2": 201.2,
+    "floor": "8/21 mərtəbə",
+    "is_agency": true,
+    "lat": 40.38835978601517,
+    "lng": 49.86855761824417,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 8,
+    "updated_at_site": "2026-10-08T14:07:52+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 4 otaqlı yeni tikili 201.2 m²",
+    "description": "Mənzil şəhərin mərkəzində ən elit komplekslərdən biri olan RİVA RESİDENCE-da yerləşir. Mənzil yeni təmir olunub və komfortlu yaşamaq üçün bütün şərait yaradılıb.\r\n\r\nKompleks \"Şah İsmayıl Xətai\" metrostansiyasının yaxınlığındadır və ətrafında hipermarket, məktəb və bağça var. Hər blokda Almaniya istehsalı 2 və 3 ədəd lift quraşdırılıb. Yaşayış kompleksində icarə üçün 1,2,4 otaqlı mənzillər var. Binada 3 mərtəbə yeraltı avtodayanacaq və 3 mərtəbə restoranı var (High boost restoranı).\r\n\r\nReal müştərilər zəng vursun.",
+    "building_type": "Yeni tikili",
+    "location_id": "36",
+    "location_name": "Şah İsmayıl Xətai",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/5931852",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 2000,
+        "date": "2026-10-04T17:34:10.360636+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6515646",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F14%2F30%2F47%2Fca92004b-56fe-4d3b-b757-bc229d3ff9ac%2F5037_07-zmVPi2YgYIwa4_SeEHw.jpg",
+    "price": 1300,
+    "location": "Sea Breeze q.",
+    "rooms": "3 otaqlı",
+    "area_m2": 93,
+    "floor": "2/5 mərtəbə",
+    "is_agency": false,
+    "lat": 40.59115526318225,
+    "lng": 49.98767066799879,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 2,
+    "updated_at_site": "2026-10-08T14:35:38+04:00",
+    "is_featured": true,
+    "title": "İcarəyə verilir 3 otaqlı yeni tikili 93 m²",
+    "description": "Kiraye verdiyimiz Menzil,Sea breeze Grand Otelde yerlesir,temirlidir,her sey ile temin edilib.menzil, 93 kvt, 3 otaqli,2 yataq otagi,bir gonaq otagi ve 1 sanitar otagi.otagin nomresi 222 , elave mawin saxlamaq ucun yerde var.",
+    "building_type": "Yeni tikili",
+    "location_id": "380",
+    "location_name": "Sea Breeze",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6515646",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1450,
+        "date": "2026-10-04T17:34:10.359778+00:00"
+      },
+      {
+        "price": 1300,
+        "date": "2026-10-06T19:32:36.670736+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6515655",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F14%2F36%2F39%2Fffb1939b-dac6-450c-b2b1-93960a255c0a%2F75543_gS2dpqwixhdvOf4SuuIOHg.jpg",
+    "price": 2200,
+    "location": "Elmlər Akademiyası m.",
+    "rooms": "3 otaqlı",
+    "area_m2": 115,
+    "floor": "7/27 mərtəbə",
+    "is_agency": true,
+    "lat": 40.37667577764752,
+    "lng": 49.80938428433184,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 7,
+    "updated_at_site": "2026-10-08T14:50:33+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 3 otaqlı yeni tikili 115 m²",
+    "description": "🏙️ GRAND HAYAT RESİDENCE-də Premium Kirayə Mənzil 🏙️\r\n\r\n✨ Mənzil 1 Noyabr tarixindən etibarən boşalır və yeni kirayəçisini gözləyir.\r\n\r\n🏡 Mənzil çox zövqlü və yüksək səviyyədə təmir olunub. Yaşayış üçün lazım olan bütün şərait yaradılıb və ev bahalı, keyfiyyətli mebellər və müasir avadanlıqlarla tam təchiz olunub.\r\n\r\n🛋️ Mənzildə rahat və komfortlu yaşayış üçün hər bir detal nəzərə alınıb. Mebel və avadanlıqlar yüksək keyfiyyətlidir, mənzil səliqəli və baxımlı vəziyyətdədir.\r\n\r\n🛏️ Yataq otağında əlavə çarpayıya ehtiyac olarsa, təşkil olunacaq.\r\n\r\n📍 Grand Hayat Residence-in üstünlüklərindən yararlanaraq rahat və təhlükəsiz yaşayış imkanı.\r\n\r\n👀 Mənzilə əvvəlcədən razılaşdırılmaqla baxış keçirmək mümkündür.\r\n\r\n📞 Ətraflı məlumat və baxış üçün əlaqə saxlaya bilərsiniz.",
+    "building_type": "Yeni tikili",
+    "location_id": "34",
+    "location_name": "Elmlər Akademiyası",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6515655",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 2200,
+        "date": "2026-10-04T17:34:10.359312+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6515996",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F16%2F35%2F37%2Fe3580cfa-51f8-45d9-b23a-866890eed95b%2F92031_pFbZuI1lAH37bd81DXwf6w.jpg",
+    "price": 650,
+    "location": "Sabunçu r.",
+    "rooms": "2 otaqlı",
+    "area_m2": 94,
+    "floor": "11/12 mərtəbə",
+    "is_agency": true,
+    "lat": 40.4286589628889,
+    "lng": 49.95941955566408,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 11,
+    "updated_at_site": "2026-10-08T14:51:59+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı yeni tikili 94 m²",
+    "description": "Bakıxanov qəsəbəsi ,Razin talkuçkasının yanı 12 mərtəbəli  binanın 11 ci mərtəbəsində umumi sahəsi 94 kv olan 2 otaqlı mənzil kiraye verilir.Mənzil tam təmirli və əşyalıdır.Mənzildə yaşayış üçün bütün avadanlıqlar mövcuddur.Mənzil ailəyə təklif olunur.Daha ətraflı məlumat üçün buyurub zəng edə bilərsiniz.Xidmət haqq 30% təşkil edir.",
+    "building_type": "Yeni tikili",
+    "location_id": "13",
+    "location_name": "Sabunçu",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6515996",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 680,
+        "date": "2026-10-04T17:34:10.356188+00:00"
+      },
+      {
+        "price": 650,
+        "date": "2026-10-08T19:31:41.102469+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6516325",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F18%2F38%2F36%2F5105e787-7de1-4550-93a2-e2c85e1ecf77%2F16152_7JMZIVKbr7qOI0_z4PAYLw.jpg",
+    "price": 800,
+    "location": "İnşaatçılar m.",
+    "rooms": "2 otaqlı",
+    "area_m2": 50,
+    "floor": "5/5 mərtəbə",
+    "is_agency": true,
+    "lat": 40.38801761489618,
+    "lng": 49.80724485861778,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 5,
+    "updated_at_site": "2026-10-08T15:20:23+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı köhnə tikili 50 m²",
+    "description": "Mənzil tələbə qızlara verilir işləyən  anımlarda olar uzun müddətli ofis hakqı 30%",
+    "building_type": "Köhnə tikili",
+    "location_id": "7",
+    "location_name": "İnşaatçılar",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6516325",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 800,
+        "date": "2026-10-04T17:34:10.352372+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6516474",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F19%2F54%2F13%2F92606d81-ebff-4b1f-af3d-620d7459a38d%2F75493_O9Pdm-9t5w-KoPk3wrDw3w.jpg",
+    "price": 1300,
+    "location": "Nərimanov r.",
+    "rooms": "3 otaqlı",
+    "area_m2": 135,
+    "floor": "14/19 mərtəbə",
+    "is_agency": true,
+    "lat": 40.39750826248677,
+    "lng": 49.83341266148067,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 14,
+    "updated_at_site": "2026-10-08T15:43:39+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 3 otaqlı yeni tikili 135 m²",
+    "description": "Mənzil Tibb universitetinin yaxınlığında yeni tikili binada yerləşir \r\nMənzildə yaşayış üçün hər cür şərait yaradılıb gir yaşa mənzildir \r\nMənzil Tibb universitetine 5 dəqiqə addımla.mesafededir\r\nƏlavə depozit tələb olunur \r\nƏlavə məlumat üçün əlaqə saxlayın zəhmət olmasa \r\nOfis haqqı 30%",
+    "building_type": "Yeni tikili",
+    "location_id": "10",
+    "location_name": "Nərimanov",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6516474",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1300,
+        "date": "2026-10-04T17:34:10.351066+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6515013",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F11%2F07%2F08%2F7e9a5417-06d6-4032-bc71-b476f088fdcd%2F75487_ulwSqMneGyB_MWctqLxzYQ.jpg",
+    "price": 600,
+    "location": "Əhmədli m.",
+    "rooms": "2 otaqlı",
+    "area_m2": 55,
+    "floor": "9/10 mərtəbə",
+    "is_agency": true,
+    "lat": 40.38207345928368,
+    "lng": 49.95386116316569,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 9,
+    "updated_at_site": "2026-10-08T15:57:59+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı köhnə tikili 55 m²",
+    "description": "🏙️ Əhmedli metrosu Referans Klinikasının yaxınlğında yerleşen köhnə tikili binada menzil kiraye verilir\r\n📍 **Menzil 10 mertebeli binanin 9 cu mertebesinde yerlesir\r\n🔑 **Menzilin umumi sahesi 55 Kv ve 2 otaqdan ibaretdir\r\n🏢 **Menzilde yasayis ucun butun avadanliqlar movcuddur\r\n📞 **Etrafli melumat ucun elaqe saxlayin\r\n🌟 **Xidmet Haqqi 30 %",
+    "building_type": "Köhnə tikili",
+    "location_id": "51",
+    "location_name": "Əhmədli",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6515013",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 600,
+        "date": "2026-10-04T17:34:10.368467+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6515750",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F15%2F07%2F47%2F1fbeec2f-cb4c-404d-bbb8-71e267d3cb15%2F16164_rFO3qZ07qqzfqgPccvKUGQ.jpg",
+    "price": 700,
+    "location": "Memar Əcəmi m.",
+    "rooms": "2 otaqlı",
+    "area_m2": 70,
+    "floor": "4/19 mərtəbə",
+    "is_agency": true,
+    "lat": 40.41023501907635,
+    "lng": 49.81146770092776,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 4,
+    "updated_at_site": "2026-10-08T16:09:39+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı yeni tikili 70 m²",
+    "description": "Təcili kirayə verilir yalnız ailəyə verilir uzunmüddətli. Memar Əcəmi metrosunun yanında, Yaşam recidancede yerləşir.\r\n\r\n\r\n        xidmet haqqi 30%",
+    "building_type": "Yeni tikili",
+    "location_id": "59",
+    "location_name": "Memar Əcəmi",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6515750",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 700,
+        "date": "2026-10-04T17:34:10.358354+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5040296",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F03%2F10%2F16%2F30%2F45%2F6f9fb227-5f67-4ba5-a467-1d725baaa1e4%2F710_n_84bQNwZvpGSEPPCvJ-ng.jpg",
+    "price": 450,
+    "location": "Həzi Aslanov q.",
+    "rooms": "1 otaqlı",
+    "area_m2": 30,
+    "floor": "1/2 mərtəbə",
+    "is_agency": false,
+    "lat": 40.37491169385333,
+    "lng": 49.94099603710938,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 1,
+    "updated_at_site": "2026-10-08T16:17:20+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 1 otaqlı yeni tikili 30 m²",
+    "description": "Geniş infrastruktura malik yeni yaşayış kompleksində studiya icarəyə verilir 🏡\n\nƏrazidə rahat qalmaq üçün lazım olan hər şey var👍🏻\n\nMənzil kompleksinə daxildir:\n✅Görünüş zonası, istirahət üçün stol və stulları olan yaşıl geniş park\n✅Kafe hər gün 12:00-dan 23:00-a kimi fəaliyyət göstərir\n✅Qapalı hovuzlu sauna (odenişli)\n✅Avtomatik qapılı parkinq sahəsi\n✅Girişdə 7/24 mühafizə\n✅Metbex\n✅Xarici vətəndaşlar üçün qeydiyyat mümkündür\n✅Böyük BRAVO hipermarketinə 2 dəqiqəlik məsafədədir\n✅Hazi Aslanov metrosuna 15 deqiqelik mesafededir\n\n🔵Standart otaq (30 m.) - 450 AZN\n🔵 Deposit - 100 AZN\n\n(Kommunal xərclər ayrıca ödənilir)\n\n🔸 Otaqlarda şərait: hamam, mini soyuducu, kondisioner, televizor, WiFi, qarderob, stullu iş masası, stol və stullarla təchiz olunmuş şəxsi terras sahəsi.\n\nСдаются студии в новом апарт-комплексе с широкой инфраструктурой 🏡\n\nНа территории есть все необходимые для комфортного проживания👍🏻\n\nАпарт-комплекс включает в себя:\n✅Зеленый просторный парк с вайфай-зоной, столиками и креслами для отдыха\n✅Кафе открытое с 10:00 до 24:00 ежедневно\n✅Сауна с закрытом бассейном(Оплачивается отдельно)\n✅Закрытая и безопасная паркинг зона для авто с автоматическими воротами\n✅Круглосуточная охрана 24/7 на входе\n✅Возможна прописка для иностранных граждан\n✅Общая свежеотремонти́рованная кухня (также доступны студии с кухнями внутри )\n✅В 5 минутах большой гипермаркет BRAVO\n✅В 15 минутах метро Ази Асланова\n\n🔵Стандартный номер (30 м.) - 450 AZN\n🔵Депозит в размере - 100 AZN оплачивается при заезде\n\n(Коммунальные платежи оплачиваются отдельно)\n\n🔸Удобства в номерах: санузел, мини-холодильник, кондиционер, телевизор, WiFi, шкаф-купе, рабочий стол с креслом, собственная зона террасы со столиками и стульями.",
+    "building_type": "Yeni tikili",
+    "location_id": "99",
+    "location_name": "Həzi Aslanov",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/5040296",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 450,
+        "date": "2026-10-04T17:34:10.356713+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6515651",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F14%2F36%2F12%2Feb8be491-2b2e-4c6e-8800-6169cea4b777%2F92104_LeUYM0I01Ab-DwHhGl8POw.jpg",
+    "price": 580,
+    "location": "Memar Əcəmi m.",
+    "rooms": "2 otaqlı",
+    "area_m2": 52,
+    "floor": "5/5 mərtəbə",
+    "is_agency": true,
+    "lat": 40.41226428523009,
+    "lng": 49.81850595695404,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 5,
+    "updated_at_site": "2026-10-08T16:32:27+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı köhnə tikili 52 m²",
+    "description": "TƏCİLİ! Memar Ecemi 2 otaqlı kirayə mənzil\r\nNesimi   rayonunda Kohne   tikili binada yerləşən, tam təmirli\r\n2 otaqlı mənzil kirayə verilir. Mənzil geniş, işıqlı və səliqəlidir. Yaşayış üçün bütün lazımi şərait mövcuddur.Aileye us\r\nBinanın yaxınlığında marketlər, məktəb, aptek və avtobus dayanacağı yerləşir. çox əlverişli və rahat ərazidədir.\r\nQiyməti münasibdi.....\r\nƏtraflı məlumat və mənzilə baxış üçün əlaqə saxlaya bilərsiniz.\r\n📞 Real müştərilər əlaqə saxlasın. xidmet haqqi 30%",
+    "building_type": "Köhnə tikili",
+    "location_id": "59",
+    "location_name": "Memar Əcəmi",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6515651",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 600,
+        "date": "2026-10-04T17:34:10.359693+00:00"
+      },
+      {
+        "price": 580,
+        "date": "2026-10-08T19:32:07.715850+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6515022",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F11%2F16%2F18%2Fb1edbeaa-302e-46a2-9d30-b9c081030461%2F16137_xy1VP3FDYyOVzIQzk_sF7w.jpg",
+    "price": 850,
+    "location": "8-ci mikrorayon q.",
+    "rooms": "2 otaqlı",
+    "area_m2": 40,
+    "floor": "5/9 mərtəbə",
+    "is_agency": false,
+    "lat": 40.41715979785674,
+    "lng": 49.83575179567369,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 5,
+    "updated_at_site": "2026-10-08T16:38:01+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı yeni tikili 40 m²",
+    "description": "İcarəyə verilir 2 otaqlı köhnə tikili 40 m², 8-ci mikrorayon q.\r\n\r\nAzadlıq 165 ünvanında, qoşa zapravkanın yanında 2 otaqlı əla təmirli mənzil kirayə verilir.\r\n\r\nMənzil 9 mərtəbəli binanın 5-ci mərtəbəsində yerləşir, binada lift var. Tam təmirli, səliqəli və yaşayış üçün bütün şəraitlə təmin olunub. Evdə televizor, kondisioner, kombi, paltaryuyan və gündəlik istifadə üçün lazım olan bütün avadanlıqlar mövcuddur.\r\n\r\nMənzildəki bütün mebellər yenidir və istifadə olunmayıb. Balkon ayrıca iş otağı kimi hazırlanıb, evdən işləyən və ya sakit şəxsi məkan axtaranlar üçün çox rahatdır.\r\n\r\nBinanın həyəti çox səliqəli və rahatdır. Avtomobillərin saxlanılması üçün geniş və əlverişli yerlər mövcuddur.\r\n\r\nMənzil yalnız tək xanıma və ya bəyə  və ya uşaqsız ailəyə verilir.\r\n\r\nElanı ev sahibi özü verir, agent və ya makler deyil.\r\n\r\nMənzil avqust ayının 28 indən boş olacaq , mənzil leninqrad proektidir , 5/9",
+    "building_type": "Yeni tikili",
+    "location_id": "130",
+    "location_name": "8-ci mikrorayon",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6515022",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 850,
+        "date": "2026-10-04T17:34:10.368238+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5737213",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F12%2F13%2F22%2F35%2F43%2F3db99fd2-e588-421c-a40a-4798489fa1cf%2F7527_wj1kCf4kwqind0V8IIdFoA.jpg",
+    "price": 1000,
+    "location": "İçəri Şəhər m.",
+    "rooms": "2 otaqlı",
+    "area_m2": 55,
+    "floor": "5/6 mərtəbə",
+    "is_agency": true,
+    "lat": 40.37011308881299,
+    "lng": 49.83580509821464,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 5,
+    "updated_at_site": "2026-10-08T16:45:47+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı köhnə tikili 55 m²",
+    "description": "Şəhərin əsl mənada mərkəzində Tarqovuya piyada 1dəqiqə mərkəzdə təmirli və səliqəli mənzil kirayə verilir.Yeni təmir olunub.Mənzildə yaşamaq üçün hərbir şərait yaradılıb.İstilik sistemi kombidir.Qaz,su,işıq daimidir.Açar məndədir,baxmaq üçün 1/2saat öncədən əlaqə saxlayın.\r\nXidmət haqqı 30%",
+    "building_type": "Köhnə tikili",
+    "location_id": "37",
+    "location_name": "İçəri Şəhər",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/5737213",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1000,
+        "date": "2026-10-04T17:34:10.362281+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6515247",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F12%2F37%2F18%2F786330ce-8ea6-4910-a35a-bbe79a21cdfb%2F16181_OCrU9-VhPxqsgbq4x2Avcg.jpg",
+    "price": 523,
+    "location": "Hövsan q.",
+    "rooms": "3 otaqlı",
+    "area_m2": 85,
+    "floor": "9/12 mərtəbə",
+    "is_agency": true,
+    "lat": 40.38674759537156,
+    "lng": 50.07307776215261,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 9,
+    "updated_at_site": "2026-10-08T16:52:36+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 3 otaqlı yeni tikili 85 m²",
+    "description": "Mida 2 otaq  genis olcude  pencereleri duz ve saga baxan tek binalarda  ideal temirli orta veziyyetli esyalar ve perdeler daxil teklif edilir sauzelleri ayridir xidmet haqqi 30 % teskil edir yalniz ozune menzil sorusanlar narahat edsinler !!!! ",
+    "building_type": "Yeni tikili",
+    "location_id": "93",
+    "location_name": "Hövsan",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6515247",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 550,
+        "date": "2026-10-04T17:34:10.364126+00:00"
+      },
+      {
+        "price": 523,
+        "date": "2026-10-08T19:31:41.938980+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6516174",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F17%2F41%2F19%2Fd24cbce0-d8e3-4dcc-b76c-0cdda9a732e3%2F75527_-CDTvPsVD1q94tuDJr8ZNg.jpg",
+    "price": 999,
+    "location": "Nizami m.",
+    "rooms": "2 otaqlı",
+    "area_m2": 110,
+    "floor": "9/16 mərtəbə",
+    "is_agency": true,
+    "lat": 40.37981172804476,
+    "lng": 49.83425080599091,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 9,
+    "updated_at_site": "2026-10-08T18:06:56+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı yeni tikili 110 m²",
+    "description": "🏠 NƏSİMİ RAYONU — NİZAMİ METROSUNA 5 DƏQİQƏ!\r\n\r\n✨ Geniş və işıqlı 2 otaqlı mənzil kirayə verilir.\r\n\r\n📐 Sahə: 110 m²\r\n🛋 Tam mebelli və əşyalıdır\r\n🔑 Yeni təmirli\r\n🚇 Nizami metrosuna piyada 5 dəqiqə\r\n💡 Su, işıq, internet və digər kommunal şərait mövcuddur.\r\n📍 Sakit və əlverişli ərazidə, bütün infrastruktura yaxın yerləşir.\r\n\r\n📍 Ünvan: Nəsimi rayonu, Salatın Əsgərova küçəsi, Nizami metrosu yaxınlığı.\r\n\r\n📞 Ətraflı məlumat və baxış üçün əlaqə saxlayın.\r\n30% ofis haqqı təşkil edir",
+    "building_type": "Yeni tikili",
+    "location_id": "35",
+    "location_name": "Nizami",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6516174",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 999,
+        "date": "2026-10-04T17:34:10.353545+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6515476",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F13%2F34%2F42%2Fc59a6742-6e8a-4c93-9a90-7c7942a34bf0%2F16164_128hOq-7CI5cnNT1nOtUww.jpg",
+    "price": 1300,
+    "location": "Nəsimi r.",
+    "rooms": "3 otaqlı",
+    "area_m2": 152,
+    "floor": "10/17 mərtəbə",
+    "is_agency": true,
+    "lat": 40.39627393200657,
+    "lng": 49.83567521616236,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 10,
+    "updated_at_site": "2026-10-08T18:08:49+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 3 otaqlı yeni tikili 152 m²",
+    "description": "Asan xidmətin arxasında 2 yataq ve salon mebeli kombi istilik sistemi teze remont tibb universitetinə yaxindir",
+    "building_type": "Yeni tikili",
+    "location_id": "190",
+    "location_name": "Nəsimi",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6515476",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1200,
+        "date": "2026-10-04T17:34:10.361768+00:00"
+      },
+      {
+        "price": 1300,
+        "date": "2026-10-08T19:31:42.206806+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6515882",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F15%2F55%2F14%2Ff237b8e0-0ed4-4fde-9dcb-40e3605b1f72%2F95197_vLiEXpMeNS3oac7361fedQ.jpg",
+    "price": 1200,
+    "location": "28 May m.",
+    "rooms": "3 otaqlı",
+    "area_m2": 176,
+    "floor": "3/17 mərtəbə",
+    "is_agency": true,
+    "lat": 40.38707601862189,
+    "lng": 49.85574267345888,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 3,
+    "updated_at_site": "2026-10-08T18:19:59+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 3 otaqlı yeni tikili 176 m²",
+    "description": "Öncədən Depozit Tələb Olunacaq,,\r\nÇapayev ``Şərq Bazarı`` yaxınında olan yeni tikili binada 3 otaqlı 176 kv sahəsi olan mənzil kirayə verilir.. ( 2 sanitar qovşağı var )\r\nƏtraflı məlumat üçün əlaqə saxlayın.Ofis xidmət haqqı 30% təşkil edəcək.WhatsApp var.",
+    "building_type": "Yeni tikili",
+    "location_id": "8",
+    "location_name": "28 May",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6515882",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1200,
+        "date": "2026-10-04T17:34:10.357080+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6515944",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F16%2F18%2F19%2F2129b6fe-63e6-4d8d-9f61-b5a8c0b4a0f9%2F6130_AXEaed0QK-3XBvi9uC0Dow.jpg",
+    "price": 1780,
+    "location": "İçəri Şəhər m.",
+    "rooms": "3 otaqlı",
+    "area_m2": 120,
+    "floor": "6/18 mərtəbə",
+    "is_agency": true,
+    "lat": 40.3712357620536,
+    "lng": 49.8335805774986,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 6,
+    "updated_at_site": "2026-10-08T18:49:06+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 3 otaqlı yeni tikili 120 m²",
+    "description": "Mekrkezde 3otaq menzil icareye verilir teze sifir her bir seraiti ile",
+    "building_type": "Yeni tikili",
+    "location_id": "37",
+    "location_name": "İçəri Şəhər",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6515944",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1780,
+        "date": "2026-10-04T17:34:10.356681+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6516444",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F19%2F40%2F03%2Fde023016-cb88-40f7-ba09-cb054ae6bd44%2F16161_9q7zJ9E_INzKqvnYhkhc6A.jpg",
+    "price": 1400,
+    "location": "Elmlər Akademiyası m.",
+    "rooms": "3 otaqlı",
+    "area_m2": 160,
+    "floor": "9/15 mərtəbə",
+    "is_agency": true,
+    "lat": 40.37763761878564,
+    "lng": 49.80911145102893,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 9,
+    "updated_at_site": "2026-10-08T19:25:03+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 3 otaqlı yeni tikili 160 m²",
+    "description": "Menzil Mətbuat prospekti erlesir\r\nHəyat klinikasinda üstünde yerlesir.\r\nElimlere metrosuna yaxın\r\nBaki dövlət universitine yaxin\r\n",
+    "building_type": "Yeni tikili",
+    "location_id": "34",
+    "location_name": "Elmlər Akademiyası",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6516444",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1300,
+        "date": "2026-10-04T17:34:10.351316+00:00"
+      },
+      {
+        "price": 1400,
+        "date": "2026-10-08T19:32:06.493792+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6516376",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F18%2F55%2F25%2F1afa5f2d-9d72-4f60-bff7-2dd7dc7bf090%2F16151_dnEIT0uQ50ST-KLtLhDjsg.jpg",
+    "price": 999,
+    "location": "Nizami m.",
+    "rooms": "2 otaqlı",
+    "area_m2": 105,
+    "floor": "9/15 mərtəbə",
+    "is_agency": true,
+    "lat": 40.38062035344379,
+    "lng": 49.83569899408428,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 9,
+    "updated_at_site": "2026-10-08T19:32:58+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı yeni tikili 105 m²",
+    "description": "🏡 NƏSİMİ RAYONU | NİZAMİ METROSU\r\n\r\n📍 Nizami metrosuna və Türk Anadolu Liseyinə cəmi 5 dəqiqəlik məsafədə\r\n\r\n✨ Geniş və işıqlı 2 otaqlı mənzil kirayə verilir!\r\n\r\n• 📐 Ümumi sahə: 106 m²\r\n• 🛋️ Tam əşyalı\r\n• 🔑 Əla və yeni təmirli\r\n• ☀️ Geniş, işıqlı otaqlar\r\n• 📍 Əlverişli və sakit ərazi\r\n• 🚇 Metroya piyada 5 dəqiqə\r\n• 🌐 İnternet mövcuddur\r\n• 💧 Su, işıq və digər kommunal imkanlar\r\n• 🏫 Türk Anadolu Liseyinə yaxın\r\n• 🏙️ Şəhərin mərkəzinə yaxın ərazi\r\n\r\nMənzil rahat və komfortlu yaşayış üçün bütün şəraitlə təmin olunub.\r\n\r\n💼 Ofis haqqı: 30%",
+    "building_type": "Yeni tikili",
+    "location_id": "35",
+    "location_name": "Nizami",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6516376",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 999,
+        "date": "2026-10-04T17:34:10.351458+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6364018",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F10%2F15%2F20%2F47%2F85fee221-c2e7-4565-989c-0113418b7350%2F79207_vAeuR3Nfz6uVAir-8sjwcQ.jpg",
+    "price": 180,
+    "location": "20 Yanvar m.",
+    "rooms": "2 otaqlı",
+    "area_m2": 85,
+    "floor": "16/17 mərtəbə",
+    "is_agency": false,
+    "lat": 40.40586453459042,
+    "lng": 49.81130381604247,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 16,
+    "updated_at_site": "2026-10-08T19:34:33+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı yeni tikili 85 m²",
+    "description": "Otaq yoldaşı axtarılır  180 azn  Bəy ",
+    "building_type": "Yeni tikili",
+    "location_id": "5",
+    "location_name": "20 Yanvar",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6364018",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 180,
+        "date": "2026-10-04T17:34:10.351134+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6516488",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F20%2F01%2F30%2F20dcac04-74c6-444e-ae3d-a976ac724901%2F16186_ubvckRaMA-Pd4Il6lf3lHw.jpg",
+    "price": 600,
+    "location": "Memar Əcəmi m.",
+    "rooms": "2 otaqlı",
+    "area_m2": 50,
+    "floor": "5/5 mərtəbə",
+    "is_agency": true,
+    "lat": 40.41532301709832,
+    "lng": 49.8170559128919,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 5,
+    "updated_at_site": "2026-10-08T19:35:30+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı köhnə tikili 50 m²",
+    "description": "🏡 Memar Əcəmi metrosunun yaxınlığında 2 otaqlı mənzil kirayə verilir!\r\n\r\n📍 Mənzil Memar Əcəmi metrosuna yaxın ərazidə yerləşir və yaşayış üçün bütün şəraitə malikdir.\r\n\r\n🔹 2 otaq\r\n🔹 50 kv.m\r\n🔹 5 mərtəbəli binanın 5-ci mərtəbəsi\r\n🔹 Yaxşı təmirli\r\n🔹 Lazımi mebel və məişət texnikası ilə təmin olunub\r\n🔹 Qaz, su, işıq daimidir\r\n🔹 Rahat və əlverişli infrastruktur\r\n\r\n🔹istilik sistemi: kombi\r\n\r\n🚫 Bəylərə verilmir!\r\n\r\n💰 Ətraflı məlumat və mənzilə baxış üçün əlaqə saxlaya bilərsiniz.",
+    "building_type": "Köhnə tikili",
+    "location_id": "59",
+    "location_name": "Memar Əcəmi",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6516488",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 600,
+        "date": "2026-10-04T17:34:10.350652+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6516344",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F18%2F45%2F40%2F6e372b07-69d0-42c1-9db4-279fdbd58c34%2F75548_RQ6RQBfcz5L2TBDtmW8N_g.jpg",
+    "price": 500,
+    "location": "Gənclik m.",
+    "rooms": "1 otaqlı",
+    "area_m2": 35,
+    "floor": "1/5 mərtəbə",
+    "is_agency": true,
+    "lat": 40.39849915288771,
+    "lng": 49.84218628789106,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 1,
+    "updated_at_site": "2026-10-08T19:39:53+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 1 otaqlı köhnə tikili 35 m²",
+    "description": "🏡 KİRAYƏ VERİLİR – SƏRFƏLİ TƏKLİF!\r\n\r\n📍 Neftçi Bazasının yaxınlığında yerləşən 1 otaqlı mənzil kirayə verilir.\r\n\r\n🏢 5 mərtəbəli binanın 1-ci mərtəbəsi\r\n📐 Sahə: 35 kv.m\r\n🛏️ Otaq sayı: 1\r\n\r\nMənzil yaşayış üçün zəruri şəraitlə təmin olunub. Sakit və əlverişli ərazidə yerləşir. Qaz, su və işıq daimidir. Ətrafında market, aptek, avtobus dayanacağı və digər iaşə obyektləri mövcuddur.\r\n\r\nŞəhərin müxtəlif istiqamətlərinə rahat nəqliyyat əlaqəsi var. Tək şəxslər, tələbələr və kiçik ailələr üçün münasib variantdır.\r\n\r\n📞 Əlavə məlumat və mənzilə baxış üçün əlaqə saxlaya bilərsiniz.\r\n",
+    "building_type": "Köhnə tikili",
+    "location_id": "2",
+    "location_name": "Gənclik",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6516344",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 500,
+        "date": "2026-10-04T17:34:10.352166+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6515470",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F13%2F43%2F48%2F9728033a-f357-4b3d-8d8e-bbfb71afd82f%2F16158_WPJcePulHnWgEjUUawMMXw.jpg",
+    "price": 750,
+    "location": "7-ci mikrorayon q.",
+    "rooms": "2 otaqlı",
+    "area_m2": 85,
+    "floor": "8/10 mərtəbə",
+    "is_agency": true,
+    "lat": 40.43311782888589,
+    "lng": 49.85990464301663,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 8,
+    "updated_at_site": "2026-10-08T20:26:28+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı yeni tikili 85 m²",
+    "description": "✅Menzil max 2 nefere verilir\r\n✅ depozit var\r\n\r\n✅Cinarli park yashayish kompleksi xeritede de yerini duzgun yerleshdirmishem, waze de yazsaz cixir\r\n\r\n✅qanuni 2 otaq her bir sherait var\r\n\r\nOfis haqqi 30%\r\n\r\n",
+    "building_type": "Yeni tikili",
+    "location_id": "129",
+    "location_name": "7-ci mikrorayon",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6515470",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 750,
+        "date": "2026-10-04T17:34:10.361880+00:00"
+      }
+    ]
+  },
+  {
     "id": "6399534",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F23%2F12%2F53%2F54%2F77647073-cb22-4abe-890c-bfa876356078%2F68145_d6eIojEGSz_1fVezPuJc_Q.jpg",
     "price": 460,
@@ -15915,7 +15671,7 @@
     "has_bill_of_sale": false,
     "has_mortgage": false,
     "floor_number": 6,
-    "updated_at_site": "2026-10-07T22:49:05+04:00",
+    "updated_at_site": "2026-10-08T22:49:05+04:00",
     "is_featured": true,
     "title": "İcarəyə verilir 2 otaqlı yeni tikili 50 m²",
     "description": "Yeni Yasamalda 9 mertebeli binanin\r\n 6-ci mertebesinde ,1 otaqdan 2 otaga duzelme olan evi yalnız telebelere kiraye verilir\r\nButun kommunal xercler kirayeciye aiddir.\r\nEvin yaxinligindan inşaatçılar metrosuna ,Koroglu , Genclik ,20 Yanvar metrosuna birbasa marsrutlar gedir. (77, 39 , 211,7B ) . Sekiller menzile aiddir",
@@ -15948,7 +15704,7 @@
     "has_bill_of_sale": false,
     "has_mortgage": false,
     "floor_number": 1,
-    "updated_at_site": "2026-10-07T22:49:44+04:00",
+    "updated_at_site": "2026-10-08T22:49:46+04:00",
     "is_featured": false,
     "title": "İcarəyə verilir 2 otaqlı köhnə tikili 30 m²",
     "description": "Səbail Rayonu Bayıl Qəsəbəsi Şəfəq küçəsi 2\r\nSəbail DYP nin arxası Azpetrolun arxa terefi\r\nMenzil kiraye verilir heyet evi\r\n\r\n Xidmət Haggı 30%",
@@ -15963,6 +15719,72 @@
       {
         "price": 300,
         "date": "2026-10-04T17:34:10.365442+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6516047",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F19%2F37%2F25%2Fa889cd05-ee1f-4694-9c01-2b5fe6675ec4%2F6067_FahjtH7PcYy7q1jD-2WlJw.jpg",
+    "price": 750,
+    "location": "Azadlıq Prospekti m.",
+    "rooms": "3 otaqlı",
+    "area_m2": 80,
+    "floor": "15/17 mərtəbə",
+    "is_agency": false,
+    "lat": 40.42409435312824,
+    "lng": 49.84143481921389,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 15,
+    "updated_at_site": "2026-10-08T22:53:59+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 3 otaqlı yeni tikili 80 m²",
+    "description": "Azdalig metrosunun yani Cristal Abseron yasayis kompleksnde 3 otaga duzelme tam esyali menzil kiraye verilir menzilde butun esya avadanlig var usag otaginda 2 eded kravat acilib yigilandir sekillerde dusub giymet sondur etrafli melumat uchun zeng edin ve ya vatsapa yazin   yalniz Aileye verilir. xidmet hakki 30% dir",
+    "building_type": "Yeni tikili",
+    "location_id": "6",
+    "location_name": "Azadlıq Prospekti",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6516047",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 750,
+        "date": "2026-10-04T17:34:10.351348+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6516414",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F19%2F17%2F11%2Fed7e3a50-6109-443b-96f7-dda68f3e3f12%2F16175_fjGBs9x73kzGI2nkz2yGUg.jpg",
+    "price": 1500,
+    "location": "Səbail r.",
+    "rooms": "4 otaqlı",
+    "area_m2": 110,
+    "floor": "10/10 mərtəbə",
+    "is_agency": true,
+    "lat": 40.33368020513419,
+    "lng": 49.82543236791031,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 10,
+    "updated_at_site": "2026-10-08T23:21:44+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 4 otaqlı yeni tikili 110 m²",
+    "description": "🏡 Səbail rayonunda, Hökumət Evinin yanında 4 otaqlı mənzil kirayə verilir!\r\n\r\n📍 Üzeyir Hacıbəyli küçəsi 27-ci\r\n📍 Hökumət Evinin yanı, Mərkəzi Aptekin üstü\r\n\r\n✨ 4 otaq( 3otaga duzelib)\r\n📐 110 m²\r\n🏢 10/10 mərtəbə\r\n🛋️ Təmirli və əşyalı\r\n💰 Aylıq kirayə: 1500 AZN\r\n\r\nMənzil tam yaşayış üçün hazır vəziyyətdədir.\r\nMebel və məişət texnikası ilə təmin olunub:\r\n\r\n• Televizor\r\n• Soyuducu\r\n• Paltaryuyan maşın\r\n• Elektrik plitə\r\n• Divan və digər mebellər\r\n• Kondisioner\r\n• Kombi\r\n\r\n💧 Daimi su\r\n💡 Daimi işıq\r\n🔥 Daimi qaz\r\n\r\n🔐 Depozit tələb olunur: 1 aylıq ödəniş + son ay üçün 1 aylıq depozit.\r\n\r\n📞 Ətraflı məlumat və baxış üçün əlaqə saxlaya bilərsiniz.",
+    "building_type": "Yeni tikili",
+    "location_id": "12",
+    "location_name": "Səbail",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6516414",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1500,
+        "date": "2026-10-04T17:34:10.351600+00:00"
       }
     ]
   },
@@ -16429,6 +16251,39 @@
     ]
   },
   {
+    "id": "6515270",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F12%2F43%2F46%2F9c37ef57-6d37-47fd-9184-7bfaa56ec2be%2F4902_AznRzscb84UO1A7Vaskm3g.jpg",
+    "price": 1390,
+    "location": "Gənclik m.",
+    "rooms": "3 otaqlı",
+    "area_m2": 134,
+    "floor": "13/16 mərtəbə",
+    "is_agency": false,
+    "lat": 40.39957628985757,
+    "lng": 49.84217182280225,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 13,
+    "updated_at_site": "2026-10-04T12:52:06+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 3 otaqlı yeni tikili 134 m²",
+    "description": "Baki saglamlik merkezinin yaninda 16.nin 13u\r\nYalniz aile ve is adamlarina  evde her seriat var uzun sureli verilir bir ay depozit alinacak 1300+90 azn kamendat pulu",
+    "building_type": "Yeni tikili",
+    "location_id": "2",
+    "location_name": "Gənclik",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6515270",
+    "deleted_at": "2026-10-08T19:33:54.619995+00:00",
+    "price_history": [
+      {
+        "price": 1390,
+        "date": "2026-10-04T17:34:10.363998+00:00"
+      }
+    ]
+  },
+  {
     "id": "6515238",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F12%2F33%2F57%2F2ea3be3c-f49d-4a74-bf7e-7397632692b0%2F40139__3msdDR0_Qb-V-VvZbDxaQ.jpg",
     "price": 750,
@@ -16759,6 +16614,39 @@
     ]
   },
   {
+    "id": "6515612",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F14%2F22%2F20%2F48c004ba-e7c5-4176-acfd-5eb686dae299%2F48133_viKX1h09sHTof1Ij9f8zSw.jpg",
+    "price": 500,
+    "location": "Nəriman Nərimanov m.",
+    "rooms": "1 otaqlı",
+    "area_m2": 40,
+    "floor": "4/5 mərtəbə",
+    "is_agency": false,
+    "lat": 40.40101030103276,
+    "lng": 49.87972277293245,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 4,
+    "updated_at_site": "2026-10-04T14:25:40+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 1 otaqlı köhnə tikili 40 m²",
+    "description": "Metro Narimanova yaxin yerleşir  piyada 7-8 deq mesafede  Evde  her bir eşya var  ofiss haqi 30%",
+    "building_type": "Köhnə tikili",
+    "location_id": "1",
+    "location_name": "Nəriman Nərimanov",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6515612",
+    "deleted_at": "2026-10-08T19:33:54.620012+00:00",
+    "price_history": [
+      {
+        "price": 500,
+        "date": "2026-10-04T17:34:10.360266+00:00"
+      }
+    ]
+  },
+  {
     "id": "6515547",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F14%2F30%2F28%2Ffe85b872-7f4c-4d80-9333-212635ad6b2e%2F75546_obZEB5er5bkrH73hLIIMVg.jpg",
     "price": 450,
@@ -17056,6 +16944,72 @@
     ]
   },
   {
+    "id": "6515389",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F13%2F21%2F24%2F594bcdd5-b7db-4466-85eb-3b8b6b1a422e%2F69103_DeVCsYwPISb_PYQTFZ42NQ.jpg",
+    "price": 500,
+    "location": "Bakıxanov q.",
+    "rooms": "2 otaqlı",
+    "area_m2": 65,
+    "floor": "1/4 mərtəbə",
+    "is_agency": false,
+    "lat": 40.41412195222417,
+    "lng": 49.97317130332425,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 1,
+    "updated_at_site": "2026-10-04T17:22:46+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı yeni tikili 65 m²",
+    "description": "Razin talkuckasinin yani yeni tikili evin her bir ewyasi var teze temir olunub  ev umumilikde isti poldu kombi, kondisoner , paltaryuyan , televisor ,soyuducu ve s.",
+    "building_type": "Yeni tikili",
+    "location_id": "69",
+    "location_name": "Bakıxanov",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6515389",
+    "deleted_at": "2026-10-08T19:33:54.620037+00:00",
+    "price_history": [
+      {
+        "price": 500,
+        "date": "2026-10-04T17:34:10.362609+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6516190",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F17%2F49%2F06%2Fd1d078d3-41b1-47c9-bd74-0cda1637f173%2F16183_dJEUtxyA9XnV770UGkxacA.jpg",
+    "price": 550,
+    "location": "Yeni Günəşli q.",
+    "rooms": "3 otaqlı",
+    "area_m2": 100,
+    "floor": "5/12 mərtəbə",
+    "is_agency": true,
+    "lat": 40.38753713926093,
+    "lng": 49.97550117259009,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 5,
+    "updated_at_site": "2026-10-04T17:49:44+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 3 otaqlı köhnə tikili 100 m²",
+    "description": "🏡 Kirayə Mənzil – Yeni Günəşli \r\n📍 Yeni Günəşlidə Şir heykel yanında 12 mərtəbəli binanın 5-ci mərtəbəsində yerləşən 3 otaqlı 100 kv.m mənzil kirayə verilir.\r\n💰 Qiymət:550 AZN\r\n✨ Mənzil səliqəli və yaşayış üçün tam hazırdır.\r\nXidmət haqqı 30%",
+    "building_type": "Köhnə tikili",
+    "location_id": "92",
+    "location_name": "Yeni Günəşli",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6516190",
+    "deleted_at": "2026-10-08T19:33:54.620042+00:00",
+    "price_history": [
+      {
+        "price": 550,
+        "date": "2026-10-04T17:34:10.353998+00:00"
+      }
+    ]
+  },
+  {
     "id": "6516307",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F18%2F29%2F55%2F2dfd52ad-3083-490d-870d-4da736efcd49%2F16174_ugv5HMssvYlTIQIxOFJtyA.jpg",
     "price": 750,
@@ -17316,6 +17270,39 @@
       {
         "price": 650,
         "date": "2026-10-04T17:34:10.350492+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6516520",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F20%2F17%2F49%2F5c8de068-3835-4977-ac33-7e9b659d168a%2F59466_hpLucg-6LoNEcPdCgk42Yg.jpg",
+    "price": 700,
+    "location": "İçəri Şəhər m.",
+    "rooms": "3 otaqlı",
+    "area_m2": 50,
+    "floor": "4/9 mərtəbə",
+    "is_agency": false,
+    "lat": 40.37088608126266,
+    "lng": 49.82413513896176,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 4,
+    "updated_at_site": "2026-10-04T20:21:15+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 3 otaqlı köhnə tikili 50 m²",
+    "description": "Сдаётся 3х комнатная квартира двухярусная , около памятника Нариманова . 4 /5 этаж 9 этажного дома. Комнаты раздельные , 2 сан узла, комби система, 2 балкона с видом на море, парк и город. Квартира полностью мебелирована . Сдам семье из одного или двух человек, на длительный срок. Депозит обязателен . Цена 700 манат.\r\n\r\nNərimanov abidəsinin yaxınlığında üç otaqlı, iki mərtəbəli mənzil kirayə verilir. 9 mərtəbəli binanın 4-cü və 5-ci mərtəbələrində yerləşir. Ayrı otaqları, iki vanna otağı, kombinasiyalı sistemi və dənizə, parka və şəhərə baxan iki eyvanı var. Mənzil tam mebellə təchiz olunub. Bir və ya iki nəfərlik ailəyə uzunmüddətli kirayə verirəm. Depozit tələb olunur. Qiyməti 700 manatdır.",
+    "building_type": "Köhnə tikili",
+    "location_id": "37",
+    "location_name": "İçəri Şəhər",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6516520",
+    "deleted_at": "2026-10-08T19:33:54.620054+00:00",
+    "price_history": [
+      {
+        "price": 700,
+        "date": "2026-10-04T17:34:10.350308+00:00"
       }
     ]
   },
@@ -17756,6 +17743,39 @@
       {
         "price": 700,
         "date": "2026-10-06T12:58:34.888379+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6515839",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F04%2F15%2F44%2F48%2Ff9562e53-cca6-4096-a542-28133bea6b84%2F75487_OCeGdvD-dwDerRslAmP26A.jpg",
+    "price": 650,
+    "location": "Memar Əcəmi m.",
+    "rooms": "2 otaqlı",
+    "area_m2": 60,
+    "floor": "5/18 mərtəbə",
+    "is_agency": true,
+    "lat": 40.41930546891967,
+    "lng": 49.80831124653603,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": 5,
+    "updated_at_site": "2026-10-06T19:40:46+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı yeni tikili 60 m²",
+    "description": "✅9 cu mkr\r\n✅adil memmedov kuc terlan shadliq evinnen yuxari\r\n✅2 otaga duzelme her bir sherait var\r\n\r\n✅ofis haqqi 30%",
+    "building_type": "Yeni tikili",
+    "location_id": "59",
+    "location_name": "Memar Əcəmi",
+    "category": "apartment",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6515839",
+    "deleted_at": "2026-10-08T19:33:54.620069+00:00",
+    "price_history": [
+      {
+        "price": 650,
+        "date": "2026-10-04T17:34:10.357387+00:00"
       }
     ]
   }

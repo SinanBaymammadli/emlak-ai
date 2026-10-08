@@ -1,38 +1,5 @@
 [
   {
-    "id": "6444228",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F08%2F16%2F59%2F28%2Fe6a43b5d-6642-415e-ae47-75b6c84bfc91%2F63804_wWyfToausXOYqpHdDwuPmg.jpg",
-    "price": 65,
-    "location": "Lökbatan q.",
-    "rooms": "",
-    "area_m2": 18,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.33098478505667,
-    "lng": 49.71906202040479,
-    "has_repair": null,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-09-08T17:00:10+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir qaraj 18 m²",
-    "description": "Öz qarajimdi maşın saxlamaq ya depo kimi istifadə üçün yararlıdır 15-20 kv dir whatsapp var.unvan Lökbatan qəs,2 çi massiv 233 məktəb yaxınlığında real,ciddi fikri olan əlaqə saxlasın vp var cox uzun muddet istiyene qiymetde endirim olacaq\r\n2 ay-130m\r\n3ay-190m",
-    "building_type": "Qaraj",
-    "location_id": "20",
-    "location_name": "Lökbatan",
-    "category": "garage",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6444228",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 65,
-        "date": "2026-09-30T19:56:33.654992+00:00"
-      }
-    ]
-  },
-  {
     "id": "6447985",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F09%2F22%2F57%2F09%2F4b1b71ba-935e-4640-a6bb-c08e641c1e2a%2F63797_MDLgpZ0oZ8VtVw5he4Uu2w.jpg",
     "price": 100,
@@ -1526,6 +1493,39 @@
       {
         "price": 110,
         "date": "2026-09-30T19:56:33.655000+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6444228",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F08%2F16%2F59%2F28%2Fe6a43b5d-6642-415e-ae47-75b6c84bfc91%2F63804_wWyfToausXOYqpHdDwuPmg.jpg",
+    "price": 65,
+    "location": "Lökbatan q.",
+    "rooms": "",
+    "area_m2": 18,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.33098478505667,
+    "lng": 49.71906202040479,
+    "has_repair": null,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-09-08T17:00:10+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir qaraj 18 m²",
+    "description": "Öz qarajimdi maşın saxlamaq ya depo kimi istifadə üçün yararlıdır 15-20 kv dir whatsapp var.unvan Lökbatan qəs,2 çi massiv 233 məktəb yaxınlığında real,ciddi fikri olan əlaqə saxlasın vp var cox uzun muddet istiyene qiymetde endirim olacaq\r\n2 ay-130m\r\n3ay-190m",
+    "building_type": "Qaraj",
+    "location_id": "20",
+    "location_name": "Lökbatan",
+    "category": "garage",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6444228",
+    "deleted_at": "2026-10-08T19:32:01.103801+00:00",
+    "price_history": [
+      {
+        "price": 65,
+        "date": "2026-09-30T19:56:33.654992+00:00"
       }
     ]
   },

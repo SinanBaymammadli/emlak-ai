@@ -408,40 +408,6 @@
     ]
   },
   {
-    "id": "6517515",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F12%2F28%2F54%2F85bd8409-1e93-4abb-b5b4-10e361f2f2e7%2F21579_Zj9dv5F6qLqmH7XjRjd2YQ.jpg",
-    "price": 3000000,
-    "location": "Şah İsmayıl Xətai m.",
-    "location_id": "36",
-    "location_name": "Şah İsmayıl Xətai",
-    "rooms": null,
-    "area_m2": 507,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": true,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-05T12:29:35+04:00",
-    "category": "commercial",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6517515",
-    "lat": 40.37884236894962,
-    "lng": 49.87213408325452,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "Satılır obyekt 507 m²",
-    "description": "Dəyərindən çox ucuz təklif olunur. (Qiymət Sondur !)\r\n\r\nXətai rayonu, Afiyyətdin Cəlilov küç. Xətai metrosuna yaxın, ümumi sahəsi 507 kv-m olan, 10 otaqlı  obyekt satılır\r\nYeni tikili binanın 1-ci mərtəbəsində yerləşir\r\nİnsanların gediş gəlişli yeridi.\r\nPrestijli və daima inkişafda olan ərazidir.\r\n \r\n( Hall hazırda diş klinikası kimi uzun müddətdi icarədədir.Aylıq gəlir 25000 azn dir.(Vergi Xaric)\r\nƏlavə və ətraflı məlumat üçün qeyd olunan nömrə ilə əlaqə saxlayın\r\n \r\n",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 3000000,
-        "date": "2026-10-06T12:57:44.601741+00:00"
-      }
-    ]
-  },
-  {
     "id": "6517517",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F12%2F28%2F56%2F942ad9be-c846-402a-96b2-1eb98376fac5%2F16133_33jfhOVqX7tq645PwZjXbw.jpg",
     "price": 750000,
@@ -1288,40 +1254,6 @@
       {
         "price": 780000,
         "date": "2026-10-06T12:57:44.331676+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6518461",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F15%2F36%2F40%2Fcd985e91-3052-4562-91e5-b9bb115069ff%2F97621_D-VbAH-QfTcYZsB-cjDa6A.jpg",
-    "price": 245000,
-    "location": "Nərimanov r.",
-    "location_id": "10",
-    "location_name": "Nərimanov",
-    "rooms": null,
-    "area_m2": 57,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-05T15:41:06+04:00",
-    "category": "commercial",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6518461",
-    "lat": 40.40179400069186,
-    "lng": 49.83856812164001,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "Satılır obyekt 57 m²",
-    "description": "Azadliq pr H.Əliyev 9/1  57kv temirli +mebel qeyri yaşayiş obyekt satılır. Salon,ofis,stomotoloq,magaza və s.",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 245000,
-        "date": "2026-10-06T12:57:44.331657+00:00"
       }
     ]
   },
@@ -2414,40 +2346,6 @@
     ]
   },
   {
-    "id": "6517422",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F12%2F10%2F25%2F48c65121-424d-486f-be0e-7146cb979db7%2F16185_Hr61zQYD5SB8pCF16YdfFg.jpg",
-    "price": 480000,
-    "location": "Nəriman Nərimanov m.",
-    "location_id": "1",
-    "location_name": "Nəriman Nərimanov",
-    "rooms": null,
-    "area_m2": 100,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-06T13:41:48+04:00",
-    "category": "commercial",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6517422",
-    "lat": 40.39802291432998,
-    "lng": 49.87721993734883,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "Satılır obyekt 100 m²",
-    "description": "Nərimanov metrosunun yaxınlığında, Ağa Nemətulla küçəsində, əsas yolun kənarında yerləşən ümumi sahəsi 100 kv.m olan obyekt satılır.\r\nObyekt uzunmüddətli müqavilə əsasında yüksək məbləğlə icarədədir və hazır investisiya üçün əlverişli variantdır.\r\nƏtraflı məlumat almaq üçün qeyd olunan nömrə ilə əlaqə saxlaya bilərsiniz.....\r\n",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 480000,
-        "date": "2026-10-06T12:57:43.112303+00:00"
-      }
-    ]
-  },
-  {
     "id": "6418086",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F30%2F12%2F33%2F02%2Fbfaf6f11-58e1-4e21-a4c6-9b69564ad32b%2F87119_doZh_Rsq4dRq8cvfLeqCMw.jpg",
     "price": 1250000,
@@ -2618,40 +2516,6 @@
     ]
   },
   {
-    "id": "6521075",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F14%2F24%2F41%2Ff87f36ed-ecff-4116-9d5e-4be6f463b04c%2F60585_C1ztRydsc1Lj24TQbk94Fg.jpg",
-    "price": 650000,
-    "location": "Həzi Aslanov m.",
-    "location_id": "33",
-    "location_name": "Həzi Aslanov",
-    "rooms": null,
-    "area_m2": 230,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": true,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-06T14:26:36+04:00",
-    "category": "commercial",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6521075",
-    "lat": 40.3751568718646,
-    "lng": 49.95789141563365,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "Satılır obyekt 230 m²",
-    "description": "\r\n\r\n🔥 GƏNCƏ PROSPEKTİ 🔥\r\n📍 YOLUN TAM KƏNARI\r\n\r\n━━━━━━━━━━\r\n🏢 2 MƏRTƏBƏLİ OBYEKT\r\n💊 1-ci mərtəbə: Aptek\r\n📢 2-ci mərtəbə: Reklam agentliyi\r\n🛣️ Yolun tam kənarı\r\n👥 Uzun illər eyni icarəçilər\r\n💰 RƏSMİ 3500 AZN İCARƏ - HAZIR GƏLİR\r\n━━━━━━━━━━\r\n\r\n💥 STABİL İCARƏÇİ - YÜKSƏK GƏLİR 💥\r\n💥 XİDMƏT HAQQI: 1% 💥",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 650000,
-        "date": "2026-10-06T12:57:43.112189+00:00"
-      }
-    ]
-  },
-  {
     "id": "6505644",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F09%2F30%2F17%2F48%2F33%2F9c7ab848-e827-4b49-9215-a2f7ef81c114%2F16174_7A98pdz-nFzjGIJBAeb2Ag.jpg",
     "price": 350000,
@@ -2682,40 +2546,6 @@
       {
         "price": 350000,
         "date": "2026-10-06T12:57:43.112131+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6421733",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F31%2F17%2F22%2F47%2Ff0e050c9-2fe4-498b-b688-8772e9be08da%2F68134_PnaNRi1Xmtb8oIQ6i6F4JQ.jpg",
-    "price": 1400000,
-    "location": "Nizami m.",
-    "location_id": "35",
-    "location_name": "Nizami",
-    "rooms": null,
-    "area_m2": 165,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-06T14:34:29+04:00",
-    "category": "commercial",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6421733",
-    "lat": 40.37988027144024,
-    "lng": 49.8213331614685,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "Satılır obyekt 165 m²",
-    "description": "Срочно! Эксклюзив! В центре! На пересечении проспекта Стройтеля и 6-й параллельной улицы, под новопостроенным жилым комплексом, продается ресторан известного бренда общей площадью 165 кв.м. + небольшая терраса. Очень интенсивное пешеходное и автомобильное движение. Преимущество: густонаселенный жилой район с высокой проходимостью. Есть все условия, развитая инфраструктура, парковка и т.д. Все документы в поддержку, покупаемая на нежилое помещение. Оплата 1%.\r\n\r\n\r\nTəcili! Eksklüziv! Mərkəzdə! İnşaatçılar prospekti ilə 6-cı paralel küçənin kəsişməsində, yeni tikilmiş yaşayış kompleksinin altında ümumi sahəsi 165 kv. m olan məşhur brendin restoranı satılır.Kiçik terras. Çox sıx piyada və avtomobil trafiki. Üstünlük: yüksək trafikə malik sıx məskunlaşmış yaşayış sahəsi. Hər cür şərait, inkişaf etmiş infrastruktur, parkinq və s.Qeyri-yaşayış çıxarış. Ödəniş 1%.",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1400000,
-        "date": "2026-10-06T12:57:42.973555+00:00"
       }
     ]
   },
@@ -2818,40 +2648,6 @@
       {
         "price": 325000,
         "date": "2026-10-06T12:57:42.973539+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6521109",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F14%2F32%2F41%2F4747b084-1882-423a-9c36-6d3fd4c7f11a%2F49678_bSMAqENcmvhaOcmiHtF7Fw.jpg",
-    "price": 550000,
-    "location": "Sahil m.",
-    "location_id": "38",
-    "location_name": "Sahil",
-    "rooms": null,
-    "area_m2": 90,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-06T14:39:28+04:00",
-    "category": "commercial",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6521109",
-    "lat": 40.37040776201581,
-    "lng": 49.84390651815193,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "Satılır obyekt 90 m²",
-    "description": "В центре! На пересечении улиц Гоголя и Б.Сафароглу,недалеко от Торговой,продается объект общей площадью 90 кв.м.С ремонтом. В данное время находится в долгосрочной аренде за 2500 азн, функционирует как женский салон красоты. Документы в порядке,купчая на нежилое помещение. 2 большие и 1 маленькая витрина. Очень интенсивный пешеходный и автомобильный трафик. Преимущество: густонаселённый жилой район с высокой проходимостью. Имеются все условия, развитая инфраструктура, паркинг и т.д.Оплата 1%.\r\n\r\n\r\nMərkəzdə! Qoqol və B. Səfəroğlu küçələrinin kəsişməsində, Torqoviy yaxınlığında ümumi sahəsi 90 kv.m.olan obyekt satılır.Obyekt təmirlidir.2 böyük və 1 balaça vitrin var. Hazırda 2500 azn uzunmüddətli icarədədir, qadın gözəllik salonu kimi fəaliyyət göstərir.Sənədlər qaydasındadır, qeyri-yaşayış sahəsinə kupça var. Çox intensiv piyada və avtomobil trafiki.Yüksək keçid ilə sıx məskunlaşmış yaşayış sahəsi. Bütün şərait, inkişaf etmiş infrastruktur, parkinq və s. mövcuddur.Ödəniş 1%.",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 550000,
-        "date": "2026-10-06T12:57:42.973504+00:00"
       }
     ]
   },
@@ -2988,40 +2784,6 @@
       {
         "price": 700000,
         "date": "2026-10-06T12:57:42.973365+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6521280",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F15%2F05%2F30%2Fe2f67bd9-9cd5-4b5b-ad25-0fbf3df602ab%2F60542_mfMKn7T0KePu-nt1MDSP-w.jpg",
-    "price": 355000,
-    "location": "Bayıl q.",
-    "location_id": "49",
-    "location_name": "Bayıl",
-    "rooms": null,
-    "area_m2": 75,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": true,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-06T15:09:03+04:00",
-    "category": "commercial",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6521280",
-    "lat": 40.33930774375601,
-    "lng": 49.83518623309173,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "Satılır obyekt 75 m²",
-    "description": "\r\nBAYIL BAZARININ YANINDA OBYEKT SATILIR\r\n\r\n\r\nBayıl bazarının yaxınlığında, əlverişli və işlək ərazidə market tipli obyekt satışa çıxarılır.\r\n\r\nSahəsi: 75 kv.m\r\nTəyinatı: Market tipli obyekt\r\nİcarəsi 1500 man.\r\nSənədi: Çıxarış\r\n\r\nObyekt həm market, həm də digər kommersiya fəaliyyəti üçün əlverişli seçimdir.\r\n\r\nƏtraflı məlumat və qiymət üçün əlaqə saxlaya bilərsiniz.\r\n",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 355000,
-        "date": "2026-10-06T12:57:42.973354+00:00"
       }
     ]
   },
@@ -3604,40 +3366,6 @@
     ]
   },
   {
-    "id": "6522361",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F19%2F03%2F29%2F34ca7c7d-6d9f-4ba0-bed0-5cfd46c74c7c%2F66464_tbOsg7TGlwzTa8Cutrp2bQ.jpg",
-    "price": 1550000,
-    "location": "Suraxanı r.",
-    "location_id": "14",
-    "location_name": "Suraxanı",
-    "rooms": null,
-    "area_m2": 900,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": true,
-    "has_repair": false,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-06T19:05:44+04:00",
-    "category": "commercial",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6522361",
-    "lat": 40.42637850035289,
-    "lng": 50.03915508892426,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "Satılır obyekt 900 m²",
-    "description": "Suraxanı Bazarı, İcra Hakimiyyəti,Azərsun Arenaya yaxın 12 mərtəbəli yeni tikili binada 900kv Obyekt satılır\r\nHündürlük 4metr\r\nÇıxarış ilin sonu veriləcək\r\nXahiş olunur ciddi şəxslər əlaqə saxlasın",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1550000,
-        "date": "2026-10-06T19:31:32.972770+00:00"
-      }
-    ]
-  },
-  {
     "id": "6522384",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F19%2F10%2F47%2F1e731804-01ce-474e-ab93-dea1d5e69d3f%2F96125_9h1tYeTGCBIulEbteccW7g.jpg",
     "price": 699000,
@@ -3702,40 +3430,6 @@
       {
         "price": 350000,
         "date": "2026-10-06T19:31:32.972685+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6520169",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F11%2F05%2F20%2F22e4b194-f15b-47b3-90d8-d9b19bb6131d%2F41396_9GsLj3RbwsIM7QocUT_Erw.jpg",
-    "price": 9220000,
-    "location": "Gənclik m.",
-    "location_id": "2",
-    "location_name": "Gənclik",
-    "rooms": null,
-    "area_m2": 3200,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": true,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-06T21:17:37+04:00",
-    "category": "commercial",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6520169",
-    "lat": 40.40076774220886,
-    "lng": 49.86220097283805,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "Satılır obyekt 3200 m²",
-    "description": "🏨 NƏRİMANOV RAYONUNDA HAZIR OTEL BİNASI\r\n\r\n📍 Nərimanov rayonu, Bakı\r\n🏢 6 mərtəbəli, özəl bina\r\n📐 Ümumi sahə: 3 200 m²\r\n\r\n✨ OTEL HAQQINDA:\r\n• 50 otaq — 45 Deluxe + 5 VIP\r\n• 1 ayrıca ofis otağı\r\n• Tam təchiz olunmuş mətbəx\r\n• Müasir idman zalı\r\n• Fankoyl istilik sistemi\r\n• -1 mərtəbədə qaraj — 5 avtomobil üçün\r\n• Binanın qarşısında 7 avtomobil üçün parklanma imkanı\r\n• Hazırda icarədədir və fəaliyyət göstərir\r\n\r\n💼 HAZIR BİZNES — GÜCLÜ İNVESTİSİYA İMKANI!\r\n\r\n🔑 Real alıcılar üçün ətraflı məlumat təqdim olunur.\r\n\r\n🏨 Digər ərazilərdə də müxtəlif otellərin satışı mövcuddur.\r\nSizə uyğun otel və investisiya imkanları barədə ətraflı məlumat almaq üçün bizimlə əlaqə saxlayın.\r\n\r\n\r\n\r\n✅️✅️✅️✅️✅️\r\n\r\n🏨 ГОТОВЫЙ ОТЕЛЬ В НАРИМАНОВСКОМ РАЙОНЕ\r\n\r\n📍 Наримановский район, Баку\r\n🏢 6-этажное здание в частной собственности\r\n📐 Общая площадь: 3 200 м²\r\n\r\n✨ ХАРАКТЕРИСТИКИ ОТЕЛЯ:\r\n• 50 номеров — 45 Deluxe + 5 VIP\r\n• 1 отдельный офис\r\n• Полностью оборудованная кухня\r\n• Современный спортивный зал\r\n• Система отопления/охлаждения Fan Coil\r\n• Подземный гараж (-1 этаж) — на 5 автомобилей\r\n• Дополнительная парковка на 7 автомобилей перед зданием\r\n• В настоящее время сдан в аренду и функционирует\r\n\r\n💼 ГОТОВЫЙ БИЗНЕС — ПРИВЛЕКАТЕЛЬНАЯ ВОЗМОЖНОСТЬ ДЛЯ ИНВЕСТИЦИЙ!\r\n\r\n🔑 Подробная информация предоставляется реальным и серьёзным покупателям.\r\n\r\n🏨 Также в продаже имеются отели в других районах.\r\nСвяжитесь с нами, чтобы получить подробную информацию о доступных отелях и инвестиционных возможностях.\r\n\r\n\r\n✅️✅️✅️✅️✅️\r\n\r\n🏨 READY-TO-OPERATE HOTEL IN NARIMANOV DISTRICT\r\n\r\n📍 Narimanov District, Baku\r\n🏢 6-storey privately owned building\r\n📐 Total area: 3,200 m²\r\n\r\n✨ HOTEL FEATURES:\r\n• 50 rooms — 45 Deluxe + 5 VIP\r\n• 1 separate office room\r\n• Fully equipped kitchen\r\n• Modern gym\r\n• Fan coil heating/cooling system\r\n• Basement (-1) garage — capacity for 5 cars\r\n• Additional parking space for 7 cars in front of the building\r\n• Currently leased and operating\r\n\r\n💼 READY BUSINESS — ATTRACTIVE INVESTMENT OPPORTUNITY!\r\n\r\n🔑 Detailed information is available for serious buyers.\r\n\r\n🏨 We also have hotels for sale in other locations.\r\nContact us to receive detailed information about available hotels and suitable investment opportunities.\r\n",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 9220000,
-        "date": "2026-10-06T12:57:43.519316+00:00"
       }
     ]
   },
@@ -4012,40 +3706,6 @@
     ]
   },
   {
-    "id": "5560878",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F10%2F04%2F15%2F39%2F51%2F75f6c03d-7198-468a-a67a-3e15cb1873d2%2F89649_IdiJWhN4F5E3SSESYyyqZg.jpg",
-    "price": 245000,
-    "location": "Elmlər Akademiyası m.",
-    "location_id": "34",
-    "location_name": "Elmlər Akademiyası",
-    "rooms": null,
-    "area_m2": 90,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T05:34:02+04:00",
-    "category": "commercial",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/5560878",
-    "lat": 40.37735157682465,
-    "lng": 49.80855669444274,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "Satılır obyekt 90 m²",
-    "description": "Mətbuat prospektində, yeni tikili binanın altında (həyət içi, giriş həyətdən), ümumi sahəsi 90 m2 olan (iki mərtəbəyə bölünüb, çıxarışla 45 M2) obyekt satılır. Obyekt 3 hissəyə bölünüb, hər birisi ayrı ayrılığda kirayədədir. 1- Meyvə-tərəvəz, 2 - ofis və 3 - dərzi.",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 245000,
-        "date": "2026-10-06T19:31:32.766609+00:00"
-      }
-    ]
-  },
-  {
     "id": "6521216",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F14%2F56%2F10%2F2f200039-3a6a-44de-ae41-50fad91be016%2F60574_L5YPhXNtJ0DHat7jkQKK1Q.jpg",
     "price": 139000,
@@ -4076,74 +3736,6 @@
       {
         "price": 139000,
         "date": "2026-10-06T12:57:42.833292+00:00"
-      }
-    ]
-  },
-  {
-    "id": "5625227",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F10%2F29%2F23%2F40%2F09%2Fd1525b17-2b7b-497b-a748-4c9d478004c5%2F89649_IdiJWhN4F5E3SSESYyyqZg.jpg",
-    "price": 140000,
-    "location": "Şüvəlan q.",
-    "location_id": "110",
-    "location_name": "Şüvəlan",
-    "rooms": null,
-    "area_m2": 122,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T09:38:21+04:00",
-    "category": "commercial",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/5625227",
-    "lat": 40.47520213434081,
-    "lng": 50.17748865344937,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "Satılır obyekt 122 m²",
-    "description": "Şüvəlan qəsəbəsinin mərkəzi küçələrindən birində 122m2 sahəsi olan təmirli və qeyri-yaşayış çıxarışlı (həm torpağa, həm də tikiliyə) obyekt satılır. Obyekt ticarət zalı, anbar, sanitar qovşaq və mətbəx hissələrindən ibarətdir. Bütün kommunallar mövcuddur (qaz, 3 fazalı işıq, su). Power Series təhlükəsizlik sistemi (siqnalizasiya) və 10 ədəd kamera quraşdırılmışdır. İsitməsi kombi isti döşəmə, soyutması isə yeni quraşdırımış AUX kondisioneri ilə təmin olunmaqdadır. Tikinti-təmirdən sonra obyekt fəaliyyət göstərməyib.\nObyekt mağaza, çay evi, ofis, gözəllik salonu, təlim mərkəzi kimi fəaliyyət göstərə bilər. Alıb icarəyə vermək üçün də sərfəli investisiyadır. \nSatış qiyməti 140 min AZN olub, real müştəri üçün az bir endirim edilə bilər. Mülkiyyətçi özüməm. ",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 140000,
-        "date": "2026-10-06T12:57:43.658733+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6519137",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F17%2F46%2F38%2F49b346fd-4ea3-42e6-9d71-5db89324a262%2F72415_QhPAP50b0DPLN3rygRXUGg.jpg",
-    "price": 43000,
-    "location": "20 Yanvar m.",
-    "location_id": "5",
-    "location_name": "20 Yanvar",
-    "rooms": null,
-    "area_m2": 32,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": true,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T11:15:50+04:00",
-    "category": "commercial",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6519137",
-    "lat": 40.39835930178342,
-    "lng": 49.80040835050808,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "Satılır obyekt 32 m²",
-    "description": "\r\n\r\n\r\nYasamal rayonunda, əsas yolun kənarında yerləşən 32 kv sahəsi olan obyekt satışa çıxarılır. Obyekt hazırda 300 azn  icarədədir və stabil gəlir gətirir. Yerləşmə mövqeyi həm biznes, həm də investisiya üçün əlverişlidir.Obyektdə su,işıq və kanalizasiya xəttləri movcudur.\r\nObyektin bütün sənədləri qaydasındadır.\r\n\r\nReal müştəriyə qiymətdə razılaşmaq mümkündür.\r\n\r\nƏtraflı məlumat və baxış üçün əlaqə saxlaya bilərsiniz.\r\n\r\n",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 43000,
-        "date": "2026-10-06T12:57:44.204248+00:00"
       }
     ]
   },
@@ -4216,278 +3808,6 @@
     ]
   },
   {
-    "id": "6138690",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F18%2F10%2F01%2F13%2Fa2467c1c-19cb-498d-97fd-2ddc3ea77648%2F29218_vASbRbYo0YonEjA6QS7cFg.jpg",
-    "price": 340000,
-    "location": "Əhmədli m.",
-    "location_id": "51",
-    "location_name": "Əhmədli",
-    "rooms": null,
-    "area_m2": 66,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T12:08:14+04:00",
-    "category": "commercial",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6138690",
-    "lat": 40.3899197640348,
-    "lng": 49.95779772217825,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "Satılır obyekt 66 m²",
-    "description": "9 mərtəbəli binanın birinci mərtəbəsi. 3 ayrı girişləri olan otaqlardan, 2 ayrı girişləri olan yardımçısı texniki otaqlardan və zirzəmidən ibarətdir.",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 340000,
-        "date": "2026-10-06T12:57:43.378240+00:00"
-      }
-    ]
-  },
-  {
-    "id": "5010280",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F02%2F25%2F18%2F28%2F54%2Fce2de53c-1e69-4c69-be9a-4805558568f5%2F710_n_84bQNwZvpGSEPPCvJ-ng.jpg",
-    "price": 730000,
-    "location": "Bakıxanov q.",
-    "location_id": "69",
-    "location_name": "Bakıxanov",
-    "rooms": null,
-    "area_m2": 500,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": true,
-    "updated_at_site": "2026-10-07T12:20:07+04:00",
-    "category": "commercial",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/5010280",
-    "lat": 40.42373581477014,
-    "lng": 49.96804601496681,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "Satılır obyekt 500 m²",
-    "description": "Qiymet Endirildi!!!!!Cox Təcili satılır!!!Cox super təklif!!!!!Bazar dəyərinnən qat-qat aşaqı qiymətə!!!Aylıq icarə gəliri  4000azn olan apartman bina!!!Daxilində 5 ədəd tam təmirli və əşyalı məzil (1ədəd 3 otaq və 4 ədəd 2 otaqlı mənzil) və 1 ədəd qeyri yaşayış obyekti var.Bütün mənzillər və qeyri yaşayış obyekti uzun müddətli icarədədir.Ətraflı məlumat üçün əlaqə saxlıya bilərsiniz.Real alıcı ilə qiymətdə razılaşmaq olar!!!\nDəyərinnən ucuz barter təkliflərinə baxıla bilər!!!",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 730000,
-        "date": "2026-10-06T12:57:43.378198+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6517255",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F11%2F45%2F05%2F2aa87a06-1572-4ffb-b4cc-83bb0611c92a%2F75504_AY1bnUbrwiF-vL8_HfDTXA.jpg",
-    "price": 80000,
-    "location": "İnşaatçılar m.",
-    "location_id": "7",
-    "location_name": "İnşaatçılar",
-    "rooms": null,
-    "area_m2": 40,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": true,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T12:23:53+04:00",
-    "category": "commercial",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6517255",
-    "lat": 40.38417088679336,
-    "lng": 49.80953144180297,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "Satılır obyekt 40 m²",
-    "description": "🚘 Moyka satılır — Elmlər Akademiyası\r\n\r\n📍 Elmlərdə, Karonanın ərazisində yerləşir\r\n 40 kV sahe\r\n💧 Su, işıq və bütün kommunal xətlər mövcuddur\r\n💰 Hazırda 900 AZN aylıq arendadadır\r\n\r\n🚗 Moykanın qarşısında avtomobillər üçün saxlama yeri də var.\r\n\r\n📑 Sənədləri tam qaydasındadır — çıxarış (kupça) var.\r\n\r\n💼 Ofis haqqı: 1%\r\n\r\n\r\n\r\n📞 Ətraflı məlumat və baxış üçün əlaqə saxlayın.",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 80000,
-        "date": "2026-10-06T12:57:43.378156+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6522297",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F18%2F47%2F09%2F2d0bd0d4-9a92-404e-9bdd-73d6a586cda6%2F60576_wZckZZVjRYOM0_7bw5Oj5A.jpg",
-    "price": 390000,
-    "location": "Neftçilər m.",
-    "location_id": "53",
-    "location_name": "Neftçilər",
-    "rooms": null,
-    "area_m2": 120,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": false,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": true,
-    "updated_at_site": "2026-10-07T13:13:36+04:00",
-    "category": "commercial",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6522297",
-    "lat": 40.4107382,
-    "lng": 49.9384708,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "Satılır obyekt 120 m²",
-    "description": "EKSKLÜZİV TƏKLİF! İNVESTORLAR VƏ Sahibkarlar ÜÇÜN HAZIR BİZNES OBYEKTİ! 🏢🔥\r\n​Neftçilərdə, Məlhəm Hospitalın arxasında, Cəmşid Naxçıvanskı küçəsi 73 ünvanında yerləşən, tam işlək və gəlirli kommersiya obyektini diqqətinizə təqdim edirik.\r\n​Əsas Göstəricilər\r\n​Sahə: 120 kv.m (Geniş və funksional planlama) 📐\r\n​Otaq sayı: 4 otaqlı bölmə 🚪\r\n​Sənəd: Kupça (Qeyri-yaşayış təyinatlı) 📄\r\n​Maliyyə və İcarə Üstünlüyü\r\n​Obyektin 50 kv.m hissəsi hazırda 700 AZN aylıq icarədədir.\r\n​Aktiv şəkildə gəlir gətirən, uzunmüddətli potensiala malik sərfəli investisiya fürsətidir. 💸\r\n​Yerləşmə və Potensial\r\n​Gediş-gəlişin sıx olduğu, əlverişli infrastrukturquruluşuna malik ərazi. 📍\r\n​Tibb müəssisəsinin yaxınlığı sayəsində müxtəlif xidmət, office, aptek və ya ticarət fəaliyyəti üçün ideal lokasiya. 🩺💼\r\n​Qiymət və ətraflı məlumat üçün birbaşa əlaqə saxlayın! 📞",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 390000,
-        "date": "2026-10-06T19:31:33.164443+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6520694",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F12%2F55%2F42%2Fd4b0ba24-9182-4e88-980a-a62be3da6bc3%2F37094_inkV3VVPMvaFjRWmKkM3xQ.jpg",
-    "price": 1600000,
-    "location": "Şah İsmayıl Xətai m.",
-    "location_id": "36",
-    "location_name": "Şah İsmayıl Xətai",
-    "rooms": null,
-    "area_m2": 160,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": true,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T13:21:35+04:00",
-    "category": "commercial",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6520694",
-    "lat": 40.38360895379377,
-    "lng": 49.8767755668669,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "Satılır obyekt 160 m²",
-    "description": "Hazır, tam fəaliyyət gösterən və gəlirli restoran satılır. Mükəmməl yerləşmə: restoran böyük bir biznes mərkəzinin tam qarşısında yerləşir. Bu, zəmanətli müştəri axınını təmin edir: gündüzlər biznes-lançlar, axşamlar isə işgüzar görüşlər. Obyekt tam təchiz olunub, zal və mətbəx üçün bütün lazımi avadanlıqlar, mebel və bütün kommunikasiyalar mövcuddur. Restoran şəxsi istifadədə olub və əla nüfuza malikdir.",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 1600000,
-        "date": "2026-10-06T12:57:43.242278+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6520899",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F13%2F40%2F45%2F58ec3551-a560-4148-96b4-4d618ea3fffe%2F60588_H-sk5GqYul-T3CZbUOOPXg.jpg",
-    "price": 2500000,
-    "location": "Azadlıq Prospekti m.",
-    "location_id": "6",
-    "location_name": "Azadlıq Prospekti",
-    "rooms": null,
-    "area_m2": 1100,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": true,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T13:48:00+04:00",
-    "category": "commercial",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6520899",
-    "lat": 40.42686326753307,
-    "lng": 49.83843520316314,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "Satılır obyekt 1100 m²",
-    "description": "AZADLIQ METROSUNUN YAXINLIĞINDA 5 MƏRTƏBƏLİ OBYEKT – SATIŞA VƏ İCARƏYƏ VERİLİR!\r\n\r\n📍 Ünvan: Binəqədi rayonu, Azadlıq prospekti 195B\r\n🚇 Azadlıq metrosundan cəmi 150 metr məsafədə\r\n\r\nObyekt haqqında:\r\n🔹 5 mərtəbəli, ayrıca tikili\r\n🔹 30+ otaq\r\n🔹 1-ci mərtəbədə geniş vitrin şüşələri\r\n🔹 Geniş konfrans zalı\r\n🔹 Hər mərtəbədə sanitar qovşaq və mətbəx sahəsi\r\n🔹 Mərtəbələr üzrə mərkəzləşdirilmiş kondisioner sistemi\r\n🔹 Kombi istilik sistemi – tam işlək vəziyyətdə\r\n🔹 Qaz xətti və elektrik təchizatı\r\n🔹 Bütün zəruri kommunikasiyalar mövcuddur\r\n\r\n📑 Sənədlər tam qaydasındadır: həm torpağın, həm də obyektin çıxarışı mövcuddur.\r\n\r\n💼 Hazırda obyekt icarədədir, bu səbəbdən həm biznes üçün, həm də gəlir gətirən investisiya obyekti kimi əlverişli seçimdir.\r\n\r\n💰 Həm satılır, həm də icarəyə verilir.\r\n\r\n🤝 Real alıcı ilə obyektə baxış zamanı, yerində razılaşma əsasında endirim mümkündür.\r\n\r\n📞 Əlavə məlumat və baxış üçün əlaqə saxlaya bilərsiniz.",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 2500000,
-        "date": "2026-10-06T12:57:43.112256+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6519182",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F17%2F59%2F55%2Fa5940bea-2fbb-4821-842d-017cc8811f77%2F921_ZjwE8VS0BdQB6wQnWItu9A.jpg",
-    "price": 200000,
-    "location": "Azadlıq Prospekti m.",
-    "location_id": "6",
-    "location_name": "Azadlıq Prospekti",
-    "rooms": null,
-    "area_m2": 40,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": true,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T14:10:18+04:00",
-    "category": "commercial",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6519182",
-    "lat": 40.417605139111,
-    "lng": 49.84019900599705,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "Satılır obyekt 40 m²",
-    "description": "600 MANATA UZUNMÜDDƏTLİ İCARƏDƏ✅\nŞəhərin ən gediş-gəlişli ərazilərindən birində,8-ci mikrorayonda,İbadın binaları kimi adlanan yeni tikili binanin 1-ci mertebesinde qeyri-yaşayış kupçalı ümumi sahəsi 40 kv.m olan işlək obyekt təcili olaraq satılır.Obyekt sıx gediş-gəlişli ərazidə yerləşir və ətraf sırada hamlsl işlək obyektlərdir.Obyekt uzunmüddətli müqavilə ilə aylıq 600 manata icarədədir(real icarə dəyəri 1000 manatdır).Qabağında maşın saxlamaq üçün rahat ərazi var.Sənəd Qeyri-yaşayış Kupçadır.Alqı-satqıya tam olaraq hazırdır.Real alıcıya endirim olacaq.Ofis haqqı 1%.",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 200000,
-        "date": "2026-10-06T12:57:44.069965+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6522239",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F18%2F33%2F12%2F5a58a605-29de-4861-ba53-91154656e1d8%2F39942_XKmKJ16kTMU00NpOHakgsg.jpg",
-    "price": 650000,
-    "location": "Əhmədli m.",
-    "location_id": "51",
-    "location_name": "Əhmədli",
-    "rooms": null,
-    "area_m2": 155,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": true,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": true,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T14:10:42+04:00",
-    "category": "commercial",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6522239",
-    "lat": 40.38992186050744,
-    "lng": 49.96185992971152,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "Satılır obyekt 155 m²",
-    "description": "2000 MANATA UZUNMÜDDƏTLİ İCARƏDƏ!!!\r\nBabək prospektindən Əhmədli metrosu tərəfə gedən əsas yolun kənarında,yeni tikili binanın 1-ci mərtəbəsində,qeyri-yaşayış kupçalı,işlək,tam təmirli obyekt təcili olaraq satılır.Obyekt 10 illik müqavilə ilə aylıq təmiz ələçatan 2000 manat məbləğində Oba Marketlər şəbəkəsinə icarəyə verilib.Sənədi Qeyri-Yaşayış Kupçadır.Birbaşa əsas yola baxır,sıx gediş-gəlişli ərazidir və ətraf hündür mərtəbəli yaşayış binalarıdır.Ən əsas amillərdən biri Qarşısında parkinqi mövcuddur.Ümumi sahəsi 155 kv.m təşkil edir.Obyektin 2 girişi mövcuddur – biri bina kompleksinin içərisindən, digəri isə açıq ərazidən,əsas yolun kənarındandır.7 saylı poliklinikaya,Baku Medical Plazaya,Əhmədli metrosuna yaxın ərazidir.Allah alanada,satanada,bizədə xeyir versin İnşaAllah.Ətraflı məlumat üçün zəng edə bilərsiniz.Ofis haqqı 1%.\r\n",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 650000,
-        "date": "2026-10-06T19:31:33.365751+00:00"
-      }
-    ]
-  },
-  {
     "id": "6410137",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F27%2F11%2F54%2F44%2F9a21dba7-8d3f-4c29-98e0-8fbea4ffb582%2F68135_9ndJlKyrTMZ0VOGOyqVPGg.jpg",
     "price": 228000,
@@ -4518,74 +3838,6 @@
       {
         "price": 228000,
         "date": "2026-10-06T12:57:44.069970+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6521056",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F14%2F04%2F58%2Fcf69dc6a-b207-42d1-8ee5-e290dcb709ab%2F60555_9mU8RsMaNsz4Si34hcS7lg.jpg",
-    "price": 525000,
-    "location": "Neftçilər m.",
-    "location_id": "53",
-    "location_name": "Neftçilər",
-    "rooms": null,
-    "area_m2": 130,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": true,
-    "has_bill_of_sale": true,
-    "has_mortgage": false,
-    "is_featured": false,
-    "updated_at_site": "2026-10-07T14:52:06+04:00",
-    "category": "commercial",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6521056",
-    "lat": 40.40441390257602,
-    "lng": 49.94830904199743,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "Satılır obyekt 130 m²",
-    "description": "Obyekt oba markete icariye verilib.qeyri yasyis çixarisi var .8ci kilometr bazarin yaninda yerlesir ayri tikilidi.Qiymet obyektin yaninda danisilacax.",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 525000,
-        "date": "2026-10-06T12:57:43.112203+00:00"
-      }
-    ]
-  },
-  {
-    "id": "6038984",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F04%2F12%2F15%2F53%2F19%2F297c3852-6242-4462-a07c-e35f4c8b97c6%2F40072_cfI25TuvKp_aCfwK7HoE_g.jpg",
-    "price": 850000,
-    "location": "Hövsan q.",
-    "location_id": "93",
-    "location_name": "Hövsan",
-    "rooms": null,
-    "area_m2": 2500,
-    "floor": null,
-    "floor_number": null,
-    "is_agency": false,
-    "has_repair": false,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "is_featured": true,
-    "updated_at_site": "2026-10-07T14:59:09+04:00",
-    "category": "commercial",
-    "deal_type": "sale",
-    "url": "https://bina.az/items/6038984",
-    "lat": 40.36160873441352,
-    "lng": 50.08114142578248,
-    "land_area_sot": null,
-    "building_type": "Obyekt",
-    "title": "Satılır obyekt 2500 m²",
-    "description": "Stoyanka butun senedler var \r\nBoyuk market tikmeye elverishlidi",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 850000,
-        "date": "2026-10-06T12:57:42.973389+00:00"
       }
     ]
   },
@@ -4658,6 +3910,656 @@
     ]
   },
   {
+    "id": "5625227",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F10%2F29%2F23%2F40%2F09%2Fd1525b17-2b7b-497b-a748-4c9d478004c5%2F89649_IdiJWhN4F5E3SSESYyyqZg.jpg",
+    "price": 140000,
+    "location": "Şüvəlan q.",
+    "location_id": "110",
+    "location_name": "Şüvəlan",
+    "rooms": null,
+    "area_m2": 122,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T09:38:24+04:00",
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5625227",
+    "lat": 40.47520213434081,
+    "lng": 50.17748865344937,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "Satılır obyekt 122 m²",
+    "description": "Şüvəlan qəsəbəsinin mərkəzi küçələrindən birində 122m2 sahəsi olan təmirli və qeyri-yaşayış çıxarışlı (həm torpağa, həm də tikiliyə) obyekt satılır. Obyekt ticarət zalı, anbar, sanitar qovşaq və mətbəx hissələrindən ibarətdir. Bütün kommunallar mövcuddur (qaz, 3 fazalı işıq, su). Power Series təhlükəsizlik sistemi (siqnalizasiya) və 10 ədəd kamera quraşdırılmışdır. İsitməsi kombi isti döşəmə, soyutması isə yeni quraşdırımış AUX kondisioneri ilə təmin olunmaqdadır. Tikinti-təmirdən sonra obyekt fəaliyyət göstərməyib.\nObyekt mağaza, çay evi, ofis, gözəllik salonu, təlim mərkəzi kimi fəaliyyət göstərə bilər. Alıb icarəyə vermək üçün də sərfəli investisiyadır. \nSatış qiyməti 140 min AZN olub, real müştəri üçün az bir endirim edilə bilər. Mülkiyyətçi özüməm. ",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 140000,
+        "date": "2026-10-06T12:57:43.658733+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6518461",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F15%2F36%2F40%2Fcd985e91-3052-4562-91e5-b9bb115069ff%2F97621_D-VbAH-QfTcYZsB-cjDa6A.jpg",
+    "price": 245000,
+    "location": "Nərimanov r.",
+    "location_id": "10",
+    "location_name": "Nərimanov",
+    "rooms": null,
+    "area_m2": 57,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T09:51:40+04:00",
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6518461",
+    "lat": 40.40179400069186,
+    "lng": 49.83856812164001,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "Satılır obyekt 57 m²",
+    "description": "Azadliq pr H.Əliyev 9/1  57kv temirli +mebel qeyri yaşayiş obyekt satılır. Salon,ofis,stomotoloq,magaza və s.",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 245000,
+        "date": "2026-10-06T12:57:44.331657+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6520169",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F11%2F05%2F20%2F22e4b194-f15b-47b3-90d8-d9b19bb6131d%2F41396_9GsLj3RbwsIM7QocUT_Erw.jpg",
+    "price": 9220000,
+    "location": "Gənclik m.",
+    "location_id": "2",
+    "location_name": "Gənclik",
+    "rooms": null,
+    "area_m2": 3200,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T11:05:28+04:00",
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6520169",
+    "lat": 40.40076774220886,
+    "lng": 49.86220097283805,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "Satılır obyekt 3200 m²",
+    "description": "🏨 NƏRİMANOV RAYONUNDA HAZIR OTEL BİNASI\r\n\r\n📍 Nərimanov rayonu, Bakı\r\n🏢 6 mərtəbəli, özəl bina\r\n📐 Ümumi sahə: 3 200 m²\r\n\r\n✨ OTEL HAQQINDA:\r\n• 50 otaq — 45 Deluxe + 5 VIP\r\n• 1 ayrıca ofis otağı\r\n• Tam təchiz olunmuş mətbəx\r\n• Müasir idman zalı\r\n• Fankoyl istilik sistemi\r\n• -1 mərtəbədə qaraj — 5 avtomobil üçün\r\n• Binanın qarşısında 7 avtomobil üçün parklanma imkanı\r\n• Hazırda icarədədir və fəaliyyət göstərir\r\n\r\n💼 HAZIR BİZNES — GÜCLÜ İNVESTİSİYA İMKANI!\r\n\r\n🔑 Real alıcılar üçün ətraflı məlumat təqdim olunur.\r\n\r\n🏨 Digər ərazilərdə də müxtəlif otellərin satışı mövcuddur.\r\nSizə uyğun otel və investisiya imkanları barədə ətraflı məlumat almaq üçün bizimlə əlaqə saxlayın.\r\n\r\n\r\n\r\n✅️✅️✅️✅️✅️\r\n\r\n🏨 ГОТОВЫЙ ОТЕЛЬ В НАРИМАНОВСКОМ РАЙОНЕ\r\n\r\n📍 Наримановский район, Баку\r\n🏢 6-этажное здание в частной собственности\r\n📐 Общая площадь: 3 200 м²\r\n\r\n✨ ХАРАКТЕРИСТИКИ ОТЕЛЯ:\r\n• 50 номеров — 45 Deluxe + 5 VIP\r\n• 1 отдельный офис\r\n• Полностью оборудованная кухня\r\n• Современный спортивный зал\r\n• Система отопления/охлаждения Fan Coil\r\n• Подземный гараж (-1 этаж) — на 5 автомобилей\r\n• Дополнительная парковка на 7 автомобилей перед зданием\r\n• В настоящее время сдан в аренду и функционирует\r\n\r\n💼 ГОТОВЫЙ БИЗНЕС — ПРИВЛЕКАТЕЛЬНАЯ ВОЗМОЖНОСТЬ ДЛЯ ИНВЕСТИЦИЙ!\r\n\r\n🔑 Подробная информация предоставляется реальным и серьёзным покупателям.\r\n\r\n🏨 Также в продаже имеются отели в других районах.\r\nСвяжитесь с нами, чтобы получить подробную информацию о доступных отелях и инвестиционных возможностях.\r\n\r\n\r\n✅️✅️✅️✅️✅️\r\n\r\n🏨 READY-TO-OPERATE HOTEL IN NARIMANOV DISTRICT\r\n\r\n📍 Narimanov District, Baku\r\n🏢 6-storey privately owned building\r\n📐 Total area: 3,200 m²\r\n\r\n✨ HOTEL FEATURES:\r\n• 50 rooms — 45 Deluxe + 5 VIP\r\n• 1 separate office room\r\n• Fully equipped kitchen\r\n• Modern gym\r\n• Fan coil heating/cooling system\r\n• Basement (-1) garage — capacity for 5 cars\r\n• Additional parking space for 7 cars in front of the building\r\n• Currently leased and operating\r\n\r\n💼 READY BUSINESS — ATTRACTIVE INVESTMENT OPPORTUNITY!\r\n\r\n🔑 Detailed information is available for serious buyers.\r\n\r\n🏨 We also have hotels for sale in other locations.\r\nContact us to receive detailed information about available hotels and suitable investment opportunities.\r\n",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 9220000,
+        "date": "2026-10-06T12:57:43.519316+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6521280",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F15%2F05%2F30%2Fe2f67bd9-9cd5-4b5b-ad25-0fbf3df602ab%2F60542_mfMKn7T0KePu-nt1MDSP-w.jpg",
+    "price": 355000,
+    "location": "Bayıl q.",
+    "location_id": "49",
+    "location_name": "Bayıl",
+    "rooms": null,
+    "area_m2": 74,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T11:57:25+04:00",
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6521280",
+    "lat": 40.33930774375601,
+    "lng": 49.83518623309173,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "Satılır obyekt 75 m²",
+    "description": "\r\nBAYIL BAZARININ YANINDA OBYEKT SATILIR\r\n\r\n\r\nBayıl bazarının yaxınlığında, əlverişli və işlək ərazidə market tipli obyekt satışa çıxarılır.\r\n\r\nSahəsi: 75 kv.m\r\nTəyinatı: Market tipli obyekt\r\nİcarəsi 1500 man.\r\nSənədi: Çıxarış\r\n\r\nObyekt həm market, həm də digər kommersiya fəaliyyəti üçün əlverişli seçimdir.\r\n\r\nƏtraflı məlumat və qiymət üçün əlaqə saxlaya bilərsiniz.\r\n",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 355000,
+        "date": "2026-10-06T12:57:42.973354+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6517422",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F12%2F10%2F25%2F48c65121-424d-486f-be0e-7146cb979db7%2F16185_Hr61zQYD5SB8pCF16YdfFg.jpg",
+    "price": 480000,
+    "location": "Nəriman Nərimanov m.",
+    "location_id": "1",
+    "location_name": "Nəriman Nərimanov",
+    "rooms": null,
+    "area_m2": 100,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T12:06:52+04:00",
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6517422",
+    "lat": 40.39802291432998,
+    "lng": 49.87721993734883,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "Satılır obyekt 100 m²",
+    "description": "Nərimanov metrosunun yaxınlığında, Ağa Nemətulla küçəsində, əsas yolun kənarında yerləşən ümumi sahəsi 100 kv.m olan obyekt satılır.\r\nObyekt uzunmüddətli müqavilə əsasında yüksək məbləğlə icarədədir və hazır investisiya üçün əlverişli variantdır.\r\nƏtraflı məlumat almaq üçün qeyd olunan nömrə ilə əlaqə saxlaya bilərsiniz.....\r\n",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 480000,
+        "date": "2026-10-06T12:57:43.112303+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5010280",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F02%2F25%2F18%2F28%2F54%2Fce2de53c-1e69-4c69-be9a-4805558568f5%2F710_n_84bQNwZvpGSEPPCvJ-ng.jpg",
+    "price": 730000,
+    "location": "Bakıxanov q.",
+    "location_id": "69",
+    "location_name": "Bakıxanov",
+    "rooms": null,
+    "area_m2": 500,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": true,
+    "updated_at_site": "2026-10-08T12:20:07+04:00",
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5010280",
+    "lat": 40.42373581477014,
+    "lng": 49.96804601496681,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "Satılır obyekt 500 m²",
+    "description": "Qiymet Endirildi!!!!!Cox Təcili satılır!!!Cox super təklif!!!!!Bazar dəyərinnən qat-qat aşaqı qiymətə!!!Aylıq icarə gəliri  4000azn olan apartman bina!!!Daxilində 5 ədəd tam təmirli və əşyalı məzil (1ədəd 3 otaq və 4 ədəd 2 otaqlı mənzil) və 1 ədəd qeyri yaşayış obyekti var.Bütün mənzillər və qeyri yaşayış obyekti uzun müddətli icarədədir.Ətraflı məlumat üçün əlaqə saxlıya bilərsiniz.Real alıcı ilə qiymətdə razılaşmaq olar!!!\nDəyərinnən ucuz barter təkliflərinə baxıla bilər!!!",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 730000,
+        "date": "2026-10-06T12:57:43.378198+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6517255",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F11%2F45%2F05%2F2aa87a06-1572-4ffb-b4cc-83bb0611c92a%2F75504_AY1bnUbrwiF-vL8_HfDTXA.jpg",
+    "price": 80000,
+    "location": "İnşaatçılar m.",
+    "location_id": "7",
+    "location_name": "İnşaatçılar",
+    "rooms": null,
+    "area_m2": 40,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T12:23:51+04:00",
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6517255",
+    "lat": 40.38417088679336,
+    "lng": 49.80953144180297,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "Satılır obyekt 40 m²",
+    "description": "🚘 Moyka satılır — Elmlər Akademiyası\r\n\r\n📍 Elmlərdə, Karonanın ərazisində yerləşir\r\n 40 kV sahe\r\n💧 Su, işıq və bütün kommunal xətlər mövcuddur\r\n💰 Hazırda 900 AZN aylıq arendadadır\r\n\r\n🚗 Moykanın qarşısında avtomobillər üçün saxlama yeri də var.\r\n\r\n📑 Sənədləri tam qaydasındadır — çıxarış (kupça) var.\r\n\r\n💼 Ofis haqqı: 1%\r\n\r\n\r\n\r\n📞 Ətraflı məlumat və baxış üçün əlaqə saxlayın.",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 80000,
+        "date": "2026-10-06T12:57:43.378156+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6522361",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F19%2F03%2F29%2F34ca7c7d-6d9f-4ba0-bed0-5cfd46c74c7c%2F66464_tbOsg7TGlwzTa8Cutrp2bQ.jpg",
+    "price": 1500000,
+    "location": "Suraxanı r.",
+    "location_id": "14",
+    "location_name": "Suraxanı",
+    "rooms": null,
+    "area_m2": 900,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": false,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T12:56:22+04:00",
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6522361",
+    "lat": 40.42637850035289,
+    "lng": 50.03915508892426,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "Satılır obyekt 900 m²",
+    "description": "Suraxanı Bazarı, İcra Hakimiyyəti,Azərsun Arenaya yaxın 12 mərtəbəli yeni tikili binada 900kv Obyekt satılır\r\nHündürlük 4metr\r\nÇıxarış ilin sonu veriləcək\r\nXahiş olunur ciddi şəxslər əlaqə saxlasın",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1550000,
+        "date": "2026-10-06T19:31:32.972770+00:00"
+      },
+      {
+        "price": 1500000,
+        "date": "2026-10-08T19:31:29.227102+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6522297",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F18%2F47%2F09%2F2d0bd0d4-9a92-404e-9bdd-73d6a586cda6%2F60576_wZckZZVjRYOM0_7bw5Oj5A.jpg",
+    "price": 390000,
+    "location": "Neftçilər m.",
+    "location_id": "53",
+    "location_name": "Neftçilər",
+    "rooms": null,
+    "area_m2": 120,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": false,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": true,
+    "updated_at_site": "2026-10-08T13:13:37+04:00",
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6522297",
+    "lat": 40.4107382,
+    "lng": 49.9384708,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "Satılır obyekt 120 m²",
+    "description": "EKSKLÜZİV TƏKLİF! İNVESTORLAR VƏ Sahibkarlar ÜÇÜN HAZIR BİZNES OBYEKTİ! 🏢🔥\r\n​Neftçilərdə, Məlhəm Hospitalın arxasında, Cəmşid Naxçıvanskı küçəsi 73 ünvanında yerləşən, tam işlək və gəlirli kommersiya obyektini diqqətinizə təqdim edirik.\r\n​Əsas Göstəricilər\r\n​Sahə: 120 kv.m (Geniş və funksional planlama) 📐\r\n​Otaq sayı: 4 otaqlı bölmə 🚪\r\n​Sənəd: Kupça (Qeyri-yaşayış təyinatlı) 📄\r\n​Maliyyə və İcarə Üstünlüyü\r\n​Obyektin 50 kv.m hissəsi hazırda 700 AZN aylıq icarədədir.\r\n​Aktiv şəkildə gəlir gətirən, uzunmüddətli potensiala malik sərfəli investisiya fürsətidir. 💸\r\n​Yerləşmə və Potensial\r\n​Gediş-gəlişin sıx olduğu, əlverişli infrastrukturquruluşuna malik ərazi. 📍\r\n​Tibb müəssisəsinin yaxınlığı sayəsində müxtəlif xidmət, office, aptek və ya ticarət fəaliyyəti üçün ideal lokasiya. 🩺💼\r\n​Qiymət və ətraflı məlumat üçün birbaşa əlaqə saxlayın! 📞",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 390000,
+        "date": "2026-10-06T19:31:33.164443+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6520694",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F12%2F55%2F42%2Fd4b0ba24-9182-4e88-980a-a62be3da6bc3%2F37094_inkV3VVPMvaFjRWmKkM3xQ.jpg",
+    "price": 1600000,
+    "location": "Şah İsmayıl Xətai m.",
+    "location_id": "36",
+    "location_name": "Şah İsmayıl Xətai",
+    "rooms": null,
+    "area_m2": 160,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T13:21:34+04:00",
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6520694",
+    "lat": 40.38360895379377,
+    "lng": 49.8767755668669,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "Satılır obyekt 160 m²",
+    "description": "Hazır, tam fəaliyyət gösterən və gəlirli restoran satılır. Mükəmməl yerləşmə: restoran böyük bir biznes mərkəzinin tam qarşısında yerləşir. Bu, zəmanətli müştəri axınını təmin edir: gündüzlər biznes-lançlar, axşamlar isə işgüzar görüşlər. Obyekt tam təchiz olunub, zal və mətbəx üçün bütün lazımi avadanlıqlar, mebel və bütün kommunikasiyalar mövcuddur. Restoran şəxsi istifadədə olub və əla nüfuza malikdir.",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1600000,
+        "date": "2026-10-06T12:57:43.242278+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6520899",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F13%2F40%2F45%2F58ec3551-a560-4148-96b4-4d618ea3fffe%2F60588_H-sk5GqYul-T3CZbUOOPXg.jpg",
+    "price": 2500000,
+    "location": "Azadlıq Prospekti m.",
+    "location_id": "6",
+    "location_name": "Azadlıq Prospekti",
+    "rooms": null,
+    "area_m2": 1100,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T13:48:00+04:00",
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6520899",
+    "lat": 40.42686326753307,
+    "lng": 49.83843520316314,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "Satılır obyekt 1100 m²",
+    "description": "AZADLIQ METROSUNUN YAXINLIĞINDA 5 MƏRTƏBƏLİ OBYEKT – SATIŞA VƏ İCARƏYƏ VERİLİR!\r\n\r\n📍 Ünvan: Binəqədi rayonu, Azadlıq prospekti 195B\r\n🚇 Azadlıq metrosundan cəmi 150 metr məsafədə\r\n\r\nObyekt haqqında:\r\n🔹 5 mərtəbəli, ayrıca tikili\r\n🔹 30+ otaq\r\n🔹 1-ci mərtəbədə geniş vitrin şüşələri\r\n🔹 Geniş konfrans zalı\r\n🔹 Hər mərtəbədə sanitar qovşaq və mətbəx sahəsi\r\n🔹 Mərtəbələr üzrə mərkəzləşdirilmiş kondisioner sistemi\r\n🔹 Kombi istilik sistemi – tam işlək vəziyyətdə\r\n🔹 Qaz xətti və elektrik təchizatı\r\n🔹 Bütün zəruri kommunikasiyalar mövcuddur\r\n\r\n📑 Sənədlər tam qaydasındadır: həm torpağın, həm də obyektin çıxarışı mövcuddur.\r\n\r\n💼 Hazırda obyekt icarədədir, bu səbəbdən həm biznes üçün, həm də gəlir gətirən investisiya obyekti kimi əlverişli seçimdir.\r\n\r\n💰 Həm satılır, həm də icarəyə verilir.\r\n\r\n🤝 Real alıcı ilə obyektə baxış zamanı, yerində razılaşma əsasında endirim mümkündür.\r\n\r\n📞 Əlavə məlumat və baxış üçün əlaqə saxlaya bilərsiniz.",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 2500000,
+        "date": "2026-10-06T12:57:43.112256+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6522239",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F18%2F33%2F12%2F5a58a605-29de-4861-ba53-91154656e1d8%2F39942_XKmKJ16kTMU00NpOHakgsg.jpg",
+    "price": 650000,
+    "location": "Əhmədli m.",
+    "location_id": "51",
+    "location_name": "Əhmədli",
+    "rooms": null,
+    "area_m2": 155,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T14:22:03+04:00",
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6522239",
+    "lat": 40.38992186050744,
+    "lng": 49.96185992971152,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "Satılır obyekt 155 m²",
+    "description": "2000 MANATA UZUNMÜDDƏTLİ İCARƏDƏ!!!\r\nBabək prospektindən Əhmədli metrosu tərəfə gedən əsas yolun kənarında,yeni tikili binanın 1-ci mərtəbəsində,qeyri-yaşayış kupçalı,işlək,tam təmirli obyekt təcili olaraq satılır.Obyekt 10 illik müqavilə ilə aylıq təmiz ələçatan 2000 manat məbləğində Oba Marketlər şəbəkəsinə icarəyə verilib.Sənədi Qeyri-Yaşayış Kupçadır.Birbaşa əsas yola baxır,sıx gediş-gəlişli ərazidir və ətraf hündür mərtəbəli yaşayış binalarıdır.Ən əsas amillərdən biri Qarşısında parkinqi mövcuddur.Ümumi sahəsi 155 kv.m təşkil edir.Obyektin 2 girişi mövcuddur – biri bina kompleksinin içərisindən, digəri isə açıq ərazidən,əsas yolun kənarındandır.7 saylı poliklinikaya,Baku Medical Plazaya,Əhmədli metrosuna yaxın ərazidir.Allah alanada,satanada,bizədə xeyir versin İnşaAllah.Ətraflı məlumat üçün zəng edə bilərsiniz.Ofis haqqı 1%.\r\n",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 650000,
+        "date": "2026-10-06T19:31:33.365751+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6521056",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F14%2F04%2F58%2Fcf69dc6a-b207-42d1-8ee5-e290dcb709ab%2F60555_9mU8RsMaNsz4Si34hcS7lg.jpg",
+    "price": 525000,
+    "location": "Neftçilər m.",
+    "location_id": "53",
+    "location_name": "Neftçilər",
+    "rooms": null,
+    "area_m2": 130,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T14:52:06+04:00",
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6521056",
+    "lat": 40.40441390257602,
+    "lng": 49.94830904199743,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "Satılır obyekt 130 m²",
+    "description": "Obyekt oba markete icariye verilib.qeyri yasyis çixarisi var .8ci kilometr bazarin yaninda yerlesir ayri tikilidi.Qiymet obyektin yaninda danisilacax.",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 525000,
+        "date": "2026-10-06T12:57:43.112203+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6038984",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F04%2F12%2F15%2F53%2F19%2F297c3852-6242-4462-a07c-e35f4c8b97c6%2F40072_cfI25TuvKp_aCfwK7HoE_g.jpg",
+    "price": 850000,
+    "location": "Hövsan q.",
+    "location_id": "93",
+    "location_name": "Hövsan",
+    "rooms": null,
+    "area_m2": 2500,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": false,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": true,
+    "updated_at_site": "2026-10-08T14:59:10+04:00",
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6038984",
+    "lat": 40.36160873441352,
+    "lng": 50.08114142578248,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "Satılır obyekt 2500 m²",
+    "description": "Stoyanka butun senedler var \r\nBoyuk market tikmeye elverishlidi",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 850000,
+        "date": "2026-10-06T12:57:42.973389+00:00"
+      }
+    ]
+  },
+  {
+    "id": "5560878",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2025%2F10%2F04%2F15%2F39%2F51%2F75f6c03d-7198-468a-a67a-3e15cb1873d2%2F89649_IdiJWhN4F5E3SSESYyyqZg.jpg",
+    "price": 245000,
+    "location": "Elmlər Akademiyası m.",
+    "location_id": "34",
+    "location_name": "Elmlər Akademiyası",
+    "rooms": null,
+    "area_m2": 90,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T16:02:32+04:00",
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/5560878",
+    "lat": 40.37735157682465,
+    "lng": 49.80855669444274,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "Satılır obyekt 90 m²",
+    "description": "Mətbuat prospektində, yeni tikili binanın altında (həyət içi, giriş həyətdən), ümumi sahəsi 90 m2 olan (iki mərtəbəyə bölünüb, çıxarışla 45 M2) obyekt satılır. Obyekt 3 hissəyə bölünüb, hər birisi ayrı ayrılığda kirayədədir. 1- Meyvə-tərəvəz, 2 - ofis və 3 - dərzi.",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 245000,
+        "date": "2026-10-06T19:31:32.766609+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6519137",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F17%2F46%2F38%2Fa1a6f1e8-22b7-409b-9a29-c97603bbd650%2F72407_g7rPkC0_kDnyOA0Uom5sGg.jpg",
+    "price": 43000,
+    "location": "20 Yanvar m.",
+    "location_id": "5",
+    "location_name": "20 Yanvar",
+    "rooms": null,
+    "area_m2": 32,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T17:35:20+04:00",
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6519137",
+    "lat": 40.39835930178342,
+    "lng": 49.80040835050808,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "Satılır obyekt 32 m²",
+    "description": "\r\n\r\n\r\nYasamal rayonunda, əsas yolun kənarında yerləşən 32 kv sahəsi olan obyekt satışa çıxarılır. Obyekt hazırda 300 azn  icarədədir və stabil gəlir gətirir. Yerləşmə mövqeyi həm biznes, həm də investisiya üçün əlverişlidir.Obyektdə su,işıq və kanalizasiya xəttləri movcudur.\r\nObyektin bütün sənədləri qaydasındadır.\r\n\r\nReal müştəriyə qiymətdə razılaşmaq mümkündür.\r\n\r\nƏtraflı məlumat və baxış üçün əlaqə saxlaya bilərsiniz.\r\n\r\n",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 43000,
+        "date": "2026-10-06T12:57:44.204248+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6421733",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F08%2F31%2F17%2F22%2F47%2Ff0e050c9-2fe4-498b-b688-8772e9be08da%2F68134_PnaNRi1Xmtb8oIQ6i6F4JQ.jpg",
+    "price": 1400000,
+    "location": "Nizami m.",
+    "location_id": "35",
+    "location_name": "Nizami",
+    "rooms": null,
+    "area_m2": 165,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T17:37:51+04:00",
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6421733",
+    "lat": 40.37988027144024,
+    "lng": 49.8213331614685,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "Satılır obyekt 165 m²",
+    "description": "Срочно! Эксклюзив! В центре! На пересечении проспекта Стройтеля и 6-й параллельной улицы, под новопостроенным жилым комплексом, продается ресторан известного бренда общей площадью 165 кв.м. + небольшая терраса. Очень интенсивное пешеходное и автомобильное движение. Преимущество: густонаселенный жилой район с высокой проходимостью. Есть все условия, развитая инфраструктура, парковка и т.д. Все документы в поддержку, покупаемая на нежилое помещение. Оплата 1%.\r\n\r\n\r\nTəcili! Eksklüziv! Mərkəzdə! İnşaatçılar prospekti ilə 6-cı paralel küçənin kəsişməsində, yeni tikilmiş yaşayış kompleksinin altında ümumi sahəsi 165 kv. m olan məşhur brendin restoranı satılır.Kiçik terras. Çox sıx piyada və avtomobil trafiki. Üstünlük: yüksək trafikə malik sıx məskunlaşmış yaşayış sahəsi. Hər cür şərait, inkişaf etmiş infrastruktur, parkinq və s.Qeyri-yaşayış çıxarış. Ödəniş 1%.",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 1400000,
+        "date": "2026-10-06T12:57:42.973555+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6521109",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F14%2F32%2F41%2F4747b084-1882-423a-9c36-6d3fd4c7f11a%2F49678_bSMAqENcmvhaOcmiHtF7Fw.jpg",
+    "price": 550000,
+    "location": "Sahil m.",
+    "location_id": "38",
+    "location_name": "Sahil",
+    "rooms": null,
+    "area_m2": 90,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T17:38:07+04:00",
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6521109",
+    "lat": 40.37040776201581,
+    "lng": 49.84390651815193,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "Satılır obyekt 90 m²",
+    "description": "В центре! На пересечении улиц Гоголя и Б.Сафароглу,недалеко от Торговой,продается объект общей площадью 90 кв.м.С ремонтом. В данное время находится в долгосрочной аренде за 2500 азн, функционирует как женский салон красоты. Документы в порядке,купчая на нежилое помещение. 2 большие и 1 маленькая витрина. Очень интенсивный пешеходный и автомобильный трафик. Преимущество: густонаселённый жилой район с высокой проходимостью. Имеются все условия, развитая инфраструктура, паркинг и т.д.Оплата 1%.\r\n\r\n\r\nMərkəzdə! Qoqol və B. Səfəroğlu küçələrinin kəsişməsində, Torqoviy yaxınlığında ümumi sahəsi 90 kv.m.olan obyekt satılır.Obyekt təmirlidir.2 böyük və 1 balaça vitrin var. Hazırda 2500 azn uzunmüddətli icarədədir, qadın gözəllik salonu kimi fəaliyyət göstərir.Sənədlər qaydasındadır, qeyri-yaşayış sahəsinə kupça var. Çox intensiv piyada və avtomobil trafiki.Yüksək keçid ilə sıx məskunlaşmış yaşayış sahəsi. Bütün şərait, inkişaf etmiş infrastruktur, parkinq və s. mövcuddur.Ödəniş 1%.",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 550000,
+        "date": "2026-10-06T12:57:42.973504+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6521075",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F14%2F24%2F41%2Ff87f36ed-ecff-4116-9d5e-4be6f463b04c%2F60585_C1ztRydsc1Lj24TQbk94Fg.jpg",
+    "price": 650000,
+    "location": "Həzi Aslanov m.",
+    "location_id": "33",
+    "location_name": "Həzi Aslanov",
+    "rooms": null,
+    "area_m2": 230,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T19:59:02+04:00",
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6521075",
+    "lat": 40.3751568718646,
+    "lng": 49.95789141563365,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "Satılır obyekt 230 m²",
+    "description": "\r\n\r\n🔥 GƏNCƏ PROSPEKTİ 🔥\r\n📍 YOLUN TAM KƏNARI\r\n\r\n━━━━━━━━━━\r\n🏢 2 MƏRTƏBƏLİ OBYEKT\r\n💊 1-ci mərtəbə: Aptek\r\n📢 2-ci mərtəbə: Reklam agentliyi\r\n🛣️ Yolun tam kənarı\r\n👥 Uzun illər eyni icarəçilər\r\n💰 RƏSMİ 3500 AZN İCARƏ - HAZIR GƏLİR\r\n━━━━━━━━━━\r\n\r\n💥 STABİL İCARƏÇİ - YÜKSƏK GƏLİR 💥\r\n💥 XİDMƏT HAQQI: 1% 💥",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 650000,
+        "date": "2026-10-06T12:57:43.112189+00:00"
+      }
+    ]
+  },
+  {
     "id": "6516480",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F06%2F16%2F48%2F18%2Fb4563c8a-fc0f-40a7-9b71-4f085cec465e%2F60555_a_IOzkzcgA4FbmtD7fYVWw.jpg",
     "price": 4000800,
@@ -4673,7 +4575,7 @@
     "has_bill_of_sale": true,
     "has_mortgage": true,
     "is_featured": true,
-    "updated_at_site": "2026-10-07T20:00:26+04:00",
+    "updated_at_site": "2026-10-08T20:00:26+04:00",
     "category": "commercial",
     "deal_type": "sale",
     "url": "https://bina.az/items/6516480",
@@ -4688,6 +4590,74 @@
       {
         "price": 4000800,
         "date": "2026-10-06T12:57:42.692285+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6517515",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F12%2F28%2F54%2F85bd8409-1e93-4abb-b5b4-10e361f2f2e7%2F21579_Zj9dv5F6qLqmH7XjRjd2YQ.jpg",
+    "price": 3000000,
+    "location": "Şah İsmayıl Xətai m.",
+    "location_id": "36",
+    "location_name": "Şah İsmayıl Xətai",
+    "rooms": null,
+    "area_m2": 507,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": false,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T22:17:33+04:00",
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6517515",
+    "lat": 40.37884236894962,
+    "lng": 49.87213408325452,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "Satılır obyekt 507 m²",
+    "description": "Dəyərindən çox ucuz təklif olunur. (Qiymət Sondur !)\r\n\r\nXətai rayonu, Afiyyətdin Cəlilov küç. Xətai metrosuna yaxın, ümumi sahəsi 507 kv-m olan, 10 otaqlı  obyekt satılır\r\nYeni tikili binanın 1-ci mərtəbəsində yerləşir\r\nİnsanların gediş gəlişli yeridi.\r\nPrestijli və daima inkişafda olan ərazidir.\r\n \r\n( Hall hazırda diş klinikası kimi uzun müddətdi icarədədir.Aylıq gəlir 25000 azn dir.(Vergi Xaric)\r\nƏlavə və ətraflı məlumat üçün qeyd olunan nömrə ilə əlaqə saxlayın\r\n \r\n",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 3000000,
+        "date": "2026-10-06T12:57:44.601741+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6519182",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F17%2F59%2F55%2Fa5940bea-2fbb-4821-842d-017cc8811f77%2F921_ZjwE8VS0BdQB6wQnWItu9A.jpg",
+    "price": 200000,
+    "location": "Azadlıq Prospekti m.",
+    "location_id": "6",
+    "location_name": "Azadlıq Prospekti",
+    "rooms": null,
+    "area_m2": 40,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": true,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "is_featured": false,
+    "updated_at_site": "2026-10-08T22:23:14+04:00",
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6519182",
+    "lat": 40.417605139111,
+    "lng": 49.84019900599705,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "Satılır obyekt 40 m²",
+    "description": "600 MANATA UZUNMÜDDƏTLİ İCARƏDƏ✅\nŞəhərin ən gediş-gəlişli ərazilərindən birində,8-ci mikrorayonda,İbadın binaları kimi adlanan yeni tikili binanin 1-ci mertebesinde qeyri-yaşayış kupçalı ümumi sahəsi 40 kv.m olan işlək obyekt təcili olaraq satılır.Obyekt sıx gediş-gəlişli ərazidə yerləşir və ətraf sırada hamlsl işlək obyektlərdir.Obyekt uzunmüddətli müqavilə ilə aylıq 600 manata icarədədir(real icarə dəyəri 1000 manatdır).Qabağında maşın saxlamaq üçün rahat ərazi var.Sənəd Qeyri-yaşayış Kupçadır.Alqı-satqıya tam olaraq hazırdır.Real alıcıya endirim olacaq.Ofis haqqı 1%.",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 200000,
+        "date": "2026-10-06T12:57:44.069965+00:00"
       }
     ]
   },
@@ -4756,6 +4726,40 @@
       {
         "price": 8500,
         "date": "2026-10-06T12:57:42.833327+00:00"
+      }
+    ]
+  },
+  {
+    "id": "6138690",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F18%2F10%2F01%2F13%2Fa2467c1c-19cb-498d-97fd-2ddc3ea77648%2F29218_vASbRbYo0YonEjA6QS7cFg.jpg",
+    "price": 340000,
+    "location": "Əhmədli m.",
+    "location_id": "51",
+    "location_name": "Əhmədli",
+    "rooms": null,
+    "area_m2": 66,
+    "floor": null,
+    "floor_number": null,
+    "is_agency": false,
+    "has_repair": true,
+    "has_bill_of_sale": true,
+    "has_mortgage": true,
+    "is_featured": false,
+    "updated_at_site": "2026-10-07T12:08:14+04:00",
+    "category": "commercial",
+    "deal_type": "sale",
+    "url": "https://bina.az/items/6138690",
+    "lat": 40.3899197640348,
+    "lng": 49.95779772217825,
+    "land_area_sot": null,
+    "building_type": "Obyekt",
+    "title": "Satılır obyekt 66 m²",
+    "description": "9 mərtəbəli binanın birinci mərtəbəsi. 3 ayrı girişləri olan otaqlardan, 2 ayrı girişləri olan yardımçısı texniki otaqlardan və zirzəmidən ibarətdir.",
+    "deleted_at": "2026-10-08T19:31:48.303887+00:00",
+    "price_history": [
+      {
+        "price": 340000,
+        "date": "2026-10-06T12:57:43.378240+00:00"
       }
     ]
   }

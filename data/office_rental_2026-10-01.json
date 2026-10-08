@@ -858,39 +858,6 @@
     "rooms": "2 otaqlı"
   },
   {
-    "id": "6136034",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F16%2F17%2F24%2F42%2F45eca17e-a91c-45e5-84c2-3aa8d155893c%2F68036_SGDUTyb76OcldMI8l0C-ag.jpg",
-    "price": 650,
-    "location": "İçəri Şəhər m.",
-    "area_m2": 72,
-    "floor": null,
-    "is_agency": true,
-    "lat": 40.36712127552995,
-    "lng": 49.83141295152165,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-04T16:25:40+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 3 otaqlı ofis 72 m²",
-    "description": "📌 Elan kodunu (№0316) qeyd edərək bizimlə əlaqə saxlayın!\n📍 Rayon: Səbail.\n🏠 Ünvan: İsdiqlaliyyət küçəsi (İran Səfirliyinin yanı, İçərişəhər metrosuna 1-dəq məsafə)\n📐 Sahə: 72 kv/m\n📊 Mərtəbə: 4/1\n🛋️ Otaq sayı: 3 otaq + mətbəx və 1 sanitar qovşağı\n📝 Qeydlər: 2 kondisioner, internet var. Şəkildə görülən əşyalar qalacaq. Su, işıq qeyri yaşayışdır.\n\n📑 Sənəd: Kupça (Yaşayış) (Notarial müqavilə bağlamaq mümkündür)\n💵 Aylıq icarə: 650 AZN.\n💼 Ofis haqqı: 30%.\n📞 Ətraflı məlumat üçün whatsappa yaza və ya zəng edə bilərsiniz!\n",
-    "building_type": "Ofis",
-    "location_id": "37",
-    "location_name": "İçəri Şəhər",
-    "category": "office",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6136034",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 650,
-        "date": "2026-10-01T12:04:32.464784+00:00"
-      }
-    ],
-    "rooms": "3 otaqlı"
-  },
-  {
     "id": "6507090",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F05%2F17%2F44%2F29%2F575ece84-abdb-4165-8124-006873866ac2%2F72373_Iy80n5MN9cHck3er7jqfxA.jpg",
     "price": 2200,
@@ -922,39 +889,6 @@
       }
     ],
     "rooms": "5 otaqlı"
-  },
-  {
-    "id": "6507508",
-    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F13%2F50%2F35%2F6f0ea75d-cb26-4cfe-9dd7-c6200555ae77%2F60581_5QdO4goQY7-EGtl1FcCdvA.jpg",
-    "price": 450,
-    "location": "Bakıxanov q.",
-    "area_m2": 60,
-    "floor": null,
-    "is_agency": false,
-    "lat": 40.41800996331385,
-    "lng": 49.9617788524449,
-    "has_repair": true,
-    "has_bill_of_sale": false,
-    "has_mortgage": false,
-    "floor_number": null,
-    "updated_at_site": "2026-10-06T08:26:22+04:00",
-    "is_featured": false,
-    "title": "İcarəyə verilir 2 otaqlı ofis 60 m²",
-    "description": "Obyekt icarəyə verilir\r\n\r\nRazində İcra Hakimiyyəti tərəfdə\r\n\r\nYol kənarı\r\n\r\n2 ayrı obyekt\r\n\r\nTəmirdən yeni çıxıb\r\n\r\n",
-    "building_type": "Ofis",
-    "location_id": "69",
-    "location_name": "Bakıxanov",
-    "category": "office",
-    "deal_type": "rental",
-    "url": "https://bina.az/items/6507508",
-    "deleted_at": null,
-    "price_history": [
-      {
-        "price": 450,
-        "date": "2026-10-01T12:04:32.464110+00:00"
-      }
-    ],
-    "rooms": "2 otaqlı"
   },
   {
     "id": "6508007",
@@ -1023,9 +957,42 @@
     "rooms": "20 otaqlı"
   },
   {
+    "id": "6136034",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F05%2F16%2F17%2F24%2F42%2F45eca17e-a91c-45e5-84c2-3aa8d155893c%2F68036_SGDUTyb76OcldMI8l0C-ag.jpg",
+    "price": 650,
+    "location": "İçəri Şəhər m.",
+    "area_m2": 72,
+    "floor": null,
+    "is_agency": true,
+    "lat": 40.36712127552995,
+    "lng": 49.83141295152165,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-08T10:54:21+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 3 otaqlı ofis 72 m²",
+    "description": "📌 Elan kodunu (№0316) qeyd edərək bizimlə əlaqə saxlayın!\n📍 Rayon: Səbail.\n🏠 Ünvan: İsdiqlaliyyət küçəsi (İran Səfirliyinin yanı, İçərişəhər metrosuna 1-dəq məsafə)\n📐 Sahə: 72 kv/m\n📊 Mərtəbə: 4/1\n🛋️ Otaq sayı: 3 otaq + mətbəx və 1 sanitar qovşağı\n📝 Qeydlər: 2 kondisioner, internet var. Şəkildə görülən əşyalar qalacaq. Su, işıq qeyri yaşayışdır.\n\n📑 Sənəd: Kupça (Yaşayış) (Notarial müqavilə bağlamaq mümkündür)\n💵 Aylıq icarə: 650 AZN.\n💼 Ofis haqqı: 30%.\n📞 Ətraflı məlumat üçün whatsappa yaza və ya zəng edə bilərsiniz!\n",
+    "building_type": "Ofis",
+    "location_id": "37",
+    "location_name": "İçəri Şəhər",
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6136034",
+    "deleted_at": null,
+    "price_history": [
+      {
+        "price": 650,
+        "date": "2026-10-01T12:04:32.464784+00:00"
+      }
+    ],
+    "rooms": "3 otaqlı"
+  },
+  {
     "id": "5796168",
     "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F01%2F10%2F19%2F49%2F49%2Fe58743c8-6aca-48e6-bad5-9633e007acc5%2F46628_U3uQrnr3aQUuI6stpgm12Q.jpg",
-    "price": 1400,
+    "price": 14800,
     "location": "28 May m.",
     "area_m2": 120,
     "floor": null,
@@ -1036,7 +1003,7 @@
     "has_bill_of_sale": false,
     "has_mortgage": false,
     "floor_number": null,
-    "updated_at_site": "2026-10-07T13:49:38+04:00",
+    "updated_at_site": "2026-10-08T13:49:37+04:00",
     "is_featured": false,
     "title": "İcarəyə verilir 3 otaqlı ofis 120 m²",
     "description": "Port Baku 2 More More restoraninin arxasinda  9 mərtəbəli binanin 9 cu\nmərtəbəsində  3otaq 2 sanuzel… Təmirli Home ofis kirayə verilir… ofis əşyaları ilə...27 nömrəli məktəbin yaninda...Qiymeti 1400….",
@@ -1051,6 +1018,10 @@
       {
         "price": 1400,
         "date": "2026-10-01T12:04:32.464593+00:00"
+      },
+      {
+        "price": 14800,
+        "date": "2026-10-08T19:31:23.577968+00:00"
       }
     ],
     "rooms": "3 otaqlı"
@@ -1086,5 +1057,38 @@
         "date": "2026-10-01T12:04:32.464053+00:00"
       }
     ]
+  },
+  {
+    "id": "6507508",
+    "photo_url": "https://bina.azstatic.com/uploads/f460x345/2026%2F10%2F01%2F13%2F50%2F35%2F6f0ea75d-cb26-4cfe-9dd7-c6200555ae77%2F60581_5QdO4goQY7-EGtl1FcCdvA.jpg",
+    "price": 450,
+    "location": "Bakıxanov q.",
+    "area_m2": 60,
+    "floor": null,
+    "is_agency": false,
+    "lat": 40.41800996331385,
+    "lng": 49.9617788524449,
+    "has_repair": true,
+    "has_bill_of_sale": false,
+    "has_mortgage": false,
+    "floor_number": null,
+    "updated_at_site": "2026-10-06T08:26:22+04:00",
+    "is_featured": false,
+    "title": "İcarəyə verilir 2 otaqlı ofis 60 m²",
+    "description": "Obyekt icarəyə verilir\r\n\r\nRazində İcra Hakimiyyəti tərəfdə\r\n\r\nYol kənarı\r\n\r\n2 ayrı obyekt\r\n\r\nTəmirdən yeni çıxıb\r\n\r\n",
+    "building_type": "Ofis",
+    "location_id": "69",
+    "location_name": "Bakıxanov",
+    "category": "office",
+    "deal_type": "rental",
+    "url": "https://bina.az/items/6507508",
+    "deleted_at": "2026-10-08T19:31:36.721885+00:00",
+    "price_history": [
+      {
+        "price": 450,
+        "date": "2026-10-01T12:04:32.464110+00:00"
+      }
+    ],
+    "rooms": "2 otaqlı"
   }
 ]
