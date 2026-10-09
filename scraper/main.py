@@ -25,6 +25,7 @@ from scraper.browser import (
     warmup,
 )
 from scraper.categories import CATEGORIES
+from scraper import transport as _transport
 
 load_dotenv()
 
@@ -55,10 +56,10 @@ def _file_stem(category: str, deal_type: str) -> str:
 try:
     import orjson as _orjson
     def _json_loads(s): return _orjson.loads(s)
-    def _json_dumps(obj): return _orjson.dumps(obj, option=_orjson.OPT_INDENT_2 | _orjson.OPT_NON_STR_KEYS).decode()
+    def _json_dumps(obj): return _orjson.dumps(obj, option=_orjson.OPT_NON_STR_KEYS).decode()
 except ImportError:
     def _json_loads(s): return json.loads(s)
-    def _json_dumps(obj): return json.dumps(obj, ensure_ascii=False, indent=2)
+    def _json_dumps(obj): return json.dumps(obj, ensure_ascii=False, separators=(',', ':'))
 
 
 def telegram_notify(text: str) -> None:
@@ -121,6 +122,9 @@ def save_listings(
     stem = _file_stem(category, deal_type)
 
     dirty_files = {file_map.get(id_, today_filename) for id_ in dirty_ids}
+    # Always register today's file in the manifest even if nothing changed,
+    # so the frontend can see all dates without gaps.
+    _update_manifest(stem, dirty_files | {today_filename})
     if not dirty_files:
         return
 
@@ -129,7 +133,7 @@ def save_listings(
     for id_, listing in existing.items():
         by_file[file_map.get(id_, today_filename)].append(listing)
 
-    for filename in dirty_files:
+    for filename in dirty_files:  # dirty_files excludes today_filename if empty
         path = DATA_DIR / filename
         sorted_listings = sorted(
             by_file.get(filename, []),
@@ -138,8 +142,6 @@ def save_listings(
         output = _json_dumps(sorted_listings)
         output = output.replace("\u2028", "\\u2028").replace("\u2029", "\\u2029")
         path.write_text(output, encoding="utf-8")
-
-    _update_manifest(stem, dirty_files)
 
 
 # ── ESItem parsing ────────────────────────────────────────────────────────────
@@ -232,7 +234,7 @@ def upsert(existing: dict[str, dict], listing: dict) -> str:
 
 # ── Scrape category ───────────────────────────────────────────────────────────
 
-async def scrape_category(page, cfg: dict) -> None:
+async def scrape_category(page, cfg: dict, transport_stops: list = (), transport_lats: list = ()) -> None:
     category = cfg["category"]
     deal_type = cfg["deal_type"]
     print(f"\n→ {category}/{deal_type}")
@@ -328,6 +330,8 @@ async def scrape_category(page, cfg: dict) -> None:
                         r[key] = val
                 if gql.get("area_m2_gql") and not r.get("area_m2"):
                     r["area_m2"] = gql["area_m2_gql"]
+                if transport_stops and r.get("lat") and r.get("lng"):
+                    _transport.enrich(r, transport_stops, transport_lats)
 
     # Deletion detection — only when we fetched every page
     if all_pages_fetched:
@@ -349,13 +353,16 @@ async def scrape_category(page, cfg: dict) -> None:
 
 # ── Orchestration ─────────────────────────────────────────────────────────────
 
-async def scrape_category_isolated(cfg: dict, sem: asyncio.Semaphore, errors: list) -> None:
+async def scrape_category_isolated(
+    cfg: dict, sem: asyncio.Semaphore, errors: list,
+    transport_stops: list, transport_lats: list,
+) -> None:
     async with sem:
         try:
             async with open_browser(headless=True) as browser:
                 page = await browser.new_page()
                 await warmup(page)
-                await scrape_category(page, cfg)
+                await scrape_category(page, cfg, transport_stops, transport_lats)
         except Exception as exc:
             msg = f"{cfg['category']}/{cfg['deal_type']}: {exc}"
             print(f"  ERROR {msg}")
@@ -367,11 +374,21 @@ async def main(categories: list | None = None) -> None:
     errors: list[str] = []
     targets = categories or CATEGORIES
 
+    # Load transport stops index once for all categories
+    _transport_stops, _transport_lats = _transport.load_and_build(DATA_DIR)
+    if _transport_stops:
+        print(f"Transport index: {len(_transport_stops)} stops loaded")
+    else:
+        print("Transport index: transport_stops.json not found, skipping proximity enrichment")
+
     print(f"Scraping {len(targets)} categories with concurrency={min(CONCURRENCY, len(targets))}")
     sem = asyncio.Semaphore(min(CONCURRENCY, len(targets)))
 
     await asyncio.gather(
-        *[scrape_category_isolated(cfg, sem, errors) for cfg in targets]
+        *[
+            scrape_category_isolated(cfg, sem, errors, _transport_stops, _transport_lats)
+            for cfg in targets
+        ]
     )
 
     lines = ["✅ <b>emlak-ai scrape complete</b>"]

@@ -219,38 +219,55 @@ function computeScores(listings) {
       const h = l.price_history || [];
       const dropped = h.length >= 2 && h[h.length - 1].price < h[0].price;
 
+      // Transport: single type-weighted walk score (max 15 pts, no double-counting)
+      // Metro is worth more per minute than bus — discounted by a type factor
+      const TYPE_FACTOR = { metro: 0.7, train: 0.8, bus: 1.0 };
+      const wMin = l.walk_min_to_transport;
+      let transportScore = 0;
+      if (wMin != null) {
+        const effWalk = wMin * (TYPE_FACTOR[l.nearest_transport_type] || 1.0);
+        if      (effWalk <= 4)  transportScore = 15;
+        else if (effWalk <= 8)  transportScore = 10;
+        else if (effWalk <= 14) transportScore = 5;
+      }
+
       if (cat === 'apartment') {
-        if (ppm2Pct[gi]  != null) score += 50 * ppm2Pct[gi];
-        if (l.building_type === 'Yeni tikili') score += 20;
+        if (ppm2Pct[gi]  != null) score += 45 * ppm2Pct[gi];
+        if (l.building_type === 'Yeni tikili') score += 18;
         else if (l.building_type === 'Köhnə tikili') score += 5;
-        score += 15 * ownerPts;
-        if (dropped) score += 10;
+        score += 13 * ownerPts;
+        if (dropped) score += 9;
         if (isSale && l.has_bill_of_sale === true) score += 5;
+        score += transportScore;
 
       } else if (cat === 'house') {
-        if (ppm2Pct[gi]  != null) score += 35 * ppm2Pct[gi];
-        if (ppsotPct[gi] != null) score += 30 * ppsotPct[gi];
-        score += 15 * ownerPts;
-        if (dropped) score += 15;
+        if (ppm2Pct[gi]  != null) score += 32 * ppm2Pct[gi];
+        if (ppsotPct[gi] != null) score += 27 * ppsotPct[gi];
+        score += 13 * ownerPts;
+        if (dropped) score += 13;
         if (isSale && l.has_bill_of_sale === true) score += 5;
+        score += transportScore;
 
       } else if (cat === 'land') {
-        if (ppsotPct[gi] != null) score += 70 * ppsotPct[gi];
-        else if (ppm2Pct[gi] != null) score += 70 * ppm2Pct[gi];
-        score += 15 * ownerPts;
-        if (dropped) score += 10;
+        if (ppsotPct[gi] != null) score += 62 * ppsotPct[gi];
+        else if (ppm2Pct[gi] != null) score += 62 * ppm2Pct[gi];
+        score += 13 * ownerPts;
+        if (dropped) score += 9;
         if (isSale && l.has_bill_of_sale === true) score += 5;
+        score += transportScore;
 
       } else if (cat === 'commercial' || cat === 'office') {
-        if (ppm2Pct[gi]  != null) score += 55 * ppm2Pct[gi];
-        score += 20 * ownerPts;
-        if (dropped) score += 15;
-        if (isSale && l.has_bill_of_sale === true) score += 10;
+        if (ppm2Pct[gi]  != null) score += 50 * ppm2Pct[gi];
+        score += 18 * ownerPts;
+        if (dropped) score += 13;
+        if (isSale && l.has_bill_of_sale === true) score += 9;
+        score += transportScore;
 
       } else if (cat === 'garage') {
         if (ppm2Pct[gi]  != null) score += 65 * ppm2Pct[gi];
         score += 25 * ownerPts;
         if (dropped) score += 10;
+        // garages: transport not relevant
       }
 
       l._score = Math.round(Math.min(100, score));
@@ -364,6 +381,9 @@ function cardHTML(l, idx) {
   else if (sot) unitPrice = `<div class="card-unit-price">${fmt(sot)} ₼/sot</div>`;
   const area = areaVal(l);
   const specs = [l.rooms||'', area?`${area} m²`:'', l.land_area_sot?`${l.land_area_sot} sot`:'', l.floor?`${l.floor} mərt.`:''].filter(Boolean).join(' · ');
+  const transportIco = l.nearest_transport_type === 'metro' ? '🚇' : l.nearest_transport_type === 'train' ? '🚆' : '🚌';
+  const walkTag = l.walk_min_to_transport != null
+    ? `<span class="card-walk">${transportIco} ~${l.walk_min_to_transport} dəq${l.nearest_transport_name ? ` · ${esc(l.nearest_transport_name)}` : ''}</span>` : '';
   const scoreBadge = l._score != null
     ? `<span class="badge badge-score ${scoreClass(l._score)}">${l._score}</span>` : '';
   const badges = [
@@ -380,6 +400,7 @@ function cardHTML(l, idx) {
     ${unitPrice}
     ${specs?`<div class="card-details">${esc(specs)}</div>`:''}
     ${l.location?`<div class="card-location">${esc(l.location)}</div>`:''}
+    ${walkTag ? `<div class="card-transport">${walkTag}${l.metro_walk_min != null && l.nearest_transport_type !== 'metro' ? `<span class="card-metro">🚇 ~${l.metro_walk_min} dəq${l.metro_station_name ? ` · ${esc(l.metro_station_name)}` : ''}</span>` : ''}</div>` : ''}
     <div class="card-meta"><span class="card-date">${l.updated_at_site?fmtDate(l.updated_at_site):''}</span>${badges?`<div class="card-badges">${badges}</div>`:''}</div>
   </div>
   <div class="card-footer">
@@ -670,12 +691,16 @@ function renderMarkers(list) {
     const m2 = ppm2(l), area = areaVal(l);
     const det = [l.rooms, area?`${area} m²`:'', l.land_area_sot?`${l.land_area_sot} sot`:''].filter(Boolean).join(' · ');
     const agencyBadge = l.is_agency===true ? '<span class="popup-badge popup-agency">Agentlik</span>' : l.is_agency===false ? '<span class="popup-badge popup-owner">Mülkiyyətçi</span>' : '';
+    const tIco = l.nearest_transport_type==='metro'?'🚇':l.nearest_transport_type==='train'?'🚆':'🚌';
+    const walkInfo = l.walk_min_to_transport != null ? `<div class="popup-walk">${tIco} ~${l.walk_min_to_transport} dəq${l.nearest_transport_name ? ' · ' + l.nearest_transport_name : ''}</div>` : '';
+    const metroInfo = l.metro_walk_min != null && l.nearest_transport_type !== 'metro' ? `<div class="popup-walk" style="color:#ef4444">🚇 ~${l.metro_walk_min} dəq${l.metro_station_name ? ' · ' + l.metro_station_name : ''}</div>` : '';
     marker.bindPopup(`${l.photo_url?`<img class="popup-photo" src="${l.photo_url}" onerror="this.style.display='none'">`:''}
 <div class="popup-price">${l.price?formatPrice(l.price,l.deal_type):'—'}</div>
 ${m2?`<div class="popup-ppm2">${fmt(m2)} ₼/m²</div>`:''}
 ${l.location?`<div class="popup-loc">${l.location}</div>`:''}
 ${det?`<div class="popup-det">${det}</div>`:''}${agencyBadge}
-<a class="popup-link" href="${l.url}" target="_blank" rel="noopener">bina.az-da aç →</a>`, {maxWidth:220});
+${walkInfo}${metroInfo}
+<a class="popup-link" href="${l.url}" target="_blank" rel="noopener">bina.az-da aç →</a>`, {maxWidth:240});
     markerLayer.addLayer(marker);
   });
   document.getElementById('map-stats').textContent = `${withCoords.length.toLocaleString()} elan xəritədə`;
@@ -873,6 +898,23 @@ function openModal(l) {
 
   const loc = l.location_name || l.location || '';
 
+  const modalTIco = l.nearest_transport_type==='metro'?'🚇':l.nearest_transport_type==='train'?'🚆':'🚌';
+  const modalWalkParts = [];
+  if (l.walk_min_to_transport != null) {
+    const stopLabel = l.nearest_transport_name ? ` · ${l.nearest_transport_name}` : '';
+    modalWalkParts.push(`${modalTIco} <b>~${l.walk_min_to_transport} dəq</b>${stopLabel}`);
+  }
+  if (l.metro_walk_min != null && l.nearest_transport_type !== 'metro') {
+    const metroName = l.metro_station_name ? ` · ${l.metro_station_name}` : '';
+    modalWalkParts.push(`🚇 <b>~${l.metro_walk_min} dəq</b>${metroName}`);
+  }
+  if (l.stops_within_10min) {
+    modalWalkParts.push(`${l.stops_within_10min} dayanacaq 10 dəq. ərzində`);
+  }
+  const modalWalkHTML = modalWalkParts.length
+    ? `<div class="modal-transport">${modalWalkParts.join('<span class="modal-transport-sep">·</span>')}</div>`
+    : '';
+
   const metaParts = [];
   if (l.updated_at_site) metaParts.push(`Yenilənib: ${fmtDate(l.updated_at_site)}`);
   if (l.id)              metaParts.push(`ID: ${l.id}`);
@@ -911,6 +953,7 @@ function openModal(l) {
       ${changeBadge}
     </div>
     ${loc ? `<div class="modal-location">📍 ${esc(loc)}</div>` : ''}
+    ${modalWalkHTML}
     ${specsHTML ? `<div class="modal-specs">${specsHTML}</div>` : ''}
     ${badges   ? `<div class="modal-badges">${badges}</div>` : ''}
     ${desc}
@@ -1012,6 +1055,68 @@ document.getElementById('grid').addEventListener('click', e => {
   const slice = filtered.slice((page-1)*PAGE_SIZE, page*PAGE_SIZE);
   const listing = slice[idx];
   if (listing) openModal(listing);
+});
+
+// ── Transport stops layer ─────────────────────────────────────────────────────
+const TRANSPORT_COLORS = { bus: '#3b82f6', metro: '#ef4444', train: '#10b981' };
+const TRANSPORT_RADIUS = { bus: 4, metro: 7, train: 6 };
+
+let transportStopsCache = null;
+let transportLayer = null;
+const showTransport = { bus: false, metro: false, train: false };
+
+async function loadTransportStops() {
+  if (transportStopsCache) return transportStopsCache;
+  try {
+    const res = await fetch('data/transport_stops.json');
+    transportStopsCache = res.ok ? await res.json() : [];
+  } catch { transportStopsCache = []; }
+  return transportStopsCache;
+}
+
+async function renderTransportStops() {
+  if (!leafletMap) return;
+  if (!transportLayer) {
+    // Insert below markerLayer so listing markers render on top
+    transportLayer = L.layerGroup();
+    transportLayer.addTo(leafletMap);
+    transportLayer.setZIndex ? transportLayer.setZIndex(1) : null;
+    markerLayer.bringToFront?.();
+  }
+  transportLayer.clearLayers();
+
+  const anyOn = Object.values(showTransport).some(Boolean);
+  document.getElementById('transport-legend').style.display = anyOn ? '' : 'none';
+
+  if (!anyOn) return;
+
+  const stops = await loadTransportStops();
+  stops.forEach(s => {
+    if (!showTransport[s.type]) return;
+    const color = TRANSPORT_COLORS[s.type] || '#888';
+    const radius = TRANSPORT_RADIUS[s.type] || 4;
+    const marker = L.circleMarker([s.lat, s.lng], {
+      radius,
+      fillColor: color,
+      fillOpacity: 0.85,
+      color: '#fff',
+      weight: 1,
+    });
+    const name = s.name || s.name_en || s.name_ru || '—';
+    const typeLabel = { bus: 'Avtobus', metro: 'Metro', train: 'Qatar' }[s.type] || s.type;
+    const routeInfo = s.route_ref ? `<div style="font-size:11px;color:#555">${s.route_ref}</div>` : '';
+    marker.bindPopup(`<div style="font-size:13px;font-weight:600">${name}</div><div style="font-size:11px;color:${color};margin-bottom:2px">${typeLabel}</div>${routeInfo}`, { maxWidth: 180 });
+    transportLayer.addLayer(marker);
+  });
+}
+
+document.querySelectorAll('.transport-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const type = btn.dataset.ttype;
+    showTransport[type] = !showTransport[type];
+    btn.classList.toggle('active', showTransport[type]);
+    renderTransportStops();
+  });
 });
 
 // ── Boot ──────────────────────────────────────────────────────────────────────

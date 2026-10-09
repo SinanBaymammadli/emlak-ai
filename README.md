@@ -57,7 +57,13 @@ Each listing record:
   "price_history": [
     {"price": 85000, "date": "2026-09-15T06:00:00+00:00"},
     {"price": 80000, "date": "2026-09-28T06:00:00+00:00"}
-  ]
+  ],
+  "walk_min_to_transport": 4.2,
+  "nearest_transport_type": "bus",
+  "nearest_transport_name": "88, 125, 176",
+  "metro_walk_min": 11.3,
+  "metro_station_name": "Nəriman Nərimanov",
+  "stops_within_10min": 8
 }
 ```
 
@@ -144,17 +150,78 @@ Add under Settings → Secrets and variables → Actions:
 - `TELEGRAM_TOKEN`
 - `TELEGRAM_CHAT_ID`
 
+## Deal scoring
+
+Each listing receives a score from 0–100 computed entirely in the browser. Higher is better.
+
+### Components (all categories except garage)
+
+| Component | Max pts | Notes |
+|-----------|---------|-------|
+| Price percentile (₼/m² or ₼/sot) | 32–62 | Lower price per m² vs same category/type = higher score |
+| Transport proximity | 0–15 | Effective walk ≤4 min: +15 · ≤8 min: +10 · ≤14 min: +5 |
+| Owner (not agency) | 0–18 | Full points if `is_agency = false` |
+| Price dropped | 0–13 | Any reduction vs first recorded price |
+| Building type | 0–18 | Yeni tikili (new build) bonus — apartments only |
+| Çıxarış (deed) | 0–9 | Has bill of sale |
+
+The theoretical max exceeds 100 in some combinations; the score is capped at 100.
+
+**Transport score** uses a type-weighted effective walk time to avoid double-counting metro access:
+
+```
+effective_walk = walk_min_to_transport × type_factor
+  metro → 0.7   (metro is worth more per minute than bus)
+  train → 0.8
+  bus   → 1.0
+```
+
+A metro station 5 min away → 3.5 effective min → +15 pts.
+A bus stop 5 min away → 5 effective min → +10 pts.
+
+Transport fields (`walk_min_to_transport`, `metro_walk_min`, `stops_within_10min`) are pre-computed at scrape time using straight-line haversine ÷ 70 m/min (≈ 4.2 km/h urban walking speed). Bus stops show served route numbers (e.g. `"88, 125, 176"`); metro/train show the station name.
+
+### Garage scoring
+
+Garages are scored on price percentile (65 pts), owner status (25 pts), and price drop (10 pts) only — transport is not relevant.
+
+## Transport data
+
+Public transport stop locations are stored in `data/transport_stops.json` (3,912 stops):
+
+- **Bus** (3,834 stops) — from [ayna.gov.az](https://ayna.gov.az) official Baku transport API, enriched with route numbers via all 209 routes
+- **Metro** (34 stations) — from OpenStreetMap
+- **Train** (44 stations/halts) — from OpenStreetMap
+
+### Refreshing transport data
+
+```bash
+# Re-fetch stop locations (bus, metro, train)
+python3 scripts/fetch_transport_stops.py
+
+# Re-fetch bus route numbers per stop (209 routes)
+python3 scripts/fetch_bus_routes.py
+
+# Re-enrich all listings with updated transport fields
+python3 scripts/enrich_transport.py --force
+```
+
 ## Project structure
 
 ```
 scraper/
-  categories.py   — 11 bina.az category URLs
-  parser.py       — text parsing: price, location, rooms, area, land area
-  browser.py      — Camoufox automation: page load, scroll, card extraction, GraphQL
-  main.py         — entry point: scrape all categories, update JSON files, notify Telegram
+  categories.py   — 11 bina.az category definitions
+  browser.py      — Camoufox automation: GraphQL pagination, item detail fetch
+  transport.py    — transport proximity enrichment (haversine index + field writer)
+  main.py         — entry point: scrape all categories, enrich, save, notify Telegram
+scripts/
+  fetch_transport_stops.py  — fetch bus/metro/train stop locations (ayna.gov.az + OSM)
+  fetch_bus_routes.py       — fetch route numbers per bus stop (209 routes)
+  enrich_transport.py       — retroactively add transport fields to existing listings
 data/
   {stem}_{YYYY-MM-DD}.json  — incremental dated listing files (committed to git)
   manifest.json             — index of dated files per category stem
+  transport_stops.json      — all public transport stop locations with route numbers
 .github/workflows/
   scrape.yml      — workflow_dispatch triggered by external cron
 ```

@@ -124,6 +124,12 @@
       <button class="view-btn" id="btn-districts">Rayonlar</button>
       <button class="view-btn" id="btn-heatmap">Qiymət xəritəsi</button>
     </div>
+    <div class="transport-toggle">
+      <span class="transport-label">Nəqliyyat:</span>
+      <button class="transport-btn" id="tb-bus"   data-ttype="bus">🚌 Avtobus</button>
+      <button class="transport-btn" id="tb-metro" data-ttype="metro">🚇 Metro</button>
+      <button class="transport-btn" id="tb-train" data-ttype="train">🚆 Qatar</button>
+    </div>
     <span class="map-stats" id="map-stats">Yüklənir…</span>
     <div class="rayon-chips-row" id="rayon-panel" style="display:none"></div>
   </div>
@@ -135,6 +141,11 @@
     <div class="legend-item"><div class="legend-dot" style="background:#ef4444"></div> Kommersiya</div>
     <div class="legend-item"><div class="legend-dot" style="background:#06b6d4"></div> Ofis</div>
     <div class="legend-item"><div class="legend-dot" style="background:#8b5cf6"></div> Qaraj</div>
+    <div class="legend-sep" id="transport-legend" style="display:none">
+      <div class="legend-item"><div class="legend-dot transport-dot" style="background:#3b82f6"></div> Avtobus dayanacağı</div>
+      <div class="legend-item"><div class="legend-dot transport-dot" style="background:#ef4444"></div> Metro stansiyası</div>
+      <div class="legend-item"><div class="legend-dot transport-dot" style="background:#10b981"></div> Dəmir yolu</div>
+    </div>
   </div>
 </div>
 
