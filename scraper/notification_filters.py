@@ -187,12 +187,14 @@ def matches(listing: dict, f: dict) -> bool:
 def _unit_prices(listing: dict) -> str:
     parts = []
     price = _current_price(listing)
-    area = listing.get("area_m2")
-    if price and area:
-        try:
-            parts.append(f"{round(price / float(area)):,} AZN/m²")
-        except (ValueError, TypeError, ZeroDivisionError):
-            pass
+    is_land = listing.get("category") == "land"
+    if not is_land:
+        area = listing.get("area_m2")
+        if price and area:
+            try:
+                parts.append(f"{round(price / float(area)):,} AZN/m²")
+            except (ValueError, TypeError, ZeroDivisionError):
+                pass
     sot = listing.get("land_area_sot")
     if price and sot:
         try:
@@ -231,9 +233,10 @@ def format_message(listing: dict, filter_name: str, score: int | None = None) ->
         parts.append(f'💰 {price:,} {currency}')
 
     details: list[str] = []
+    is_land = listing.get("category") == "land"
     if listing.get("rooms"):
         details.append(listing["rooms"])
-    if listing.get("area_m2"):
+    if not is_land and listing.get("area_m2"):
         details.append(f'{listing["area_m2"]} m²')
     if listing.get("land_area_sot"):
         details.append(f'{listing["land_area_sot"]} sot')
@@ -288,8 +291,9 @@ def format_price_change_message(listing: dict, old_price: int, score: int | None
     deal = listing.get("deal_type", "")
     currency = "AZN/ay" if deal == "rental" else "AZN"
 
+    is_land = listing.get("category") == "land"
     land = f"{listing['land_area_sot']} sot" if listing.get("land_area_sot") else ""
-    area = f"{listing['area_m2']} m²" if listing.get("area_m2") else ""
+    area = f"{listing['area_m2']} m²" if (not is_land and listing.get("area_m2")) else ""
     detail = " · ".join(filter(None, [listing.get("location"), listing.get("rooms"), area, land]))
     lat, lng = listing.get("lat"), listing.get("lng")
     gmaps = f"https://www.google.com/maps?q={lat},{lng}" if lat and lng else ""
