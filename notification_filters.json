@@ -1,0 +1,21 @@
+[
+  {
+    "name": "House sale — Albalılıq/Buzovna/Maştağa 4+ rooms",
+    "category": "house",
+    "deal_type": "sale",
+    "rooms_min": 4,
+    "price_max": 250000,
+    "land_area_sot_min": 3,
+    "has_bill_of_sale": true,
+    "location_contains": ["Albalılıq", "Buzovna", "Maştağa"]
+  },
+  {
+    "name": "Land sale — Albalılıq/Buzovna/Maştağa",
+    "category": "land",
+    "deal_type": "sale",
+    "price_max": 250000,
+    "land_area_sot_min": 3,
+    "has_bill_of_sale": true,
+    "location_contains": ["Albalılıq", "Buzovna", "Maştağa"]
+  }
+]

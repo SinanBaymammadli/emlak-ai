@@ -10,11 +10,17 @@ Adds to each listing:
 
 Uses straight-line haversine distance / 70 m·min⁻¹ (≈ 4.2 km/h, urban-corrected).
 Builds a lat-sorted index so each listing only checks O(30) nearby candidates.
+
+osrm_nearest_walk() provides accurate OSRM foot-routing times for notifications.
 """
 import bisect
 import json
 import math
+import time
+import urllib.request
 from pathlib import Path
+
+_OSRM_URL = "https://routing.openstreetmap.de/routed-foot/route/v1/foot/{lng1},{lat1};{lng2},{lat2}?overview=false"
 
 WALK_SPEED_M_PER_MIN = 70       # 4.2 km/h accounting for non-straight paths
 RADIUS_10MIN_M       = 700      # metres ≈ 10 min walk
@@ -105,6 +111,74 @@ def enrich(listing: dict, sorted_stops: list[dict], lats: list[float]) -> None:
 
     # Stops within 10 min (~700 m)
     listing["stops_within_10min"] = sum(1 for _, d in scored if d <= RADIUS_10MIN_M)
+
+
+def _haversine(lat1: float, lng1: float, lat2: float, lng2: float) -> float:
+    R = 6_371_000
+    phi1, phi2 = math.radians(lat1), math.radians(lat2)
+    dphi = math.radians(lat2 - lat1)
+    dlam = math.radians(lng2 - lng1)
+    a = math.sin(dphi / 2) ** 2 + math.cos(phi1) * math.cos(phi2) * math.sin(dlam / 2) ** 2
+    return R * 2 * math.atan2(math.sqrt(a), math.sqrt(1 - a))
+
+
+def _osrm_walk(lat1: float, lng1: float, lat2: float, lng2: float) -> tuple[float | None, float | None]:
+    url = _OSRM_URL.format(lat1=lat1, lng1=lng1, lat2=lat2, lng2=lng2)
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(url, timeout=10) as r:
+                data = json.load(r)
+            if data.get("code") == "Ok":
+                route = data["routes"][0]
+                return route["distance"], route["duration"]
+            return None, None
+        except Exception as exc:
+            if attempt < 2:
+                time.sleep(1)
+            else:
+                print(f"  OSRM error: {exc}")
+    return None, None
+
+
+def osrm_nearest_walk(
+    lat: float, lng: float,
+    sorted_stops: list[dict], lats: list[float],
+    candidates: int = 3,
+) -> dict | None:
+    """
+    Route to the nearest `candidates` stops via OSRM foot routing.
+    Returns a dict with walk_min, transport_type, transport_name for the best stop,
+    or None if OSRM is unavailable.
+    """
+    search_deg = 0.09
+    lo = bisect.bisect_left(lats, lat - search_deg)
+    hi = bisect.bisect_right(lats, lat + search_deg)
+    nearby = [s for s in sorted_stops[lo:hi] if abs(s["lng"] - lng) <= search_deg]
+    if not nearby:
+        return None
+
+    closest = sorted(nearby, key=lambda s: _haversine(lat, lng, s["lat"], s["lng"]))[:candidates]
+
+    best_dur, best_stop = float("inf"), None
+    for s in closest:
+        _, dur_s = _osrm_walk(lat, lng, s["lat"], s["lng"])
+        time.sleep(0.25)
+        if dur_s is not None and dur_s < best_dur:
+            best_dur, best_stop = dur_s, s
+
+    if best_stop is None:
+        return None
+
+    if best_stop["type"] == "bus":
+        name = best_stop.get("route_ref") or best_stop.get("name") or None
+    else:
+        name = best_stop.get("name") or best_stop.get("name_en") or None
+
+    return {
+        "walk_min": round(best_dur / 60, 1),
+        "transport_type": best_stop["type"],
+        "transport_name": name,
+    }
 
 
 def load_and_build(data_dir: Path) -> tuple[list[dict], list[float]]:

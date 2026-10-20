@@ -61,14 +61,18 @@ function areaVal(l) {
   const m = String(l.area_m2).match(/[\d.]+/);
   return m ? parseFloat(m[0]) : null;
 }
+function curPrice(l) {
+  const p = l.price;
+  return (Array.isArray(p) && p.length) ? p[p.length - 1].price : null;
+}
 function ppm2(l) {
   const a = areaVal(l);
-  if (!l.price || !a || a <= 0) return null;
-  return l.price / a;
+  if (!curPrice(l) || !a || a <= 0) return null;
+  return curPrice(l) / a;
 }
 function ppsot(l) {
-  if (!l.price || !l.land_area_sot || l.land_area_sot <= 0) return null;
-  return l.price / l.land_area_sot;
+  if (!curPrice(l) || !l.land_area_sot || l.land_area_sot <= 0) return null;
+  return curPrice(l) / l.land_area_sot;
 }
 function roomCount(l) {
   if (!l.rooms) return null;
@@ -76,8 +80,8 @@ function roomCount(l) {
   return m ? parseInt(m[0]) : null;
 }
 function priceChange(l) {
-  const h = l.price_history;
-  if (!h || h.length < 2) return null;
+  const h = l.price;
+  if (!Array.isArray(h) || h.length < 2) return null;
   const prev = h[h.length - 2].price, curr = h[h.length - 1].price;
   return prev === curr ? null : curr - prev;
 }
@@ -149,10 +153,10 @@ function getFiltered() {
   priceChangedF = document.getElementById('price-changed')?.checked || false;
 
   let list = showDel ? allListings : allListings.filter(l => !l.deleted_at);
-  if (priceChangedF) list = list.filter(l => (l.price_history || []).length > 1);
+  if (priceChangedF) list = list.filter(l => (l.price || []).length > 1);
   if (selLocs.size) list = list.filter(l => selLocs.has(l.location || l.location_name || ''));
-  if (priceMin != null) list = list.filter(l => l.price != null && l.price >= priceMin);
-  if (priceMax != null) list = list.filter(l => l.price != null && l.price <= priceMax);
+  if (priceMin != null) list = list.filter(l => curPrice(l) != null && curPrice(l) >= priceMin);
+  if (priceMax != null) list = list.filter(l => curPrice(l) != null && curPrice(l) <= priceMax);
   if (areaMin  != null) list = list.filter(l => { const a = areaVal(l); return a != null && a >= areaMin; });
   if (areaMax  != null) list = list.filter(l => { const a = areaVal(l); return a != null && a <= areaMax; });
   if (sotMin   != null) list = list.filter(l => l.land_area_sot != null && l.land_area_sot >= sotMin);
@@ -201,12 +205,12 @@ function computeScores(listings) {
 
     const ppm2vals = group.map(l => {
       const a = areaVal(l);
-      if (!a || !l.price) return null;
+      if (!a || !curPrice(l)) return null;
       const reno = l.has_repair === false ? RENOVATION_COST_PER_M2 * a : 0;
-      return (l.price + reno) / a;
+      return (curPrice(l) + reno) / a;
     });
     const ppsotvars = group.map(l =>
-      l.price && l.land_area_sot ? l.price / l.land_area_sot : null
+      curPrice(l) && l.land_area_sot ? curPrice(l) / l.land_area_sot : null
     );
     const ppm2Pct  = _pctRank(ppm2vals,  true);
     const ppsotPct = _pctRank(ppsotvars, true);
@@ -216,8 +220,8 @@ function computeScores(listings) {
       const cat    = l.category;
       const isSale = l.deal_type === 'sale';
       const ownerPts = l.is_agency === false ? 1.0 : l.is_agency === true ? 0.0 : 0.5;
-      const h = l.price_history || [];
-      const dropped = h.length >= 2 && h[h.length - 1].price < h[0].price;
+      const h = l.price || [];
+      const dropped = Array.isArray(h) && h.length >= 2 && h[h.length - 1].price < h[0].price;
 
       // Transport: single type-weighted walk score (max 15 pts, no double-counting)
       // Metro is worth more per minute than bus — discounted by a type factor
@@ -299,8 +303,8 @@ function applyFilters() {
       case 'score_desc': return (b._score||0) - (a._score||0);
       case 'score_asc':  return (a._score||0) - (b._score||0);
       case 'newest':     return new Date(b.updated_at_site||0) - new Date(a.updated_at_site||0);
-      case 'price_asc':  return (a.price||0) - (b.price||0);
-      case 'price_desc': return (b.price||0) - (a.price||0);
+      case 'price_asc':  return (curPrice(a)||0) - (curPrice(b)||0);
+      case 'price_desc': return (curPrice(b)||0) - (curPrice(a)||0);
       case 'ppm2_asc':   return (ppm2(a)||0) - (ppm2(b)||0);
       case 'ppm2_desc':  return (ppm2(b)||0) - (ppm2(a)||0);
       case 'ppsot_asc':  return (ppsot(a)||0) - (ppsot(b)||0);
@@ -396,7 +400,7 @@ function cardHTML(l, idx) {
   return `<div class="card${l.deleted_at?' deleted':''}" data-idx="${idx}">
   <div class="card-photo-wrap">${photo}</div>
   <div class="card-body">
-    <div class="card-price-row"><span class="card-price">${formatPrice(l.price,l.deal_type)}</span>${changeBadge}</div>
+    <div class="card-price-row"><span class="card-price">${formatPrice(curPrice(l),l.deal_type)}</span>${changeBadge}</div>
     ${unitPrice}
     ${specs?`<div class="card-details">${esc(specs)}</div>`:''}
     ${l.location?`<div class="card-location">${esc(l.location)}</div>`:''}
@@ -451,7 +455,7 @@ function renderAnalytics() {
 
   // Stats
   document.getElementById('s-total').textContent = list.length.toLocaleString();
-  const prices = list.filter(l=>l.price).map(l=>l.price);
+  const prices = list.map(curPrice).filter(Boolean);
   document.getElementById('s-avg-price').textContent = prices.length ? `${fmt(prices.reduce((a,b)=>a+b,0)/prices.length)} ₼` : '—';
   const pm2vals = list.map(ppm2).filter(Boolean);
   document.getElementById('s-avg-ppm2').textContent = pm2vals.length ? `${fmt(pm2vals.reduce((a,b)=>a+b,0)/pm2vals.length)} ₼/m²` : '—';
@@ -487,9 +491,9 @@ function renderAnalytics() {
   makeDoughnut('c-build', ['Yeni tikili','Köhnə tikili','Məlum deyil'], [resid.filter(l=>l.building_type==='Yeni tikili').length, resid.filter(l=>l.building_type==='Köhnə tikili').length, resid.filter(l=>!l.building_type).length]);
   makeDoughnut('c-agency', ['Agentlik','Mülkiyyətçi','Məlum deyil'], [list.filter(l=>l.is_agency===true).length, list.filter(l=>l.is_agency===false).length, list.filter(l=>l.is_agency==null).length]);
 
-  const saleList = list.filter(l=>l.deal_type==='sale'&&l.price);
+  const saleList = list.filter(l=>l.deal_type==='sale'&&curPrice(l));
   const buckets = [[0,50000,'0–50k'],[50000,100000,'50–100k'],[100000,150000,'100–150k'],[150000,200000,'150–200k'],[200000,300000,'200–300k'],[300000,Infinity,'300k+']];
-  makeBar('c-price-dist', buckets.map(b=>b[2]), buckets.map(([lo,hi])=>saleList.filter(l=>l.price>=lo&&l.price<hi).length), PALETTE[0], false);
+  makeBar('c-price-dist', buckets.map(b=>b[2]), buckets.map(([lo,hi])=>saleList.filter(l=>curPrice(l)>=lo&&curPrice(l)<hi).length), PALETTE[0], false);
 }
 
 // ── Map tab ───────────────────────────────────────────────────────────────────
@@ -695,7 +699,7 @@ function renderMarkers(list) {
     const walkInfo = l.walk_min_to_transport != null ? `<div class="popup-walk">${tIco} ~${l.walk_min_to_transport} dəq${l.nearest_transport_name ? ' · ' + l.nearest_transport_name : ''}</div>` : '';
     const metroInfo = l.metro_walk_min != null && l.nearest_transport_type !== 'metro' ? `<div class="popup-walk" style="color:#ef4444">🚇 ~${l.metro_walk_min} dəq${l.metro_station_name ? ' · ' + l.metro_station_name : ''}</div>` : '';
     marker.bindPopup(`${l.photo_url?`<img class="popup-photo" src="${l.photo_url}" onerror="this.style.display='none'">`:''}
-<div class="popup-price">${l.price?formatPrice(l.price,l.deal_type):'—'}</div>
+<div class="popup-price">${curPrice(l)?formatPrice(curPrice(l),l.deal_type):'—'}</div>
 ${m2?`<div class="popup-ppm2">${fmt(m2)} ₼/m²</div>`:''}
 ${l.location?`<div class="popup-loc">${l.location}</div>`:''}
 ${det?`<div class="popup-det">${det}</div>`:''}${agencyBadge}
@@ -924,7 +928,7 @@ function openModal(l) {
     ? `<a class="modal-link modal-link-secondary" href="https://www.google.com/maps?q=${l.lat},${l.lng}" target="_blank" rel="noopener">📍 Xəritədə aç</a>`
     : '';
 
-  const history = l.price_history || [];
+  const history = l.price || [];
   const historyHtml = history.length
     ? `<div class="modal-history-title">Qiymət tarixi</div>
        ${history.length > 1 ? '<div class="modal-history-chart"><canvas id="modal-price-chart"></canvas></div>' : ''}
@@ -948,7 +952,7 @@ function openModal(l) {
     ${photo}
     ${title}
     <div class="modal-price-row">
-      <span class="modal-price">${formatPrice(l.price, l.deal_type)}</span>
+      <span class="modal-price">${formatPrice(curPrice(l), l.deal_type)}</span>
       ${ppm2Str}
       ${changeBadge}
     </div>
