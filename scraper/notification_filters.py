@@ -231,6 +231,9 @@ def format_message(listing: dict, filter_name: str, score: int | None = None) ->
         deal = listing.get("deal_type", "")
         currency = "AZN/ay" if deal == "rental" else "AZN"
         parts.append(f'💰 {price:,} {currency}')
+    unit = _unit_prices(listing)
+    if unit:
+        parts.append(f'💰 {unit}')
 
     details: list[str] = []
     is_land = listing.get("category") == "land"
