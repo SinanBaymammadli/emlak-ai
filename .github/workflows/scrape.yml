@@ -90,14 +90,17 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
           git add data/
           git diff --cached --quiet && exit 0
           git commit -m "chore: scrape all $(date -u +%Y-%m-%d)"
           for i in 1 2 3; do
-            git pull --rebase && git push && break
+            git push && exit 0
             echo "Push attempt $i failed, retrying..."
             sleep 10
+            git pull --rebase
           done
+          exit 1
 
       - name: Delete intermediate data artifacts
         env:
