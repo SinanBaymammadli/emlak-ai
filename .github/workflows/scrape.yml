@@ -17,8 +17,8 @@ jobs:
       fail-fast: false # keep running other categories if one fails
       matrix:
         category:
-          # - apartment_sale
-          # - apartment_rental
+          - apartment_sale
+          - apartment_rental
           - house_sale
           - house_rental
           - commercial_sale
