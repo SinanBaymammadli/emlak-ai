@@ -1,12 +1,43 @@
-"""Send a single Telegram summary after all scrape jobs complete."""
+"""Send a single Telegram summary after all scrape jobs complete,
+plus individual notifications for new/price-changed listings that match filters."""
 import json
 import os
 import subprocess
+import sys
 import urllib.request
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).parent.parent))
+
+from scraper.notification_filters import (
+    check_and_notify,
+    check_and_notify_price_change,
+    load_filters,
+)
+from scraper import transport as _transport
+
 token = os.environ.get("TELEGRAM_TOKEN")
 chat_id = os.environ.get("TELEGRAM_CHAT_ID")
+
+
+def send_tg(text: str) -> None:
+    if not token or not chat_id:
+        print("No Telegram credentials — skipping")
+        return
+    payload = json.dumps(
+        {"chat_id": chat_id, "text": text, "parse_mode": "HTML"}
+    ).encode()
+    req = urllib.request.Request(
+        f"https://api.telegram.org/bot{token}/sendMessage",
+        data=payload,
+        headers={"Content-Type": "application/json"},
+    )
+    try:
+        urllib.request.urlopen(req, timeout=10)
+    except Exception as exc:
+        print(f"Telegram notify failed: {exc}")
+
+
 if not token or not chat_id:
     print("No Telegram credentials — skipping")
     raise SystemExit(0)
@@ -28,7 +59,6 @@ if gh_token and run_id and repo:
         jobs = json.loads(urllib.request.urlopen(req, timeout=10).read())
         for job in jobs.get("jobs", []):
             name = job.get("name", "")
-            # Job names are "Scrape apartment_sale" etc.
             if name.startswith("Scrape ") and job.get("conclusion") == "failure":
                 failed_categories.add(name.removeprefix("Scrape "))
     except Exception as exc:
@@ -61,8 +91,10 @@ base = (
     else None
 )
 
+
 def active_ids(listings):
     return {l["id"] for l in listings if l.get("deleted_at") is None}
+
 
 def load_cat_listings(cat: str) -> list:
     manifest_path = Path("data") / "manifest.json"
@@ -76,6 +108,8 @@ def load_cat_listings(cat: str) -> list:
     return listings
 
 
+# ── Summary message ───────────────────────────────────────────────────────────
+
 lines = [f"{icon} <b>emlak-ai scrape complete</b> ({result})\n"]
 for cat in CATEGORIES:
     try:
@@ -86,7 +120,6 @@ for cat in CATEGORIES:
         new_count = 0
         if base:
             try:
-                # count IDs in the today-dated file that weren't active at base
                 from datetime import date as _date
                 today_file = f"data/{cat}_{_date.today().isoformat()}.json"
                 old_raw = subprocess.check_output(
@@ -96,7 +129,6 @@ for cat in CATEGORIES:
                 )
                 new_count = len(ids - active_ids(json.loads(old_raw)))
             except subprocess.CalledProcessError:
-                # today's file is brand new — all its listings are new
                 today_path = Path("data") / f"{cat}_{_date.today().isoformat()}.json"
                 if today_path.exists():
                     new_count = len(active_ids(json.loads(today_path.read_text(encoding="utf-8"))))
@@ -109,16 +141,64 @@ for cat in CATEGORIES:
         fail_str = "  ❌ <b>FAILED</b>" if cat in failed_categories else ""
         lines.append(f"  <b>{cat}</b>: ⚠️ error{fail_str}")
 
-payload = json.dumps(
-    {"chat_id": chat_id, "text": "\n".join(lines), "parse_mode": "HTML"}
-).encode()
-req = urllib.request.Request(
-    f"https://api.telegram.org/bot{token}/sendMessage",
-    data=payload,
-    headers={"Content-Type": "application/json"},
-)
-try:
-    urllib.request.urlopen(req, timeout=10)
-    print("Telegram notification sent")
-except Exception as exc:
-    print(f"Telegram notify failed: {exc}")
+send_tg("\n".join(lines))
+print("Telegram summary sent")
+
+# ── Filter notifications ───────────────────────────────────────────────────────
+
+if not base:
+    print("No base commit found — skipping filter notifications")
+    raise SystemExit(0)
+
+filters = load_filters(Path("."))
+if not filters:
+    print("No filters defined — skipping filter notifications")
+    raise SystemExit(0)
+
+stops, lats = _transport.load_and_build(Path("data"))
+manifest_path = Path("data") / "manifest.json"
+manifest = json.loads(manifest_path.read_text(encoding="utf-8")) if manifest_path.exists() else {}
+
+for cat in CATEGORIES:
+    try:
+        current_listings = load_cat_listings(cat)
+        active = {l["id"]: l for l in current_listings if not l.get("deleted_at")}
+        all_active = list(active.values())
+
+        # Load base state for this category
+        base_by_id: dict = {}
+        for d in manifest.get(cat, []):
+            filepath = f"data/{cat}_{d}.json"
+            try:
+                old_raw = subprocess.check_output(
+                    ["git", "show", f"{base}:{filepath}"],
+                    text=True, stderr=subprocess.DEVNULL,
+                )
+                for l in json.loads(old_raw):
+                    base_by_id[l["id"]] = l
+            except subprocess.CalledProcessError:
+                pass
+
+        # New listings
+        for lid in set(active) - set(base_by_id):
+            check_and_notify(active[lid], filters, send_tg, all_active, stops, lats)
+
+        # Price-changed listings
+        for lid, listing in active.items():
+            base_l = base_by_id.get(lid)
+            if not base_l:
+                continue
+            curr_arr = listing.get("price") or []
+            base_arr = base_l.get("price") or []
+            if not curr_arr or not base_arr:
+                continue
+            # Support both new format (list of dicts) and old int format during transition
+            curr_price = curr_arr[-1]["price"] if isinstance(curr_arr[-1], dict) else curr_arr[-1]
+            base_price = base_arr[-1]["price"] if isinstance(base_arr[-1], dict) else base_arr[-1]
+            if curr_price != base_price:
+                check_and_notify_price_change(listing, base_price, filters, send_tg, all_active, stops, lats)
+
+    except Exception as exc:
+        print(f"  {cat} filter notification error: {exc}")
+
+print("Filter notifications done")
