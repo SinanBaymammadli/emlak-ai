@@ -150,6 +150,7 @@ def save_listings(
 def parse_es_node(node: dict, category: str, deal_type: str) -> dict:
     rooms = node.get("rooms")
     area = (node.get("area") or {}).get("value")
+    land_area_sot = (node.get("landArea") or {}).get("value")
     floor_n = node.get("floor")
     floors_n = node.get("floors")
     loc = node.get("location") or {}
@@ -162,6 +163,7 @@ def parse_es_node(node: dict, category: str, deal_type: str) -> dict:
         "location_name": loc.get("name"),
         "rooms": f"{rooms} otaqlı" if rooms else None,
         "area_m2": area,
+        "land_area_sot": land_area_sot,
         "floor": f"{floor_n}/{floors_n} mərtəbə" if floor_n and floors_n else None,
         "floor_number": floor_n,
         "is_agency": node.get("isBusiness"),
@@ -181,7 +183,7 @@ def parse_es_node(node: dict, category: str, deal_type: str) -> dict:
 # Fields refreshed on every scrape from itemsConnection
 _ES_FIELDS = [
     "photo_url", "location", "location_id", "location_name",
-    "rooms", "area_m2", "floor", "floor_number",
+    "rooms", "area_m2", "land_area_sot", "floor", "floor_number",
     "is_agency", "has_repair", "has_bill_of_sale", "has_mortgage",
     "is_featured", "updated_at_site",
 ]
