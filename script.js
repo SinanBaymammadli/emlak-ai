@@ -27,6 +27,7 @@ let areaMin  = null, areaMax  = null;
 let sotMin   = null, sotMax   = null;
 let ppm2Min  = null, ppm2Max  = null;
 let scoreMin = null, scoreMax = null;
+let walkMax  = null;
 let roomsF   = new Set();
 let repairF  = '';
 let agencyF  = '';
@@ -145,6 +146,7 @@ function getFiltered() {
   areaMin  = num('area-min');  areaMax  = num('area-max');
   sotMin   = num('sot-min');   sotMax   = num('sot-max');
   ppm2Min  = num('ppm2-min');  ppm2Max  = num('ppm2-max');
+  walkMax  = num('walk-max');
   roomsF   = new Set([...document.querySelectorAll('#room-chips .room-chip.active')].map(b => b.dataset.room));
   repairF  = document.getElementById('repair-filter')?.value || '';
   agencyF  = document.getElementById('agency-filter')?.value || '';
@@ -163,6 +165,7 @@ function getFiltered() {
   if (sotMax   != null) list = list.filter(l => l.land_area_sot != null && l.land_area_sot <= sotMax);
   if (ppm2Min  != null) list = list.filter(l => { const v = ppm2(l); return v != null && v >= ppm2Min; });
   if (ppm2Max  != null) list = list.filter(l => { const v = ppm2(l); return v != null && v <= ppm2Max; });
+  if (walkMax  != null) list = list.filter(l => l.walk_min_to_transport != null && l.walk_min_to_transport <= walkMax);
   if (roomsF.size) {
     list = list.filter(l => {
       const r = roomCount(l);
@@ -764,7 +767,7 @@ document.getElementById('type-chips').addEventListener('click', e => {
 document.getElementById('sort').addEventListener('change', e => { sort = e.target.value; applyFilters(); });
 document.getElementById('show-deleted').addEventListener('change', e => { showDel = e.target.checked; applyFilters(); });
 document.getElementById('price-changed').addEventListener('change', e => { priceChangedF = e.target.checked; applyFilters(); });
-['price-min','price-max','area-min','area-max','sot-min','sot-max','ppm2-min','ppm2-max','score-min','score-max'].forEach(id => document.getElementById(id)?.addEventListener('input', applyFilters));
+['price-min','price-max','area-min','area-max','sot-min','sot-max','ppm2-min','ppm2-max','score-min','score-max','walk-max'].forEach(id => document.getElementById(id)?.addEventListener('input', applyFilters));
 document.getElementById('room-chips').addEventListener('click', e => {
   const btn = e.target.closest('.room-chip'); if (!btn) return;
   btn.classList.toggle('active');
