@@ -50,7 +50,6 @@ async def fetch_items_page(
                     price {{ total }}
                     rooms
                     area {{ value }}
-                    landArea {{ value }}
                     floor floors
                     location {{ id name fullName }}
                     hasRepair hasBillOfSale hasMortgage

@@ -149,8 +149,9 @@ def save_listings(
 
 def parse_es_node(node: dict, category: str, deal_type: str) -> dict:
     rooms = node.get("rooms")
-    area = (node.get("area") or {}).get("value")
-    land_area_sot = (node.get("landArea") or {}).get("value")
+    area_val = (node.get("area") or {}).get("value")
+    # For land listings area{value} is in sot (not m²) — same unit the old HTML parser extracted
+    is_land = category == "land"
     floor_n = node.get("floor")
     floors_n = node.get("floors")
     loc = node.get("location") or {}
@@ -162,8 +163,8 @@ def parse_es_node(node: dict, category: str, deal_type: str) -> dict:
         "location_id": loc.get("id"),
         "location_name": loc.get("name"),
         "rooms": f"{rooms} otaqlı" if rooms else None,
-        "area_m2": area,
-        "land_area_sot": land_area_sot,
+        "area_m2": None if is_land else area_val,
+        "land_area_sot": area_val if is_land else None,
         "floor": f"{floor_n}/{floors_n} mərtəbə" if floor_n and floors_n else None,
         "floor_number": floor_n,
         "is_agency": node.get("isBusiness"),
