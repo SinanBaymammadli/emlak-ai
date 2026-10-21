@@ -79,16 +79,18 @@ def telegram_notify(text: str) -> None:
         print(f"  Telegram notify failed: {exc}")
 
 
-_DATED_GLOB = "_20[0-9][0-9]-[0-9][0-9]-[0-9][0-9]-[0-9][0-9].json"
 _DATED_GLOB_LEGACY = "_20[0-9][0-9]-[0-9][0-9]-[0-9][0-9].json"
+_DATED_GLOB_HOUR = "_20[0-9][0-9]-[0-9][0-9]-[0-9][0-9]-[0-9][0-9].json"
+_DATED_GLOB = "_20[0-9][0-9]-[0-9][0-9]-[0-9][0-9]-[0-9][0-9]-[0-9][0-9].json"
 
 
 def load_existing(category: str, deal_type: str) -> tuple[dict[str, dict], dict[str, str]]:
     stem = _file_stem(category, deal_type)
     listings: dict[str, dict] = {}
     file_map: dict[str, str] = {}
-    paths = sorted(DATA_DIR.glob(f"{stem}{_DATED_GLOB_LEGACY}")) + \
-            sorted(DATA_DIR.glob(f"{stem}{_DATED_GLOB}"))
+    paths = (sorted(DATA_DIR.glob(f"{stem}{_DATED_GLOB_LEGACY}")) +
+             sorted(DATA_DIR.glob(f"{stem}{_DATED_GLOB_HOUR}")) +
+             sorted(DATA_DIR.glob(f"{stem}{_DATED_GLOB}")))
     for path in paths:
         for l in _json_loads(path.read_text(encoding="utf-8")):
             listings[l["id"]] = l
@@ -106,7 +108,7 @@ def _update_manifest(stem: str, filenames: set[str]) -> None:
     for name in filenames:
         # extract key from e.g. "apartment_sale_2026-10-06-14.json" or "apartment_sale_2026-10-06.json"
         suffix = name[len(stem) + 1:-5]  # strip "{stem}_" prefix and ".json" suffix
-        if len(suffix) in (10, 13):
+        if len(suffix) in (10, 13, 16):
             existing_dates.add(suffix)
     manifest[stem] = sorted(existing_dates)
     output = _json_dumps(manifest)
@@ -243,7 +245,7 @@ async def scrape_category(page, cfg: dict, transport_stops: list = (), transport
     print(f"\n→ {category}/{deal_type}")
 
     existing, file_map = load_existing(category, deal_type)
-    today_filename = f"{_file_stem(category, deal_type)}_{datetime.now(timezone.utc).strftime('%Y-%m-%d-%H')}.json"
+    today_filename = f"{_file_stem(category, deal_type)}_{datetime.now(timezone.utc).strftime('%Y-%m-%d-%H-%M')}.json"
     cat_id = CATEGORY_IDS[category]
     leased = deal_type == "rental"
 
