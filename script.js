@@ -790,12 +790,13 @@ function pushState() {
   if (priceMax != null)    p.set('pmax',   priceMax);
   if (areaMin  != null)    p.set('amin',   areaMin);
   if (areaMax  != null)    p.set('amax',   areaMax);
-  if (sotMin   != null)    p.set('smin',   sotMin);
-  if (sotMax   != null)    p.set('smax',   sotMax);
+  if (sotMin   != null)    p.set('stmin',  sotMin);
+  if (sotMax   != null)    p.set('stmax',  sotMax);
   if (ppm2Min  != null)    p.set('mmin',   ppm2Min);
   if (ppm2Max  != null)    p.set('mmax',   ppm2Max);
-  if (scoreMin != null)    p.set('smin',   scoreMin);
-  if (scoreMax != null)    p.set('smax',   scoreMax);
+  if (scoreMin != null)    p.set('scrmin', scoreMin);
+  if (scoreMax != null)    p.set('scrmax', scoreMax);
+  if (walkMax  != null)    p.set('wmax',   walkMax);
   if (roomsF.size)         p.set('rooms',  [...roomsF].join(','));
   if (repairF)             p.set('repair', repairF);
   if (agencyF)             p.set('agency', agencyF);
@@ -824,9 +825,10 @@ function restoreFromUrl() {
   const restoreInput = (key, id) => { if (p.has(key)) document.getElementById(id) && (document.getElementById(id).value = p.get(key)); };
   restoreInput('pmin','price-min'); restoreInput('pmax','price-max');
   restoreInput('amin','area-min');  restoreInput('amax','area-max');
-  restoreInput('smin','sot-min');   restoreInput('smax','sot-max');
-  restoreInput('mmin','ppm2-min');  restoreInput('mmax','ppm2-max');
-  restoreInput('smin','score-min'); restoreInput('smax','score-max');
+  restoreInput('stmin','sot-min');   restoreInput('stmax','sot-max');
+  restoreInput('mmin','ppm2-min');   restoreInput('mmax','ppm2-max');
+  restoreInput('scrmin','score-min'); restoreInput('scrmax','score-max');
+  restoreInput('wmax','walk-max');
   if (p.has('rooms')) {
     p.get('rooms').split(',').filter(Boolean).forEach(v => {
       roomsF.add(v);
