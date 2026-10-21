@@ -78,10 +78,9 @@ CATEGORIES = [
     "office_sale",
 ]
 
-# Find the most recent scrape commit so we can diff against its parent (= state before this run).
-# Using hashes[0] (newest today) means runs 2 and 3 only notify about *their* new findings.
+# Find the most recent scrape commit and diff against its parent (= state before this run).
 hashes = subprocess.check_output(
-    ["git", "log", "--format=%H", "--grep=chore: scrape", "--since=midnight"],
+    ["git", "log", "--format=%H", "--grep=chore: scrape", "-1"],
     text=True,
 ).split()
 base = (
