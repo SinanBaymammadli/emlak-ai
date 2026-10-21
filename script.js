@@ -100,7 +100,7 @@ function normName(s) {
 async function loadManifest() {
   if (manifestCache) return manifestCache;
   try {
-    const res = await fetch('data/manifest.json');
+    const res = await fetch(`data/manifest.json?_=${Date.now()}`);
     if (!res.ok) throw new Error(res.status);
     manifestCache = await res.json();
   } catch { manifestCache = {}; }
