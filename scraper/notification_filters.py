@@ -349,8 +349,10 @@ def check_and_notify(
     all_listings: list = (),
     transport_stops: list = (),
     transport_lats: list = (),
-) -> None:
-    for f in filters:
+) -> set[int]:
+    """Returns the set of filter indices that matched and sent a notification."""
+    matched: set[int] = set()
+    for i, f in enumerate(filters):
         if matches(listing, f):
             score = compute_score(listing, list(all_listings)) if all_listings else None
             # Use OSRM for accurate walk time if coordinates and stops are available
@@ -367,6 +369,8 @@ def check_and_notify(
             for key in ("_osrm_walk_min", "_osrm_transport_type", "_osrm_transport_name"):
                 listing.pop(key, None)
             notify_fn(msg)
+            matched.add(i)
+    return matched
 
 
 def check_and_notify_price_change(
@@ -377,8 +381,10 @@ def check_and_notify_price_change(
     all_listings: list = (),
     transport_stops: list = (),
     transport_lats: list = (),
-) -> None:
-    for f in filters:
+) -> set[int]:
+    """Returns the set of filter indices that matched and sent a notification."""
+    matched: set[int] = set()
+    for i, f in enumerate(filters):
         if matches(listing, f):
             score = compute_score(listing, list(all_listings)) if all_listings else None
             if listing.get("lat") and listing.get("lng") and transport_stops:
@@ -393,3 +399,5 @@ def check_and_notify_price_change(
             for key in ("_osrm_walk_min", "_osrm_transport_type", "_osrm_transport_name"):
                 listing.pop(key, None)
             notify_fn(msg)
+            matched.add(i)
+    return matched

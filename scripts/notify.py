@@ -78,14 +78,15 @@ CATEGORIES = [
     "office_sale",
 ]
 
-# Find the oldest scrape commit pushed today so we can diff against its parent
+# Find the most recent scrape commit so we can diff against its parent (= state before this run).
+# Using hashes[0] (newest today) means runs 2 and 3 only notify about *their* new findings.
 hashes = subprocess.check_output(
     ["git", "log", "--format=%H", "--grep=chore: scrape", "--since=midnight"],
     text=True,
 ).split()
 base = (
     subprocess.check_output(
-        ["git", "rev-parse", f"{hashes[-1]}^"], text=True
+        ["git", "rev-parse", f"{hashes[0]}^"], text=True
     ).strip()
     if hashes
     else None
@@ -108,6 +109,9 @@ def load_cat_listings(cat: str) -> list:
     return listings
 
 
+manifest_path = Path("data") / "manifest.json"
+manifest = json.loads(manifest_path.read_text(encoding="utf-8")) if manifest_path.exists() else {}
+
 # ── Summary message ───────────────────────────────────────────────────────────
 
 lines = [f"{icon} <b>emlak-ai scrape complete</b> ({result})\n"]
@@ -119,19 +123,19 @@ for cat in CATEGORIES:
 
         new_count = 0
         if base:
-            try:
-                from datetime import date as _date
-                today_file = f"data/{cat}_{_date.today().isoformat()}.json"
-                old_raw = subprocess.check_output(
-                    ["git", "show", f"{base}:{today_file}"],
-                    text=True,
-                    stderr=subprocess.DEVNULL,
-                )
-                new_count = len(ids - active_ids(json.loads(old_raw)))
-            except subprocess.CalledProcessError:
-                today_path = Path("data") / f"{cat}_{_date.today().isoformat()}.json"
-                if today_path.exists():
-                    new_count = len(active_ids(json.loads(today_path.read_text(encoding="utf-8"))))
+            base_ids: set[str] = set()
+            for d in manifest.get(cat, []):
+                try:
+                    old_raw = subprocess.check_output(
+                        ["git", "show", f"{base}:data/{cat}_{d}.json"],
+                        text=True, stderr=subprocess.DEVNULL,
+                    )
+                    base_ids.update(
+                        l["id"] for l in json.loads(old_raw) if not l.get("deleted_at")
+                    )
+                except subprocess.CalledProcessError:
+                    pass
+            new_count = len(ids - base_ids)
 
         new_str = f"  <b>+{new_count} new</b>" if new_count else ""
         fail_str = "  ❌ <b>FAILED</b>" if cat in failed_categories else ""
@@ -156,8 +160,8 @@ if not filters:
     raise SystemExit(0)
 
 stops, lats = _transport.load_and_build(Path("data"))
-manifest_path = Path("data") / "manifest.json"
-manifest = json.loads(manifest_path.read_text(encoding="utf-8")) if manifest_path.exists() else {}
+
+matched_filter_indices: set[int] = set()
 
 for cat in CATEGORIES:
     try:
@@ -181,7 +185,7 @@ for cat in CATEGORIES:
 
         # New listings
         for lid in set(active) - set(base_by_id):
-            check_and_notify(active[lid], filters, send_tg, all_active, stops, lats)
+            matched_filter_indices |= check_and_notify(active[lid], filters, send_tg, all_active, stops, lats)
 
         # Price-changed listings
         for lid, listing in active.items():
@@ -196,9 +200,14 @@ for cat in CATEGORIES:
             curr_price = curr_arr[-1]["price"] if isinstance(curr_arr[-1], dict) else curr_arr[-1]
             base_price = base_arr[-1]["price"] if isinstance(base_arr[-1], dict) else base_arr[-1]
             if curr_price != base_price:
-                check_and_notify_price_change(listing, base_price, filters, send_tg, all_active, stops, lats)
+                matched_filter_indices |= check_and_notify_price_change(listing, base_price, filters, send_tg, all_active, stops, lats)
 
     except Exception as exc:
         print(f"  {cat} filter notification error: {exc}")
+
+for i, f in enumerate(filters):
+    if i not in matched_filter_indices:
+        name = f.get("name") or f"Filter {i + 1}"
+        send_tg(f"🔕 <b>{name}</b>: no new or price-changed listings this run")
 
 print("Filter notifications done")
