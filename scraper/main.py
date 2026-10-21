@@ -26,7 +26,6 @@ from scraper.browser import (
 )
 from scraper.categories import CATEGORIES
 from scraper import transport as _transport
-from scraper import notification_filters as _filters
 
 load_dotenv()
 
@@ -240,7 +239,7 @@ def upsert(existing: dict[str, dict], listing: dict) -> str:
 
 # ── Scrape category ───────────────────────────────────────────────────────────
 
-async def scrape_category(page, cfg: dict, transport_stops: list = (), transport_lats: list = (), active_filters: list = ()) -> None:
+async def scrape_category(page, cfg: dict, transport_stops: list = (), transport_lats: list = ()) -> None:
     category = cfg["category"]
     deal_type = cfg["deal_type"]
     print(f"\n→ {category}/{deal_type}")
@@ -345,9 +344,6 @@ async def scrape_category(page, cfg: dict, transport_stops: list = (), transport
                     r["area_m2"] = gql["area_m2_gql"]
                 if transport_stops and r.get("lat") and r.get("lng"):
                     _transport.enrich(r, transport_stops, transport_lats)
-                if active_filters:
-                    _filters.check_and_notify(r, active_filters, telegram_notify, existing.values(), transport_stops, transport_lats)
-
     # Deletion detection — only when we fetched every page
     if all_pages_fetched:
         deleted = 0
@@ -358,12 +354,6 @@ async def scrape_category(page, cfg: dict, transport_stops: list = (), transport
                 deleted += 1
         if deleted:
             print(f"  marked {deleted} as deleted")
-
-    if active_filters and price_changed:
-        for id_, old_price in price_changed.items():
-            r = existing.get(id_)
-            if r:
-                _filters.check_and_notify_price_change(r, old_price, active_filters, telegram_notify, existing.values(), transport_stops, transport_lats)
 
     save_listings(category, deal_type, existing, file_map, dirty_ids, today_filename)
     print(
@@ -377,14 +367,13 @@ async def scrape_category(page, cfg: dict, transport_stops: list = (), transport
 async def scrape_category_isolated(
     cfg: dict, sem: asyncio.Semaphore, errors: list,
     transport_stops: list, transport_lats: list,
-    active_filters: list = (),
 ) -> None:
     async with sem:
         try:
             async with open_browser(headless=True) as browser:
                 page = await browser.new_page()
                 await warmup(page)
-                await scrape_category(page, cfg, transport_stops, transport_lats, active_filters)
+                await scrape_category(page, cfg, transport_stops, transport_lats)
         except Exception as exc:
             msg = f"{cfg['category']}/{cfg['deal_type']}: {exc}"
             print(f"  ERROR {msg}")
@@ -403,16 +392,12 @@ async def main(categories: list | None = None) -> None:
     else:
         print("Transport index: transport_stops.json not found, skipping proximity enrichment")
 
-    active_filters = _filters.load_filters(Path("."))
-    if active_filters:
-        print(f"Filters: {len(active_filters)} filter(s) loaded")
-
     print(f"Scraping {len(targets)} categories with concurrency={min(CONCURRENCY, len(targets))}")
     sem = asyncio.Semaphore(min(CONCURRENCY, len(targets)))
 
     await asyncio.gather(
         *[
-            scrape_category_isolated(cfg, sem, errors, _transport_stops, _transport_lats, active_filters)
+            scrape_category_isolated(cfg, sem, errors, _transport_stops, _transport_lats)
             for cfg in targets
         ]
     )
