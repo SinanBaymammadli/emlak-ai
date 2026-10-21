@@ -87,10 +87,8 @@ def load_existing(category: str, deal_type: str) -> tuple[dict[str, dict], dict[
     stem = _file_stem(category, deal_type)
     listings: dict[str, dict] = {}
     file_map: dict[str, str] = {}
-    paths = sorted(
-        set(DATA_DIR.glob(f"{stem}{_DATED_GLOB}"))
-        | set(DATA_DIR.glob(f"{stem}{_DATED_GLOB_LEGACY}"))
-    )
+    paths = sorted(DATA_DIR.glob(f"{stem}{_DATED_GLOB_LEGACY}")) + \
+            sorted(DATA_DIR.glob(f"{stem}{_DATED_GLOB}"))
     for path in paths:
         for l in _json_loads(path.read_text(encoding="utf-8")):
             listings[l["id"]] = l
