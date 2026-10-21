@@ -5,8 +5,14 @@ import webbrowser
 
 PORT = 8000
 
-handler = http.server.SimpleHTTPRequestHandler
-handler.extensions_map.update({".js": "application/javascript"})
+class NoCacheHandler(http.server.SimpleHTTPRequestHandler):
+    extensions_map = {**http.server.SimpleHTTPRequestHandler.extensions_map, ".js": "application/javascript"}
+
+    def end_headers(self):
+        self.send_header("Cache-Control", "no-cache, no-store, must-revalidate")
+        super().end_headers()
+
+handler = NoCacheHandler
 
 with socketserver.TCPServer(("", PORT), handler) as httpd:
     url = f"http://localhost:{PORT}"
