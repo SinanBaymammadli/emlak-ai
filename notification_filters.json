@@ -7,7 +7,8 @@
     "price_max": 250000,
     "land_area_sot_min": 3,
     "has_bill_of_sale": true,
-    "location_contains": ["Albalılıq", "Buzovna", "Maştağa"]
+    "location_contains": ["Albalılıq", "Buzovna", "Maştağa"],
+    "transport_walk_max": 10
   },
   {
     "name": "Land sale — Albalılıq/Buzovna/Maştağa",
@@ -16,6 +17,7 @@
     "price_max": 250000,
     "land_area_sot_min": 3,
     "has_bill_of_sale": true,
-    "location_contains": ["Albalılıq", "Buzovna", "Maştağa"]
+    "location_contains": ["Albalılıq", "Buzovna", "Maştağa"],
+    "transport_walk_max": 10
   }
 ]
