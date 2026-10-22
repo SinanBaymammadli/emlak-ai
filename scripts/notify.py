@@ -11,6 +11,7 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from scraper.notification_filters import (
     check_and_notify,
+    check_and_notify_land_area_change,
     check_and_notify_price_change,
     load_filters,
 )
@@ -200,6 +201,16 @@ for cat in CATEGORIES:
             base_price = base_arr[-1]["price"] if isinstance(base_arr[-1], dict) else base_arr[-1]
             if curr_price != base_price:
                 matched_filter_indices |= check_and_notify_price_change(listing, base_price, filters, send_tg, all_active, stops, lats)
+
+        # Land area changed listings
+        for lid, listing in active.items():
+            base_l = base_by_id.get(lid)
+            if not base_l:
+                continue
+            curr_sot = listing.get("land_area_sot")
+            base_sot = base_l.get("land_area_sot")
+            if curr_sot is not None and base_sot is not None and curr_sot != base_sot:
+                matched_filter_indices |= check_and_notify_land_area_change(listing, base_sot, filters, send_tg, all_active, stops, lats)
 
     except Exception as exc:
         print(f"  {cat} filter notification error: {exc}")

@@ -202,7 +202,6 @@ def upsert(existing: dict[str, dict], listing: dict) -> str:
             **listing,
             "lat": None,
             "lng": None,
-            "land_area_sot": None,
             "building_type": None,
             "title": None,
             "description": None,
@@ -222,6 +221,10 @@ def upsert(existing: dict[str, dict], listing: dict) -> str:
     for field in _ES_FIELDS:
         new_val = listing.get(field)
         if new_val is not None and record.get(field) != new_val:
+            if field == "land_area_sot" and record.get("land_area_sot") is not None:
+                hist = record.get("land_area_sot_history") or []
+                hist.append({"sot": new_val, "date": now})
+                record["land_area_sot_history"] = hist
             record[field] = new_val
             changed = True
 
@@ -339,8 +342,16 @@ async def scrape_category(page, cfg: dict, transport_stops: list = (), transport
                 }.items():
                     if val is not None:
                         r[key] = val
-                if gql.get("area_m2_gql") and not r.get("area_m2"):
-                    r["area_m2"] = gql["area_m2_gql"]
+                if gql.get("area_m2_gql"):
+                    if r.get("category") == "land":
+                        if not r.get("land_area_sot"):
+                            r["land_area_sot"] = gql["area_m2_gql"]
+                    elif not r.get("area_m2"):
+                        r["area_m2"] = gql["area_m2_gql"]
+                # Initialise land area history for new land listings
+                if r.get("category") == "land" and r.get("land_area_sot") is not None:
+                    if not r.get("land_area_sot_history"):
+                        r["land_area_sot_history"] = [{"sot": r["land_area_sot"], "date": _now()}]
                 if transport_stops and r.get("lat") and r.get("lng"):
                     _transport.enrich(r, transport_stops, transport_lats)
     # Deletion detection — only when we fetched every page

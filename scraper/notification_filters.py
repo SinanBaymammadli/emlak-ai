@@ -331,6 +331,78 @@ def format_price_change_message(listing: dict, old_price: int, score: int | None
     return "\n".join(lines)
 
 
+def format_land_area_change_message(listing: dict, old_sot: float, score: int | None = None) -> str:
+    new_sot = listing.get("land_area_sot")
+    diff = new_sot - old_sot
+    arrow = "📈" if diff > 0 else "📉"
+
+    detail_parts = list(filter(None, [listing.get("location")]))
+    price = _current_price(listing)
+    if price:
+        deal = listing.get("deal_type", "")
+        currency = "AZN/ay" if deal == "rental" else "AZN"
+        detail_parts.append(f"{price:,} {currency}")
+    lat, lng = listing.get("lat"), listing.get("lng")
+    gmaps = f"https://www.google.com/maps?q={lat},{lng}" if lat and lng else ""
+
+    lines = [
+        listing["url"],
+        f'{arrow} <b>Land area change: {old_sot} → {new_sot} sot ({diff:+.1f})</b>',
+        f'📍 {" · ".join(detail_parts)}' if detail_parts else "",
+    ]
+    lines = [l for l in lines if l]
+
+    unit = _unit_prices(listing)
+    if unit:
+        lines.append(f'💰 {unit}')
+
+    bus_name = listing.get("_osrm_transport_name") or listing.get("nearest_transport_name")
+    bus_min = listing.get("_osrm_walk_min") if "_osrm_walk_min" in listing else listing.get("walk_min_to_transport")
+    transport_type = listing.get("_osrm_transport_type") or listing.get("nearest_transport_type", "bus")
+    if bus_name and bus_min is not None:
+        icon = "🚇" if transport_type == "metro" else "🚆" if transport_type == "train" else "🚌"
+        lines.append(f'{icon} {bus_name} ({bus_min:.0f} dəq piyada)')
+
+    label = _score_label(score)
+    if label:
+        lines.append(label)
+
+    if gmaps:
+        lines.append(f'📌 <a href="{gmaps}">Google Maps</a>')
+
+    return "\n".join(lines)
+
+
+def check_and_notify_land_area_change(
+    listing: dict,
+    old_sot: float,
+    filters: list[dict],
+    notify_fn: Any,
+    all_listings: list = (),
+    transport_stops: list = (),
+    transport_lats: list = (),
+) -> set[int]:
+    """Returns the set of filter indices that matched and sent a notification."""
+    matched: set[int] = set()
+    for i, f in enumerate(filters):
+        if matches(listing, f):
+            score = compute_score(listing, list(all_listings)) if all_listings else None
+            if listing.get("lat") and listing.get("lng") and transport_stops:
+                osrm = _transport.osrm_nearest_walk(
+                    listing["lat"], listing["lng"], transport_stops, transport_lats
+                )
+                if osrm:
+                    listing["_osrm_walk_min"] = osrm["walk_min"]
+                    listing["_osrm_transport_type"] = osrm["transport_type"]
+                    listing["_osrm_transport_name"] = osrm["transport_name"]
+            msg = format_land_area_change_message(listing, old_sot, score)
+            for key in ("_osrm_walk_min", "_osrm_transport_type", "_osrm_transport_name"):
+                listing.pop(key, None)
+            notify_fn(msg)
+            matched.add(i)
+    return matched
+
+
 def load_filters(root: Path) -> list[dict]:
     path = root / "notification_filters.json"
     if not path.exists():
